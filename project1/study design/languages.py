@@ -2,33 +2,33 @@ LANGUAGES = {
   'python': {
     'name': 'Python',
     'extensions': [
-      'py',
+      '.py',
     ],
   },
   'ruby': {
     'name': 'Ruby',
     'extensions': [
-      'rb',
+      '.rb',
     ],
   },
   'rust': {
     'name': 'Rust',
     'extensions': [
-      'rs',
+      '.rs',
     ],
   },
   'c': {
     'name': 'C',
     'extensions': [
-      'c',
-      'h',
+      '.c',
+      '.h',
     ],
   },
   'c++': {
     'name': 'C++',
     'extensions': [
-      'cpp',
-      'hpp',
+      '.cpp',
+      '.hpp',
     ],
   },
 }
