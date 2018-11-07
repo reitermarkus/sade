@@ -10,6 +10,7 @@ class Repo:
   def __init__(self, user, repo, language = None, extensions = []):
     self.user = user
     self.repo = repo
+    self.name = f'{user}/{repo}'
     self.language = language
     self.extensions = extensions
     self.path = f'{CACHE_DIR}/{self.user}/{self.repo}'
