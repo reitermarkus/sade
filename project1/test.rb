@@ -2,8 +2,10 @@
 class Klass
   # Method Comment
   def initialize(var)
-    return if @var.nil?
+    return if var.nil?
 
-    @var = var
+    @var = [
+      'var',
+    ]
   end
 end
