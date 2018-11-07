@@ -1,18 +1,18 @@
-#!/usr/bin/env python3
-
 import os
 import urllib.request
 import tarfile
 import shutil
-import time
+import glob
 
 CACHE_DIR = 'cache'
 
 class Repo:
-  def __init__(self, user, repo, extensions = []):
+  def __init__(self, user, repo, language = None, extensions = []):
     self.user = user
     self.repo = repo
+    self.language = language
     self.extensions = extensions
+    self.path = f'{CACHE_DIR}/{self.user}/{self.repo}'
 
   def download(self):
     if not os.path.isdir(f'{CACHE_DIR}/{self.user}'):
@@ -43,10 +43,15 @@ class Repo:
       tar.extractall(f'{CACHE_DIR}/{self.user}', members = self.relevant_files(tar))
       os.rename(f'{CACHE_DIR}/{self.user}/{self.repo}-master', f'{CACHE_DIR}/{self.user}/{self.repo}')
 
+    self.files = [f for f in glob.glob(f'{CACHE_DIR}/{self.user}/{self.repo}/**/*') if os.path.isfile(f)]
+
     return self
 
   def close(self):
     shutil.rmtree(f'{CACHE_DIR}/{self.user}/{self.repo}')
+
+    self.files = None
+
     return self
 
   def __enter__(self):
@@ -57,6 +62,3 @@ class Repo:
   def __exit__(self, *args):
     self.close()
     return self
-
-with Repo('reitermarkus', 'sade', extensions = ['.py', '.ipynb']) as repo:
-  time.sleep(5)
