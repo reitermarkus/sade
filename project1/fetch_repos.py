@@ -1,7 +1,11 @@
-from github import Github, GithubException, BadCredentialsException
-import os
-import time
+from github import Github, GithubException
 from datetime import datetime
+from languages import LANGUAGES
+from repo import Repo
+import numpy as np
+import os
+import pygount
+import time
 
 
 access_token = os.environ['GITHUB_API_TOKEN']
@@ -24,30 +28,38 @@ def check_rate_limit(lower_limit=10):
     time.sleep(sleep_time)
 
 
-def repo_details(repo):
+def analyze(r):
   check_rate_limit()
 
-  return {
-      'user': repo.owner.login,
-      'repo': repo.full_name,
-      'language': repo.language,
-      'stars': repo.stargazers_count,
-      'forks': repo.forks,
-      'watchers': repo.watchers,
-      'url': repo.url
-  }
+  extensions = [LANGUAGES[lang]['extensions'] for lang in LANGUAGES if LANGUAGES[lang]['name'] == r.language][0]
+
+  with Repo(r.owner.login, r.name, r.language, extensions) as repo:
+    analysis = [pygount.source_analysis(file, repo.language) for file in repo.files]
+    analysis = [a for a in analysis if a.state == 'analyzed']
+
+    analysis = [
+      np.array([a.code + a.string, a.documentation, a.empty])
+      for a in analysis
+    ]
+
+    info = {
+      'repo': repo.repo,
+      'language': repo.language
+    }
+
+    info['code'], info['documentation'], info['empty'] = tuple(sum(analysis))
+
+    print(info)
 
 
 def search(language, stars, forks, sort_by, order):
-  repos = user.search_repositories(f'language:{language}', sort_by, order, stars=stars, forks=forks)
-  return [repo_details(repo) for repo in repos]
+  repos = user.search_repositories(f'language:{language}', sort_by, order, stars=stars, forks=forks, created=">=2018-11-01")
+  return [analyze(repo) for repo in repos]
 
 
 if __name__ == '__main__':
   try:
-    repos = search('python', '>=100', '>=10', 'stars', 'desc')
-  except BadCredentialsException as e:
-    print(e)
+    [search(LANGUAGES[language]['name'], '>=10', '>=10', 'stars', 'desc') for language in LANGUAGES]
   except GithubException as e:
     print(e)
   except KeyboardInterrupt as e:
