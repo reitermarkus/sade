@@ -7,12 +7,13 @@ import glob
 CACHE_DIR = 'cache'
 
 class Repo:
-  def __init__(self, user, repo, language = None, extensions = []):
+  def __init__(self, user, repo, default_branch = 'master', language = None, extensions = []):
     self.user = user
     self.repo = repo
     self.name = f'{user}/{repo}'
     self.language = language
     self.extensions = extensions
+    self.default_branch = default_branch
     self.path = f'{CACHE_DIR}/{self.user}/{self.repo}'
 
   def download(self):
@@ -26,7 +27,7 @@ class Repo:
       return self
 
     print(f'Downloading {self.user}/{self.repo} …')
-    urllib.request.urlretrieve(f'https://github.com/{self.user}/{self.repo}/archive/master.tar.gz', file)
+    urllib.request.urlretrieve(f'https://github.com/{self.user}/{self.repo}/archive/{self.default_branch}.tar.gz', file)
 
     return self
 
@@ -42,7 +43,11 @@ class Repo:
 
     with tarfile.open(f'{CACHE_DIR}/{self.user}/{self.repo}.tgz') as tar:
       tar.extractall(f'{CACHE_DIR}/{self.user}', members = self.relevant_files(tar))
-      os.rename(f'{CACHE_DIR}/{self.user}/{self.repo}-master', f'{CACHE_DIR}/{self.user}/{self.repo}')
+
+      if os.path.isdir(f'{CACHE_DIR}/{self.user}/{self.repo}-master'):
+        os.rename(f'{CACHE_DIR}/{self.user}/{self.repo}-master', f'{CACHE_DIR}/{self.user}/{self.repo}')
+      else:
+        os.makedirs(f'{CACHE_DIR}/{self.user}/{self.repo}')
 
     self.files = [f for f in glob.glob(f'{CACHE_DIR}/{self.user}/{self.repo}/**/*') if os.path.isfile(f)]
 
