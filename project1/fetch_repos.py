@@ -11,6 +11,9 @@ import time
 access_token = os.environ['GITHUB_API_TOKEN']
 user = Github(access_token)
 
+MIN_LOC = 100
+loc_counter = 0
+min_loc_reached_languages = []
 
 def check_rate_limit(lower_limit=10):
   rate_limit = user.get_rate_limit()
@@ -28,12 +31,22 @@ def check_rate_limit(lower_limit=10):
     time.sleep(sleep_time)
 
 
+def check_loc_counter(language, locs_to_add):
+  global loc_counter
+  loc_counter += locs_to_add
+
+  if loc_counter >= MIN_LOC:
+      min_loc_reached_languages.append(language)
+
+
 def analyze(r):
   check_rate_limit()
-
   extensions = [LANGUAGES[lang]['extensions'] for lang in LANGUAGES if LANGUAGES[lang]['name'] == r.language][0]
 
   with Repo(r.owner.login, r.name, r.language, extensions) as repo:
+    if (r.language in min_loc_reached_languages):
+      return
+
     analysis = [pygount.source_analysis(file, repo.language) for file in repo.files]
     analysis = [a for a in analysis if a.state == 'analyzed']
 
@@ -49,6 +62,8 @@ def analyze(r):
 
     info['code'], info['documentation'], info['empty'] = tuple(sum(analysis))
 
+    check_loc_counter(r.language, sum(sum(analysis)))
+    
     print(info)
 
 
@@ -59,7 +74,9 @@ def search(language, stars, forks, sort_by, order):
 
 if __name__ == '__main__':
   try:
-    [search(LANGUAGES[language]['name'], '>=10', '>=10', 'stars', 'desc') for language in LANGUAGES]
+    for lang in LANGUAGES:
+      search(LANGUAGES[lang]['name'], '>=10', '>=10', 'stars', 'desc')
+      loc_counter = 0
   except GithubException as e:
     print(e)
   except KeyboardInterrupt as e:
