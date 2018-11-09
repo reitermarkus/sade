@@ -38,7 +38,7 @@ def check_loc_counter(language, locs_to_add):
   if loc_counter >= MIN_LOC:
       min_loc_reached_languages.append(language)
 
-def analyze(r):
+def analyze(r, language):
   if (r.language in min_loc_reached_languages):
     return
 
@@ -53,7 +53,7 @@ def analyze(r):
 
   check_rate_limit()
 
-  extensions = [LANGUAGES[lang]['extensions'] for lang in LANGUAGES if LANGUAGES[lang]['name'] == r.language][0]
+  extensions = LANGUAGES[language]['extensions']
 
   with Repo(r.owner.login, r.name, default_branch = r.default_branch, language = r.language, extensions = extensions) as repo:
     analysis = [pygount.source_analysis(file, repo.language) for file in repo.files]
@@ -75,7 +75,7 @@ def analyze(r):
 
 def search(language):
   repos = user.search_repositories(f'language:{language}', 'stars', 'desc', stars = '>=100', forks = '>=10')
-  return [analyze(repo) for repo in repos]
+  return [analyze(repo, language) for repo in repos]
 
 if __name__ == '__main__':
   try:
