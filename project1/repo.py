@@ -4,7 +4,7 @@ import tarfile
 import shutil
 import glob
 
-CACHE_DIR = 'cache'
+CACHE_DIR = os.path.expanduser('~/.cache/github_repo_cache')
 
 class Repo:
   def __init__(self, user, repo, default_branch = 'master', language = None, extensions = []):
