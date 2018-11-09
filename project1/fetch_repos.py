@@ -43,6 +43,7 @@ def check_loc_counter(language, locs_to_add):
 
 def analyze(r):
   check_rate_limit()
+
   extensions = [LANGUAGES[lang]['extensions'] for lang in LANGUAGES if LANGUAGES[lang]['name'] == r.language][0]
 
   with Repo(r.owner.login, r.name, r.language, extensions) as repo:
