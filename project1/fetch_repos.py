@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from github import Github, GithubException
 from datetime import datetime
 from languages import LANGUAGES
