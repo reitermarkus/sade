@@ -73,7 +73,7 @@ def analyze(repo):
 def search(language):
   while True:
     try:
-      repos = user.search_repositories(f'language:{language}', 'stars', 'desc', created='2018-09-01', stars = '>=10', forks = '>=10')
+      repos = user.search_repositories(f'language:{language}', 'stars', 'desc')
       total = repos.totalCount
       break
     except RateLimitExceededException:
