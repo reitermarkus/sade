@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from github import Github, GithubException
+from github import Github, GithubException, RateLimitExceededException
 from datetime import datetime
 from languages import LANGUAGES
 from repo import Repo
@@ -11,6 +11,7 @@ import time
 
 access_token = os.environ['GITHUB_TOKEN']
 user = Github(access_token)
+user.per_page = 100
 
 MIN_LOC = 1_000_000
 loc_counter = 0
@@ -74,8 +75,28 @@ def analyze(r, language):
     print(repo_info)
 
 def search(language):
-  repos = user.search_repositories(f'language:{language}', 'stars', 'desc', stars = '>=100', forks = '>=10')
-  return [analyze(repo, language) for repo in repos]
+  while True:
+    try:
+      repos = user.search_repositories(f'language:{language}', 'stars', 'desc')
+      total = repos.totalCount
+      break
+    except RateLimitExceededException:
+      check_rate_limit()
+      continue
+
+  repo_list = []
+  i = 0
+
+  while len(repo_list) < total:
+    try:
+      repo_list.extend(repos.get_page(i))
+      print(f'  {len(repo_list)}/{total}')
+      i += 1
+    except RateLimitExceededException:
+      check_rate_limit()
+      continue
+
+  return repo_list
 
 if __name__ == '__main__':
   try:
