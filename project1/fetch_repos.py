@@ -16,11 +16,11 @@ MIN_LOC = 1_000_000
 loc_counter = 0
 min_loc_reached_languages = []
 
-def check_rate_limit(lower_limit = 10):
+def check_rate_limit():
   rate_limit = user.get_rate_limit()
   remaining = rate_limit.search.remaining
 
-  if remaining > lower_limit:
+  if remaining > 0:
     return
 
   reset_time = rate_limit.search.reset
@@ -39,6 +39,8 @@ def check_loc_counter(language, locs_to_add):
       min_loc_reached_languages.append(language)
 
 def analyze(r, language):
+  check_rate_limit()
+
   if (r.language in min_loc_reached_languages):
     return
 
@@ -50,8 +52,6 @@ def analyze(r, language):
     'forks': r.forks_count,
     'default_branch': r.default_branch,
   }
-
-  check_rate_limit()
 
   extensions = LANGUAGES[language]['extensions']
 
