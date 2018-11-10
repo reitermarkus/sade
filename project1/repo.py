@@ -2,7 +2,6 @@ import os
 import urllib.request
 import tarfile
 import shutil
-import glob
 
 CACHE_DIR = os.path.expanduser('~/.cache/github_repo_cache')
 
@@ -49,7 +48,11 @@ class Repo:
       else:
         os.makedirs(f'{CACHE_DIR}/{self.owner}/{self.repo}')
 
-    self.files = [f for f in glob.glob(f'{CACHE_DIR}/{self.owner}/{self.repo}/**/*') if os.path.isfile(f)]
+    self.files = [
+      f'{directory}/{f}'
+      for directory, subdirs, files in os.walk(f'{CACHE_DIR}/{self.owner}/{self.repo}')
+      for f in files
+    ]
 
     return self
 
