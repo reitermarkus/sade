@@ -44,8 +44,8 @@ class Repo:
     with tarfile.open(f'{CACHE_DIR}/{self.owner}/{self.repo}.tgz') as tar:
       tar.extractall(f'{CACHE_DIR}/{self.owner}', members = self.relevant_files(tar))
 
-      if os.path.isdir(f'{CACHE_DIR}/{self.owner}/{self.repo}-{self.default_repo}'):
-        os.rename(f'{CACHE_DIR}/{self.owner}/{self.repo}-{self.default_repo}', f'{CACHE_DIR}/{self.owner}/{self.repo}')
+      if os.path.isdir(f'{CACHE_DIR}/{self.owner}/{self.repo}-{self.default_branch}'):
+        os.rename(f'{CACHE_DIR}/{self.owner}/{self.repo}-{self.default_branch}', f'{CACHE_DIR}/{self.owner}/{self.repo}')
       else:
         os.makedirs(f'{CACHE_DIR}/{self.owner}/{self.repo}')
 
