@@ -31,4 +31,30 @@ LANGUAGES = {
       '.hpp',
     ],
   },
+  'java': {
+    'nama': 'Java',
+    'extensions': [
+      '.java',
+    ]
+  },
+  'kotlin': {
+    'nama': 'Kotlin',
+    'extensions': [
+      '.kt',
+    ]
+  },
+  'haskell': {
+    'nama': 'Haskell',
+    'extensions': [
+      '.hs',
+      '.lhs',
+    ]
+  },
+  'ocaml': {
+    'nama': 'OCaml',
+    'extensions': [
+      '.ml',
+      '.mli',
+    ]
+  },
 }
