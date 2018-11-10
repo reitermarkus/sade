@@ -28,7 +28,7 @@ def check_rate_limit():
   now = datetime.utcnow()
 
   if now < reset_time:
-    sleep_time = (now - reset_time).total_seconds()
+    sleep_time = (reset_time - now).total_seconds()
     print(f'Waiting {sleep_time} seconds for rate limit reset.')
     time.sleep(sleep_time)
 
