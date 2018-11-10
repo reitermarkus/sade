@@ -5,6 +5,7 @@ from datetime import datetime
 from languages import LANGUAGES
 from repo import Repo
 import numpy as np
+import json
 import os
 import pygount
 import time
@@ -16,6 +17,12 @@ user.per_page = 100
 MIN_LOC = 1_000_000
 loc_counter = 0
 min_loc_reached_languages = []
+
+repo_data = []
+repos_path = 'data/repos'
+
+if not os.path.exists(repos_path):
+    os.makedirs(repos_path)
 
 def check_rate_limit():
   rate_limit = user.get_rate_limit()
@@ -38,6 +45,18 @@ def check_loc_counter(language, locs_to_add):
 
   if loc_counter >= MIN_LOC:
       min_loc_reached_languages.append(language)
+
+def write_to_json(repo_data, language):
+  path = f'{repos_path}/{language}.json'
+
+  if not os.path.exists(path):
+    with open(path, mode='w', encoding='utf-8') as f:
+      f.write('[]')
+
+  with open(path, mode='w+', encoding='utf-8') as f:
+    json.dump(repo_data, f, sort_keys = True, indent = 2)
+
+  repo_data = []
 
 def analyze(r, language):
   check_rate_limit()
