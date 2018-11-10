@@ -14,15 +14,13 @@ access_token = os.environ['GITHUB_TOKEN']
 user = Github(access_token)
 user.per_page = 100
 
+BLACKLIST = [
+  'deepfakes/faceswap' # Can only be downloaded when logged into GitHub.
+]
+
 MIN_LOC = 1_000_000
-loc_counter = 0
-min_loc_reached_languages = []
 
-repo_data = []
-repos_path = 'data/repos'
-
-if not os.path.exists(repos_path):
-    os.makedirs(repos_path)
+REPOS_PATH = 'data/repos'
 
 def check_rate_limit():
   rate_limit = user.get_rate_limit()
@@ -39,15 +37,11 @@ def check_rate_limit():
     print(f'Waiting {sleep_time} seconds for rate limit reset.')
     time.sleep(sleep_time)
 
-def check_loc_counter(language, locs_to_add):
-  global loc_counter
-  loc_counter += locs_to_add
-
-  if loc_counter >= MIN_LOC:
-      min_loc_reached_languages.append(language)
-
 def write_to_json(repo_data, language):
-  path = f'{repos_path}/{language}.json'
+  if not os.path.isdir(REPOS_PATH):
+    os.makedirs(REPOS_PATH)
+
+  path = f'{REPOS_PATH}/{language}.json'
 
   if not os.path.exists(path):
     with open(path, mode='w', encoding='utf-8') as f:
@@ -56,27 +50,11 @@ def write_to_json(repo_data, language):
   with open(path, mode='w+', encoding='utf-8') as f:
     json.dump(repo_data, f, sort_keys = True, indent = 2)
 
-  repo_data = []
+def analyze(repo):
+  extensions = LANGUAGES[repo['language']]['extensions']
 
-def analyze(r, language):
-  check_rate_limit()
-
-  if (r.language in min_loc_reached_languages):
-    return
-
-  repo_info = {
-    'owner': r.owner.login,
-    'name': r.name,
-    'language': r.language,
-    'stars': r.stargazers_count,
-    'forks': r.forks_count,
-    'default_branch': r.default_branch,
-  }
-
-  extensions = LANGUAGES[language]['extensions']
-
-  with Repo(r.owner.login, r.name, default_branch = r.default_branch, language = r.language, extensions = extensions) as repo:
-    analysis = [pygount.source_analysis(file, repo.language) for file in repo.files]
+  with Repo(repo['owner'], repo['name'], default_branch = repo['default_branch'], language = repo['language'], extensions = extensions) as r:
+    analysis = [pygount.source_analysis(file, repo['language']) for file in r.files]
     analysis = [a for a in analysis if a.state == 'analyzed']
 
     if analysis:
@@ -87,11 +65,9 @@ def analyze(r, language):
     else:
       analysis = [np.array([0, 0, 0])]
 
-    repo_info['code'], repo_info['documentation'], repo_info['empty'] = tuple(sum(analysis))
+    repo['code'], repo['documentation'], repo['empty'] = tuple(sum(analysis))
 
-    check_loc_counter(r.language, sum(sum(analysis)))
-
-    print(repo_info)
+  return repo
 
 def search(language):
   while True:
@@ -108,12 +84,24 @@ def search(language):
 
   while len(repo_list) < total:
     try:
-      repo_list.extend(repos.get_page(i))
+      repo_list.extend([
+        {
+          'owner': r.owner.login,
+          'name': r.name,
+          'language': language,
+          'stars': r.stargazers_count,
+          'forks': r.forks_count,
+          'default_branch': r.default_branch,
+        }
+        for r in repos.get_page(i)
+      ])
       print(f'  {len(repo_list)}/{total}')
       i += 1
     except RateLimitExceededException:
       check_rate_limit()
       continue
+
+  repo_list = [repo for repo in repo_list if not f"{repo['owner']}/{repo['name']}" in BLACKLIST]
 
   return repo_list
 
@@ -121,9 +109,24 @@ if __name__ == '__main__':
   try:
     for language in LANGUAGES:
       print(f'Searching {language}:')
-      search(language)
-      loc_counter = 0
-  except GithubException as e:
-    print(e)
+      repos = search(language)
+
+      analyzed_repos = []
+      loc = 0
+
+      i = 0
+
+      for repo in repos:
+        analysis = analyze(repo)
+
+        analyzed_repos.append(analysis)
+        loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
+
+        i += 1
+
+        print(f'{loc} LOC ({i}/{len(repos)})')
+
+        if loc >= MIN_LOC:
+          break
   except KeyboardInterrupt as e:
     print('Search cancelled.')
