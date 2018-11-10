@@ -65,14 +65,15 @@ def analyze(repo):
     else:
       analysis = [np.array([0, 0, 0])]
 
-    repo['code'], repo['documentation'], repo['empty'] = tuple(sum(analysis))
-
+    repo['code'] = int(tuple(sum(analysis))[0])
+    repo['documentation'] = int(tuple(sum(analysis))[1])
+    repo['empty'] = int(tuple(sum(analysis))[2])
   return repo
 
 def search(language):
   while True:
     try:
-      repos = user.search_repositories(f'language:{language}', 'stars', 'desc')
+      repos = user.search_repositories(f'language:{language}', 'stars', 'desc', created='2018-09-01', stars = '>=10', forks = '>=10')
       total = repos.totalCount
       break
     except RateLimitExceededException:
@@ -118,7 +119,7 @@ if __name__ == '__main__':
 
       for repo in repos:
         analysis = analyze(repo)
-
+        
         analyzed_repos.append(analysis)
         loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
 
@@ -128,5 +129,7 @@ if __name__ == '__main__':
 
         if loc >= MIN_LOC:
           break
+
+      write_to_json(analyzed_repos, language)
   except KeyboardInterrupt as e:
     print('Search cancelled.')
