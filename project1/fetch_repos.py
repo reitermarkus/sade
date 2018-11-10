@@ -65,9 +65,10 @@ def analyze(repo):
     else:
       analysis = [np.array([0, 0, 0])]
 
-    repo['code'] = int(tuple(sum(analysis))[0])
-    repo['documentation'] = int(tuple(sum(analysis))[1])
-    repo['empty'] = int(tuple(sum(analysis))[2])
+    analysis_sum = sum(analysis)
+    repo['code'] = int(tuple(analysis_sum)[0])
+    repo['documentation'] = int(tuple(analysis_sum)[1])
+    repo['empty'] = int(tuple(analysis_sum)[2])
   return repo
 
 def search(language):
