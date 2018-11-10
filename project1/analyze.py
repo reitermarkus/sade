@@ -20,5 +20,6 @@ def analyze(repo):
     else:
       analysis = [np.array([0, 0, 0])]
 
-    repo['code'],repo['documentation'], repo['empty'] = tuple(sum(analysis).tolist()) 
+    repo['code'],repo['documentation'], repo['empty'] = tuple(sum(analysis).tolist())
+
   return repo

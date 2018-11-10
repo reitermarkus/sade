@@ -100,7 +100,7 @@ if __name__ == '__main__':
 
       for repo in repos:
         analysis = analyze(repo)
-        
+
         analyzed_repos.append(analysis)
         loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
 
