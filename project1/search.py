@@ -77,6 +77,6 @@ if __name__ == '__main__':
     for language in LANGUAGES:
       print(f"Searching {LANGUAGES[language]['name']}:")
       repos = search(language)
-      write_to_json(SEARCH_PATH, repos, language)
+      write_json(f'{SEARCH_PATH}/{language}.json', repos)
   except KeyboardInterrupt as e:
     print('Search cancelled.')

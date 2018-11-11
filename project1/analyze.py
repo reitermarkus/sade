@@ -3,7 +3,6 @@
 from common import *
 from repo import Repo
 import numpy as np
-import json
 import pygount
 
 MIN_LOC = 10_000
@@ -11,19 +10,26 @@ MIN_LOC = 10_000
 def analyze(repo):
   extensions = LANGUAGES[repo['language']]['extensions']
 
-  with Repo(repo['owner'], repo['name'], default_branch = repo['default_branch'], language = repo['language'], extensions = extensions) as r:
-    analysis = [pygount.source_analysis(file, repo['language'], encoding = 'utf-8') for file in r.files]
-    analysis = [a for a in analysis if a.state == 'analyzed']
+  r = Repo(repo['owner'], repo['name'], default_branch = repo['default_branch'], language = repo['language'], extensions = extensions)
 
-    if analysis:
-      analysis = [
-        np.array([a.code + a.string, a.documentation, a.empty])
-        for a in analysis
-      ]
-    else:
-      analysis = [np.array([0, 0, 0])]
+  json_path = f'{r.path}.json'
 
-    repo['code'],repo['documentation'], repo['empty'] = tuple(sum(analysis).tolist())
+  if os.path.isfile(json_path):
+    repo = read_json(json_path)
+    return repo
+
+  repo['code'], repo['documentation'], repo['empty'] = (0, 0, 0)
+
+  with r:
+    for f in r.files:
+      analysis = pygount.source_analysis(f, repo['language'], encoding = 'utf-8')
+
+      if analysis.state == 'analyzed':
+        repo['code']          += analysis.code + analysis.string
+        repo['documentation'] += analysis.documentation
+        repo['empty']         += analysis.empty
+
+    write_json(json_path, repo)
 
   return repo
 
@@ -31,30 +37,30 @@ if __name__ == '__main__':
   for language in LANGUAGES:
     try:
       print(f'Analyzing {language}:')
-      with open(f'{SEARCH_PATH}/{language}.json', 'r', encoding='utf-8') as f:
-        repos = json.load(f)
 
-        analyzed_repos = []
-        loc = 0
+      repos = read_json(f'{SEARCH_PATH}/{language}.json')
 
-        i = 0
+      analyzed_repos = []
+      loc = 0
 
-        for repo in repos:
-          analysis = analyze(repo)
+      i = 0
 
-          analyzed_repos.append(analysis)
-          loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
+      for repo in repos:
+        analysis = analyze(repo)
 
-          i += 1
+        analyzed_repos.append(analysis)
+        loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
 
-          print(f'{loc} LOC ({i}/{len(repos)})')
+        i += 1
 
-          if loc >= MIN_LOC:
-            break
+        print(f'{loc} LOC ({i}/{len(repos)})')
+
+        if loc >= MIN_LOC:
+          break
+
+      write_json(f'{ANALYSIS_PATH}/{language}.json', analyzed_repos)
     except FileNotFoundError:
       print(f'File not found: {language}.json')
       continue
     except EOFError:
       continue
-
-    write_to_json(ANALYSIS_PATH, analyzed_repos, language)

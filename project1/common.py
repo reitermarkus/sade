@@ -68,15 +68,15 @@ LANGUAGES = {
   },
 }
 
-def write_to_json(directory, repo_data, language):
+def read_json(path):
+  with open(path, 'r', encoding = 'utf-8') as f:
+    return json.load(f)
+
+def write_json(path, data):
+  directory = os.path.dirname(path)
+
   if not os.path.isdir(directory):
     os.makedirs(directory)
 
-  path = f'{directory}/{language}.json'
-
-  if not os.path.exists(path):
-    with open(path, mode='w', encoding='utf-8') as f:
-      f.write('[]')
-
-  with open(path, mode='w+', encoding='utf-8') as f:
-    json.dump(repo_data, f, indent = 2)
+  with open(path, mode = 'w+', encoding = 'utf-8') as f:
+    json.dump(data, f, indent = 2)
