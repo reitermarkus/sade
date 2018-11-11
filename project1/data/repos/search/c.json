@@ -1,0 +1,8002 @@
+[
+  {
+    "owner": "torvalds",
+    "name": "linux",
+    "language": "c",
+    "stars": 65723,
+    "forks": 23914,
+    "default_branch": "master"
+  },
+  {
+    "owner": "netdata",
+    "name": "netdata",
+    "language": "c",
+    "stars": 32816,
+    "forks": 2794,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "redis",
+    "language": "c",
+    "stars": 32691,
+    "forks": 12552,
+    "default_branch": "unstable"
+  },
+  {
+    "owner": "git",
+    "name": "git",
+    "language": "c",
+    "stars": 24865,
+    "forks": 14460,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bilibili",
+    "name": "ijkplayer",
+    "language": "c",
+    "stars": 21111,
+    "forks": 5685,
+    "default_branch": "master"
+  },
+  {
+    "owner": "php",
+    "name": "php-src",
+    "language": "c",
+    "stars": 20326,
+    "forks": 5069,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wg",
+    "name": "wrk",
+    "language": "c",
+    "stars": 18024,
+    "forks": 1457,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SamyPesse",
+    "name": "How-to-Make-a-Computer-Operating-System",
+    "language": "c",
+    "stars": 17593,
+    "forks": 3090,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ggreer",
+    "name": "the_silver_searcher",
+    "language": "c",
+    "stars": 16330,
+    "forks": 994,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kripken",
+    "name": "emscripten",
+    "language": "c",
+    "stars": 15880,
+    "forks": 1862,
+    "default_branch": "incoming"
+  },
+  {
+    "owner": "julycoding",
+    "name": "The-Art-Of-Programming-By-July",
+    "language": "c",
+    "stars": 15428,
+    "forks": 6113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vim",
+    "name": "vim",
+    "language": "c",
+    "stars": 14555,
+    "forks": 1866,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cfenollosa",
+    "name": "os-tutorial",
+    "language": "c",
+    "stars": 13126,
+    "forks": 1283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stedolan",
+    "name": "jq",
+    "language": "c",
+    "stars": 12739,
+    "forks": 724,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FFmpeg",
+    "name": "FFmpeg",
+    "language": "c",
+    "stars": 12734,
+    "forks": 4988,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tmux",
+    "name": "tmux",
+    "language": "c",
+    "stars": 11840,
+    "forks": 829,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vurtun",
+    "name": "nuklear",
+    "language": "c",
+    "stars": 11139,
+    "forks": 806,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swoole",
+    "name": "swoole-src",
+    "language": "c",
+    "stars": 11127,
+    "forks": 2394,
+    "default_branch": "master"
+  },
+  {
+    "owner": "obsproject",
+    "name": "obs-studio",
+    "language": "c",
+    "stars": 11095,
+    "forks": 2413,
+    "default_branch": "master"
+  },
+  {
+    "owner": "curl",
+    "name": "curl",
+    "language": "c",
+    "stars": 11092,
+    "forks": 2637,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libuv",
+    "name": "libuv",
+    "language": "c",
+    "stars": 10798,
+    "forks": 1774,
+    "default_branch": "v1.x"
+  },
+  {
+    "owner": "pjreddie",
+    "name": "darknet",
+    "language": "c",
+    "stars": 10473,
+    "forks": 5630,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Genymobile",
+    "name": "scrcpy",
+    "language": "c",
+    "stars": 8864,
+    "forks": 525,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robertdavidgraham",
+    "name": "masscan",
+    "language": "c",
+    "stars": 8862,
+    "forks": 1484,
+    "default_branch": "master"
+  },
+  {
+    "owner": "commaai",
+    "name": "openpilot",
+    "language": "c",
+    "stars": 8775,
+    "forks": 2123,
+    "default_branch": "devel"
+  },
+  {
+    "owner": "mpv-player",
+    "name": "mpv",
+    "language": "c",
+    "stars": 8702,
+    "forks": 1194,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openssl",
+    "name": "openssl",
+    "language": "c",
+    "stars": 8655,
+    "forks": 3967,
+    "default_branch": "master"
+  },
+  {
+    "owner": "numpy",
+    "name": "numpy",
+    "language": "c",
+    "stars": 8651,
+    "forks": 3114,
+    "default_branch": "master"
+  },
+  {
+    "owner": "radare",
+    "name": "radare2",
+    "language": "c",
+    "stars": 8603,
+    "forks": 1685,
+    "default_branch": "master"
+  },
+  {
+    "owner": "irungentoo",
+    "name": "toxcore",
+    "language": "c",
+    "stars": 8486,
+    "forks": 1146,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter",
+    "name": "twemproxy",
+    "language": "c",
+    "stars": 8475,
+    "forks": 1592,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nothings",
+    "name": "stb",
+    "language": "c",
+    "stars": 8348,
+    "forks": 1822,
+    "default_branch": "master"
+  },
+  {
+    "owner": "memcached",
+    "name": "memcached",
+    "language": "c",
+    "stars": 8293,
+    "forks": 2452,
+    "default_branch": "master"
+  },
+  {
+    "owner": "esp8266",
+    "name": "Arduino",
+    "language": "c",
+    "stars": 8233,
+    "forks": 5623,
+    "default_branch": "master"
+  },
+  {
+    "owner": "torch",
+    "name": "torch7",
+    "language": "c",
+    "stars": 8101,
+    "forks": 2320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "zstd",
+    "language": "c",
+    "stars": 8072,
+    "forks": 724,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "git-up",
+    "name": "GitUp",
+    "language": "c",
+    "stars": 8071,
+    "forks": 505,
+    "default_branch": "master"
+  },
+  {
+    "owner": "h2o",
+    "name": "h2o",
+    "language": "c",
+    "stars": 7928,
+    "forks": 603,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andlabs",
+    "name": "libui",
+    "language": "c",
+    "stars": 7910,
+    "forks": 406,
+    "default_branch": "master"
+  },
+  {
+    "owner": "allinurl",
+    "name": "goaccess",
+    "language": "c",
+    "stars": 7766,
+    "forks": 549,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "tengine",
+    "language": "c",
+    "stars": 7557,
+    "forks": 1917,
+    "default_branch": "master"
+  },
+  {
+    "owner": "octalmage",
+    "name": "robotjs",
+    "language": "c",
+    "stars": 7412,
+    "forks": 415,
+    "default_branch": "master"
+  },
+  {
+    "owner": "micropython",
+    "name": "micropython",
+    "language": "c",
+    "stars": 7375,
+    "forks": 2069,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudwu",
+    "name": "skynet",
+    "language": "c",
+    "stars": 7228,
+    "forks": 2923,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arut",
+    "name": "nginx-rtmp-module",
+    "language": "c",
+    "stars": 7206,
+    "forks": 2107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nginx",
+    "name": "nginx",
+    "language": "c",
+    "stars": 7192,
+    "forks": 2786,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "disque",
+    "language": "c",
+    "stars": 7126,
+    "forks": 506,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phpredis",
+    "name": "phpredis",
+    "language": "c",
+    "stars": 6855,
+    "forks": 1774,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "jonas",
+    "name": "tig",
+    "language": "c",
+    "stars": 6766,
+    "forks": 415,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vk-com",
+    "name": "kphp-kdb",
+    "language": "c",
+    "stars": 6734,
+    "forks": 229,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fogleman",
+    "name": "Craft",
+    "language": "c",
+    "stars": 6729,
+    "forks": 792,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apple",
+    "name": "darwin-xnu",
+    "language": "c",
+    "stars": 6706,
+    "forks": 993,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libgit2",
+    "name": "libgit2",
+    "language": "c",
+    "stars": 6695,
+    "forks": 1696,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gentilkiwi",
+    "name": "mimikatz",
+    "language": "c",
+    "stars": 6642,
+    "forks": 1527,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "brotli",
+    "language": "c",
+    "stars": 6576,
+    "forks": 654,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openresty",
+    "name": "lua-nginx-module",
+    "language": "c",
+    "stars": 6566,
+    "forks": 1436,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "wcdb",
+    "language": "c",
+    "stars": 6534,
+    "forks": 871,
+    "default_branch": "master"
+  },
+  {
+    "owner": "squeaky-pl",
+    "name": "japronto",
+    "language": "c",
+    "stars": 6412,
+    "forks": 410,
+    "default_branch": "master"
+  },
+  {
+    "owner": "liuliu",
+    "name": "ccv",
+    "language": "c",
+    "stars": 6340,
+    "forks": 1631,
+    "default_branch": "unstable"
+  },
+  {
+    "owner": "haiwen",
+    "name": "seafile",
+    "language": "c",
+    "stars": 6320,
+    "forks": 1065,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlecreativelab",
+    "name": "anypixel",
+    "language": "c",
+    "stars": 6265,
+    "forks": 510,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pbatard",
+    "name": "rufus",
+    "language": "c",
+    "stars": 6233,
+    "forks": 757,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jedisct1",
+    "name": "libsodium",
+    "language": "c",
+    "stars": 6164,
+    "forks": 935,
+    "default_branch": "master"
+  },
+  {
+    "owner": "timescale",
+    "name": "timescaledb",
+    "language": "c",
+    "stars": 6081,
+    "forks": 288,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openresty",
+    "name": "openresty",
+    "language": "c",
+    "stars": 5941,
+    "forks": 846,
+    "default_branch": "master"
+  },
+  {
+    "owner": "s-matyukevich",
+    "name": "raspberry-pi-os",
+    "language": "c",
+    "stars": 5755,
+    "forks": 376,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgamblin",
+    "name": "Mirai-Source-Code",
+    "language": "c",
+    "stars": 5444,
+    "forks": 2863,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skywind3000",
+    "name": "kcp",
+    "language": "c",
+    "stars": 5424,
+    "forks": 1138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "deepmind",
+    "name": "lab",
+    "language": "c",
+    "stars": 5422,
+    "forks": 1090,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reactos",
+    "name": "reactos",
+    "language": "c",
+    "stars": 5391,
+    "forks": 465,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kovidgoyal",
+    "name": "kitty",
+    "language": "c",
+    "stars": 5294,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "b4winckler",
+    "name": "macvim",
+    "language": "c",
+    "stars": 5270,
+    "forks": 430,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raspberrypi",
+    "name": "linux",
+    "language": "c",
+    "stars": 5106,
+    "forks": 2614,
+    "default_branch": "rpi-4.14.y"
+  },
+  {
+    "owner": "machyve",
+    "name": "xhyve",
+    "language": "c",
+    "stars": 5089,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SoftEtherVPN",
+    "name": "SoftEtherVPN",
+    "language": "c",
+    "stars": 5078,
+    "forks": 1529,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hashcat",
+    "name": "hashcat",
+    "language": "c",
+    "stars": 5065,
+    "forks": 899,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lionsoul2014",
+    "name": "ip2region",
+    "language": "c",
+    "stars": 5058,
+    "forks": 869,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sdegutis",
+    "name": "mjolnir",
+    "language": "c",
+    "stars": 5014,
+    "forks": 131,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "winfile",
+    "language": "c",
+    "stars": 4968,
+    "forks": 561,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cesanta",
+    "name": "mongoose",
+    "language": "c",
+    "stars": 4937,
+    "forks": 1442,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "ncnn",
+    "language": "c",
+    "stars": 4934,
+    "forks": 1277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nodemcu",
+    "name": "nodemcu-firmware",
+    "language": "c",
+    "stars": 4849,
+    "forks": 2220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "beanstalkd",
+    "name": "beanstalkd",
+    "language": "c",
+    "stars": 4815,
+    "forks": 703,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lpereira",
+    "name": "lwan",
+    "language": "c",
+    "stars": 4811,
+    "forks": 512,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fulldecent",
+    "name": "system-bus-radio",
+    "language": "c",
+    "stars": 4782,
+    "forks": 360,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rswier",
+    "name": "c4",
+    "language": "c",
+    "stars": 4776,
+    "forks": 864,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swaywm",
+    "name": "sway",
+    "language": "c",
+    "stars": 4684,
+    "forks": 333,
+    "default_branch": "master"
+  },
+  {
+    "owner": "macvim-dev",
+    "name": "macvim",
+    "language": "c",
+    "stars": 4684,
+    "forks": 519,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bingoogolapple",
+    "name": "BGAQRCode-Android",
+    "language": "c",
+    "stars": 4588,
+    "forks": 1111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarlinFirmware",
+    "name": "Marlin",
+    "language": "c",
+    "stars": 4520,
+    "forks": 6179,
+    "default_branch": "1.1.x"
+  },
+  {
+    "owner": "postgres",
+    "name": "postgres",
+    "language": "c",
+    "stars": 4490,
+    "forks": 1524,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nanomsg",
+    "name": "nanomsg",
+    "language": "c",
+    "stars": 4391,
+    "forks": 749,
+    "default_branch": "master"
+  },
+  {
+    "owner": "philipl",
+    "name": "pifs",
+    "language": "c",
+    "stars": 4373,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nodejs",
+    "name": "http-parser",
+    "language": "c",
+    "stars": 4337,
+    "forks": 1120,
+    "default_branch": "master"
+  },
+  {
+    "owner": "videolan",
+    "name": "vlc",
+    "language": "c",
+    "stars": 4335,
+    "forks": 1723,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coolwanglu",
+    "name": "vim.js",
+    "language": "c",
+    "stars": 4330,
+    "forks": 264,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vmg",
+    "name": "redcarpet",
+    "language": "c",
+    "stars": 4327,
+    "forks": 486,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rofl0r",
+    "name": "proxychains-ng",
+    "language": "c",
+    "stars": 4326,
+    "forks": 546,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Xfennec",
+    "name": "progress",
+    "language": "c",
+    "stars": 4281,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "matz",
+    "name": "streem",
+    "language": "c",
+    "stars": 4263,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "glfw",
+    "name": "glfw",
+    "language": "c",
+    "stars": 4221,
+    "forks": 1043,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pervognsen",
+    "name": "bitwise",
+    "language": "c",
+    "stars": 4219,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mruby",
+    "name": "mruby",
+    "language": "c",
+    "stars": 4163,
+    "forks": 648,
+    "default_branch": "master"
+  },
+  {
+    "owner": "borgbackup",
+    "name": "borg",
+    "language": "c",
+    "stars": 4160,
+    "forks": 350,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bartobri",
+    "name": "no-more-secrets",
+    "language": "c",
+    "stars": 4149,
+    "forks": 212,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vysheng",
+    "name": "tg",
+    "language": "c",
+    "stars": 4117,
+    "forks": 1205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huangz1990",
+    "name": "redis-3.0-annotated",
+    "language": "c",
+    "stars": 4072,
+    "forks": 1930,
+    "default_branch": "unstable"
+  },
+  {
+    "owner": "google",
+    "name": "ios-webkit-debug-proxy",
+    "language": "c",
+    "stars": 4014,
+    "forks": 344,
+    "default_branch": "master"
+  },
+  {
+    "owner": "id-Software",
+    "name": "Quake-III-Arena",
+    "language": "c",
+    "stars": 3974,
+    "forks": 1101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "kilo",
+    "language": "c",
+    "stars": 3958,
+    "forks": 477,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libevent",
+    "name": "libevent",
+    "language": "c",
+    "stars": 3956,
+    "forks": 1632,
+    "default_branch": "master"
+  },
+  {
+    "owner": "freebsd",
+    "name": "freebsd",
+    "language": "c",
+    "stars": 3925,
+    "forks": 1560,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orangeduck",
+    "name": "Cello",
+    "language": "c",
+    "stars": 3912,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "systemd",
+    "name": "systemd",
+    "language": "c",
+    "stars": 3879,
+    "forks": 1456,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AppImage",
+    "name": "AppImageKit",
+    "language": "c",
+    "stars": 3814,
+    "forks": 249,
+    "default_branch": "appimagetool/master"
+  },
+  {
+    "owner": "offensive-security",
+    "name": "exploitdb",
+    "language": "c",
+    "stars": 3805,
+    "forks": 1085,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ZipArchive",
+    "name": "ZipArchive",
+    "language": "c",
+    "stars": 3759,
+    "forks": 936,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jonls",
+    "name": "redshift",
+    "language": "c",
+    "stars": 3759,
+    "forks": 265,
+    "default_branch": "master"
+  },
+  {
+    "owner": "laruence",
+    "name": "yaf",
+    "language": "c",
+    "stars": 3749,
+    "forks": 1349,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Qihoo360",
+    "name": "Atlas",
+    "language": "c",
+    "stars": 3744,
+    "forks": 1038,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HandBrake",
+    "name": "HandBrake",
+    "language": "c",
+    "stars": 3731,
+    "forks": 444,
+    "default_branch": "master"
+  },
+  {
+    "owner": "i3",
+    "name": "i3",
+    "language": "c",
+    "stars": 3723,
+    "forks": 410,
+    "default_branch": "next"
+  },
+  {
+    "owner": "Tencent",
+    "name": "xLua",
+    "language": "c",
+    "stars": 3722,
+    "forks": 1228,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spacehuhn",
+    "name": "esp8266_deauther",
+    "language": "c",
+    "stars": 3683,
+    "forks": 952,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cinder",
+    "name": "Cinder",
+    "language": "c",
+    "stars": 3663,
+    "forks": 798,
+    "default_branch": "master"
+  },
+  {
+    "owner": "happyfish100",
+    "name": "fastdfs",
+    "language": "c",
+    "stars": 3641,
+    "forks": 1036,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gali8",
+    "name": "Tesseract-OCR-iOS",
+    "language": "c",
+    "stars": 3634,
+    "forks": 810,
+    "default_branch": "master"
+  },
+  {
+    "owner": "id-Software",
+    "name": "DOOM",
+    "language": "c",
+    "stars": 3630,
+    "forks": 696,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fastos",
+    "name": "fastsocket",
+    "language": "c",
+    "stars": 3620,
+    "forks": 739,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hishamhm",
+    "name": "htop",
+    "language": "c",
+    "stars": 3619,
+    "forks": 412,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Provenance-Emu",
+    "name": "Provenance",
+    "language": "c",
+    "stars": 3611,
+    "forks": 496,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "rui314",
+    "name": "8cc",
+    "language": "c",
+    "stars": 3595,
+    "forks": 439,
+    "default_branch": "master"
+  },
+  {
+    "owner": "IAIK",
+    "name": "meltdown",
+    "language": "c",
+    "stars": 3570,
+    "forks": 434,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zfsonlinux",
+    "name": "zfs",
+    "language": "c",
+    "stars": 3569,
+    "forks": 844,
+    "default_branch": "master"
+  },
+  {
+    "owner": "go-vgo",
+    "name": "robotgo",
+    "language": "c",
+    "stars": 3559,
+    "forks": 307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wishstudio",
+    "name": "flinux",
+    "language": "c",
+    "stars": 3550,
+    "forks": 246,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CameraKit",
+    "name": "camerakit-android",
+    "language": "c",
+    "stars": 3549,
+    "forks": 533,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jemalloc",
+    "name": "jemalloc",
+    "language": "c",
+    "stars": 3418,
+    "forks": 676,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "DaveDavenport",
+    "name": "rofi",
+    "language": "c",
+    "stars": 3381,
+    "forks": 196,
+    "default_branch": "next"
+  },
+  {
+    "owner": "redis",
+    "name": "hiredis",
+    "language": "c",
+    "stars": 3377,
+    "forks": 1139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lz4",
+    "name": "lz4",
+    "language": "c",
+    "stars": 3347,
+    "forks": 555,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "joyent",
+    "name": "libuv",
+    "language": "c",
+    "stars": 3346,
+    "forks": 712,
+    "default_branch": "moved"
+  },
+  {
+    "owner": "jerryscript-project",
+    "name": "jerryscript",
+    "language": "c",
+    "stars": 3305,
+    "forks": 388,
+    "default_branch": "master"
+  },
+  {
+    "owner": "awslabs",
+    "name": "s2n",
+    "language": "c",
+    "stars": 3257,
+    "forks": 345,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla",
+    "name": "mozjpeg",
+    "language": "c",
+    "stars": 3228,
+    "forks": 273,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qmk",
+    "name": "qmk_firmware",
+    "language": "c",
+    "stars": 3215,
+    "forks": 6027,
+    "default_branch": "master"
+  },
+  {
+    "owner": "munificent",
+    "name": "wren",
+    "language": "c",
+    "stars": 3200,
+    "forks": 273,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "oss-fuzz",
+    "language": "c",
+    "stars": 3197,
+    "forks": 568,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sqlcipher",
+    "name": "sqlcipher",
+    "language": "c",
+    "stars": 3195,
+    "forks": 764,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenVPN",
+    "name": "openvpn",
+    "language": "c",
+    "stars": 3182,
+    "forks": 1262,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apple",
+    "name": "swift-corelibs-foundation",
+    "language": "c",
+    "stars": 3160,
+    "forks": 766,
+    "default_branch": "master"
+  },
+  {
+    "owner": "visit1985",
+    "name": "mdp",
+    "language": "c",
+    "stars": 3134,
+    "forks": 169,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Meituan-Dianping",
+    "name": "SQLAdvisor",
+    "language": "c",
+    "stars": 3117,
+    "forks": 729,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openwrt",
+    "name": "openwrt",
+    "language": "c",
+    "stars": 3110,
+    "forks": 1904,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rhysd",
+    "name": "vim.wasm",
+    "language": "c",
+    "stars": 3109,
+    "forks": 57,
+    "default_branch": "wasm"
+  },
+  {
+    "owner": "nonstriater",
+    "name": "Learn-Algorithms",
+    "language": "c",
+    "stars": 3082,
+    "forks": 1106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zserge",
+    "name": "webview",
+    "language": "c",
+    "stars": 3064,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sumatrapdfreader",
+    "name": "sumatrapdf",
+    "language": "c",
+    "stars": 3063,
+    "forks": 765,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nelhage",
+    "name": "reptyr",
+    "language": "c",
+    "stars": 3057,
+    "forks": 140,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aquynh",
+    "name": "capstone",
+    "language": "c",
+    "stars": 3054,
+    "forks": 781,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stanfordnlp",
+    "name": "GloVe",
+    "language": "c",
+    "stars": 3052,
+    "forks": 747,
+    "default_branch": "master"
+  },
+  {
+    "owner": "citusdata",
+    "name": "citus",
+    "language": "c",
+    "stars": 3046,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "begeekmyfriend",
+    "name": "yasea",
+    "language": "c",
+    "stars": 3044,
+    "forks": 908,
+    "default_branch": "master"
+  },
+  {
+    "owner": "krakjoe",
+    "name": "pthreads",
+    "language": "c",
+    "stars": 3036,
+    "forks": 469,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clibs",
+    "name": "clib",
+    "language": "c",
+    "stars": 3034,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pocoproject",
+    "name": "poco",
+    "language": "c",
+    "stars": 2982,
+    "forks": 1048,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "upx",
+    "name": "upx",
+    "language": "c",
+    "stars": 2946,
+    "forks": 365,
+    "default_branch": "master"
+  },
+  {
+    "owner": "session-replay-tools",
+    "name": "tcpcopy",
+    "language": "c",
+    "stars": 2946,
+    "forks": 845,
+    "default_branch": "master"
+  },
+  {
+    "owner": "erincatto",
+    "name": "Box2D",
+    "language": "c",
+    "stars": 2944,
+    "forks": 604,
+    "default_branch": "master"
+  },
+  {
+    "owner": "marcobambini",
+    "name": "gravity",
+    "language": "c",
+    "stars": 2937,
+    "forks": 115,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cuber",
+    "name": "ngx_http_google_filter_module",
+    "language": "c",
+    "stars": 2927,
+    "forks": 771,
+    "default_branch": "master"
+  },
+  {
+    "owner": "martanne",
+    "name": "vis",
+    "language": "c",
+    "stars": 2923,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cmus",
+    "name": "cmus",
+    "language": "c",
+    "stars": 2920,
+    "forks": 311,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jp9000",
+    "name": "OBS",
+    "language": "c",
+    "stars": 2919,
+    "forks": 811,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jorisvink",
+    "name": "kore",
+    "language": "c",
+    "stars": 2912,
+    "forks": 263,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mattn",
+    "name": "go-sqlite3",
+    "language": "c",
+    "stars": 2844,
+    "forks": 563,
+    "default_branch": "master"
+  },
+  {
+    "owner": "contiki-os",
+    "name": "contiki",
+    "language": "c",
+    "stars": 2839,
+    "forks": 2298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grbl",
+    "name": "grbl",
+    "language": "c",
+    "stars": 2833,
+    "forks": 1763,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RPISEC",
+    "name": "MBE",
+    "language": "c",
+    "stars": 2830,
+    "forks": 525,
+    "default_branch": "master"
+  },
+  {
+    "owner": "s-macke",
+    "name": "VoxelSpace",
+    "language": "c",
+    "stars": 2816,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JoeDog",
+    "name": "siege",
+    "language": "c",
+    "stars": 2804,
+    "forks": 239,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubinius",
+    "name": "rubinius",
+    "language": "c",
+    "stars": 2802,
+    "forks": 601,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mofarrell",
+    "name": "p2pvc",
+    "language": "c",
+    "stars": 2797,
+    "forks": 229,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenKinect",
+    "name": "libfreenect",
+    "language": "c",
+    "stars": 2794,
+    "forks": 1028,
+    "default_branch": "master"
+  },
+  {
+    "owner": "greenplum-db",
+    "name": "gpdb",
+    "language": "c",
+    "stars": 2788,
+    "forks": 845,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rmtheis",
+    "name": "tess-two",
+    "language": "c",
+    "stars": 2781,
+    "forks": 1144,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shadowsocks",
+    "name": "ChinaDNS",
+    "language": "c",
+    "stars": 2772,
+    "forks": 1285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "dynomite",
+    "language": "c",
+    "stars": 2766,
+    "forks": 358,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "nbs-system",
+    "name": "naxsi",
+    "language": "c",
+    "stars": 2764,
+    "forks": 379,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudius-systems",
+    "name": "osv",
+    "language": "c",
+    "stars": 2762,
+    "forks": 511,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Airblader",
+    "name": "i3",
+    "language": "c",
+    "stars": 2760,
+    "forks": 134,
+    "default_branch": "gaps-next"
+  },
+  {
+    "owner": "memononen",
+    "name": "nanovg",
+    "language": "c",
+    "stars": 2751,
+    "forks": 436,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seclab-ucr",
+    "name": "INTANG",
+    "language": "c",
+    "stars": 2736,
+    "forks": 609,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raspberrypi",
+    "name": "firmware",
+    "language": "c",
+    "stars": 2727,
+    "forks": 1002,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FreeRDP",
+    "name": "FreeRDP",
+    "language": "c",
+    "stars": 2727,
+    "forks": 1192,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "eddystone",
+    "language": "c",
+    "stars": 2722,
+    "forks": 703,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EZLippi",
+    "name": "Tinyhttpd",
+    "language": "c",
+    "stars": 2663,
+    "forks": 1530,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "fishhook",
+    "language": "c",
+    "stars": 2652,
+    "forks": 415,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libretro",
+    "name": "RetroArch",
+    "language": "c",
+    "stars": 2644,
+    "forks": 788,
+    "default_branch": "master"
+  },
+  {
+    "owner": "darlinghq",
+    "name": "darling",
+    "language": "c",
+    "stars": 2639,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tmate-io",
+    "name": "tmate",
+    "language": "c",
+    "stars": 2631,
+    "forks": 133,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hak5darren",
+    "name": "USB-Rubber-Ducky",
+    "language": "c",
+    "stars": 2628,
+    "forks": 862,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shellphish",
+    "name": "how2heap",
+    "language": "c",
+    "stars": 2627,
+    "forks": 578,
+    "default_branch": "master"
+  },
+  {
+    "owner": "justinfrankel",
+    "name": "licecap",
+    "language": "c",
+    "stars": 2615,
+    "forks": 248,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zmap",
+    "name": "zmap",
+    "language": "c",
+    "stars": 2591,
+    "forks": 559,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yarrick",
+    "name": "iodine",
+    "language": "c",
+    "stars": 2589,
+    "forks": 261,
+    "default_branch": "master"
+  },
+  {
+    "owner": "krallin",
+    "name": "tini",
+    "language": "c",
+    "stars": 2573,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mabeijianxi",
+    "name": "small-video-record",
+    "language": "c",
+    "stars": 2569,
+    "forks": 570,
+    "default_branch": "master"
+  },
+  {
+    "owner": "toland",
+    "name": "qlmarkdown",
+    "language": "c",
+    "stars": 2566,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DoubleLabyrinth",
+    "name": "navicat-keygen",
+    "language": "c",
+    "stars": 2560,
+    "forks": 696,
+    "default_branch": "windows"
+  },
+  {
+    "owner": "libvips",
+    "name": "libvips",
+    "language": "c",
+    "stars": 2544,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kornelski",
+    "name": "pngquant",
+    "language": "c",
+    "stars": 2529,
+    "forks": 307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "espressif",
+    "name": "esp-idf",
+    "language": "c",
+    "stars": 2528,
+    "forks": 1348,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhengwenming",
+    "name": "WMPlayer",
+    "language": "c",
+    "stars": 2526,
+    "forks": 640,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vanhoefm",
+    "name": "krackattacks-scripts",
+    "language": "c",
+    "stars": 2522,
+    "forks": 632,
+    "default_branch": "research"
+  },
+  {
+    "owner": "coturn",
+    "name": "coturn",
+    "language": "c",
+    "stars": 2509,
+    "forks": 613,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nmap",
+    "name": "nmap",
+    "language": "c",
+    "stars": 2501,
+    "forks": 913,
+    "default_branch": "master"
+  },
+  {
+    "owner": "espressif",
+    "name": "arduino-esp32",
+    "language": "c",
+    "stars": 2498,
+    "forks": 1183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VirusTotal",
+    "name": "yara",
+    "language": "c",
+    "stars": 2476,
+    "forks": 625,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jakogut",
+    "name": "tinyvm",
+    "language": "c",
+    "stars": 2475,
+    "forks": 203,
+    "default_branch": "master"
+  },
+  {
+    "owner": "taviso",
+    "name": "loadlibrary",
+    "language": "c",
+    "stars": 2470,
+    "forks": 175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pgbovine",
+    "name": "OnlinePythonTutor",
+    "language": "c",
+    "stars": 2455,
+    "forks": 577,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dokan-dev",
+    "name": "dokany",
+    "language": "c",
+    "stars": 2449,
+    "forks": 324,
+    "default_branch": "master"
+  },
+  {
+    "owner": "universal-ctags",
+    "name": "ctags",
+    "language": "c",
+    "stars": 2437,
+    "forks": 278,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "Windows-driver-samples",
+    "language": "c",
+    "stars": 2437,
+    "forks": 2451,
+    "default_branch": "master"
+  },
+  {
+    "owner": "edenhill",
+    "name": "librdkafka",
+    "language": "c",
+    "stars": 2426,
+    "forks": 1160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SpiderLabs",
+    "name": "ModSecurity",
+    "language": "c",
+    "stars": 2423,
+    "forks": 763,
+    "default_branch": "v2/master"
+  },
+  {
+    "owner": "P-H-C",
+    "name": "phc-winner-argon2",
+    "language": "c",
+    "stars": 2418,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tj",
+    "name": "luna",
+    "language": "c",
+    "stars": 2409,
+    "forks": 152,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jpmens",
+    "name": "jo",
+    "language": "c",
+    "stars": 2401,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tmk",
+    "name": "tmk_keyboard",
+    "language": "c",
+    "stars": 2398,
+    "forks": 1358,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mossmann",
+    "name": "hackrf",
+    "language": "c",
+    "stars": 2397,
+    "forks": 716,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "sds",
+    "language": "c",
+    "stars": 2392,
+    "forks": 238,
+    "default_branch": "master"
+  },
+  {
+    "owner": "klange",
+    "name": "toaruos",
+    "language": "c",
+    "stars": 2366,
+    "forks": 274,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DhavalKapil",
+    "name": "icmptunnel",
+    "language": "c",
+    "stars": 2360,
+    "forks": 249,
+    "default_branch": "master"
+  },
+  {
+    "owner": "buaazp",
+    "name": "zimg",
+    "language": "c",
+    "stars": 2356,
+    "forks": 360,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ossec",
+    "name": "ossec-hids",
+    "language": "c",
+    "stars": 2350,
+    "forks": 691,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lc-soft",
+    "name": "LCUI",
+    "language": "c",
+    "stars": 2348,
+    "forks": 189,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "baskerville",
+    "name": "bspwm",
+    "language": "c",
+    "stars": 2340,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "answer-huang",
+    "name": "dSYMTools",
+    "language": "c",
+    "stars": 2340,
+    "forks": 602,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lxc",
+    "name": "lxc",
+    "language": "c",
+    "stars": 2336,
+    "forks": 742,
+    "default_branch": "master"
+  },
+  {
+    "owner": "minoca",
+    "name": "os",
+    "language": "c",
+    "stars": 2324,
+    "forks": 173,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cundong",
+    "name": "SmartAppUpdates",
+    "language": "c",
+    "stars": 2301,
+    "forks": 797,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cyan4973",
+    "name": "xxHash",
+    "language": "c",
+    "stars": 2299,
+    "forks": 220,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "mit-pdos",
+    "name": "xv6-public",
+    "language": "c",
+    "stars": 2293,
+    "forks": 1144,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huntergregal",
+    "name": "mimipenguin",
+    "language": "c",
+    "stars": 2275,
+    "forks": 454,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abrasive",
+    "name": "shairport",
+    "language": "c",
+    "stars": 2272,
+    "forks": 769,
+    "default_branch": "master"
+  },
+  {
+    "owner": "unbit",
+    "name": "uwsgi",
+    "language": "c",
+    "stars": 2272,
+    "forks": 506,
+    "default_branch": "master"
+  },
+  {
+    "owner": "transmission",
+    "name": "transmission",
+    "language": "c",
+    "stars": 2266,
+    "forks": 405,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vanhauser-thc",
+    "name": "thc-hydra",
+    "language": "c",
+    "stars": 2264,
+    "forks": 678,
+    "default_branch": "master"
+  },
+  {
+    "owner": "attractivechaos",
+    "name": "klib",
+    "language": "c",
+    "stars": 2254,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mpc-hc",
+    "name": "mpc-hc",
+    "language": "c",
+    "stars": 2250,
+    "forks": 745,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "tboox",
+    "name": "tbox",
+    "language": "c",
+    "stars": 2250,
+    "forks": 330,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libimobiledevice",
+    "name": "libimobiledevice",
+    "language": "c",
+    "stars": 2248,
+    "forks": 604,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gcc-mirror",
+    "name": "gcc",
+    "language": "c",
+    "stars": 2244,
+    "forks": 1256,
+    "default_branch": "master"
+  },
+  {
+    "owner": "esnme",
+    "name": "ultrajson",
+    "language": "c",
+    "stars": 2237,
+    "forks": 222,
+    "default_branch": "master"
+  },
+  {
+    "owner": "unicorn-engine",
+    "name": "unicorn",
+    "language": "c",
+    "stars": 2232,
+    "forks": 456,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ImageMagick",
+    "name": "ImageMagick",
+    "language": "c",
+    "stars": 2218,
+    "forks": 425,
+    "default_branch": "master"
+  },
+  {
+    "owner": "slact",
+    "name": "nchan",
+    "language": "c",
+    "stars": 2201,
+    "forks": 226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "darktable-org",
+    "name": "darktable",
+    "language": "c",
+    "stars": 2198,
+    "forks": 509,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DaveGamble",
+    "name": "cJSON",
+    "language": "c",
+    "stars": 2194,
+    "forks": 931,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robotmedia",
+    "name": "RMStore",
+    "language": "c",
+    "stars": 2188,
+    "forks": 385,
+    "default_branch": "master"
+  },
+  {
+    "owner": "id-Software",
+    "name": "Quake",
+    "language": "c",
+    "stars": 2177,
+    "forks": 492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "meetecho",
+    "name": "janus-gateway",
+    "language": "c",
+    "stars": 2169,
+    "forks": 840,
+    "default_branch": "master"
+  },
+  {
+    "owner": "juliocesarfort",
+    "name": "public-pentesting-reports",
+    "language": "c",
+    "stars": 2166,
+    "forks": 648,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ohler55",
+    "name": "oj",
+    "language": "c",
+    "stars": 2160,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "betaflight",
+    "name": "betaflight",
+    "language": "c",
+    "stars": 2160,
+    "forks": 1054,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EyalAr",
+    "name": "lwip",
+    "language": "c",
+    "stars": 2156,
+    "forks": 209,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fontforge",
+    "name": "fontforge",
+    "language": "c",
+    "stars": 2154,
+    "forks": 364,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mridgers",
+    "name": "clink",
+    "language": "c",
+    "stars": 2148,
+    "forks": 200,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lastpass",
+    "name": "lastpass-cli",
+    "language": "c",
+    "stars": 2112,
+    "forks": 173,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookresearch",
+    "name": "darkforestGo",
+    "language": "c",
+    "stars": 2110,
+    "forks": 355,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qemu",
+    "name": "qemu",
+    "language": "c",
+    "stars": 2107,
+    "forks": 1950,
+    "default_branch": "master"
+  },
+  {
+    "owner": "magnumripper",
+    "name": "JohnTheRipper",
+    "language": "c",
+    "stars": 2102,
+    "forks": 539,
+    "default_branch": "bleeding-jumbo"
+  },
+  {
+    "owner": "hashcat",
+    "name": "hashcat-legacy",
+    "language": "c",
+    "stars": 2099,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "collectd",
+    "name": "collectd",
+    "language": "c",
+    "stars": 2092,
+    "forks": 1031,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RIOT-OS",
+    "name": "RIOT",
+    "language": "c",
+    "stars": 2092,
+    "forks": 1172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cstack",
+    "name": "db_tutorial",
+    "language": "c",
+    "stars": 2091,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SecWiki",
+    "name": "windows-kernel-exploits",
+    "language": "c",
+    "stars": 2086,
+    "forks": 987,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "neural-redis",
+    "language": "c",
+    "stars": 2082,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Sunzxyong",
+    "name": "Tiny",
+    "language": "c",
+    "stars": 2073,
+    "forks": 257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nicolasff",
+    "name": "webdis",
+    "language": "c",
+    "stars": 2061,
+    "forks": 237,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "linenoise",
+    "language": "c",
+    "stars": 2058,
+    "forks": 400,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mortdeus",
+    "name": "legacy-cc",
+    "language": "c",
+    "stars": 2053,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cleanflight",
+    "name": "cleanflight",
+    "language": "c",
+    "stars": 2050,
+    "forks": 1309,
+    "default_branch": "master"
+  },
+  {
+    "owner": "miloyip",
+    "name": "json-tutorial",
+    "language": "c",
+    "stars": 2041,
+    "forks": 1584,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ARMmbed",
+    "name": "mbed-os",
+    "language": "c",
+    "stars": 2040,
+    "forks": 1665,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sustrik",
+    "name": "libmill",
+    "language": "c",
+    "stars": 2038,
+    "forks": 158,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stefanesser",
+    "name": "dumpdecrypted",
+    "language": "c",
+    "stars": 2033,
+    "forks": 539,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libfuse",
+    "name": "sshfs",
+    "language": "c",
+    "stars": 2028,
+    "forks": 162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "conorpp",
+    "name": "u2f-zero",
+    "language": "c",
+    "stars": 2014,
+    "forks": 165,
+    "default_branch": "master"
+  },
+  {
+    "owner": "probablycorey",
+    "name": "wax",
+    "language": "c",
+    "stars": 2008,
+    "forks": 643,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seL4",
+    "name": "seL4",
+    "language": "c",
+    "stars": 1997,
+    "forks": 264,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChrisJohnsen",
+    "name": "tmux-MacOSX-pasteboard",
+    "language": "c",
+    "stars": 1986,
+    "forks": 68,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kitware",
+    "name": "CMake",
+    "language": "c",
+    "stars": 1977,
+    "forks": 998,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eclipse",
+    "name": "mosquitto",
+    "language": "c",
+    "stars": 1962,
+    "forks": 735,
+    "default_branch": "master"
+  },
+  {
+    "owner": "IoLanguage",
+    "name": "io",
+    "language": "c",
+    "stars": 1955,
+    "forks": 257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "httpd",
+    "language": "c",
+    "stars": 1952,
+    "forks": 582,
+    "default_branch": "trunk"
+  },
+  {
+    "owner": "yrutschle",
+    "name": "sslh",
+    "language": "c",
+    "stars": 1950,
+    "forks": 182,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lua",
+    "name": "lua",
+    "language": "c",
+    "stars": 1949,
+    "forks": 536,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snooda",
+    "name": "net-speeder",
+    "language": "c",
+    "stars": 1947,
+    "forks": 498,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MinhasKamal",
+    "name": "CreepyCodeCollection",
+    "language": "c",
+    "stars": 1945,
+    "forks": 115,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huangz1990",
+    "name": "annotated_redis_source",
+    "language": "c",
+    "stars": 1944,
+    "forks": 983,
+    "default_branch": "unstable"
+  },
+  {
+    "owner": "yarrick",
+    "name": "pingfs",
+    "language": "c",
+    "stars": 1939,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SecWiki",
+    "name": "linux-kernel-exploits",
+    "language": "c",
+    "stars": 1931,
+    "forks": 776,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pipelinedb",
+    "name": "pipelinedb",
+    "language": "c",
+    "stars": 1925,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "johnkerl",
+    "name": "miller",
+    "language": "c",
+    "stars": 1925,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RT-Thread",
+    "name": "rt-thread",
+    "language": "c",
+    "stars": 1917,
+    "forks": 1379,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Atmosphere-NX",
+    "name": "Atmosphere",
+    "language": "c",
+    "stars": 1917,
+    "forks": 229,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WizTeam",
+    "name": "WizQTClient",
+    "language": "c",
+    "stars": 1898,
+    "forks": 667,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mbebenita",
+    "name": "Broadway",
+    "language": "c",
+    "stars": 1898,
+    "forks": 303,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hexchat",
+    "name": "hexchat",
+    "language": "c",
+    "stars": 1888,
+    "forks": 388,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libgit2",
+    "name": "rugged",
+    "language": "c",
+    "stars": 1886,
+    "forks": 251,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iliasam",
+    "name": "OpenSimpleLidar",
+    "language": "c",
+    "stars": 1874,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "esnet",
+    "name": "iperf",
+    "language": "c",
+    "stars": 1873,
+    "forks": 507,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geohot",
+    "name": "qira",
+    "language": "c",
+    "stars": 1870,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "msysgit",
+    "name": "msysgit",
+    "language": "c",
+    "stars": 1865,
+    "forks": 621,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wandenberg",
+    "name": "nginx-push-stream-module",
+    "language": "c",
+    "stars": 1863,
+    "forks": 284,
+    "default_branch": "master"
+  },
+  {
+    "owner": "martin-ger",
+    "name": "esp_wifi_repeater",
+    "language": "c",
+    "stars": 1862,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cmusphinx",
+    "name": "pocketsphinx",
+    "language": "c",
+    "stars": 1853,
+    "forks": 445,
+    "default_branch": "master"
+  },
+  {
+    "owner": "irssi",
+    "name": "irssi",
+    "language": "c",
+    "stars": 1852,
+    "forks": 252,
+    "default_branch": "master"
+  },
+  {
+    "owner": "htacg",
+    "name": "tidy-html5",
+    "language": "c",
+    "stars": 1851,
+    "forks": 309,
+    "default_branch": "next"
+  },
+  {
+    "owner": "satori-com",
+    "name": "tcpkali",
+    "language": "c",
+    "stars": 1844,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xoreaxeaxeax",
+    "name": "rosenbridge",
+    "language": "c",
+    "stars": 1844,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "akopytov",
+    "name": "sysbench",
+    "language": "c",
+    "stars": 1843,
+    "forks": 405,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stellar",
+    "name": "stellar-core",
+    "language": "c",
+    "stars": 1843,
+    "forks": 538,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nginx",
+    "name": "unit",
+    "language": "c",
+    "stars": 1841,
+    "forks": 120,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "AliOS-Things",
+    "language": "c",
+    "stars": 1835,
+    "forks": 730,
+    "default_branch": "master"
+  },
+  {
+    "owner": "akheron",
+    "name": "jansson",
+    "language": "c",
+    "stars": 1834,
+    "forks": 514,
+    "default_branch": "master"
+  },
+  {
+    "owner": "warmcat",
+    "name": "libwebsockets",
+    "language": "c",
+    "stars": 1831,
+    "forks": 744,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AuroraWright",
+    "name": "Luma3DS",
+    "language": "c",
+    "stars": 1816,
+    "forks": 325,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gluster",
+    "name": "glusterfs",
+    "language": "c",
+    "stars": 1811,
+    "forks": 673,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Wind4",
+    "name": "vlmcsd",
+    "language": "c",
+    "stars": 1781,
+    "forks": 491,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lloyd",
+    "name": "yajl",
+    "language": "c",
+    "stars": 1776,
+    "forks": 372,
+    "default_branch": "master"
+  },
+  {
+    "owner": "damonkohler",
+    "name": "sl4a",
+    "language": "c",
+    "stars": 1768,
+    "forks": 655,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "tsar",
+    "language": "c",
+    "stars": 1763,
+    "forks": 628,
+    "default_branch": "master"
+  },
+  {
+    "owner": "haad",
+    "name": "proxychains",
+    "language": "c",
+    "stars": 1732,
+    "forks": 258,
+    "default_branch": "master"
+  },
+  {
+    "owner": "texane",
+    "name": "stlink",
+    "language": "c",
+    "stars": 1729,
+    "forks": 612,
+    "default_branch": "master"
+  },
+  {
+    "owner": "domoticz",
+    "name": "domoticz",
+    "language": "c",
+    "stars": 1728,
+    "forks": 747,
+    "default_branch": "development"
+  },
+  {
+    "owner": "openvswitch",
+    "name": "ovs",
+    "language": "c",
+    "stars": 1727,
+    "forks": 1175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danielfrg",
+    "name": "word2vec",
+    "language": "c",
+    "stars": 1715,
+    "forks": 487,
+    "default_branch": "master"
+  },
+  {
+    "owner": "F-Stack",
+    "name": "f-stack",
+    "language": "c",
+    "stars": 1711,
+    "forks": 398,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jonashaag",
+    "name": "bjoern",
+    "language": "c",
+    "stars": 1710,
+    "forks": 126,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ejoy",
+    "name": "ejoy2d",
+    "language": "c",
+    "stars": 1708,
+    "forks": 649,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "ProcDump-for-Linux",
+    "language": "c",
+    "stars": 1688,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jarun",
+    "name": "nnn",
+    "language": "c",
+    "stars": 1686,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moby",
+    "name": "hyperkit",
+    "language": "c",
+    "stars": 1686,
+    "forks": 176,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dekuNukem",
+    "name": "Nintendo_Switch_Reverse_Engineering",
+    "language": "c",
+    "stars": 1683,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zombodb",
+    "name": "zombodb",
+    "language": "c",
+    "stars": 1681,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "statsite",
+    "name": "statsite",
+    "language": "c",
+    "stars": 1675,
+    "forks": 232,
+    "default_branch": "master"
+  },
+  {
+    "owner": "srdja",
+    "name": "Collections-C",
+    "language": "c",
+    "stars": 1674,
+    "forks": 206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vmg",
+    "name": "sundown",
+    "language": "c",
+    "stars": 1670,
+    "forks": 330,
+    "default_branch": "master"
+  },
+  {
+    "owner": "viabtc",
+    "name": "viabtc_exchange_server",
+    "language": "c",
+    "stars": 1665,
+    "forks": 987,
+    "default_branch": "master"
+  },
+  {
+    "owner": "keendreams",
+    "name": "keen",
+    "language": "c",
+    "stars": 1664,
+    "forks": 152,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cesanta",
+    "name": "mongoose-os",
+    "language": "c",
+    "stars": 1662,
+    "forks": 328,
+    "default_branch": "master"
+  },
+  {
+    "owner": "veracrypt",
+    "name": "VeraCrypt",
+    "language": "c",
+    "stars": 1661,
+    "forks": 271,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "wuffs",
+    "language": "c",
+    "stars": 1661,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wireshark",
+    "name": "wireshark",
+    "language": "c",
+    "stars": 1654,
+    "forks": 653,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flatpak",
+    "name": "flatpak",
+    "language": "c",
+    "stars": 1647,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Rdatatable",
+    "name": "data.table",
+    "language": "c",
+    "stars": 1645,
+    "forks": 718,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yourtion",
+    "name": "30dayMakeOS",
+    "language": "c",
+    "stars": 1636,
+    "forks": 437,
+    "default_branch": "master"
+  },
+  {
+    "owner": "madler",
+    "name": "zlib",
+    "language": "c",
+    "stars": 1635,
+    "forks": 950,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phoboslab",
+    "name": "jsmpeg-vnc",
+    "language": "c",
+    "stars": 1633,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pmwkaa",
+    "name": "sophia",
+    "language": "c",
+    "stars": 1631,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ARMmbed",
+    "name": "mbedtls",
+    "language": "c",
+    "stars": 1630,
+    "forks": 967,
+    "default_branch": "development"
+  },
+  {
+    "owner": "processhacker",
+    "name": "processhacker",
+    "language": "c",
+    "stars": 1629,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Meituan-Dianping",
+    "name": "DBProxy",
+    "language": "c",
+    "stars": 1626,
+    "forks": 445,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RandyGaul",
+    "name": "cute_headers",
+    "language": "c",
+    "stars": 1626,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libfuse",
+    "name": "libfuse",
+    "language": "c",
+    "stars": 1625,
+    "forks": 442,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "libphenom",
+    "language": "c",
+    "stars": 1616,
+    "forks": 373,
+    "default_branch": "master"
+  },
+  {
+    "owner": "glouw",
+    "name": "tinn",
+    "language": "c",
+    "stars": 1616,
+    "forks": 115,
+    "default_branch": "master"
+  },
+  {
+    "owner": "giltene",
+    "name": "wrk2",
+    "language": "c",
+    "stars": 1612,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "glb-director",
+    "language": "c",
+    "stars": 1605,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "acassen",
+    "name": "keepalived",
+    "language": "c",
+    "stars": 1595,
+    "forks": 409,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "checkedc",
+    "language": "c",
+    "stars": 1594,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Syllo",
+    "name": "nvtop",
+    "language": "c",
+    "stars": 1591,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openvenues",
+    "name": "libpostal",
+    "language": "c",
+    "stars": 1591,
+    "forks": 172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nginx",
+    "name": "nginx-releases",
+    "language": "c",
+    "stars": 1580,
+    "forks": 832,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EricssonResearch",
+    "name": "openwebrtc",
+    "language": "c",
+    "stars": 1573,
+    "forks": 527,
+    "default_branch": "master"
+  },
+  {
+    "owner": "urbit",
+    "name": "urbit",
+    "language": "c",
+    "stars": 1569,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chjj",
+    "name": "compton",
+    "language": "c",
+    "stars": 1562,
+    "forks": 200,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hfiref0x",
+    "name": "UACME",
+    "language": "c",
+    "stars": 1555,
+    "forks": 531,
+    "default_branch": "master"
+  },
+  {
+    "owner": "netblue30",
+    "name": "firejail",
+    "language": "c",
+    "stars": 1552,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "y123456yz",
+    "name": "reading-code-of-nginx-1.9.2",
+    "language": "c",
+    "stars": 1550,
+    "forks": 572,
+    "default_branch": "master"
+  },
+  {
+    "owner": "php-ds",
+    "name": "ext-ds",
+    "language": "c",
+    "stars": 1549,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TelegramMessenger",
+    "name": "MTProxy",
+    "language": "c",
+    "stars": 1539,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kohler",
+    "name": "gifsicle",
+    "language": "c",
+    "stars": 1533,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libusb",
+    "name": "libusb",
+    "language": "c",
+    "stars": 1530,
+    "forks": 794,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rvoicilas",
+    "name": "inotify-tools",
+    "language": "c",
+    "stars": 1523,
+    "forks": 242,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ffi",
+    "name": "ffi",
+    "language": "c",
+    "stars": 1522,
+    "forks": 237,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emojicode",
+    "name": "emojicode",
+    "language": "c",
+    "stars": 1520,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PromyLOPh",
+    "name": "pianobar",
+    "language": "c",
+    "stars": 1519,
+    "forks": 294,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ashima",
+    "name": "webgl-noise",
+    "language": "c",
+    "stars": 1517,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orangeduck",
+    "name": "mpc",
+    "language": "c",
+    "stars": 1515,
+    "forks": 182,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ZBar",
+    "name": "ZBar",
+    "language": "c",
+    "stars": 1512,
+    "forks": 699,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ldcsaa",
+    "name": "HP-Socket",
+    "language": "c",
+    "stars": 1509,
+    "forks": 881,
+    "default_branch": "master"
+  },
+  {
+    "owner": "audacity",
+    "name": "audacity",
+    "language": "c",
+    "stars": 1507,
+    "forks": 462,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fragglet",
+    "name": "c-algorithms",
+    "language": "c",
+    "stars": 1504,
+    "forks": 404,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AdAway",
+    "name": "AdAway",
+    "language": "c",
+    "stars": 1501,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookarchive",
+    "name": "flashcache",
+    "language": "c",
+    "stars": 1499,
+    "forks": 408,
+    "default_branch": "master"
+  },
+  {
+    "owner": "darkk",
+    "name": "redsocks",
+    "language": "c",
+    "stars": 1499,
+    "forks": 514,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hnes",
+    "name": "libaco",
+    "language": "c",
+    "stars": 1490,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "networkprotocol",
+    "name": "yojimbo",
+    "language": "c",
+    "stars": 1479,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "espruino",
+    "name": "Espruino",
+    "language": "c",
+    "stars": 1474,
+    "forks": 431,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vozlt",
+    "name": "nginx-module-vts",
+    "language": "c",
+    "stars": 1462,
+    "forks": 198,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mattrajca",
+    "name": "sudo-touchid",
+    "language": "c",
+    "stars": 1461,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "davidmoreno",
+    "name": "onion",
+    "language": "c",
+    "stars": 1460,
+    "forks": 193,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nmathewson",
+    "name": "Libevent",
+    "language": "c",
+    "stars": 1457,
+    "forks": 669,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gosu",
+    "name": "gosu",
+    "language": "c",
+    "stars": 1456,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lavabit",
+    "name": "magma",
+    "language": "c",
+    "stars": 1456,
+    "forks": 151,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "Qihoo360",
+    "name": "phptrace",
+    "language": "c",
+    "stars": 1451,
+    "forks": 379,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lzfse",
+    "name": "lzfse",
+    "language": "c",
+    "stars": 1444,
+    "forks": 144,
+    "default_branch": "master"
+  },
+  {
+    "owner": "esp8266",
+    "name": "esp8266-wiki",
+    "language": "c",
+    "stars": 1441,
+    "forks": 284,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ntop",
+    "name": "nDPI",
+    "language": "c",
+    "stars": 1437,
+    "forks": 394,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "troydhanson",
+    "name": "uthash",
+    "language": "c",
+    "stars": 1437,
+    "forks": 366,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jagt",
+    "name": "clumsy",
+    "language": "c",
+    "stars": 1436,
+    "forks": 180,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ctfs",
+    "name": "write-ups-2016",
+    "language": "c",
+    "stars": 1435,
+    "forks": 478,
+    "default_branch": "master"
+  },
+  {
+    "owner": "weechat",
+    "name": "weechat",
+    "language": "c",
+    "stars": 1433,
+    "forks": 210,
+    "default_branch": "master"
+  },
+  {
+    "owner": "varnishcache",
+    "name": "varnish-cache",
+    "language": "c",
+    "stars": 1431,
+    "forks": 187,
+    "default_branch": "master"
+  },
+  {
+    "owner": "littlekernel",
+    "name": "lk",
+    "language": "c",
+    "stars": 1429,
+    "forks": 312,
+    "default_branch": "master"
+  },
+  {
+    "owner": "json-c",
+    "name": "json-c",
+    "language": "c",
+    "stars": 1424,
+    "forks": 699,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jech",
+    "name": "polipo",
+    "language": "c",
+    "stars": 1423,
+    "forks": 281,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coolsnowwolf",
+    "name": "lede",
+    "language": "c",
+    "stars": 1417,
+    "forks": 782,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baoleiji",
+    "name": "QilinBaoleiji",
+    "language": "c",
+    "stars": 1412,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bumptech",
+    "name": "stud",
+    "language": "c",
+    "stars": 1406,
+    "forks": 198,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codahale",
+    "name": "bcrypt-ruby",
+    "language": "c",
+    "stars": 1405,
+    "forks": 212,
+    "default_branch": "master"
+  },
+  {
+    "owner": "leixiaohua1020",
+    "name": "simplest_ffmpeg_mobile",
+    "language": "c",
+    "stars": 1405,
+    "forks": 633,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeelabs",
+    "name": "esp-link",
+    "language": "c",
+    "stars": 1403,
+    "forks": 374,
+    "default_branch": "master"
+  },
+  {
+    "owner": "networkprotocol",
+    "name": "netcode.io",
+    "language": "c",
+    "stars": 1395,
+    "forks": 95,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Motion-Project",
+    "name": "motion",
+    "language": "c",
+    "stars": 1392,
+    "forks": 280,
+    "default_branch": "master"
+  },
+  {
+    "owner": "concurrencykit",
+    "name": "ck",
+    "language": "c",
+    "stars": 1391,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "axboe",
+    "name": "fio",
+    "language": "c",
+    "stars": 1388,
+    "forks": 497,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gnif",
+    "name": "LookingGlass",
+    "language": "c",
+    "stars": 1388,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kennytm",
+    "name": "iphone-private-frameworks",
+    "language": "c",
+    "stars": 1384,
+    "forks": 610,
+    "default_branch": "deprecated"
+  },
+  {
+    "owner": "RedisLabsModules",
+    "name": "RediSearch",
+    "language": "c",
+    "stars": 1383,
+    "forks": 170,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LuaJIT",
+    "name": "LuaJIT",
+    "language": "c",
+    "stars": 1383,
+    "forks": 293,
+    "default_branch": "master"
+  },
+  {
+    "owner": "p-gen",
+    "name": "smenu",
+    "language": "c",
+    "stars": 1376,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dvorka",
+    "name": "hstr",
+    "language": "c",
+    "stars": 1374,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clowwindy",
+    "name": "ShadowVPN",
+    "language": "c",
+    "stars": 1370,
+    "forks": 1138,
+    "default_branch": "rm"
+  },
+  {
+    "owner": "apple",
+    "name": "swift-corelibs-libdispatch",
+    "language": "c",
+    "stars": 1369,
+    "forks": 279,
+    "default_branch": "master"
+  },
+  {
+    "owner": "quiet",
+    "name": "org.quietmodem.Quiet",
+    "language": "c",
+    "stars": 1365,
+    "forks": 90,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yaoweibin",
+    "name": "nginx_tcp_proxy_module",
+    "language": "c",
+    "stars": 1363,
+    "forks": 322,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zephyrproject-rtos",
+    "name": "zephyr",
+    "language": "c",
+    "stars": 1356,
+    "forks": 876,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kosua20",
+    "name": "herebedragons",
+    "language": "c",
+    "stars": 1354,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dlundquist",
+    "name": "sniproxy",
+    "language": "c",
+    "stars": 1353,
+    "forks": 278,
+    "default_branch": "master"
+  },
+  {
+    "owner": "confluentinc",
+    "name": "bottledwater-pg",
+    "language": "c",
+    "stars": 1351,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nsf",
+    "name": "termbox",
+    "language": "c",
+    "stars": 1348,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tvheadend",
+    "name": "tvheadend",
+    "language": "c",
+    "stars": 1343,
+    "forks": 635,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Uncodin",
+    "name": "bypass",
+    "language": "c",
+    "stars": 1342,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "varnish",
+    "name": "hitch",
+    "language": "c",
+    "stars": 1341,
+    "forks": 115,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dunst-project",
+    "name": "dunst",
+    "language": "c",
+    "stars": 1338,
+    "forks": 137,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "cpu_features",
+    "language": "c",
+    "stars": 1338,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raspberrypi",
+    "name": "userland",
+    "language": "c",
+    "stars": 1334,
+    "forks": 812,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alols",
+    "name": "xcape",
+    "language": "c",
+    "stars": 1334,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "billziss-gh",
+    "name": "winfsp",
+    "language": "c",
+    "stars": 1324,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TeamWin",
+    "name": "Team-Win-Recovery-Project",
+    "language": "c",
+    "stars": 1319,
+    "forks": 694,
+    "default_branch": "android-9.0"
+  },
+  {
+    "owner": "lede-project",
+    "name": "source",
+    "language": "c",
+    "stars": 1318,
+    "forks": 1111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ValdikSS",
+    "name": "GoodbyeDPI",
+    "language": "c",
+    "stars": 1318,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brianmario",
+    "name": "yajl-ruby",
+    "language": "c",
+    "stars": 1318,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zserge",
+    "name": "jsmn",
+    "language": "c",
+    "stars": 1317,
+    "forks": 401,
+    "default_branch": "master"
+  },
+  {
+    "owner": "signal11",
+    "name": "hidapi",
+    "language": "c",
+    "stars": 1317,
+    "forks": 626,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chyyuu",
+    "name": "ucore_os_lab",
+    "language": "c",
+    "stars": 1314,
+    "forks": 968,
+    "default_branch": "master"
+  },
+  {
+    "owner": "endrazine",
+    "name": "wcc",
+    "language": "c",
+    "stars": 1312,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "diracdeltas",
+    "name": "FastestWebsiteEver",
+    "language": "c",
+    "stars": 1311,
+    "forks": 88,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NightDiveStudios",
+    "name": "shockmac",
+    "language": "c",
+    "stars": 1306,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "megous",
+    "name": "megatools",
+    "language": "c",
+    "stars": 1296,
+    "forks": 168,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tsl0922",
+    "name": "ttyd",
+    "language": "c",
+    "stars": 1290,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vergecurrency",
+    "name": "VERGE",
+    "language": "c",
+    "stars": 1283,
+    "forks": 395,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raysan5",
+    "name": "raylib",
+    "language": "c",
+    "stars": 1282,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aergoio",
+    "name": "litetree",
+    "language": "c",
+    "stars": 1279,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "luke-jr",
+    "name": "bfgminer",
+    "language": "c",
+    "stars": 1276,
+    "forks": 606,
+    "default_branch": "bfgminer"
+  },
+  {
+    "owner": "zsh-users",
+    "name": "zsh",
+    "language": "c",
+    "stars": 1275,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mtoyoda",
+    "name": "sl",
+    "language": "c",
+    "stars": 1275,
+    "forks": 216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tinyproxy",
+    "name": "tinyproxy",
+    "language": "c",
+    "stars": 1274,
+    "forks": 253,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Hopson97",
+    "name": "MineCraft-One-Week-Challenge",
+    "language": "c",
+    "stars": 1273,
+    "forks": 222,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shadowsocks",
+    "name": "simple-obfs",
+    "language": "c",
+    "stars": 1273,
+    "forks": 355,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wiredtiger",
+    "name": "wiredtiger",
+    "language": "c",
+    "stars": 1271,
+    "forks": 213,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KhronosGroup",
+    "name": "Vulkan-Docs",
+    "language": "c",
+    "stars": 1270,
+    "forks": 188,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "honggfuzz",
+    "language": "c",
+    "stars": 1267,
+    "forks": 266,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FreeRDP",
+    "name": "Remmina",
+    "language": "c",
+    "stars": 1267,
+    "forks": 239,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jiangwenyuan",
+    "name": "nuster",
+    "language": "c",
+    "stars": 1267,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mgba-emu",
+    "name": "mgba",
+    "language": "c",
+    "stars": 1263,
+    "forks": 180,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shellinabox",
+    "name": "shellinabox",
+    "language": "c",
+    "stars": 1263,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Picovoice",
+    "name": "Porcupine",
+    "language": "c",
+    "stars": 1261,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "joyent",
+    "name": "smartos-live",
+    "language": "c",
+    "stars": 1261,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danielwaterworth",
+    "name": "Raphters",
+    "language": "c",
+    "stars": 1259,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "edenhill",
+    "name": "kafkacat",
+    "language": "c",
+    "stars": 1259,
+    "forks": 133,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mongrel2",
+    "name": "mongrel2",
+    "language": "c",
+    "stars": 1258,
+    "forks": 182,
+    "default_branch": "master"
+  },
+  {
+    "owner": "panda-re",
+    "name": "panda",
+    "language": "c",
+    "stars": 1252,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kokke",
+    "name": "tiny-AES-c",
+    "language": "c",
+    "stars": 1251,
+    "forks": 512,
+    "default_branch": "master"
+  },
+  {
+    "owner": "notro",
+    "name": "fbtft",
+    "language": "c",
+    "stars": 1249,
+    "forks": 363,
+    "default_branch": "master"
+  },
+  {
+    "owner": "c9s",
+    "name": "Pux",
+    "language": "c",
+    "stars": 1247,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter",
+    "name": "fatcache",
+    "language": "c",
+    "stars": 1245,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sleuthkit",
+    "name": "sleuthkit",
+    "language": "c",
+    "stars": 1245,
+    "forks": 397,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "begeekmyfriend",
+    "name": "leetcode",
+    "language": "c",
+    "stars": 1244,
+    "forks": 312,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ntop",
+    "name": "PF_RING",
+    "language": "c",
+    "stars": 1241,
+    "forks": 185,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "tectonic-typesetting",
+    "name": "tectonic",
+    "language": "c",
+    "stars": 1230,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FFTW",
+    "name": "fftw3",
+    "language": "c",
+    "stars": 1227,
+    "forks": 355,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geany",
+    "name": "geany",
+    "language": "c",
+    "stars": 1223,
+    "forks": 367,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LuaDist",
+    "name": "lua",
+    "language": "c",
+    "stars": 1222,
+    "forks": 439,
+    "default_branch": "lua-5.1"
+  },
+  {
+    "owner": "slembcke",
+    "name": "Chipmunk2D",
+    "language": "c",
+    "stars": 1221,
+    "forks": 239,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ettercap",
+    "name": "ettercap",
+    "language": "c",
+    "stars": 1221,
+    "forks": 329,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rogerclarkmelbourne",
+    "name": "Arduino_STM32",
+    "language": "c",
+    "stars": 1218,
+    "forks": 604,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lwfinger",
+    "name": "rtlwifi_new",
+    "language": "c",
+    "stars": 1214,
+    "forks": 395,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "LVS",
+    "language": "c",
+    "stars": 1210,
+    "forks": 545,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gamelinux",
+    "name": "passivedns",
+    "language": "c",
+    "stars": 1209,
+    "forks": 322,
+    "default_branch": "master"
+  },
+  {
+    "owner": "samyk",
+    "name": "pwnat",
+    "language": "c",
+    "stars": 1207,
+    "forks": 238,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vivien",
+    "name": "i3blocks",
+    "language": "c",
+    "stars": 1206,
+    "forks": 151,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ufrisk",
+    "name": "pcileech",
+    "language": "c",
+    "stars": 1203,
+    "forks": 222,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Chlumsky",
+    "name": "msdfgen",
+    "language": "c",
+    "stars": 1202,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libjpeg-turbo",
+    "name": "libjpeg-turbo",
+    "language": "c",
+    "stars": 1202,
+    "forks": 363,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GNOME",
+    "name": "gimp",
+    "language": "c",
+    "stars": 1200,
+    "forks": 286,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andmarti1424",
+    "name": "sc-im",
+    "language": "c",
+    "stars": 1200,
+    "forks": 72,
+    "default_branch": "freeze"
+  },
+  {
+    "owner": "ellson",
+    "name": "MOTHBALLED-graphviz",
+    "language": "c",
+    "stars": 1199,
+    "forks": 262,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shoes",
+    "name": "shoes-deprecated",
+    "language": "c",
+    "stars": 1199,
+    "forks": 180,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "lexborisov",
+    "name": "myhtml",
+    "language": "c",
+    "stars": 1194,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Maratyszcza",
+    "name": "NNPACK",
+    "language": "c",
+    "stars": 1193,
+    "forks": 230,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DNSPod",
+    "name": "dnspod-sr",
+    "language": "c",
+    "stars": 1187,
+    "forks": 303,
+    "default_branch": "master"
+  },
+  {
+    "owner": "taviso",
+    "name": "ctypes.sh",
+    "language": "c",
+    "stars": 1181,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nmap",
+    "name": "npcap",
+    "language": "c",
+    "stars": 1174,
+    "forks": 212,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "brubeck",
+    "language": "c",
+    "stars": 1174,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "espressif",
+    "name": "ESP8266_RTOS_SDK",
+    "language": "c",
+    "stars": 1174,
+    "forks": 572,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ElementsProject",
+    "name": "lightning",
+    "language": "c",
+    "stars": 1174,
+    "forks": 336,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cesanta",
+    "name": "v7",
+    "language": "c",
+    "stars": 1170,
+    "forks": 137,
+    "default_branch": "master"
+  },
+  {
+    "owner": "begeekmyfriend",
+    "name": "bplustree",
+    "language": "c",
+    "stars": 1170,
+    "forks": 174,
+    "default_branch": "disk-io"
+  },
+  {
+    "owner": "hasura",
+    "name": "skor",
+    "language": "c",
+    "stars": 1168,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "citusdata",
+    "name": "cstore_fdw",
+    "language": "c",
+    "stars": 1167,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libopencm3",
+    "name": "libopencm3",
+    "language": "c",
+    "stars": 1164,
+    "forks": 535,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ms-iot",
+    "name": "samples",
+    "language": "c",
+    "stars": 1163,
+    "forks": 1460,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "koush",
+    "name": "Superuser",
+    "language": "c",
+    "stars": 1163,
+    "forks": 795,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EasyHook",
+    "name": "EasyHook",
+    "language": "c",
+    "stars": 1163,
+    "forks": 298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lsalzman",
+    "name": "enet",
+    "language": "c",
+    "stars": 1162,
+    "forks": 333,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenDUNE",
+    "name": "OpenDUNE",
+    "language": "c",
+    "stars": 1162,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nigels-com",
+    "name": "glew",
+    "language": "c",
+    "stars": 1161,
+    "forks": 327,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudwu",
+    "name": "coroutine",
+    "language": "c",
+    "stars": 1160,
+    "forks": 443,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ardagnir",
+    "name": "athame",
+    "language": "c",
+    "stars": 1157,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cisco-Talos",
+    "name": "pyrebox",
+    "language": "c",
+    "stars": 1156,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "taf2",
+    "name": "curb",
+    "language": "c",
+    "stars": 1156,
+    "forks": 214,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Gnucash",
+    "name": "gnucash",
+    "language": "c",
+    "stars": 1156,
+    "forks": 404,
+    "default_branch": "maint"
+  },
+  {
+    "owner": "cloudwu",
+    "name": "pbc",
+    "language": "c",
+    "stars": 1153,
+    "forks": 465,
+    "default_branch": "master"
+  },
+  {
+    "owner": "laruence",
+    "name": "yar",
+    "language": "c",
+    "stars": 1153,
+    "forks": 321,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libffi",
+    "name": "libffi",
+    "language": "c",
+    "stars": 1153,
+    "forks": 311,
+    "default_branch": "master"
+  },
+  {
+    "owner": "merbanan",
+    "name": "rtl_433",
+    "language": "c",
+    "stars": 1153,
+    "forks": 413,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nesbox",
+    "name": "TIC-80",
+    "language": "c",
+    "stars": 1152,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reactnativecn",
+    "name": "react-native-pushy",
+    "language": "c",
+    "stars": 1151,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fukuchi",
+    "name": "libqrencode",
+    "language": "c",
+    "stars": 1141,
+    "forks": 347,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EZLippi",
+    "name": "WebBench",
+    "language": "c",
+    "stars": 1137,
+    "forks": 794,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zeffy",
+    "name": "wufuc",
+    "language": "c",
+    "stars": 1136,
+    "forks": 138,
+    "default_branch": "micro"
+  },
+  {
+    "owner": "neomutt",
+    "name": "neomutt",
+    "language": "c",
+    "stars": 1133,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "dump1090",
+    "language": "c",
+    "stars": 1129,
+    "forks": 749,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivmai",
+    "name": "bdwgc",
+    "language": "c",
+    "stars": 1126,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudwu",
+    "name": "mptun",
+    "language": "c",
+    "stars": 1124,
+    "forks": 289,
+    "default_branch": "master"
+  },
+  {
+    "owner": "madler",
+    "name": "pigz",
+    "language": "c",
+    "stars": 1119,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DynamoRIO",
+    "name": "drmemory",
+    "language": "c",
+    "stars": 1118,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gnea",
+    "name": "grbl",
+    "language": "c",
+    "stars": 1118,
+    "forks": 446,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tboox",
+    "name": "xmake",
+    "language": "c",
+    "stars": 1114,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "acl-dev",
+    "name": "acl",
+    "language": "c",
+    "stars": 1111,
+    "forks": 564,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vlfeat",
+    "name": "vlfeat",
+    "language": "c",
+    "stars": 1108,
+    "forks": 524,
+    "default_branch": "master"
+  },
+  {
+    "owner": "id-Software",
+    "name": "Quake-2",
+    "language": "c",
+    "stars": 1105,
+    "forks": 352,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Meituan-Dianping",
+    "name": "Logan",
+    "language": "c",
+    "stars": 1101,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Proxmark",
+    "name": "proxmark3",
+    "language": "c",
+    "stars": 1097,
+    "forks": 486,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Celtoys",
+    "name": "Remotery",
+    "language": "c",
+    "stars": 1091,
+    "forks": 126,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chentao0707",
+    "name": "QrCodeScan",
+    "language": "c",
+    "stars": 1088,
+    "forks": 454,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uber",
+    "name": "h3",
+    "language": "c",
+    "stars": 1085,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nmikhailov",
+    "name": "Validity90",
+    "language": "c",
+    "stars": 1085,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libgit2",
+    "name": "pygit2",
+    "language": "c",
+    "stars": 1085,
+    "forks": 272,
+    "default_branch": "master"
+  },
+  {
+    "owner": "psycopg",
+    "name": "psycopg2",
+    "language": "c",
+    "stars": 1081,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FascinatedBox",
+    "name": "lily",
+    "language": "c",
+    "stars": 1077,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lotabout",
+    "name": "write-a-C-interpreter",
+    "language": "c",
+    "stars": 1074,
+    "forks": 324,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mackyle",
+    "name": "sqlite",
+    "language": "c",
+    "stars": 1071,
+    "forks": 341,
+    "default_branch": "master"
+  },
+  {
+    "owner": "citusdata",
+    "name": "pg_shard",
+    "language": "c",
+    "stars": 1069,
+    "forks": 63,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "aubio",
+    "name": "aubio",
+    "language": "c",
+    "stars": 1068,
+    "forks": 167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "armon",
+    "name": "bloomd",
+    "language": "c",
+    "stars": 1067,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "McNopper",
+    "name": "OpenGL",
+    "language": "c",
+    "stars": 1065,
+    "forks": 370,
+    "default_branch": "master"
+  },
+  {
+    "owner": "irtimmer",
+    "name": "moonlight-embedded",
+    "language": "c",
+    "stars": 1063,
+    "forks": 187,
+    "default_branch": "master"
+  },
+  {
+    "owner": "droe",
+    "name": "sslsplit",
+    "language": "c",
+    "stars": 1060,
+    "forks": 229,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "albfan",
+    "name": "miraclecast",
+    "language": "c",
+    "stars": 1058,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "karlstav",
+    "name": "cava",
+    "language": "c",
+    "stars": 1057,
+    "forks": 89,
+    "default_branch": "master"
+  },
+  {
+    "owner": "osmc",
+    "name": "osmc",
+    "language": "c",
+    "stars": 1051,
+    "forks": 359,
+    "default_branch": "master"
+  },
+  {
+    "owner": "loyinglin",
+    "name": "LearnOpenGLES",
+    "language": "c",
+    "stars": 1050,
+    "forks": 431,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jhawthorn",
+    "name": "fzy",
+    "language": "c",
+    "stars": 1050,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "F5OEO",
+    "name": "rpitx",
+    "language": "c",
+    "stars": 1046,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LMDB",
+    "name": "lmdb",
+    "language": "c",
+    "stars": 1041,
+    "forks": 300,
+    "default_branch": "mdb.master"
+  },
+  {
+    "owner": "tcurdt",
+    "name": "iProxy",
+    "language": "c",
+    "stars": 1041,
+    "forks": 180,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dav",
+    "name": "word2vec",
+    "language": "c",
+    "stars": 1036,
+    "forks": 480,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iqiyi",
+    "name": "dpvs",
+    "language": "c",
+    "stars": 1036,
+    "forks": 285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "weibocom",
+    "name": "nginx-upsync-module",
+    "language": "c",
+    "stars": 1036,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nikhilm",
+    "name": "uvbook",
+    "language": "c",
+    "stars": 1035,
+    "forks": 281,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rhomobile",
+    "name": "rhodes",
+    "language": "c",
+    "stars": 1033,
+    "forks": 251,
+    "default_branch": "master"
+  },
+  {
+    "owner": "intel-iot-devkit",
+    "name": "mraa",
+    "language": "c",
+    "stars": 1032,
+    "forks": 474,
+    "default_branch": "master"
+  },
+  {
+    "owner": "madeye",
+    "name": "proxydroid",
+    "language": "c",
+    "stars": 1032,
+    "forks": 419,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pili-engineering",
+    "name": "PLCameraStreamingKit",
+    "language": "c",
+    "stars": 1031,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bumblebee-Project",
+    "name": "Bumblebee",
+    "language": "c",
+    "stars": 1031,
+    "forks": 133,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rxi",
+    "name": "dyad",
+    "language": "c",
+    "stars": 1029,
+    "forks": 140,
+    "default_branch": "master"
+  },
+  {
+    "owner": "btrask",
+    "name": "stronglink",
+    "language": "c",
+    "stars": 1029,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BlindMindStudios",
+    "name": "StarRuler2-Source",
+    "language": "c",
+    "stars": 1029,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saitoha",
+    "name": "libsixel",
+    "language": "c",
+    "stars": 1029,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "neutrinolabs",
+    "name": "xrdp",
+    "language": "c",
+    "stars": 1028,
+    "forks": 303,
+    "default_branch": "devel"
+  },
+  {
+    "owner": "digego",
+    "name": "extempore",
+    "language": "c",
+    "stars": 1026,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mopemope",
+    "name": "meinheld",
+    "language": "c",
+    "stars": 1025,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adafruit",
+    "name": "Adafruit-GFX-Library",
+    "language": "c",
+    "stars": 1025,
+    "forks": 767,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yandex",
+    "name": "odyssey",
+    "language": "c",
+    "stars": 1024,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tmm1",
+    "name": "perftools.rb",
+    "language": "c",
+    "stars": 1020,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "omnirom",
+    "name": "android_bootable_recovery",
+    "language": "c",
+    "stars": 1018,
+    "forks": 849,
+    "default_branch": "android-9.0"
+  },
+  {
+    "owner": "traviscross",
+    "name": "mtr",
+    "language": "c",
+    "stars": 1014,
+    "forks": 195,
+    "default_branch": "master"
+  },
+  {
+    "owner": "a0rtega",
+    "name": "pafish",
+    "language": "c",
+    "stars": 1013,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "fb-adb",
+    "language": "c",
+    "stars": 1012,
+    "forks": 113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "namhyung",
+    "name": "uftrace",
+    "language": "c",
+    "stars": 1011,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nanopb",
+    "name": "nanopb",
+    "language": "c",
+    "stars": 1011,
+    "forks": 279,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Entware",
+    "name": "Entware-ng",
+    "language": "c",
+    "stars": 1004,
+    "forks": 126,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maharmstone",
+    "name": "btrfs",
+    "language": "c",
+    "stars": 1000,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hyperic",
+    "name": "sigar",
+    "language": "c",
+    "stars": 998,
+    "forks": 368,
+    "default_branch": "master"
+  },
+  {
+    "owner": "premake",
+    "name": "premake-core",
+    "language": "c",
+    "stars": 998,
+    "forks": 255,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eunyoung14",
+    "name": "mtcp",
+    "language": "c",
+    "stars": 997,
+    "forks": 302,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vstakhov",
+    "name": "libucl",
+    "language": "c",
+    "stars": 997,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "linw7",
+    "name": "Skill-Tree",
+    "language": "c",
+    "stars": 997,
+    "forks": 399,
+    "default_branch": "master"
+  },
+  {
+    "owner": "silentbicycle",
+    "name": "greatest",
+    "language": "c",
+    "stars": 996,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cr-marcstevens",
+    "name": "sha1collisiondetection",
+    "language": "c",
+    "stars": 993,
+    "forks": 100,
+    "default_branch": "master"
+  },
+  {
+    "owner": "z3APA3A",
+    "name": "3proxy",
+    "language": "c",
+    "stars": 993,
+    "forks": 207,
+    "default_branch": "devel"
+  },
+  {
+    "owner": "appunite",
+    "name": "AndroidFFmpeg",
+    "language": "c",
+    "stars": 991,
+    "forks": 487,
+    "default_branch": "master"
+  },
+  {
+    "owner": "luigirizzo",
+    "name": "netmap",
+    "language": "c",
+    "stars": 990,
+    "forks": 311,
+    "default_branch": "master"
+  },
+  {
+    "owner": "charliesome",
+    "name": "jsos",
+    "language": "c",
+    "stars": 988,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pangweiwei",
+    "name": "slua",
+    "language": "c",
+    "stars": 987,
+    "forks": 369,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mzzopublic",
+    "name": "C",
+    "language": "c",
+    "stars": 987,
+    "forks": 744,
+    "default_branch": "master"
+  },
+  {
+    "owner": "colmap",
+    "name": "colmap",
+    "language": "c",
+    "stars": 986,
+    "forks": 300,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "EtchedPixels",
+    "name": "FUZIX",
+    "language": "c",
+    "stars": 983,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fancycode",
+    "name": "MemoryModule",
+    "language": "c",
+    "stars": 983,
+    "forks": 372,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mubix",
+    "name": "post-exploitation",
+    "language": "c",
+    "stars": 983,
+    "forks": 253,
+    "default_branch": "master"
+  },
+  {
+    "owner": "evanw",
+    "name": "thinscript",
+    "language": "c",
+    "stars": 982,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenSC",
+    "name": "OpenSC",
+    "language": "c",
+    "stars": 982,
+    "forks": 407,
+    "default_branch": "master"
+  },
+  {
+    "owner": "datatheorem",
+    "name": "TrustKit",
+    "language": "c",
+    "stars": 981,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jwiegley",
+    "name": "git-scripts",
+    "language": "c",
+    "stars": 981,
+    "forks": 175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ralim",
+    "name": "ts100",
+    "language": "c",
+    "stars": 980,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "haywire",
+    "name": "haywire",
+    "language": "c",
+    "stars": 980,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saki4510t",
+    "name": "UVCCamera",
+    "language": "c",
+    "stars": 979,
+    "forks": 458,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dbartolini",
+    "name": "crown",
+    "language": "c",
+    "stars": 975,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LemonBoy",
+    "name": "bar",
+    "language": "c",
+    "stars": 975,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "2ndQuadrant",
+    "name": "repmgr",
+    "language": "c",
+    "stars": 975,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "civetweb",
+    "name": "civetweb",
+    "language": "c",
+    "stars": 971,
+    "forks": 443,
+    "default_branch": "master"
+  },
+  {
+    "owner": "h2o",
+    "name": "picohttpparser",
+    "language": "c",
+    "stars": 969,
+    "forks": 114,
+    "default_branch": "master"
+  },
+  {
+    "owner": "glyptodon",
+    "name": "guacamole-server",
+    "language": "c",
+    "stars": 966,
+    "forks": 182,
+    "default_branch": "master"
+  },
+  {
+    "owner": "westes",
+    "name": "flex",
+    "language": "c",
+    "stars": 963,
+    "forks": 216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "balabit",
+    "name": "syslog-ng",
+    "language": "c",
+    "stars": 962,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "python-greenlet",
+    "name": "greenlet",
+    "language": "c",
+    "stars": 959,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jjgod",
+    "name": "mac-dictionary-kit",
+    "language": "c",
+    "stars": 958,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zyantific",
+    "name": "zydis",
+    "language": "c",
+    "stars": 957,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seppo0010",
+    "name": "rlite",
+    "language": "c",
+    "stars": 956,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lyfeyaj",
+    "name": "sublime-text-imfix",
+    "language": "c",
+    "stars": 955,
+    "forks": 210,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xoseperez",
+    "name": "espurna",
+    "language": "c",
+    "stars": 955,
+    "forks": 227,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "tj",
+    "name": "mon",
+    "language": "c",
+    "stars": 953,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "confluentinc",
+    "name": "confluent-kafka-python",
+    "language": "c",
+    "stars": 953,
+    "forks": 245,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Softmotions",
+    "name": "ejdb",
+    "language": "c",
+    "stars": 951,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dtrace4linux",
+    "name": "linux",
+    "language": "c",
+    "stars": 951,
+    "forks": 216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nicklockwood",
+    "name": "FastCoding",
+    "language": "c",
+    "stars": 948,
+    "forks": 68,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tekknolagi",
+    "name": "carp",
+    "language": "c",
+    "stars": 947,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SuperHouse",
+    "name": "esp-open-rtos",
+    "language": "c",
+    "stars": 946,
+    "forks": 343,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ThrowTheSwitch",
+    "name": "Unity",
+    "language": "c",
+    "stars": 941,
+    "forks": 325,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chneukirchen",
+    "name": "nq",
+    "language": "c",
+    "stars": 941,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgarff",
+    "name": "rpi_ws281x",
+    "language": "c",
+    "stars": 939,
+    "forks": 347,
+    "default_branch": "master"
+  },
+  {
+    "owner": "golang-ui",
+    "name": "nuklear",
+    "language": "c",
+    "stars": 937,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Harvey-OS",
+    "name": "harvey",
+    "language": "c",
+    "stars": 931,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Librevault",
+    "name": "librevault",
+    "language": "c",
+    "stars": 929,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Teaonly",
+    "name": "android-eye",
+    "language": "c",
+    "stars": 927,
+    "forks": 479,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tianocore",
+    "name": "edk2",
+    "language": "c",
+    "stars": 926,
+    "forks": 629,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TsudaKageyu",
+    "name": "minhook",
+    "language": "c",
+    "stars": 926,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rspamd",
+    "name": "rspamd",
+    "language": "c",
+    "stars": 925,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "haproxy-unofficial-obsolete-mirrors",
+    "name": "haproxy",
+    "language": "c",
+    "stars": 925,
+    "forks": 324,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "upb",
+    "language": "c",
+    "stars": 921,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "traildb",
+    "name": "traildb",
+    "language": "c",
+    "stars": 921,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mntmn",
+    "name": "interim",
+    "language": "c",
+    "stars": 920,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "siemens",
+    "name": "jailhouse",
+    "language": "c",
+    "stars": 920,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "varnish",
+    "name": "Varnish-Cache",
+    "language": "c",
+    "stars": 917,
+    "forks": 221,
+    "default_branch": "repo-has-moved"
+  },
+  {
+    "owner": "zendtech",
+    "name": "ZendOptimizerPlus",
+    "language": "c",
+    "stars": 915,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "liexusong",
+    "name": "php-beast",
+    "language": "c",
+    "stars": 915,
+    "forks": 323,
+    "default_branch": "master"
+  },
+  {
+    "owner": "the-tcpdump-group",
+    "name": "libpcap",
+    "language": "c",
+    "stars": 913,
+    "forks": 405,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jvm-profiling-tools",
+    "name": "perf-map-agent",
+    "language": "c",
+    "stars": 912,
+    "forks": 169,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iwasrobbed",
+    "name": "Down",
+    "language": "c",
+    "stars": 908,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hoytech",
+    "name": "vmtouch",
+    "language": "c",
+    "stars": 906,
+    "forks": 123,
+    "default_branch": "master"
+  },
+  {
+    "owner": "greatscottgadgets",
+    "name": "ubertooth",
+    "language": "c",
+    "stars": 905,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stefanhafeneger",
+    "name": "PushMeBaby",
+    "language": "c",
+    "stars": 901,
+    "forks": 295,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sustrik",
+    "name": "libdill",
+    "language": "c",
+    "stars": 901,
+    "forks": 85,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wolfcw",
+    "name": "libfaketime",
+    "language": "c",
+    "stars": 900,
+    "forks": 116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WiringPi",
+    "name": "WiringPi",
+    "language": "c",
+    "stars": 900,
+    "forks": 417,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saghul",
+    "name": "pyuv",
+    "language": "c",
+    "stars": 900,
+    "forks": 81,
+    "default_branch": "v1.x"
+  },
+  {
+    "owner": "openbsd",
+    "name": "src",
+    "language": "c",
+    "stars": 897,
+    "forks": 216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tuanpmt",
+    "name": "esp_mqtt",
+    "language": "c",
+    "stars": 897,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snavely",
+    "name": "bundler_sfm",
+    "language": "c",
+    "stars": 896,
+    "forks": 363,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OverTheWireOrg",
+    "name": "OverTheWire-website",
+    "language": "c",
+    "stars": 896,
+    "forks": 406,
+    "default_branch": "gh-pages"
+  },
+  {
+    "owner": "olikraus",
+    "name": "u8g2",
+    "language": "c",
+    "stars": 895,
+    "forks": 210,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brave",
+    "name": "browser-ios",
+    "language": "c",
+    "stars": 894,
+    "forks": 174,
+    "default_branch": "development"
+  },
+  {
+    "owner": "node-on-mobile",
+    "name": "node-on-android",
+    "language": "c",
+    "stars": 894,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stephane",
+    "name": "libmodbus",
+    "language": "c",
+    "stars": 894,
+    "forks": 663,
+    "default_branch": "master"
+  },
+  {
+    "owner": "t6x",
+    "name": "reaver-wps-fork-t6x",
+    "language": "c",
+    "stars": 893,
+    "forks": 272,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Steveice10",
+    "name": "FBI",
+    "language": "c",
+    "stars": 891,
+    "forks": 140,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trailofbits",
+    "name": "ctf",
+    "language": "c",
+    "stars": 889,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paparazzi",
+    "name": "paparazzi",
+    "language": "c",
+    "stars": 888,
+    "forks": 824,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SeasX",
+    "name": "SeasLog",
+    "language": "c",
+    "stars": 888,
+    "forks": 276,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kevinlawler",
+    "name": "kona",
+    "language": "c",
+    "stars": 887,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scanlime",
+    "name": "fadecandy",
+    "language": "c",
+    "stars": 887,
+    "forks": 263,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libarchive",
+    "name": "libarchive",
+    "language": "c",
+    "stars": 887,
+    "forks": 316,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wiire-a",
+    "name": "pixiewps",
+    "language": "c",
+    "stars": 887,
+    "forks": 238,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "google-ctf",
+    "language": "c",
+    "stars": 886,
+    "forks": 102,
+    "default_branch": "master"
+  },
+  {
+    "owner": "patjak",
+    "name": "bcwc_pcie",
+    "language": "c",
+    "stars": 886,
+    "forks": 75,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vmware",
+    "name": "open-vm-tools",
+    "language": "c",
+    "stars": 885,
+    "forks": 193,
+    "default_branch": "master"
+  },
+  {
+    "owner": "linux-test-project",
+    "name": "ltp",
+    "language": "c",
+    "stars": 884,
+    "forks": 453,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crmulliner",
+    "name": "adbi",
+    "language": "c",
+    "stars": 884,
+    "forks": 370,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cesanta",
+    "name": "mjs",
+    "language": "c",
+    "stars": 883,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nabla-c0d3",
+    "name": "ssl-kill-switch2",
+    "language": "c",
+    "stars": 883,
+    "forks": 161,
+    "default_branch": "master"
+  },
+  {
+    "owner": "f0rb1dd3n",
+    "name": "Reptile",
+    "language": "c",
+    "stars": 883,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saminiir",
+    "name": "level-ip",
+    "language": "c",
+    "stars": 882,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bitly",
+    "name": "dablooms",
+    "language": "c",
+    "stars": 881,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CTurt",
+    "name": "PS4-SDK",
+    "language": "c",
+    "stars": 880,
+    "forks": 176,
+    "default_branch": "master"
+  },
+  {
+    "owner": "drh",
+    "name": "lcc",
+    "language": "c",
+    "stars": 878,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aircrack-ng",
+    "name": "aircrack-ng-archive",
+    "language": "c",
+    "stars": 878,
+    "forks": 342,
+    "default_branch": "master"
+  },
+  {
+    "owner": "klange",
+    "name": "nyancat",
+    "language": "c",
+    "stars": 877,
+    "forks": 87,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sysstat",
+    "name": "sysstat",
+    "language": "c",
+    "stars": 875,
+    "forks": 193,
+    "default_branch": "master"
+  },
+  {
+    "owner": "the-tcpdump-group",
+    "name": "tcpdump",
+    "language": "c",
+    "stars": 875,
+    "forks": 418,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KevinOConnor",
+    "name": "klipper",
+    "language": "c",
+    "stars": 875,
+    "forks": 307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imoreapps",
+    "name": "ffmpeg-avplayer-for-ios-tvos",
+    "language": "c",
+    "stars": 874,
+    "forks": 238,
+    "default_branch": "master"
+  },
+  {
+    "owner": "udp",
+    "name": "json-parser",
+    "language": "c",
+    "stars": 874,
+    "forks": 214,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FreeRADIUS",
+    "name": "freeradius-server",
+    "language": "c",
+    "stars": 874,
+    "forks": 600,
+    "default_branch": "master"
+  },
+  {
+    "owner": "samr7",
+    "name": "vanitygen",
+    "language": "c",
+    "stars": 872,
+    "forks": 485,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JFreegman",
+    "name": "toxic",
+    "language": "c",
+    "stars": 871,
+    "forks": 130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gozfree",
+    "name": "libraries",
+    "language": "c",
+    "stars": 871,
+    "forks": 302,
+    "default_branch": "master"
+  },
+  {
+    "owner": "planck-repl",
+    "name": "planck",
+    "language": "c",
+    "stars": 870,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OLIMEX",
+    "name": "OLINUXINO",
+    "language": "c",
+    "stars": 868,
+    "forks": 559,
+    "default_branch": "master"
+  },
+  {
+    "owner": "henkman",
+    "name": "virgo",
+    "language": "c",
+    "stars": 868,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andybarry",
+    "name": "flight",
+    "language": "c",
+    "stars": 866,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HardySimpson",
+    "name": "zlog",
+    "language": "c",
+    "stars": 864,
+    "forks": 340,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spdk",
+    "name": "spdk",
+    "language": "c",
+    "stars": 864,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "deanmao",
+    "name": "node-chimera",
+    "language": "c",
+    "stars": 862,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "guacamole-server",
+    "language": "c",
+    "stars": 862,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danielgtaylor",
+    "name": "jpeg-archive",
+    "language": "c",
+    "stars": 861,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "centaurean",
+    "name": "density",
+    "language": "c",
+    "stars": 861,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "holmium",
+    "name": "dnsforwarder",
+    "language": "c",
+    "stars": 861,
+    "forks": 254,
+    "default_branch": "6"
+  },
+  {
+    "owner": "erikfrey",
+    "name": "bashreduce",
+    "language": "c",
+    "stars": 860,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "havlenapetr",
+    "name": "FFMpeg",
+    "language": "c",
+    "stars": 859,
+    "forks": 448,
+    "default_branch": "debug"
+  },
+  {
+    "owner": "Cybellum",
+    "name": "DoubleAgent",
+    "language": "c",
+    "stars": 859,
+    "forks": 304,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seemoo-lab",
+    "name": "nexmon",
+    "language": "c",
+    "stars": 859,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheAlgorithms",
+    "name": "C",
+    "language": "c",
+    "stars": 858,
+    "forks": 409,
+    "default_branch": "master"
+  },
+  {
+    "owner": "autopilot-rs",
+    "name": "autopy-legacy",
+    "language": "c",
+    "stars": 857,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adrianlopezroche",
+    "name": "fdupes",
+    "language": "c",
+    "stars": 856,
+    "forks": 102,
+    "default_branch": "master"
+  },
+  {
+    "owner": "djcb",
+    "name": "mu",
+    "language": "c",
+    "stars": 856,
+    "forks": 245,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abperiasamy",
+    "name": "rtl8812AU_8821AU_linux",
+    "language": "c",
+    "stars": 855,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uzbl",
+    "name": "uzbl",
+    "language": "c",
+    "stars": 854,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mpenkov",
+    "name": "ffmpeg-tutorial",
+    "language": "c",
+    "stars": 854,
+    "forks": 314,
+    "default_branch": "master"
+  },
+  {
+    "owner": "symisc",
+    "name": "unqlite",
+    "language": "c",
+    "stars": 854,
+    "forks": 88,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mariadb-corporation",
+    "name": "MaxScale",
+    "language": "c",
+    "stars": 853,
+    "forks": 237,
+    "default_branch": "2.2"
+  },
+  {
+    "owner": "kn007",
+    "name": "silk-v3-decoder",
+    "language": "c",
+    "stars": 853,
+    "forks": 254,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Stichting-MINIX-Research-Foundation",
+    "name": "minix",
+    "language": "c",
+    "stars": 852,
+    "forks": 309,
+    "default_branch": "master"
+  },
+  {
+    "owner": "osqzss",
+    "name": "gps-sdr-sim",
+    "language": "c",
+    "stars": 851,
+    "forks": 280,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ionescu007",
+    "name": "SimpleVisor",
+    "language": "c",
+    "stars": 850,
+    "forks": 151,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adoxa",
+    "name": "ansicon",
+    "language": "c",
+    "stars": 850,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "madeye",
+    "name": "gaeproxy",
+    "language": "c",
+    "stars": 850,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rsyslog",
+    "name": "rsyslog",
+    "language": "c",
+    "stars": 849,
+    "forks": 390,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paboldin",
+    "name": "meltdown-exploit",
+    "language": "c",
+    "stars": 847,
+    "forks": 259,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rougier",
+    "name": "freetype-gl",
+    "language": "c",
+    "stars": 846,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ambrop72",
+    "name": "badvpn",
+    "language": "c",
+    "stars": 846,
+    "forks": 298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "ngx_brotli",
+    "language": "c",
+    "stars": 845,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orangeduck",
+    "name": "Corange",
+    "language": "c",
+    "stars": 845,
+    "forks": 114,
+    "default_branch": "master"
+  },
+  {
+    "owner": "torproject",
+    "name": "tor",
+    "language": "c",
+    "stars": 844,
+    "forks": 337,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danginsburg",
+    "name": "opengles3-book",
+    "language": "c",
+    "stars": 844,
+    "forks": 446,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OISF",
+    "name": "suricata",
+    "language": "c",
+    "stars": 844,
+    "forks": 502,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MidnightCommander",
+    "name": "mc",
+    "language": "c",
+    "stars": 843,
+    "forks": 350,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Rust-SDL2",
+    "name": "rust-sdl2",
+    "language": "c",
+    "stars": 843,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WireGuard",
+    "name": "WireGuard",
+    "language": "c",
+    "stars": 843,
+    "forks": 95,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kripken",
+    "name": "box2d.js",
+    "language": "c",
+    "stars": 843,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rumpkernel",
+    "name": "rumprun",
+    "language": "c",
+    "stars": 842,
+    "forks": 100,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xairy",
+    "name": "kernel-exploits",
+    "language": "c",
+    "stars": 842,
+    "forks": 255,
+    "default_branch": "master"
+  },
+  {
+    "owner": "projectatomic",
+    "name": "bubblewrap",
+    "language": "c",
+    "stars": 842,
+    "forks": 88,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openresty",
+    "name": "headers-more-nginx-module",
+    "language": "c",
+    "stars": 836,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fluent",
+    "name": "fluent-bit",
+    "language": "c",
+    "stars": 836,
+    "forks": 210,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter",
+    "name": "twemcache",
+    "language": "c",
+    "stars": 835,
+    "forks": 142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "defuse",
+    "name": "swatd",
+    "language": "c",
+    "stars": 830,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CanonicalLtd",
+    "name": "dqlite",
+    "language": "c",
+    "stars": 829,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "php-memcached-dev",
+    "name": "php-memcached",
+    "language": "c",
+    "stars": 829,
+    "forks": 291,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lwfinger",
+    "name": "rtl8188eu",
+    "language": "c",
+    "stars": 829,
+    "forks": 356,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opsengine",
+    "name": "cpulimit",
+    "language": "c",
+    "stars": 828,
+    "forks": 148,
+    "default_branch": "master"
+  },
+  {
+    "owner": "krakjoe",
+    "name": "phpdbg",
+    "language": "c",
+    "stars": 827,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "christinaa",
+    "name": "rpi-open-firmware",
+    "language": "c",
+    "stars": 823,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "micronucleus",
+    "name": "micronucleus",
+    "language": "c",
+    "stars": 823,
+    "forks": 189,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rizsotto",
+    "name": "Bear",
+    "language": "c",
+    "stars": 823,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googleprojectzero",
+    "name": "winafl",
+    "language": "c",
+    "stars": 822,
+    "forks": 230,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DhavalKapil",
+    "name": "heap-exploitation",
+    "language": "c",
+    "stars": 821,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "usrbinnc",
+    "name": "netcat-cpi-kernel-module",
+    "language": "c",
+    "stars": 817,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dequis",
+    "name": "purple-facebook",
+    "language": "c",
+    "stars": 816,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spotify",
+    "name": "sparkey",
+    "language": "c",
+    "stars": 816,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jbush001",
+    "name": "NyuziProcessor",
+    "language": "c",
+    "stars": 816,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DynamoRIO",
+    "name": "dynamorio",
+    "language": "c",
+    "stars": 814,
+    "forks": 217,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LiteOS",
+    "name": "LiteOS",
+    "language": "c",
+    "stars": 812,
+    "forks": 506,
+    "default_branch": "master"
+  },
+  {
+    "owner": "matsumotory",
+    "name": "ngx_mruby",
+    "language": "c",
+    "stars": 811,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "ApsaraCache",
+    "language": "c",
+    "stars": 811,
+    "forks": 129,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "Visgean",
+    "name": "Zeus",
+    "language": "c",
+    "stars": 808,
+    "forks": 559,
+    "default_branch": "translation"
+  },
+  {
+    "owner": "xroche",
+    "name": "httrack",
+    "language": "c",
+    "stars": 807,
+    "forks": 217,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rmagick-temp",
+    "name": "rmagick",
+    "language": "c",
+    "stars": 807,
+    "forks": 217,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Coolerfall",
+    "name": "Android-AppDaemon",
+    "language": "c",
+    "stars": 807,
+    "forks": 258,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pmq20",
+    "name": "ruby-packer",
+    "language": "c",
+    "stars": 806,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FeralInteractive",
+    "name": "gamemode",
+    "language": "c",
+    "stars": 805,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gsliepen",
+    "name": "tinc",
+    "language": "c",
+    "stars": 802,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "okbob",
+    "name": "pspg",
+    "language": "c",
+    "stars": 801,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kornelski",
+    "name": "giflossy",
+    "language": "c",
+    "stars": 801,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "quiet",
+    "name": "quiet",
+    "language": "c",
+    "stars": 800,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmin18",
+    "name": "WaxPatch",
+    "language": "c",
+    "stars": 798,
+    "forks": 188,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NicoHood",
+    "name": "HID",
+    "language": "c",
+    "stars": 798,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libharu",
+    "name": "libharu",
+    "language": "c",
+    "stars": 797,
+    "forks": 291,
+    "default_branch": "master"
+  },
+  {
+    "owner": "boywhp",
+    "name": "fcn",
+    "language": "c",
+    "stars": 797,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "monitoringartist",
+    "name": "zabbix-docker-monitoring",
+    "language": "c",
+    "stars": 795,
+    "forks": 172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mattconnolly",
+    "name": "ZipArchive",
+    "language": "c",
+    "stars": 794,
+    "forks": 266,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aws",
+    "name": "amazon-freertos",
+    "language": "c",
+    "stars": 794,
+    "forks": 263,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vishnubob",
+    "name": "python-midi",
+    "language": "c",
+    "stars": 793,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stephenfewer",
+    "name": "ReflectiveDLLInjection",
+    "language": "c",
+    "stars": 793,
+    "forks": 333,
+    "default_branch": "master"
+  },
+  {
+    "owner": "osirislab",
+    "name": "Hack-Night",
+    "language": "c",
+    "stars": 790,
+    "forks": 213,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iqiyi",
+    "name": "xHook",
+    "language": "c",
+    "stars": 788,
+    "forks": 167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomojitakasu",
+    "name": "RTKLIB",
+    "language": "c",
+    "stars": 787,
+    "forks": 623,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bloomberg",
+    "name": "comdb2",
+    "language": "c",
+    "stars": 787,
+    "forks": 106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "IanHarvey",
+    "name": "bluepy",
+    "language": "c",
+    "stars": 786,
+    "forks": 284,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blacksphere",
+    "name": "blackmagic",
+    "language": "c",
+    "stars": 784,
+    "forks": 289,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NetHack",
+    "name": "NetHack",
+    "language": "c",
+    "stars": 783,
+    "forks": 173,
+    "default_branch": "NetHack-3.6.2-beta01"
+  },
+  {
+    "owner": "mdirolf",
+    "name": "nginx-gridfs",
+    "language": "c",
+    "stars": 783,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thomasfinch",
+    "name": "GammaThingy",
+    "language": "c",
+    "stars": 782,
+    "forks": 100,
+    "default_branch": "master"
+  },
+  {
+    "owner": "simplresty",
+    "name": "ngx_devel_kit",
+    "language": "c",
+    "stars": 780,
+    "forks": 170,
+    "default_branch": "master"
+  },
+  {
+    "owner": "webyog",
+    "name": "sqlyog-community",
+    "language": "c",
+    "stars": 780,
+    "forks": 136,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guanzhi",
+    "name": "GmSSL",
+    "language": "c",
+    "stars": 779,
+    "forks": 378,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daurnimator",
+    "name": "lua.vm.js",
+    "language": "c",
+    "stars": 779,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "timwr",
+    "name": "CVE-2016-5195",
+    "language": "c",
+    "stars": 778,
+    "forks": 373,
+    "default_branch": "master"
+  },
+  {
+    "owner": "karthick18",
+    "name": "inception",
+    "language": "c",
+    "stars": 778,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shihyu",
+    "name": "Linux_Programming",
+    "language": "c",
+    "stars": 775,
+    "forks": 524,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codeplea",
+    "name": "genann",
+    "language": "c",
+    "stars": 774,
+    "forks": 85,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "transform360",
+    "language": "c",
+    "stars": 773,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kamailio",
+    "name": "kamailio",
+    "language": "c",
+    "stars": 772,
+    "forks": 418,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AlexAltea",
+    "name": "orbital",
+    "language": "c",
+    "stars": 772,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Lora-net",
+    "name": "LoRaMac-node",
+    "language": "c",
+    "stars": 772,
+    "forks": 563,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "kaltura",
+    "name": "nginx-vod-module",
+    "language": "c",
+    "stars": 771,
+    "forks": 195,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sheepdog",
+    "name": "sheepdog",
+    "language": "c",
+    "stars": 771,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coolstar",
+    "name": "RecordMyScreen",
+    "language": "c",
+    "stars": 771,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openmv",
+    "name": "openmv",
+    "language": "c",
+    "stars": 770,
+    "forks": 338,
+    "default_branch": "master"
+  },
+  {
+    "owner": "douglascrockford",
+    "name": "DEC64",
+    "language": "c",
+    "stars": 770,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "axel-download-accelerator",
+    "name": "axel",
+    "language": "c",
+    "stars": 769,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blechschmidt",
+    "name": "massdns",
+    "language": "c",
+    "stars": 768,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "olilarkin",
+    "name": "wdl-ol",
+    "language": "c",
+    "stars": 768,
+    "forks": 175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Qihoo360",
+    "name": "huststore",
+    "language": "c",
+    "stars": 766,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bwilcox-1234",
+    "name": "ChatScript",
+    "language": "c",
+    "stars": 766,
+    "forks": 250,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ThingPulse",
+    "name": "esp8266-oled-ssd1306",
+    "language": "c",
+    "stars": 766,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zardus",
+    "name": "preeny",
+    "language": "c",
+    "stars": 766,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "particle-iot",
+    "name": "firmware",
+    "language": "c",
+    "stars": 764,
+    "forks": 448,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "jimon",
+    "name": "osx_app_in_plain_c",
+    "language": "c",
+    "stars": 763,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "olikraus",
+    "name": "u8glib",
+    "language": "c",
+    "stars": 763,
+    "forks": 213,
+    "default_branch": "master"
+  },
+  {
+    "owner": "davidfstr",
+    "name": "rdiscount",
+    "language": "c",
+    "stars": 761,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jbangert",
+    "name": "trapcc",
+    "language": "c",
+    "stars": 761,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "douban",
+    "name": "beansdb",
+    "language": "c",
+    "stars": 760,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iNavFlight",
+    "name": "inav",
+    "language": "c",
+    "stars": 760,
+    "forks": 416,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mintty",
+    "name": "mintty",
+    "language": "c",
+    "stars": 758,
+    "forks": 94,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rbsec",
+    "name": "sslscan",
+    "language": "c",
+    "stars": 758,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hacksysteam",
+    "name": "HackSysExtremeVulnerableDriver",
+    "language": "c",
+    "stars": 757,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libtom",
+    "name": "libtomcrypt",
+    "language": "c",
+    "stars": 755,
+    "forks": 260,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "symisc",
+    "name": "sod",
+    "language": "c",
+    "stars": 755,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bither",
+    "name": "bither-android-lib",
+    "language": "c",
+    "stars": 754,
+    "forks": 226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SOHUDBA",
+    "name": "SOHU-DBProxy",
+    "language": "c",
+    "stars": 753,
+    "forks": 221,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reorg",
+    "name": "pg_repack",
+    "language": "c",
+    "stars": 752,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arnaud-lb",
+    "name": "php-rdkafka",
+    "language": "c",
+    "stars": 751,
+    "forks": 147,
+    "default_branch": "master"
+  },
+  {
+    "owner": "examplecode",
+    "name": "mproxy",
+    "language": "c",
+    "stars": 751,
+    "forks": 323,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MaJerle",
+    "name": "stm32f429",
+    "language": "c",
+    "stars": 751,
+    "forks": 741,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pygame",
+    "name": "pygame",
+    "language": "c",
+    "stars": 750,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "benhoyt",
+    "name": "inih",
+    "language": "c",
+    "stars": 750,
+    "forks": 213,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libressl-portable",
+    "name": "portable",
+    "language": "c",
+    "stars": 749,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChristopheJacquet",
+    "name": "PiFmRds",
+    "language": "c",
+    "stars": 749,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "devsisters",
+    "name": "goquic",
+    "language": "c",
+    "stars": 749,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "boothj5",
+    "name": "profanity",
+    "language": "c",
+    "stars": 749,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tjko",
+    "name": "jpegoptim",
+    "language": "c",
+    "stars": 748,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emweb",
+    "name": "wt",
+    "language": "c",
+    "stars": 748,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jordansissel",
+    "name": "xdotool",
+    "language": "c",
+    "stars": 748,
+    "forks": 130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andrewrk",
+    "name": "libsoundio",
+    "language": "c",
+    "stars": 748,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mptre",
+    "name": "yank",
+    "language": "c",
+    "stars": 748,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "littlevgl",
+    "name": "lvgl",
+    "language": "c",
+    "stars": 747,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tmm1",
+    "name": "rblineprof",
+    "language": "c",
+    "stars": 746,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igraph",
+    "name": "igraph",
+    "language": "c",
+    "stars": 746,
+    "forks": 201,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nkolban",
+    "name": "esp32-snippets",
+    "language": "c",
+    "stars": 746,
+    "forks": 271,
+    "default_branch": "master"
+  },
+  {
+    "owner": "icepy",
+    "name": "icepy.me",
+    "language": "c",
+    "stars": 745,
+    "forks": 94,
+    "default_branch": "master"
+  },
+  {
+    "owner": "projectNe10",
+    "name": "Ne10",
+    "language": "c",
+    "stars": 745,
+    "forks": 222,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FRiCKLE",
+    "name": "ngx_cache_purge",
+    "language": "c",
+    "stars": 744,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "i-rinat",
+    "name": "freshplayerplugin",
+    "language": "c",
+    "stars": 743,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tideways",
+    "name": "php-xhprof-extension",
+    "language": "c",
+    "stars": 742,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "firmianay",
+    "name": "CTF-All-In-One",
+    "language": "c",
+    "stars": 740,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wine-mirror",
+    "name": "wine",
+    "language": "c",
+    "stars": 739,
+    "forks": 412,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arjun024",
+    "name": "mkernel",
+    "language": "c",
+    "stars": 739,
+    "forks": 130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "checkpoint-restore",
+    "name": "criu",
+    "language": "c",
+    "stars": 736,
+    "forks": 188,
+    "default_branch": "master"
+  },
+  {
+    "owner": "halayli",
+    "name": "lthread",
+    "language": "c",
+    "stars": 736,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexfru",
+    "name": "SmallerC",
+    "language": "c",
+    "stars": 735,
+    "forks": 94,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AltraMayor",
+    "name": "f3",
+    "language": "c",
+    "stars": 735,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "heterodb",
+    "name": "pg-strom",
+    "language": "c",
+    "stars": 734,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "commonmark",
+    "name": "cmark",
+    "language": "c",
+    "stars": 734,
+    "forks": 227,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Gigoteur",
+    "name": "UnicornConsole",
+    "language": "c",
+    "stars": 734,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "govolution",
+    "name": "avet",
+    "language": "c",
+    "stars": 733,
+    "forks": 230,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rianhunter",
+    "name": "wasmjit",
+    "language": "c",
+    "stars": 733,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ntop",
+    "name": "n2n",
+    "language": "c",
+    "stars": 733,
+    "forks": 144,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "Morgan-Stanley",
+    "name": "hobbes",
+    "language": "c",
+    "stars": 731,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BohuTANG",
+    "name": "nessDB",
+    "language": "c",
+    "stars": 730,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudozer",
+    "name": "ling",
+    "language": "c",
+    "stars": 728,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "csujedihy",
+    "name": "proximac",
+    "language": "c",
+    "stars": 725,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aonez",
+    "name": "Keka",
+    "language": "c",
+    "stars": 725,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iOS-Swift-Developers",
+    "name": "Swift",
+    "language": "c",
+    "stars": 724,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adafruit",
+    "name": "Adafruit_Python_DHT",
+    "language": "c",
+    "stars": 723,
+    "forks": 478,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vitorgalvao",
+    "name": "alfred-workflows",
+    "language": "c",
+    "stars": 723,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moonlight-stream",
+    "name": "moonlight-pc",
+    "language": "c",
+    "stars": 722,
+    "forks": 95,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cyan4973",
+    "name": "FiniteStateEntropy",
+    "language": "c",
+    "stars": 722,
+    "forks": 75,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "Blosc",
+    "name": "bcolz",
+    "language": "c",
+    "stars": 722,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zeromq",
+    "name": "czmq",
+    "language": "c",
+    "stars": 721,
+    "forks": 413,
+    "default_branch": "master"
+  },
+  {
+    "owner": "riolet",
+    "name": "rix",
+    "language": "c",
+    "stars": 720,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rebol",
+    "name": "rebol",
+    "language": "c",
+    "stars": 720,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Dunedan",
+    "name": "mbp-2016-linux",
+    "language": "c",
+    "stars": 720,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mkottman",
+    "name": "AndroLua",
+    "language": "c",
+    "stars": 720,
+    "forks": 235,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cksystemsteaching",
+    "name": "selfie",
+    "language": "c",
+    "stars": 718,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hanslub42",
+    "name": "rlwrap",
+    "language": "c",
+    "stars": 718,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheOfficialFloW",
+    "name": "VitaShell",
+    "language": "c",
+    "stars": 717,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vvviperrr",
+    "name": "SimpleRT",
+    "language": "c",
+    "stars": 716,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pvaret",
+    "name": "rtl8192cu-fixes",
+    "language": "c",
+    "stars": 715,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gittup",
+    "name": "tup",
+    "language": "c",
+    "stars": 714,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gentilkiwi",
+    "name": "wanakiwi",
+    "language": "c",
+    "stars": 713,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Lede-Inc",
+    "name": "cetus",
+    "language": "c",
+    "stars": 713,
+    "forks": 167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "muennich",
+    "name": "sxiv",
+    "language": "c",
+    "stars": 712,
+    "forks": 88,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wal-g",
+    "name": "wal-g",
+    "language": "c",
+    "stars": 710,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DeaDBeeF-Player",
+    "name": "deadbeef",
+    "language": "c",
+    "stars": 709,
+    "forks": 102,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Snaipe",
+    "name": "Criterion",
+    "language": "c",
+    "stars": 708,
+    "forks": 93,
+    "default_branch": "bleeding"
+  },
+  {
+    "owner": "laruence",
+    "name": "yaconf",
+    "language": "c",
+    "stars": 708,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baskerville",
+    "name": "sxhkd",
+    "language": "c",
+    "stars": 708,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FreeApophis",
+    "name": "TrueCrypt",
+    "language": "c",
+    "stars": 708,
+    "forks": 257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "nginx-http-concat",
+    "language": "c",
+    "stars": 707,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cc65",
+    "name": "cc65",
+    "language": "c",
+    "stars": 706,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FRRouting",
+    "name": "frr",
+    "language": "c",
+    "stars": 705,
+    "forks": 291,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coreutils",
+    "name": "coreutils",
+    "language": "c",
+    "stars": 704,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jklmnn",
+    "name": "imagejs",
+    "language": "c",
+    "stars": 703,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GrahamDumpleton",
+    "name": "mod_wsgi",
+    "language": "c",
+    "stars": 703,
+    "forks": 163,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "cyring",
+    "name": "CoreFreq",
+    "language": "c",
+    "stars": 702,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reicast",
+    "name": "reicast-emulator",
+    "language": "c",
+    "stars": 702,
+    "forks": 219,
+    "default_branch": "master"
+  },
+  {
+    "owner": "buserror",
+    "name": "simavr",
+    "language": "c",
+    "stars": 702,
+    "forks": 190,
+    "default_branch": "master"
+  },
+  {
+    "owner": "504ensicsLabs",
+    "name": "LiME",
+    "language": "c",
+    "stars": 701,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oNaiPs",
+    "name": "droidVncServer",
+    "language": "c",
+    "stars": 700,
+    "forks": 422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lanoxx",
+    "name": "tilda",
+    "language": "c",
+    "stars": 699,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kgabis",
+    "name": "parson",
+    "language": "c",
+    "stars": 698,
+    "forks": 168,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dcodeIO",
+    "name": "webassembly",
+    "language": "c",
+    "stars": 697,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "juhovh",
+    "name": "shairplay",
+    "language": "c",
+    "stars": 696,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pgbouncer",
+    "name": "pgbouncer",
+    "language": "c",
+    "stars": 695,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imbushuo",
+    "name": "mac-precision-touchpad",
+    "language": "c",
+    "stars": 694,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tj",
+    "name": "histo",
+    "language": "c",
+    "stars": 692,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xiehuc",
+    "name": "pidgin-lwqq",
+    "language": "c",
+    "stars": 691,
+    "forks": 227,
+    "default_branch": "master"
+  },
+  {
+    "owner": "distcc",
+    "name": "distcc",
+    "language": "c",
+    "stars": 691,
+    "forks": 143,
+    "default_branch": "master"
+  },
+  {
+    "owner": "intel",
+    "name": "haxm",
+    "language": "c",
+    "stars": 690,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yangjie10930",
+    "name": "EpMedia",
+    "language": "c",
+    "stars": 690,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "balde",
+    "name": "balde",
+    "language": "c",
+    "stars": 690,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fdintino",
+    "name": "nginx-upload-module",
+    "language": "c",
+    "stars": 690,
+    "forks": 260,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openresty",
+    "name": "echo-nginx-module",
+    "language": "c",
+    "stars": 690,
+    "forks": 187,
+    "default_branch": "master"
+  },
+  {
+    "owner": "simh",
+    "name": "simh",
+    "language": "c",
+    "stars": 689,
+    "forks": 161,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "smaz",
+    "language": "c",
+    "stars": 688,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "psankar",
+    "name": "simplefs",
+    "language": "c",
+    "stars": 688,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fossasia",
+    "name": "pslab-firmware",
+    "language": "c",
+    "stars": 687,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "0x90",
+    "name": "wifi-arsenal",
+    "language": "c",
+    "stars": 686,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "socketry",
+    "name": "nio4r",
+    "language": "c",
+    "stars": 686,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tyilo",
+    "name": "insert_dylib",
+    "language": "c",
+    "stars": 686,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rampantpixels",
+    "name": "rpmalloc",
+    "language": "c",
+    "stars": 684,
+    "forks": 62,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "jlamarche",
+    "name": "iOS-OpenGLES-Stuff",
+    "language": "c",
+    "stars": 683,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ARM-software",
+    "name": "arm-trusted-firmware",
+    "language": "c",
+    "stars": 683,
+    "forks": 583,
+    "default_branch": "master"
+  },
+  {
+    "owner": "glouw",
+    "name": "littlewolf",
+    "language": "c",
+    "stars": 682,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tarcieri",
+    "name": "cool.io",
+    "language": "c",
+    "stars": 681,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openzfsonosx",
+    "name": "zfs",
+    "language": "c",
+    "stars": 681,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yrp604",
+    "name": "rappel",
+    "language": "c",
+    "stars": 680,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bt3gl",
+    "name": "Gray-Hacker-Resources",
+    "language": "c",
+    "stars": 679,
+    "forks": 254,
+    "default_branch": "master"
+  },
+  {
+    "owner": "samtools",
+    "name": "samtools",
+    "language": "c",
+    "stars": 678,
+    "forks": 366,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "cjlin1",
+    "name": "liblinear",
+    "language": "c",
+    "stars": 678,
+    "forks": 277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookarchive",
+    "name": "RiftDK1",
+    "language": "c",
+    "stars": 678,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "szcom",
+    "name": "rnnlib",
+    "language": "c",
+    "stars": 677,
+    "forks": 205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "liballeg",
+    "name": "allegro5",
+    "language": "c",
+    "stars": 677,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-fuzz",
+    "name": "afl.rs",
+    "language": "c",
+    "stars": 676,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wesleykendall",
+    "name": "mpitutorial",
+    "language": "c",
+    "stars": 676,
+    "forks": 357,
+    "default_branch": "gh-pages"
+  },
+  {
+    "owner": "gabriel",
+    "name": "yajl-objc",
+    "language": "c",
+    "stars": 674,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "erich666",
+    "name": "GraphicsGems",
+    "language": "c",
+    "stars": 674,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kkos",
+    "name": "oniguruma",
+    "language": "c",
+    "stars": 673,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pellepl",
+    "name": "spiffs",
+    "language": "c",
+    "stars": 673,
+    "forks": 246,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vinniefalco",
+    "name": "LuaBridge",
+    "language": "c",
+    "stars": 671,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openresty",
+    "name": "redis2-nginx-module",
+    "language": "c",
+    "stars": 670,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CTCaer",
+    "name": "hekate",
+    "language": "c",
+    "stars": 670,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bitcoin-core",
+    "name": "secp256k1",
+    "language": "c",
+    "stars": 670,
+    "forks": 428,
+    "default_branch": "master"
+  },
+  {
+    "owner": "strazzere",
+    "name": "android-unpacker",
+    "language": "c",
+    "stars": 669,
+    "forks": 273,
+    "default_branch": "master"
+  },
+  {
+    "owner": "memononen",
+    "name": "nanosvg",
+    "language": "c",
+    "stars": 669,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gpac",
+    "name": "gpac",
+    "language": "c",
+    "stars": 669,
+    "forks": 226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RedisLabsModules",
+    "name": "rejson",
+    "language": "c",
+    "stars": 669,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "B-Con",
+    "name": "crypto-algorithms",
+    "language": "c",
+    "stars": 667,
+    "forks": 277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cisco",
+    "name": "joy",
+    "language": "c",
+    "stars": 666,
+    "forks": 190,
+    "default_branch": "master"
+  },
+  {
+    "owner": "riolet",
+    "name": "WAFer",
+    "language": "c",
+    "stars": 665,
+    "forks": 68,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yasm",
+    "name": "yasm",
+    "language": "c",
+    "stars": 664,
+    "forks": 150,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emsec",
+    "name": "ChameleonMini",
+    "language": "c",
+    "stars": 664,
+    "forks": 162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pytorch",
+    "name": "QNNPACK",
+    "language": "c",
+    "stars": 663,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pepe2k",
+    "name": "u-boot_mod",
+    "language": "c",
+    "stars": 662,
+    "forks": 346,
+    "default_branch": "master"
+  },
+  {
+    "owner": "addy-dclxvi",
+    "name": "almighty-dotfiles",
+    "language": "c",
+    "stars": 662,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dynup",
+    "name": "kpatch",
+    "language": "c",
+    "stars": 660,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lattera",
+    "name": "glibc",
+    "language": "c",
+    "stars": 660,
+    "forks": 405,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hgpvision",
+    "name": "darknet",
+    "language": "c",
+    "stars": 660,
+    "forks": 232,
+    "default_branch": "master"
+  },
+  {
+    "owner": "c9s",
+    "name": "r3",
+    "language": "c",
+    "stars": 659,
+    "forks": 63,
+    "default_branch": "2.0"
+  },
+  {
+    "owner": "axiak",
+    "name": "pybloomfiltermmap",
+    "language": "c",
+    "stars": 659,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "corosync",
+    "name": "corosync",
+    "language": "c",
+    "stars": 658,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robertdavidgraham",
+    "name": "heartleech",
+    "language": "c",
+    "stars": 657,
+    "forks": 140,
+    "default_branch": "master"
+  }
+]

@@ -1,0 +1,8002 @@
+[
+  {
+    "owner": "rust-lang",
+    "name": "rust",
+    "language": "rust",
+    "stars": 31672,
+    "forks": 5289,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xi-editor",
+    "name": "xi-editor",
+    "language": "rust",
+    "stars": 15158,
+    "forks": 558,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jwilm",
+    "name": "alacritty",
+    "language": "rust",
+    "stars": 12984,
+    "forks": 556,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "servo",
+    "language": "rust",
+    "stars": 12708,
+    "forks": 1990,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "ripgrep",
+    "language": "rust",
+    "stars": 11343,
+    "forks": 464,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sharkdp",
+    "name": "bat",
+    "language": "rust",
+    "stars": 10022,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-unofficial",
+    "name": "awesome-rust",
+    "language": "rust",
+    "stars": 8527,
+    "forks": 562,
+    "default_branch": "master"
+  },
+  {
+    "owner": "atom",
+    "name": "xray",
+    "language": "rust",
+    "stars": 8266,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sharkdp",
+    "name": "fd",
+    "language": "rust",
+    "stars": 7322,
+    "forks": 188,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DenisKolodin",
+    "name": "yew",
+    "language": "rust",
+    "stars": 5754,
+    "forks": 205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SergioBenitez",
+    "name": "Rocket",
+    "language": "rust",
+    "stars": 5581,
+    "forks": 365,
+    "default_branch": "master"
+  },
+  {
+    "owner": "autumnai",
+    "name": "leaf",
+    "language": "rust",
+    "stars": 5341,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iron",
+    "name": "iron",
+    "language": "rust",
+    "stars": 5114,
+    "forks": 367,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ogham",
+    "name": "exa",
+    "language": "rust",
+    "stars": 5045,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paritytech",
+    "name": "parity-ethereum",
+    "language": "rust",
+    "stars": 4972,
+    "forks": 1097,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uutils",
+    "name": "coreutils",
+    "language": "rust",
+    "stars": 4386,
+    "forks": 388,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mre",
+    "name": "awesome-static-analysis",
+    "language": "rust",
+    "stars": 4170,
+    "forks": 478,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hyperium",
+    "name": "hyper",
+    "language": "rust",
+    "stars": 4064,
+    "forks": 643,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tikv",
+    "name": "tikv",
+    "language": "rust",
+    "stars": 3897,
+    "forks": 542,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "xsv",
+    "language": "rust",
+    "stars": 3709,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang",
+    "name": "cargo",
+    "language": "rust",
+    "stars": 3693,
+    "forks": 839,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tokio-rs",
+    "name": "tokio",
+    "language": "rust",
+    "stars": 3481,
+    "forks": 255,
+    "default_branch": "master"
+  },
+  {
+    "owner": "svenstaro",
+    "name": "genact",
+    "language": "rust",
+    "stars": 3393,
+    "forks": 146,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anordal",
+    "name": "shellharden",
+    "language": "rust",
+    "stars": 3266,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "diesel-rs",
+    "name": "diesel",
+    "language": "rust",
+    "stars": 3245,
+    "forks": 325,
+    "default_branch": "master"
+  },
+  {
+    "owner": "benfred",
+    "name": "py-spy",
+    "language": "rust",
+    "stars": 3091,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustlings",
+    "name": "rustlings",
+    "language": "rust",
+    "stars": 3051,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang",
+    "name": "book",
+    "language": "rust",
+    "stars": 2939,
+    "forks": 831,
+    "default_branch": "master"
+  },
+  {
+    "owner": "neon-bindings",
+    "name": "neon",
+    "language": "rust",
+    "stars": 2860,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "actix",
+    "name": "actix-web",
+    "language": "rust",
+    "stars": 2743,
+    "forks": 188,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carllerche",
+    "name": "mio",
+    "language": "rust",
+    "stars": 2741,
+    "forks": 336,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "rust-clippy",
+    "language": "rust",
+    "stars": 2671,
+    "forks": 368,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "tfs",
+    "language": "rust",
+    "stars": 2641,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "racer-rust",
+    "name": "racer",
+    "language": "rust",
+    "stars": 2625,
+    "forks": 252,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mimblewimble",
+    "name": "grin",
+    "language": "rust",
+    "stars": 2595,
+    "forks": 415,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "piston",
+    "language": "rust",
+    "stars": 2585,
+    "forks": 172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Geal",
+    "name": "nom",
+    "language": "rust",
+    "stars": 2480,
+    "forks": 297,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rayon-rs",
+    "name": "rayon",
+    "language": "rust",
+    "stars": 2345,
+    "forks": 162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "futures-rs",
+    "language": "rust",
+    "stars": 2277,
+    "forks": 277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gfx-rs",
+    "name": "gfx",
+    "language": "rust",
+    "stars": 2265,
+    "forks": 291,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clap-rs",
+    "name": "clap",
+    "language": "rust",
+    "stars": 2246,
+    "forks": 235,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nickel-org",
+    "name": "nickel.rs",
+    "language": "rust",
+    "stars": 2232,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koute",
+    "name": "stdweb",
+    "language": "rust",
+    "stars": 2175,
+    "forks": 120,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "rustup.rs",
+    "language": "rust",
+    "stars": 2064,
+    "forks": 298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sharkdp",
+    "name": "hyperfine",
+    "language": "rust",
+    "stars": 1995,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phil-opp",
+    "name": "blog_os",
+    "language": "rust",
+    "stars": 1959,
+    "forks": 180,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amethyst",
+    "name": "amethyst",
+    "language": "rust",
+    "stars": 1945,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "actix",
+    "name": "actix",
+    "language": "rust",
+    "stars": 1869,
+    "forks": 120,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "rustfmt",
+    "language": "rust",
+    "stars": 1864,
+    "forks": 371,
+    "default_branch": "master"
+  },
+  {
+    "owner": "harababurel",
+    "name": "gcsf",
+    "language": "rust",
+    "stars": 1856,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "conrod",
+    "language": "rust",
+    "stars": 1854,
+    "forks": 203,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "rls",
+    "language": "rust",
+    "stars": 1849,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nebulet",
+    "name": "nebulet",
+    "language": "rust",
+    "stars": 1808,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EbTech",
+    "name": "rust-algorithms",
+    "language": "rust",
+    "stars": 1795,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "withoutboats",
+    "name": "notty",
+    "language": "rust",
+    "stars": 1783,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "habitat-sh",
+    "name": "habitat",
+    "language": "rust",
+    "stars": 1746,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "way-cooler",
+    "name": "way-cooler",
+    "language": "rust",
+    "stars": 1746,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "serde-rs",
+    "name": "serde",
+    "language": "rust",
+    "stars": 1735,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tildeio",
+    "name": "helix",
+    "language": "rust",
+    "stars": 1715,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cristicbz",
+    "name": "rust-doom",
+    "language": "rust",
+    "stars": 1698,
+    "forks": 68,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kintaro",
+    "name": "wtftw",
+    "language": "rust",
+    "stars": 1658,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rbspy",
+    "name": "rbspy",
+    "language": "rust",
+    "stars": 1656,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "glium",
+    "name": "glium",
+    "language": "rust",
+    "stars": 1647,
+    "forks": 193,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imazen",
+    "name": "imageflow",
+    "language": "rust",
+    "stars": 1623,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla",
+    "name": "mentat",
+    "language": "rust",
+    "stars": 1584,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spacejam",
+    "name": "sled",
+    "language": "rust",
+    "stars": 1572,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "autozimu",
+    "name": "LanguageClient-neovim",
+    "language": "rust",
+    "stars": 1551,
+    "forks": 138,
+    "default_branch": "next"
+  },
+  {
+    "owner": "rustwasm",
+    "name": "wasm-bindgen",
+    "language": "rust",
+    "stars": 1542,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tailhook",
+    "name": "vagga",
+    "language": "rust",
+    "stars": 1513,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "mdBook",
+    "language": "rust",
+    "stars": 1496,
+    "forks": 229,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maps4print",
+    "name": "azul",
+    "language": "rust",
+    "stars": 1479,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "citybound",
+    "name": "citybound",
+    "language": "rust",
+    "stars": 1478,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vulkano-rs",
+    "name": "vulkano",
+    "language": "rust",
+    "stars": 1474,
+    "forks": 167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Aaronepower",
+    "name": "tokei",
+    "language": "rust",
+    "stars": 1459,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gluon-lang",
+    "name": "gluon",
+    "language": "rust",
+    "stars": 1429,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Spotifyd",
+    "name": "spotifyd",
+    "language": "rust",
+    "stars": 1376,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "webrender",
+    "language": "rust",
+    "stars": 1353,
+    "forks": 188,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tensorflow",
+    "name": "rust",
+    "language": "rust",
+    "stars": 1352,
+    "forks": 144,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huytd",
+    "name": "kanban-app",
+    "language": "rust",
+    "stars": 1317,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "das-labor",
+    "name": "panopticon",
+    "language": "rust",
+    "stars": 1314,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustwasm",
+    "name": "wasm-pack",
+    "language": "rust",
+    "stars": 1274,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Keats",
+    "name": "gutenberg",
+    "language": "rust",
+    "stars": 1242,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tantivy-search",
+    "name": "tantivy",
+    "language": "rust",
+    "stars": 1236,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nathan",
+    "name": "pax",
+    "language": "rust",
+    "stars": 1191,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "murarth",
+    "name": "rusti",
+    "language": "rust",
+    "stars": 1188,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gchp",
+    "name": "iota",
+    "language": "rust",
+    "stars": 1177,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seppo0010",
+    "name": "rsedis",
+    "language": "rust",
+    "stars": 1164,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "m4b",
+    "name": "bingrep",
+    "language": "rust",
+    "stars": 1163,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nbp",
+    "name": "holyjit",
+    "language": "rust",
+    "stars": 1118,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crossbeam-rs",
+    "name": "crossbeam",
+    "language": "rust",
+    "stars": 1113,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pcwalton",
+    "name": "pathfinder",
+    "language": "rust",
+    "stars": 1111,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ntrippar",
+    "name": "sekey",
+    "language": "rust",
+    "stars": 1098,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ImageOptim",
+    "name": "gifski",
+    "language": "rust",
+    "stars": 1094,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pest-parser",
+    "name": "pest",
+    "language": "rust",
+    "stars": 1078,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CraneStation",
+    "name": "cranelift",
+    "language": "rust",
+    "stars": 1070,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antoyo",
+    "name": "relm",
+    "language": "rust",
+    "stars": 1068,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sfackler",
+    "name": "rust-postgres",
+    "language": "rust",
+    "stars": 1067,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gotham-rs",
+    "name": "gotham",
+    "language": "rust",
+    "stars": 1061,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tock",
+    "name": "tock",
+    "language": "rust",
+    "stars": 1051,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PumpkinDB",
+    "name": "PumpkinDB",
+    "language": "rust",
+    "stars": 1044,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hansihe",
+    "name": "rustler",
+    "language": "rust",
+    "stars": 1043,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "graphql-rust",
+    "name": "juniper",
+    "language": "rust",
+    "stars": 1033,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "hematite",
+    "language": "rust",
+    "stars": 1020,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustcc",
+    "name": "RustPrimer",
+    "language": "rust",
+    "stars": 1018,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brson",
+    "name": "stdx",
+    "language": "rust",
+    "stars": 1014,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nrc",
+    "name": "r4cppp",
+    "language": "rust",
+    "stars": 1013,
+    "forks": 95,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hackndev",
+    "name": "zinc",
+    "language": "rust",
+    "stars": 1011,
+    "forks": 108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plietar",
+    "name": "librespot",
+    "language": "rust",
+    "stars": 1010,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ggez",
+    "name": "ggez",
+    "language": "rust",
+    "stars": 1008,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmstick",
+    "name": "parallel",
+    "language": "rust",
+    "stars": 998,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PyO3",
+    "name": "pyo3",
+    "language": "rust",
+    "stars": 990,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cgag",
+    "name": "loc",
+    "language": "rust",
+    "stars": 985,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "weld-project",
+    "name": "weld",
+    "language": "rust",
+    "stars": 984,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomaka",
+    "name": "glutin",
+    "language": "rust",
+    "stars": 978,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dgiagio",
+    "name": "warp",
+    "language": "rust",
+    "stars": 964,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "intermezzOS",
+    "name": "kernel",
+    "language": "rust",
+    "stars": 952,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bluejekyll",
+    "name": "trust-dns",
+    "language": "rust",
+    "stars": 948,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "failure",
+    "language": "rust",
+    "stars": 940,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FGRibreau",
+    "name": "mailchecker",
+    "language": "rust",
+    "stars": 929,
+    "forks": 101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AdamNiederer",
+    "name": "faster",
+    "language": "rust",
+    "stars": 929,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jmacdonald",
+    "name": "amp",
+    "language": "rust",
+    "stars": 928,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seanmonstar",
+    "name": "reqwest",
+    "language": "rust",
+    "stars": 910,
+    "forks": 169,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oakes",
+    "name": "SolidOak",
+    "language": "rust",
+    "stars": 896,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "quickcheck",
+    "language": "rust",
+    "stars": 896,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang",
+    "name": "regex",
+    "language": "rust",
+    "stars": 894,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mitsuhiko",
+    "name": "redis-rs",
+    "language": "rust",
+    "stars": 893,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gyscos",
+    "name": "Cursive",
+    "language": "rust",
+    "stars": 891,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cswinter",
+    "name": "LocustDB",
+    "language": "rust",
+    "stars": 890,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dgrunwald",
+    "name": "rust-cpython",
+    "language": "rust",
+    "stars": 878,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flosse",
+    "name": "rust-web-framework-comparison",
+    "language": "rust",
+    "stars": 872,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chinedufn",
+    "name": "percy",
+    "language": "rust",
+    "stars": 871,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustsim",
+    "name": "nalgebra",
+    "language": "rust",
+    "stars": 866,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang",
+    "name": "crates.io",
+    "language": "rust",
+    "stars": 865,
+    "forks": 248,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fengsp",
+    "name": "pencil",
+    "language": "rust",
+    "stars": 862,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "termion",
+    "language": "rust",
+    "stars": 858,
+    "forks": 75,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ogeon",
+    "name": "rustful",
+    "language": "rust",
+    "stars": 853,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "slide-rs",
+    "name": "specs",
+    "language": "rust",
+    "stars": 847,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "frankmcsherry",
+    "name": "timely-dataflow",
+    "language": "rust",
+    "stars": 845,
+    "forks": 89,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zboxfs",
+    "name": "zbox",
+    "language": "rust",
+    "stars": 838,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mesalock-linux",
+    "name": "mesalink",
+    "language": "rust",
+    "stars": 835,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xiph",
+    "name": "rav1e",
+    "language": "rust",
+    "stars": 831,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shadowsocks",
+    "name": "shadowsocks-rust",
+    "language": "rust",
+    "stars": 823,
+    "forks": 216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yingDev",
+    "name": "Tickeys",
+    "language": "rust",
+    "stars": 814,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "image",
+    "language": "rust",
+    "stars": 811,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ctz",
+    "name": "rustls",
+    "language": "rust",
+    "stars": 808,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gtk-rs",
+    "name": "gtk",
+    "language": "rust",
+    "stars": 797,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nix-rust",
+    "name": "nix",
+    "language": "rust",
+    "stars": 793,
+    "forks": 257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "tarpc",
+    "language": "rust",
+    "stars": 790,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DaGenix",
+    "name": "rust-crypto",
+    "language": "rust",
+    "stars": 789,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oracle",
+    "name": "railcar",
+    "language": "rust",
+    "stars": 786,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stepancheg",
+    "name": "rust-protobuf",
+    "language": "rust",
+    "stars": 783,
+    "forks": 142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lalrpop",
+    "name": "lalrpop",
+    "language": "rust",
+    "stars": 769,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "databricks",
+    "name": "click",
+    "language": "rust",
+    "stars": 763,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "exonum",
+    "name": "exonum",
+    "language": "rust",
+    "stars": 749,
+    "forks": 158,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maidsafe",
+    "name": "crust",
+    "language": "rust",
+    "stars": 747,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "sudo_pair",
+    "language": "rust",
+    "stars": 745,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AtheMathmo",
+    "name": "rusty-machine",
+    "language": "rust",
+    "stars": 742,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivanceras",
+    "name": "svgbob",
+    "language": "rust",
+    "stars": 741,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Plume-org",
+    "name": "Plume",
+    "language": "rust",
+    "stars": 738,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "joncatanio",
+    "name": "cannoli",
+    "language": "rust",
+    "stars": 734,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rusoto",
+    "name": "rusoto",
+    "language": "rust",
+    "stars": 734,
+    "forks": 162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tokio-rs",
+    "name": "tokio-proto",
+    "language": "rust",
+    "stars": 723,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libpnet",
+    "name": "libpnet",
+    "language": "rust",
+    "stars": 718,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sozu-proxy",
+    "name": "sozu",
+    "language": "rust",
+    "stars": 715,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "html5ever",
+    "language": "rust",
+    "stars": 706,
+    "forks": 125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "d-unseductable",
+    "name": "ruru",
+    "language": "rust",
+    "stars": 705,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruma",
+    "name": "ruma",
+    "language": "rust",
+    "stars": 704,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomaka",
+    "name": "android-rs-glue",
+    "language": "rust",
+    "stars": 699,
+    "forks": 72,
+    "default_branch": "master"
+  },
+  {
+    "owner": "housleyjk",
+    "name": "ws-rs",
+    "language": "rust",
+    "stars": 697,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mitsuhiko",
+    "name": "indicatif",
+    "language": "rust",
+    "stars": 696,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mercateo",
+    "name": "rust-for-node-developers",
+    "language": "rust",
+    "stars": 696,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "serde-rs",
+    "name": "json",
+    "language": "rust",
+    "stars": 693,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "casey",
+    "name": "just",
+    "language": "rust",
+    "stars": 691,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saschagrunert",
+    "name": "webapp.rs",
+    "language": "rust",
+    "stars": 691,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "p-e-w",
+    "name": "ternimal",
+    "language": "rust",
+    "stars": 688,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "watchexec",
+    "name": "watchexec",
+    "language": "rust",
+    "stars": 687,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustsim",
+    "name": "nphysics",
+    "language": "rust",
+    "stars": 677,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "dyon",
+    "language": "rust",
+    "stars": 675,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RazrFalcon",
+    "name": "svgcleaner",
+    "language": "rust",
+    "stars": 671,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chronotope",
+    "name": "chrono",
+    "language": "rust",
+    "stars": 668,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "futures-await",
+    "language": "rust",
+    "stars": 667,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seanmonstar",
+    "name": "warp",
+    "language": "rust",
+    "stars": 667,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "ion",
+    "language": "rust",
+    "stars": 663,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "capnproto",
+    "name": "capnproto-rust",
+    "language": "rust",
+    "stars": 655,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nical",
+    "name": "lyon",
+    "language": "rust",
+    "stars": 654,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fdehau",
+    "name": "tui-rs",
+    "language": "rust",
+    "stars": 651,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookincubator",
+    "name": "fastmod",
+    "language": "rust",
+    "stars": 650,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cobalt-org",
+    "name": "cobalt.rs",
+    "language": "rust",
+    "stars": 650,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RedBeardLab",
+    "name": "rediSQL",
+    "language": "rust",
+    "stars": 636,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Keats",
+    "name": "tera",
+    "language": "rust",
+    "stars": 633,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TeXitoi",
+    "name": "structopt",
+    "language": "rust",
+    "stars": 633,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "m-labs",
+    "name": "smoltcp",
+    "language": "rust",
+    "stars": 627,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-ndarray",
+    "name": "ndarray",
+    "language": "rust",
+    "stars": 619,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cervus-v",
+    "name": "cervus",
+    "language": "rust",
+    "stars": 616,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lotabout",
+    "name": "skim",
+    "language": "rust",
+    "stars": 603,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "derniercri",
+    "name": "snatch",
+    "language": "rust",
+    "stars": 599,
+    "forks": 27,
+    "default_branch": "devel"
+  },
+  {
+    "owner": "mbrubeck",
+    "name": "robinson",
+    "language": "rust",
+    "stars": 598,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "docopt",
+    "name": "docopt.rs",
+    "language": "rust",
+    "stars": 594,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cryptape",
+    "name": "cita",
+    "language": "rust",
+    "stars": 592,
+    "forks": 99,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "paritytech",
+    "name": "substrate",
+    "language": "rust",
+    "stars": 592,
+    "forks": 117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tokio-rs",
+    "name": "tokio-core",
+    "language": "rust",
+    "stars": 588,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookexperimental",
+    "name": "mononoke",
+    "language": "rust",
+    "stars": 584,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "killercup",
+    "name": "cargo-edit",
+    "language": "rust",
+    "stars": 580,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carllerche",
+    "name": "h2",
+    "language": "rust",
+    "stars": 576,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pcwalton",
+    "name": "sprocketnes",
+    "language": "rust",
+    "stars": 576,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "japaric",
+    "name": "criterion.rs",
+    "language": "rust",
+    "stars": 571,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "slog-rs",
+    "name": "slog",
+    "language": "rust",
+    "stars": 567,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "endgameinc",
+    "name": "xori",
+    "language": "rust",
+    "stars": 566,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yupferris",
+    "name": "rustendo64",
+    "language": "rust",
+    "stars": 557,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "japaric",
+    "name": "xargo",
+    "language": "rust",
+    "stars": 557,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raphlinus",
+    "name": "pulldown-cmark",
+    "language": "rust",
+    "stars": 545,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "websockets-rs",
+    "name": "rust-websocket",
+    "language": "rust",
+    "stars": 545,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stevedonovan",
+    "name": "gentle-intro",
+    "language": "rust",
+    "stars": 544,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustless",
+    "name": "rustless",
+    "language": "rust",
+    "stars": 542,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sappworks",
+    "name": "sapper",
+    "language": "rust",
+    "stars": 538,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koute",
+    "name": "cargo-web",
+    "language": "rust",
+    "stars": 535,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stepancheg",
+    "name": "grpc-rust",
+    "language": "rust",
+    "stars": 533,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "relibc",
+    "language": "rust",
+    "stars": 532,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Marwes",
+    "name": "combine",
+    "language": "rust",
+    "stars": 531,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raphlinus",
+    "name": "font-rs",
+    "language": "rust",
+    "stars": 527,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "error-chain",
+    "language": "rust",
+    "stars": 525,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "fst",
+    "language": "rust",
+    "stars": 525,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustsim",
+    "name": "ncollide",
+    "language": "rust",
+    "stars": 525,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bodil",
+    "name": "im-rs",
+    "language": "rust",
+    "stars": 522,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Luminarys",
+    "name": "synapse",
+    "language": "rust",
+    "stars": 519,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "retep998",
+    "name": "winapi-rs",
+    "language": "rust",
+    "stars": 519,
+    "forks": 202,
+    "default_branch": "0.3"
+  },
+  {
+    "owner": "japaric",
+    "name": "steed",
+    "language": "rust",
+    "stars": 518,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "greshake",
+    "name": "i3status-rust",
+    "language": "rust",
+    "stars": 517,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla",
+    "name": "sccache",
+    "language": "rust",
+    "stars": 515,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dpc",
+    "name": "rdedup",
+    "language": "rust",
+    "stars": 513,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MaiaVictor",
+    "name": "Formality",
+    "language": "rust",
+    "stars": 512,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bluss",
+    "name": "rust-itertools",
+    "language": "rust",
+    "stars": 510,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "lazy-static.rs",
+    "language": "rust",
+    "stars": 509,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "passcod",
+    "name": "notify",
+    "language": "rust",
+    "stars": 508,
+    "forks": 62,
+    "default_branch": "v4-legacy"
+  },
+  {
+    "owner": "substantic",
+    "name": "rain",
+    "language": "rust",
+    "stars": 507,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libp2p",
+    "name": "rust-libp2p",
+    "language": "rust",
+    "stars": 507,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kevinmehall",
+    "name": "rust-peg",
+    "language": "rust",
+    "stars": 504,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "passcod",
+    "name": "cargo-watch",
+    "language": "rust",
+    "stars": 502,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "esphen",
+    "name": "wsta",
+    "language": "rust",
+    "stars": 500,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tsgates",
+    "name": "rust.ko",
+    "language": "rust",
+    "stars": 500,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shssoichiro",
+    "name": "oxipng",
+    "language": "rust",
+    "stars": 499,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "frankmcsherry",
+    "name": "differential-dataflow",
+    "language": "rust",
+    "stars": 495,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Amanieu",
+    "name": "parking_lot",
+    "language": "rust",
+    "stars": 493,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ron-rs",
+    "name": "ron",
+    "language": "rust",
+    "stars": 491,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmstick",
+    "name": "systemd-manager",
+    "language": "rust",
+    "stars": 490,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "djc",
+    "name": "askama",
+    "language": "rust",
+    "stars": 489,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bluss",
+    "name": "petgraph",
+    "language": "rust",
+    "stars": 487,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustgd",
+    "name": "cgmath",
+    "language": "rust",
+    "stars": 485,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "rust-csv",
+    "language": "rust",
+    "stars": 483,
+    "forks": 68,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sebcrozet",
+    "name": "kiss3d",
+    "language": "rust",
+    "stars": 482,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-unofficial",
+    "name": "too-many-lists",
+    "language": "rust",
+    "stars": 480,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vmware",
+    "name": "haret",
+    "language": "rust",
+    "stars": 477,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jD91mZM2",
+    "name": "termplay",
+    "language": "rust",
+    "stars": 476,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jhspetersson",
+    "name": "fselect",
+    "language": "rust",
+    "stars": 473,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pikkr",
+    "name": "pikkr",
+    "language": "rust",
+    "stars": 472,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "linkerd",
+    "name": "linkerd-tcp",
+    "language": "rust",
+    "stars": 471,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dpc",
+    "name": "mioco.pre-0.9",
+    "language": "rust",
+    "stars": 471,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sit-fyi",
+    "name": "sit",
+    "language": "rust",
+    "stars": 468,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trishume",
+    "name": "syntect",
+    "language": "rust",
+    "stars": 468,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Zokrates",
+    "name": "ZoKrates",
+    "language": "rust",
+    "stars": 467,
+    "forks": 91,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "rust-bio",
+    "name": "rust-bio",
+    "language": "rust",
+    "stars": 466,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "teepee",
+    "name": "teepee",
+    "language": "rust",
+    "stars": 465,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomaka",
+    "name": "winit",
+    "language": "rust",
+    "stars": 461,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "solson",
+    "name": "miri",
+    "language": "rust",
+    "stars": 460,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TyOverby",
+    "name": "bincode",
+    "language": "rust",
+    "stars": 459,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Xudong-Huang",
+    "name": "may",
+    "language": "rust",
+    "stars": 459,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tower-rs",
+    "name": "tower",
+    "language": "rust",
+    "stars": 458,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Boscop",
+    "name": "web-view",
+    "language": "rust",
+    "stars": 458,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clog-tool",
+    "name": "clog-cli",
+    "language": "rust",
+    "stars": 457,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lfairy",
+    "name": "maud",
+    "language": "rust",
+    "stars": 456,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pingcap",
+    "name": "grpc-rs",
+    "language": "rust",
+    "stars": 455,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Amanieu",
+    "name": "hashbrown",
+    "language": "rust",
+    "stars": 454,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mitnk",
+    "name": "cicada",
+    "language": "rust",
+    "stars": 450,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paritytech",
+    "name": "parity-bitcoin",
+    "language": "rust",
+    "stars": 450,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baidu",
+    "name": "rust-sgx-sdk",
+    "language": "rust",
+    "stars": 449,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "curl-rust",
+    "language": "rust",
+    "stars": 449,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "librespot-org",
+    "name": "librespot",
+    "language": "rust",
+    "stars": 447,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mit-pdos",
+    "name": "noria",
+    "language": "rust",
+    "stars": 445,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Hoverbear",
+    "name": "rust-rosetta",
+    "language": "rust",
+    "stars": 444,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carllerche",
+    "name": "tower-web",
+    "language": "rust",
+    "stars": 443,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lloydmeta",
+    "name": "frunk",
+    "language": "rust",
+    "stars": 442,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Gekkio",
+    "name": "imgui-rs",
+    "language": "rust",
+    "stars": 442,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "killercup",
+    "name": "trpl-ebook",
+    "language": "rust",
+    "stars": 437,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ierror",
+    "name": "ssh-permit-a38",
+    "language": "rust",
+    "stars": 432,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "log",
+    "language": "rust",
+    "stars": 429,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sfackler",
+    "name": "rust-openssl",
+    "language": "rust",
+    "stars": 429,
+    "forks": 299,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeaye",
+    "name": "q3",
+    "language": "rust",
+    "stars": 429,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Drakulix",
+    "name": "fireplace",
+    "language": "rust",
+    "stars": 427,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nannou-org",
+    "name": "nannou",
+    "language": "rust",
+    "stars": 423,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danburkert",
+    "name": "prost",
+    "language": "rust",
+    "stars": 422,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brandur",
+    "name": "redis-cell",
+    "language": "rust",
+    "stars": 420,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koute",
+    "name": "pinky",
+    "language": "rust",
+    "stars": 419,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mathall",
+    "name": "rim",
+    "language": "rust",
+    "stars": 413,
+    "forks": 16,
+    "default_branch": "github"
+  },
+  {
+    "owner": "sfackler",
+    "name": "r2d2",
+    "language": "rust",
+    "stars": 411,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "autumnai",
+    "name": "collenchyma",
+    "language": "rust",
+    "stars": 409,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang",
+    "name": "libc",
+    "language": "rust",
+    "stars": 408,
+    "forks": 322,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "rusttype",
+    "language": "rust",
+    "stars": 408,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kornelski",
+    "name": "dssim",
+    "language": "rust",
+    "stars": 407,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "simias",
+    "name": "rustation",
+    "language": "rust",
+    "stars": 405,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "toml-rs",
+    "language": "rust",
+    "stars": 404,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-embedded",
+    "name": "discovery",
+    "language": "rust",
+    "stars": 403,
+    "forks": 68,
+    "default_branch": "master"
+  },
+  {
+    "owner": "datafusion-rs",
+    "name": "datafusion",
+    "language": "rust",
+    "stars": 403,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "immunant",
+    "name": "c2rust",
+    "language": "rust",
+    "stars": 398,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cyndis",
+    "name": "qmlrs",
+    "language": "rust",
+    "stars": 397,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spearow",
+    "name": "juice",
+    "language": "rust",
+    "stars": 396,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jauhien",
+    "name": "iron-kaleidoscope",
+    "language": "rust",
+    "stars": 395,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KDE",
+    "name": "rust-qt-binding-generator",
+    "language": "rust",
+    "stars": 394,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reem",
+    "name": "stainless",
+    "language": "rust",
+    "stars": 394,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeaye",
+    "name": "ncurses-rs",
+    "language": "rust",
+    "stars": 393,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chris-morgan",
+    "name": "rust-http",
+    "language": "rust",
+    "stars": 392,
+    "forks": 113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "neithernut",
+    "name": "git-dit",
+    "language": "rust",
+    "stars": 392,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "chalk",
+    "language": "rust",
+    "stars": 391,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nokia",
+    "name": "nperf",
+    "language": "rust",
+    "stars": 390,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vitiral",
+    "name": "artifact",
+    "language": "rust",
+    "stars": 390,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pingcap",
+    "name": "raft-rs",
+    "language": "rust",
+    "stars": 390,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zonyitoo",
+    "name": "coio-rs",
+    "language": "rust",
+    "stars": 389,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgallagher",
+    "name": "rusqlite",
+    "language": "rust",
+    "stars": 388,
+    "forks": 90,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rcoh",
+    "name": "angle-grinder",
+    "language": "rust",
+    "stars": 387,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "git2-rs",
+    "language": "rust",
+    "stars": 378,
+    "forks": 148,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oxy-secure",
+    "name": "oxy",
+    "language": "rust",
+    "stars": 377,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "rustcxx",
+    "language": "rust",
+    "stars": 377,
+    "forks": 13,
+    "default_branch": "unstable"
+  },
+  {
+    "owner": "portier",
+    "name": "portier-broker",
+    "language": "rust",
+    "stars": 377,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomaka",
+    "name": "rouille",
+    "language": "rust",
+    "stars": 376,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tagua-vm",
+    "name": "tagua-vm",
+    "language": "rust",
+    "stars": 375,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "rust-url",
+    "language": "rust",
+    "stars": 375,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tailhook",
+    "name": "rotor",
+    "language": "rust",
+    "stars": 375,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lilydjwg",
+    "name": "swapview",
+    "language": "rust",
+    "stars": 374,
+    "forks": 94,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brendanzab",
+    "name": "gl-rs",
+    "language": "rust",
+    "stars": 374,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thiagopnts",
+    "name": "groot",
+    "language": "rust",
+    "stars": 374,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pcwalton",
+    "name": "rust-media",
+    "language": "rust",
+    "stars": 373,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "solana-labs",
+    "name": "solana",
+    "language": "rust",
+    "stars": 373,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dtolnay",
+    "name": "syn",
+    "language": "rust",
+    "stars": 373,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xd009642",
+    "name": "tarpaulin",
+    "language": "rust",
+    "stars": 371,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LuoZijun",
+    "name": "exodus",
+    "language": "rust",
+    "stars": 370,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sodiumoxide",
+    "name": "sodiumoxide",
+    "language": "rust",
+    "stars": 370,
+    "forks": 106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "rerast",
+    "language": "rust",
+    "stars": 369,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "christolliday",
+    "name": "limn",
+    "language": "rust",
+    "stars": 369,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "toidiu",
+    "name": "learn-rust",
+    "language": "rust",
+    "stars": 366,
+    "forks": 13,
+    "default_branch": "step1"
+  },
+  {
+    "owner": "zargony",
+    "name": "rust-fuse",
+    "language": "rust",
+    "stars": 364,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stratis-storage",
+    "name": "stratisd",
+    "language": "rust",
+    "stars": 363,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rolandshoemaker",
+    "name": "theca",
+    "language": "rust",
+    "stars": 363,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NicolasLM",
+    "name": "nucleon",
+    "language": "rust",
+    "stars": 358,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "rustfix",
+    "language": "rust",
+    "stars": 356,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nathansizemore",
+    "name": "hydrogen",
+    "language": "rust",
+    "stars": 356,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "evcxr",
+    "language": "rust",
+    "stars": 356,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gchp",
+    "name": "rustbox",
+    "language": "rust",
+    "stars": 355,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nukep",
+    "name": "llamadb",
+    "language": "rust",
+    "stars": 351,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sfackler",
+    "name": "rust-phf",
+    "language": "rust",
+    "stars": 350,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jedisct1",
+    "name": "flowgger",
+    "language": "rust",
+    "stars": 348,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ozkriff",
+    "name": "zemeroth",
+    "language": "rust",
+    "stars": 339,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "murarth",
+    "name": "ketos",
+    "language": "rust",
+    "stars": 338,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-fuzz",
+    "name": "cargo-fuzz",
+    "language": "rust",
+    "stars": 337,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "byteorder",
+    "language": "rust",
+    "stars": 335,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-num",
+    "name": "num",
+    "language": "rust",
+    "stars": 334,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeremyletang",
+    "name": "rust-sfml",
+    "language": "rust",
+    "stars": 334,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daa84",
+    "name": "neovim-gtk",
+    "language": "rust",
+    "stars": 333,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dswd",
+    "name": "vpncloud.rs",
+    "language": "rust",
+    "stars": 333,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iovxw",
+    "name": "rssbot",
+    "language": "rust",
+    "stars": 330,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "cc-rs",
+    "language": "rust",
+    "stars": 329,
+    "forks": 130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcginty",
+    "name": "shoop",
+    "language": "rust",
+    "stars": 329,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustcc",
+    "name": "coroutine-rs",
+    "language": "rust",
+    "stars": 328,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alex-shapiro",
+    "name": "ditto",
+    "language": "rust",
+    "stars": 328,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wireapp",
+    "name": "proteus",
+    "language": "rust",
+    "stars": 328,
+    "forks": 25,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "hyperium",
+    "name": "http",
+    "language": "rust",
+    "stars": 328,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "Piston-Tutorials",
+    "language": "rust",
+    "stars": 327,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andy-5",
+    "name": "wslgit",
+    "language": "rust",
+    "stars": 325,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jedisct1",
+    "name": "edgedns",
+    "language": "rust",
+    "stars": 324,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tafia",
+    "name": "calamine",
+    "language": "rust",
+    "stars": 324,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "g-plane",
+    "name": "zsh-yarn-autocompletions",
+    "language": "rust",
+    "stars": 324,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "chan",
+    "language": "rust",
+    "stars": 323,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "docs.rs",
+    "language": "rust",
+    "stars": 323,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kvakvs",
+    "name": "ErlangRT",
+    "language": "rust",
+    "stars": 323,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spacekookie",
+    "name": "thunder",
+    "language": "rust",
+    "stars": 322,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RazrFalcon",
+    "name": "cargo-bloat",
+    "language": "rust",
+    "stars": 322,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "serenity-rs",
+    "name": "serenity",
+    "language": "rust",
+    "stars": 321,
+    "forks": 72,
+    "default_branch": "current"
+  },
+  {
+    "owner": "utkarshkukreti",
+    "name": "select.rs",
+    "language": "rust",
+    "stars": 320,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ah-",
+    "name": "anne-key",
+    "language": "rust",
+    "stars": 320,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mehcode",
+    "name": "config-rs",
+    "language": "rust",
+    "stars": 319,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomaka",
+    "name": "cpal",
+    "language": "rust",
+    "stars": 318,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crossbeam-rs",
+    "name": "crossbeam-channel",
+    "language": "rust",
+    "stars": 318,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "erickt",
+    "name": "rust-zmq",
+    "language": "rust",
+    "stars": 317,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "japaric",
+    "name": "copper",
+    "language": "rust",
+    "stars": 317,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-bitcoin",
+    "name": "rust-bitcoin",
+    "language": "rust",
+    "stars": 317,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KISS-UI",
+    "name": "kiss-ui",
+    "language": "rust",
+    "stars": 316,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "japaric",
+    "name": "nvptx",
+    "language": "rust",
+    "stars": 316,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TyOverby",
+    "name": "flame",
+    "language": "rust",
+    "stars": 315,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mlalic",
+    "name": "solicit",
+    "language": "rust",
+    "stars": 314,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "edef1c",
+    "name": "libfringe",
+    "language": "rust",
+    "stars": 314,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "euclio",
+    "name": "vim-markdown-composer",
+    "language": "rust",
+    "stars": 313,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aochagavia",
+    "name": "rocket_wasm",
+    "language": "rust",
+    "stars": 313,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maekawatoshiki",
+    "name": "naglfar",
+    "language": "rust",
+    "stars": 312,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-qt",
+    "name": "cpp_to_rust",
+    "language": "rust",
+    "stars": 311,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aepsil0n",
+    "name": "carboxyl",
+    "language": "rust",
+    "stars": 311,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-clique",
+    "name": "human-panic",
+    "language": "rust",
+    "stars": 311,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spacejam",
+    "name": "void",
+    "language": "rust",
+    "stars": 310,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maciejkula",
+    "name": "rustlearn",
+    "language": "rust",
+    "stars": 310,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dani-garcia",
+    "name": "bitwarden_rs",
+    "language": "rust",
+    "stars": 309,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aatxe",
+    "name": "irc",
+    "language": "rust",
+    "stars": 309,
+    "forks": 67,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "arrayfire",
+    "name": "arrayfire-rust",
+    "language": "rust",
+    "stars": 306,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sunng87",
+    "name": "handlebars-rust",
+    "language": "rust",
+    "stars": 305,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thehydroimpulse",
+    "name": "nanomsg.rs",
+    "language": "rust",
+    "stars": 303,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orium",
+    "name": "rpds",
+    "language": "rust",
+    "stars": 303,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tiny-http",
+    "name": "tiny-http",
+    "language": "rust",
+    "stars": 303,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brson",
+    "name": "httptest",
+    "language": "rust",
+    "stars": 303,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "killercup",
+    "name": "quicli",
+    "language": "rust",
+    "stars": 302,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "stdsimd",
+    "language": "rust",
+    "stars": 301,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-random",
+    "name": "rand",
+    "language": "rust",
+    "stars": 301,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "glfw-rs",
+    "language": "rust",
+    "stars": 299,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thepowersgang",
+    "name": "rust_os",
+    "language": "rust",
+    "stars": 297,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "3Hren",
+    "name": "msgpack-rust",
+    "language": "rust",
+    "stars": 296,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spicavigo",
+    "name": "kafka-rust",
+    "language": "rust",
+    "stars": 295,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gamazeps",
+    "name": "RobotS",
+    "language": "rust",
+    "stars": 293,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "getsentry",
+    "name": "sentry-cli",
+    "language": "rust",
+    "stars": 292,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lunaryorn",
+    "name": "mdcat",
+    "language": "rust",
+    "stars": 290,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Twinklebear",
+    "name": "tray_rust",
+    "language": "rust",
+    "stars": 290,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "cocoa-rs",
+    "language": "rust",
+    "stars": 288,
+    "forks": 72,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jackm321",
+    "name": "RustNN",
+    "language": "rust",
+    "stars": 287,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eqrion",
+    "name": "cbindgen",
+    "language": "rust",
+    "stars": 287,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DanielKeep",
+    "name": "cargo-script",
+    "language": "rust",
+    "stars": 287,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mongodb-labs",
+    "name": "mongo-rust-driver-prototype",
+    "language": "rust",
+    "stars": 285,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "balena-io",
+    "name": "wifi-connect",
+    "language": "rust",
+    "stars": 284,
+    "forks": 117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lettre",
+    "name": "lettre",
+    "language": "rust",
+    "stars": 284,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jonathandturner",
+    "name": "rhai",
+    "language": "rust",
+    "stars": 283,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SubstratumNetwork",
+    "name": "SubstratumNode",
+    "language": "rust",
+    "stars": 283,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aochagavia",
+    "name": "rocket",
+    "language": "rust",
+    "stars": 282,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gnzlbg",
+    "name": "cargo-asm",
+    "language": "rust",
+    "stars": 281,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "three-rs",
+    "name": "three",
+    "language": "rust",
+    "stars": 281,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mystor",
+    "name": "rust-cpp",
+    "language": "rust",
+    "stars": 280,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "myfreeweb",
+    "name": "freepass",
+    "language": "rust",
+    "stars": 279,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Manishearth",
+    "name": "rust-gc",
+    "language": "rust",
+    "stars": 278,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "exercism",
+    "name": "rust",
+    "language": "rust",
+    "stars": 277,
+    "forks": 150,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "walkdir",
+    "language": "rust",
+    "stars": 277,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trezm",
+    "name": "Thruster",
+    "language": "rust",
+    "stars": 276,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "kernel",
+    "language": "rust",
+    "stars": 275,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tokio-rs",
+    "name": "tokio-minihttp",
+    "language": "rust",
+    "stars": 274,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ozkriff",
+    "name": "zoc",
+    "language": "rust",
+    "stars": 273,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AltSysrq",
+    "name": "proptest",
+    "language": "rust",
+    "stars": 272,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kbknapp",
+    "name": "cargo-outdated",
+    "language": "rust",
+    "stars": 269,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NetSys",
+    "name": "NetBricks",
+    "language": "rust",
+    "stars": 269,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saschagrunert",
+    "name": "git-journal",
+    "language": "rust",
+    "stars": 268,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xi-editor",
+    "name": "xi-win",
+    "language": "rust",
+    "stars": 268,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter",
+    "name": "rpc-perf",
+    "language": "rust",
+    "stars": 266,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sunjay",
+    "name": "turtle",
+    "language": "rust",
+    "stars": 266,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-rocksdb",
+    "name": "rust-rocksdb",
+    "language": "rust",
+    "stars": 265,
+    "forks": 125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivanceras",
+    "name": "diwata",
+    "language": "rust",
+    "stars": 264,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pipedown",
+    "name": "noise",
+    "language": "rust",
+    "stars": 263,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmstick",
+    "name": "cargo-deb",
+    "language": "rust",
+    "stars": 263,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sharkdp",
+    "name": "diskus",
+    "language": "rust",
+    "stars": 263,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pravic",
+    "name": "winapi-kmd-rs",
+    "language": "rust",
+    "stars": 261,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LeoTindall",
+    "name": "libui-rs",
+    "language": "rust",
+    "stars": 261,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "indradb",
+    "name": "indradb",
+    "language": "rust",
+    "stars": 259,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mackwic",
+    "name": "colored",
+    "language": "rust",
+    "stars": 257,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mehcode",
+    "name": "shio-rs",
+    "language": "rust",
+    "stars": 257,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "matthiasbeyer",
+    "name": "imag",
+    "language": "rust",
+    "stars": 256,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "ralloc",
+    "language": "rust",
+    "stars": 255,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustwasm",
+    "name": "twiggy",
+    "language": "rust",
+    "stars": 255,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cogciprocate",
+    "name": "ocl",
+    "language": "rust",
+    "stars": 253,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "llogiq",
+    "name": "mutagen",
+    "language": "rust",
+    "stars": 252,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "postmates",
+    "name": "cernan",
+    "language": "rust",
+    "stars": 252,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vi",
+    "name": "websocat",
+    "language": "rust",
+    "stars": 251,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LTD-Beget",
+    "name": "syncookied",
+    "language": "rust",
+    "stars": 251,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anp",
+    "name": "rusl",
+    "language": "rust",
+    "stars": 251,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bwasty",
+    "name": "learn-opengl-rs",
+    "language": "rust",
+    "stars": 251,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bluss",
+    "name": "indexmap",
+    "language": "rust",
+    "stars": 249,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dropbox",
+    "name": "rust-brotli",
+    "language": "rust",
+    "stars": 248,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RazrFalcon",
+    "name": "resvg",
+    "language": "rust",
+    "stars": 248,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zsiciarz",
+    "name": "24daysofrust",
+    "language": "rust",
+    "stars": 248,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carllerche",
+    "name": "bytes",
+    "language": "rust",
+    "stars": 248,
+    "forks": 66,
+    "default_branch": "v0.4.x"
+  },
+  {
+    "owner": "dinfuehr",
+    "name": "dora",
+    "language": "rust",
+    "stars": 247,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "medimatrix",
+    "name": "rust-plus-golang",
+    "language": "rust",
+    "stars": 246,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maciejhirsz",
+    "name": "json-rust",
+    "language": "rust",
+    "stars": 246,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ReactiveX",
+    "name": "RxRust",
+    "language": "rust",
+    "stars": 244,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scialex",
+    "name": "reenix",
+    "language": "rust",
+    "stars": 244,
+    "forks": 15,
+    "default_branch": "vfs"
+  },
+  {
+    "owner": "dropbox",
+    "name": "divans",
+    "language": "rust",
+    "stars": 244,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "r-darwish",
+    "name": "topgrade",
+    "language": "rust",
+    "stars": 243,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gabdube",
+    "name": "native-windows-gui",
+    "language": "rust",
+    "stars": 242,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lukaslueg",
+    "name": "macro_railroad",
+    "language": "rust",
+    "stars": 241,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Hoverbear",
+    "name": "old-raft-rs",
+    "language": "rust",
+    "stars": 241,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "ipc-channel",
+    "language": "rust",
+    "stars": 240,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nagisa",
+    "name": "rust_libloading",
+    "language": "rust",
+    "stars": 240,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "colin-kiegel",
+    "name": "rust-derive-builder",
+    "language": "rust",
+    "stars": 239,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gsingh93",
+    "name": "trace",
+    "language": "rust",
+    "stars": 239,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carllerche",
+    "name": "eventual",
+    "language": "rust",
+    "stars": 239,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "m4b",
+    "name": "goblin",
+    "language": "rust",
+    "stars": 238,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "srijs",
+    "name": "rust-aws-lambda",
+    "language": "rust",
+    "stars": 236,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blackbeam",
+    "name": "rust-mysql-simple",
+    "language": "rust",
+    "stars": 236,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paritytech",
+    "name": "wasmi",
+    "language": "rust",
+    "stars": 236,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "colin-kiegel",
+    "name": "rust-pretty-assertions",
+    "language": "rust",
+    "stars": 235,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "graphics",
+    "language": "rust",
+    "stars": 235,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Miserlou",
+    "name": "Loop",
+    "language": "rust",
+    "stars": 235,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "valeriansaliou",
+    "name": "vigil",
+    "language": "rust",
+    "stars": 234,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dalek-cryptography",
+    "name": "curve25519-dalek",
+    "language": "rust",
+    "stars": 234,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swiboe",
+    "name": "swiboe",
+    "language": "rust",
+    "stars": 232,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "hat-backup",
+    "language": "rust",
+    "stars": 232,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xi-frontend",
+    "name": "xi-term",
+    "language": "rust",
+    "stars": 232,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chyh1990",
+    "name": "yaml-rust",
+    "language": "rust",
+    "stars": 232,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bokuweb",
+    "name": "rustynes",
+    "language": "rust",
+    "stars": 231,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustodon",
+    "name": "rustodon",
+    "language": "rust",
+    "stars": 231,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomaka",
+    "name": "rodio",
+    "language": "rust",
+    "stars": 231,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-embedded",
+    "name": "rust-sysfs-gpio",
+    "language": "rust",
+    "stars": 230,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tower-rs",
+    "name": "tower-grpc",
+    "language": "rust",
+    "stars": 229,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danburkert",
+    "name": "memmap-rs",
+    "language": "rust",
+    "stars": 228,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RustCrypto",
+    "name": "hashes",
+    "language": "rust",
+    "stars": 227,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paritytech",
+    "name": "parity-bridge",
+    "language": "rust",
+    "stars": 227,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "rust-semverver",
+    "language": "rust",
+    "stars": 227,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "t-rex-tileserver",
+    "name": "t-rex",
+    "language": "rust",
+    "stars": 226,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "wasm-gc",
+    "language": "rust",
+    "stars": 225,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "netvl",
+    "name": "xml-rs",
+    "language": "rust",
+    "stars": 224,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zeromq",
+    "name": "zmq.rs",
+    "language": "rust",
+    "stars": 223,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pcwalton",
+    "name": "zero.rs",
+    "language": "rust",
+    "stars": 221,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oracle",
+    "name": "crashcart",
+    "language": "rust",
+    "stars": 221,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-embedded",
+    "name": "embedded-hal",
+    "language": "rust",
+    "stars": 220,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sciter-sdk",
+    "name": "rust-sciter",
+    "language": "rust",
+    "stars": 220,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-accel",
+    "name": "accel",
+    "language": "rust",
+    "stars": 219,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PyO3",
+    "name": "tokio",
+    "language": "rust",
+    "stars": 219,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SUPERAndroidAnalyzer",
+    "name": "super",
+    "language": "rust",
+    "stars": 219,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fcsonline",
+    "name": "drill",
+    "language": "rust",
+    "stars": 218,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crazymykl",
+    "name": "rust-koans",
+    "language": "rust",
+    "stars": 217,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dan-t",
+    "name": "rusty-tags",
+    "language": "rust",
+    "stars": 217,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "git-series",
+    "name": "git-series",
+    "language": "rust",
+    "stars": 217,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DanielKeep",
+    "name": "tlborm",
+    "language": "rust",
+    "stars": 216,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lise-henry",
+    "name": "crowbook",
+    "language": "rust",
+    "stars": 216,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kkawakam",
+    "name": "rustyline",
+    "language": "rust",
+    "stars": 215,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "goffrie",
+    "name": "plex",
+    "language": "rust",
+    "stars": 215,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Aardwolf-Social",
+    "name": "aardwolf",
+    "language": "rust",
+    "stars": 215,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "telegram-rs",
+    "name": "telegram-bot",
+    "language": "rust",
+    "stars": 214,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dwrensha",
+    "name": "seer",
+    "language": "rust",
+    "stars": 214,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "gaol",
+    "language": "rust",
+    "stars": 214,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pikelet-lang",
+    "name": "pikelet",
+    "language": "rust",
+    "stars": 214,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "falconre",
+    "name": "falcon",
+    "language": "rust",
+    "stars": 214,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "subzerocloud",
+    "name": "pg-amqp-bridge",
+    "language": "rust",
+    "stars": 214,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "mundane",
+    "language": "rust",
+    "stars": 214,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MaikKlein",
+    "name": "rlsl",
+    "language": "rust",
+    "stars": 213,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GodotNativeTools",
+    "name": "godot-rust",
+    "language": "rust",
+    "stars": 211,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "softprops",
+    "name": "envy",
+    "language": "rust",
+    "stars": 210,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "piston-examples",
+    "language": "rust",
+    "stars": 210,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sfackler",
+    "name": "cargo-tree",
+    "language": "rust",
+    "stars": 210,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "afshinm",
+    "name": "juggernaut",
+    "language": "rust",
+    "stars": 210,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JelteF",
+    "name": "derive_more",
+    "language": "rust",
+    "stars": 209,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CensoredUsername",
+    "name": "dynasm-rs",
+    "language": "rust",
+    "stars": 208,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uuid-rs",
+    "name": "uuid",
+    "language": "rust",
+    "stars": 208,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fitzgen",
+    "name": "state_machine_future",
+    "language": "rust",
+    "stars": 207,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pcwalton",
+    "name": "libui-rs",
+    "language": "rust",
+    "stars": 207,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dbrgn",
+    "name": "tealdeer",
+    "language": "rust",
+    "stars": 206,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snipsco",
+    "name": "snips-nlu-rs",
+    "language": "rust",
+    "stars": 206,
+    "forks": 14,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "osa1",
+    "name": "tiny",
+    "language": "rust",
+    "stars": 205,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dalek-cryptography",
+    "name": "bulletproofs",
+    "language": "rust",
+    "stars": 204,
+    "forks": 17,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rust-threadpool",
+    "name": "rust-threadpool",
+    "language": "rust",
+    "stars": 204,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hopey-dishwasher",
+    "name": "termpix",
+    "language": "rust",
+    "stars": 203,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "willcrichton",
+    "name": "lia",
+    "language": "rust",
+    "stars": 203,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RustSec",
+    "name": "cargo-audit",
+    "language": "rust",
+    "stars": 203,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nachoparker",
+    "name": "dutree",
+    "language": "rust",
+    "stars": 202,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nrc",
+    "name": "graphql",
+    "language": "rust",
+    "stars": 202,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JunSuzukiJapan",
+    "name": "macro-lisp",
+    "language": "rust",
+    "stars": 201,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "a8m",
+    "name": "pb",
+    "language": "rust",
+    "stars": 201,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nabijaczleweli",
+    "name": "cargo-update",
+    "language": "rust",
+    "stars": 201,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AdamNiederer",
+    "name": "base100",
+    "language": "rust",
+    "stars": 201,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Keats",
+    "name": "jsonwebtoken",
+    "language": "rust",
+    "stars": 200,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "unrust",
+    "name": "unrust",
+    "language": "rust",
+    "stars": 200,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phaazon",
+    "name": "luminance-rs",
+    "language": "rust",
+    "stars": 200,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jakedeichert",
+    "name": "wasm-astar",
+    "language": "rust",
+    "stars": 199,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "treescale",
+    "name": "treescale",
+    "language": "rust",
+    "stars": 199,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "actix",
+    "name": "examples",
+    "language": "rust",
+    "stars": 199,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hermitcore",
+    "name": "libhermit-rs",
+    "language": "rust",
+    "stars": 199,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MaiaVictor",
+    "name": "Symmetric-Interaction-Calculus",
+    "language": "rust",
+    "stars": 199,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "autopilot-rs",
+    "name": "autopy",
+    "language": "rust",
+    "stars": 198,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Keats",
+    "name": "validator",
+    "language": "rust",
+    "stars": 197,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tailhook",
+    "name": "quick-error",
+    "language": "rust",
+    "stars": 196,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "cargo-vendor",
+    "language": "rust",
+    "stars": 196,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AtheMathmo",
+    "name": "rulinalg",
+    "language": "rust",
+    "stars": 196,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ETCDEVTeam",
+    "name": "sputnikvm",
+    "language": "rust",
+    "stars": 195,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sfackler",
+    "name": "log4rs",
+    "language": "rust",
+    "stars": 195,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nginxinc",
+    "name": "ngx-rust",
+    "language": "rust",
+    "stars": 195,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phsym",
+    "name": "prettytable-rs",
+    "language": "rust",
+    "stars": 195,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eholk",
+    "name": "Boot2Rust",
+    "language": "rust",
+    "stars": 194,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gimli-rs",
+    "name": "gimli",
+    "language": "rust",
+    "stars": 194,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SpaceManiac",
+    "name": "discord-rs",
+    "language": "rust",
+    "stars": 194,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coreos",
+    "name": "fero",
+    "language": "rust",
+    "stars": 194,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Antti",
+    "name": "rust-amqp",
+    "language": "rust",
+    "stars": 193,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ilpianista",
+    "name": "arch-audit",
+    "language": "rust",
+    "stars": 193,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dtolnay",
+    "name": "cargo-expand",
+    "language": "rust",
+    "stars": 193,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dherman",
+    "name": "esprit",
+    "language": "rust",
+    "stars": 193,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kernelmachine",
+    "name": "cargo-profiler",
+    "language": "rust",
+    "stars": 192,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sebglazebrook",
+    "name": "aliases",
+    "language": "rust",
+    "stars": 191,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "avr-rust",
+    "name": "ruduino",
+    "language": "rust",
+    "stars": 191,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Byron",
+    "name": "google-apis-rs",
+    "language": "rust",
+    "stars": 190,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mgattozzi",
+    "name": "curryrs",
+    "language": "rust",
+    "stars": 189,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bootandy",
+    "name": "dust",
+    "language": "rust",
+    "stars": 189,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "svenstaro",
+    "name": "miniserve",
+    "language": "rust",
+    "stars": 189,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "holochain",
+    "name": "holochain-rust",
+    "language": "rust",
+    "stars": 189,
+    "forks": 38,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "projectfluent",
+    "name": "fluent-rs",
+    "language": "rust",
+    "stars": 189,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lrs-lang",
+    "name": "lib",
+    "language": "rust",
+    "stars": 188,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Thinkofname",
+    "name": "steven",
+    "language": "rust",
+    "stars": 188,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GGist",
+    "name": "bip-rs",
+    "language": "rust",
+    "stars": 188,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sagiegurari",
+    "name": "cargo-make",
+    "language": "rust",
+    "stars": 188,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FGRibreau",
+    "name": "spinners",
+    "language": "rust",
+    "stars": 187,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "rust-smallvec",
+    "language": "rust",
+    "stars": 187,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustache",
+    "name": "rustache",
+    "language": "rust",
+    "stars": 187,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kpcyrd",
+    "name": "sniffglue",
+    "language": "rust",
+    "stars": 187,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maidsafe",
+    "name": "routing",
+    "language": "rust",
+    "stars": 186,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RustPython",
+    "name": "RustPython",
+    "language": "rust",
+    "stars": 185,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "coreutils",
+    "language": "rust",
+    "stars": 185,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RustAudio",
+    "name": "rust-portaudio",
+    "language": "rust",
+    "stars": 185,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Marwes",
+    "name": "haskell-compiler",
+    "language": "rust",
+    "stars": 185,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hyperledger",
+    "name": "indy-sdk",
+    "language": "rust",
+    "stars": 185,
+    "forks": 234,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Sean1708",
+    "name": "rusty-cheddar",
+    "language": "rust",
+    "stars": 184,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MaikKlein",
+    "name": "ash",
+    "language": "rust",
+    "stars": 184,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mullvad",
+    "name": "mullvadvpn-app",
+    "language": "rust",
+    "stars": 184,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanisaacg",
+    "name": "quicksilver",
+    "language": "rust",
+    "stars": 184,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anima-engine",
+    "name": "mrusty",
+    "language": "rust",
+    "stars": 184,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rsaarelm",
+    "name": "magog",
+    "language": "rust",
+    "stars": 182,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snuk182",
+    "name": "nuklear-rust",
+    "language": "rust",
+    "stars": 182,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ameobea",
+    "name": "tickgrinder",
+    "language": "rust",
+    "stars": 181,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "toshi-search",
+    "name": "Toshi",
+    "language": "rust",
+    "stars": 181,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mrmekon",
+    "name": "toucHNews",
+    "language": "rust",
+    "stars": 181,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danleh",
+    "name": "wasabi",
+    "language": "rust",
+    "stars": 180,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "overdrivenpotato",
+    "name": "rust-vst2",
+    "language": "rust",
+    "stars": 180,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sorpaas",
+    "name": "rux",
+    "language": "rust",
+    "stars": 180,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fede1024",
+    "name": "rust-rdkafka",
+    "language": "rust",
+    "stars": 180,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tafia",
+    "name": "quick-xml",
+    "language": "rust",
+    "stars": 180,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MitMaro",
+    "name": "git-interactive-rebase-tool",
+    "language": "rust",
+    "stars": 180,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CodeChain-io",
+    "name": "codechain",
+    "language": "rust",
+    "stars": 179,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LukasKalbertodt",
+    "name": "programmieren-in-rust",
+    "language": "rust",
+    "stars": 179,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "atomashpolskiy",
+    "name": "rustface",
+    "language": "rust",
+    "stars": 179,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla",
+    "name": "mp4parse-rust",
+    "language": "rust",
+    "stars": 179,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maekawatoshiki",
+    "name": "rapidus",
+    "language": "rust",
+    "stars": 179,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "fmt-rfcs",
+    "language": "rust",
+    "stars": 178,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-av",
+    "name": "rust-av",
+    "language": "rust",
+    "stars": 178,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gfx-rs",
+    "name": "portability",
+    "language": "rust",
+    "stars": 178,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pingcap",
+    "name": "rust-prometheus",
+    "language": "rust",
+    "stars": 177,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "m4rw3r",
+    "name": "chomp",
+    "language": "rust",
+    "stars": 177,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oconnor663",
+    "name": "duct.rs",
+    "language": "rust",
+    "stars": 177,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antoyo",
+    "name": "tql",
+    "language": "rust",
+    "stars": 177,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hello-rust",
+    "name": "show",
+    "language": "rust",
+    "stars": 176,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-embedded",
+    "name": "svd2rust",
+    "language": "rust",
+    "stars": 175,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "datafrog",
+    "language": "rust",
+    "stars": 175,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Wilfred",
+    "name": "bfc",
+    "language": "rust",
+    "stars": 174,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "miselin",
+    "name": "rustic",
+    "language": "rust",
+    "stars": 174,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kinghajj",
+    "name": "kirk",
+    "language": "rust",
+    "stars": 174,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "georust",
+    "name": "geo",
+    "language": "rust",
+    "stars": 174,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dotcypress",
+    "name": "mtproxy",
+    "language": "rust",
+    "stars": 174,
+    "forks": 15,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "rust-lang",
+    "name": "rust-playpen",
+    "language": "rust",
+    "stars": 173,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tedsta",
+    "name": "deeplearn-rs",
+    "language": "rust",
+    "stars": 173,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Stebalien",
+    "name": "tempfile",
+    "language": "rust",
+    "stars": 173,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lifthrasiir",
+    "name": "rust-encoding",
+    "language": "rust",
+    "stars": 173,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nrc",
+    "name": "libhoare",
+    "language": "rust",
+    "stars": 173,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kuchiki-rs",
+    "name": "kuchiki",
+    "language": "rust",
+    "stars": 173,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "rspirv",
+    "language": "rust",
+    "stars": 173,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kivikakk",
+    "name": "comrak",
+    "language": "rust",
+    "stars": 172,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fitzgen",
+    "name": "generational-arena",
+    "language": "rust",
+    "stars": 172,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rabbitstack",
+    "name": "rabbitc",
+    "language": "rust",
+    "stars": 172,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cargonauts-rs",
+    "name": "cargonauts",
+    "language": "rust",
+    "stars": 171,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimonSapin",
+    "name": "rust-on-bbc-microbit",
+    "language": "rust",
+    "stars": 171,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emu-rs",
+    "name": "rustual-boy",
+    "language": "rust",
+    "stars": 171,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "indigits",
+    "name": "scirust",
+    "language": "rust",
+    "stars": 171,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nbaksalyar",
+    "name": "rust-chat",
+    "language": "rust",
+    "stars": 170,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheNeikos",
+    "name": "rustbreak",
+    "language": "rust",
+    "stars": 170,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-embedded",
+    "name": "rust-raspi3-tutorial",
+    "language": "rust",
+    "stars": 170,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "budziq",
+    "name": "rust-skeptic",
+    "language": "rust",
+    "stars": 170,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivanceras",
+    "name": "old-rustorm",
+    "language": "rust",
+    "stars": 170,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubytogether",
+    "name": "kirby",
+    "language": "rust",
+    "stars": 169,
+    "forks": 6,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Aatch",
+    "name": "ramp",
+    "language": "rust",
+    "stars": 169,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "linkerd",
+    "name": "linkerd2-proxy",
+    "language": "rust",
+    "stars": 169,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustwasm",
+    "name": "wee_alloc",
+    "language": "rust",
+    "stars": 169,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "fancy-regex",
+    "language": "rust",
+    "stars": 169,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dtolnay",
+    "name": "quote",
+    "language": "rust",
+    "stars": 168,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fschutt",
+    "name": "printpdf",
+    "language": "rust",
+    "stars": 168,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paholg",
+    "name": "dimensioned",
+    "language": "rust",
+    "stars": 168,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emoon",
+    "name": "dynamic_reload",
+    "language": "rust",
+    "stars": 168,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-deprecated",
+    "name": "rustc-serialize",
+    "language": "rust",
+    "stars": 167,
+    "forks": 102,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anowell",
+    "name": "quasar",
+    "language": "rust",
+    "stars": 167,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kriomant",
+    "name": "mockers",
+    "language": "rust",
+    "stars": 167,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GildedHonour",
+    "name": "frank_jwt",
+    "language": "rust",
+    "stars": 165,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "frewsxcv",
+    "name": "alert-after",
+    "language": "rust",
+    "stars": 165,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sigp",
+    "name": "lighthouse",
+    "language": "rust",
+    "stars": 165,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustindia",
+    "name": "Rust-for-undergrads",
+    "language": "rust",
+    "stars": 165,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Smithay",
+    "name": "wayland-rs",
+    "language": "rust",
+    "stars": 164,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "withoutboats",
+    "name": "shifgrethor",
+    "language": "rust",
+    "stars": 163,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brson",
+    "name": "rust-sdl",
+    "language": "rust",
+    "stars": 163,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "s-panferov",
+    "name": "deuterium",
+    "language": "rust",
+    "stars": 163,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mgattozzi",
+    "name": "github-rs",
+    "language": "rust",
+    "stars": 163,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iron",
+    "name": "router",
+    "language": "rust",
+    "stars": 162,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "faradayio",
+    "name": "cage",
+    "language": "rust",
+    "stars": 162,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kaedroho",
+    "name": "rusticsearch",
+    "language": "rust",
+    "stars": 162,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bfops",
+    "name": "playform",
+    "language": "rust",
+    "stars": 162,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xliiv",
+    "name": "fui",
+    "language": "rust",
+    "stars": 162,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Razaekel",
+    "name": "noise-rs",
+    "language": "rust",
+    "stars": 162,
+    "forks": 39,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "graphprotocol",
+    "name": "graph-node",
+    "language": "rust",
+    "stars": 161,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "rust-mozjs",
+    "language": "rust",
+    "stars": 161,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mtak-",
+    "name": "rust-on-mobile",
+    "language": "rust",
+    "stars": 160,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "benashford",
+    "name": "rs-es",
+    "language": "rust",
+    "stars": 160,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sunng87",
+    "name": "cargo-release",
+    "language": "rust",
+    "stars": 160,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HeroesGrave",
+    "name": "ecs-rs",
+    "language": "rust",
+    "stars": 159,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kmcallister",
+    "name": "syscall.rs",
+    "language": "rust",
+    "stars": 158,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "loggerhead",
+    "name": "shadowsocks-rust",
+    "language": "rust",
+    "stars": 158,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clux",
+    "name": "muslrust",
+    "language": "rust",
+    "stars": 158,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "rust-cssparser",
+    "language": "rust",
+    "stars": 158,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daboross",
+    "name": "fern",
+    "language": "rust",
+    "stars": 157,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "sodium",
+    "language": "rust",
+    "stars": 157,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "frugalos",
+    "name": "frugalos",
+    "language": "rust",
+    "stars": 157,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sozu-proxy",
+    "name": "lapin",
+    "language": "rust",
+    "stars": 157,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gcarq",
+    "name": "rusty-blockparser",
+    "language": "rust",
+    "stars": 157,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paholg",
+    "name": "typenum",
+    "language": "rust",
+    "stars": 157,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paritytech",
+    "name": "jsonrpc",
+    "language": "rust",
+    "stars": 156,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChariotEngine",
+    "name": "Chariot",
+    "language": "rust",
+    "stars": 156,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "japaric",
+    "name": "rust-san",
+    "language": "rust",
+    "stars": 156,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vmchale",
+    "name": "tin-summer",
+    "language": "rust",
+    "stars": 155,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jkcclemens",
+    "name": "paste",
+    "language": "rust",
+    "stars": 155,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ezrosent",
+    "name": "allocators-rs",
+    "language": "rust",
+    "stars": 155,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blabaere",
+    "name": "scaproust",
+    "language": "rust",
+    "stars": 155,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ogham",
+    "name": "rust-ansi-term",
+    "language": "rust",
+    "stars": 154,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "diwic",
+    "name": "dbus-rs",
+    "language": "rust",
+    "stars": 154,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "euclid",
+    "language": "rust",
+    "stars": 154,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "White-Oak",
+    "name": "qml-rust",
+    "language": "rust",
+    "stars": 154,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kazan-3d",
+    "name": "kazan",
+    "language": "rust",
+    "stars": 154,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "tar-rs",
+    "language": "rust",
+    "stars": 154,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NerdyPepper",
+    "name": "taizen",
+    "language": "rust",
+    "stars": 153,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "programble",
+    "name": "scraper",
+    "language": "rust",
+    "stars": 153,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steveklabnik",
+    "name": "doxidize",
+    "language": "rust",
+    "stars": 153,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sdroege",
+    "name": "gstreamer-rs",
+    "language": "rust",
+    "stars": 153,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmstick",
+    "name": "fontfinder",
+    "language": "rust",
+    "stars": 153,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ilianaw",
+    "name": "rust-crowbar",
+    "language": "rust",
+    "stars": 153,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "greyblake",
+    "name": "whatlang-rs",
+    "language": "rust",
+    "stars": 153,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lord",
+    "name": "backtalk",
+    "language": "rust",
+    "stars": 153,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orlp",
+    "name": "slotmap",
+    "language": "rust",
+    "stars": 152,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thehydroimpulse",
+    "name": "postgres-extension.rs",
+    "language": "rust",
+    "stars": 152,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ihalila",
+    "name": "pancurses",
+    "language": "rust",
+    "stars": 152,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SpinResearch",
+    "name": "RustySecrets",
+    "language": "rust",
+    "stars": 152,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kahing",
+    "name": "catfs",
+    "language": "rust",
+    "stars": 152,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sos-os",
+    "name": "kernel",
+    "language": "rust",
+    "stars": 151,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SSheldon",
+    "name": "rust-objc",
+    "language": "rust",
+    "stars": 151,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "luqmana",
+    "name": "rust-opencl",
+    "language": "rust",
+    "stars": 151,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seanmonstar",
+    "name": "httparse",
+    "language": "rust",
+    "stars": 151,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "aho-corasick",
+    "language": "rust",
+    "stars": 151,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivanceras",
+    "name": "curtain",
+    "language": "rust",
+    "stars": 151,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "radareorg",
+    "name": "radeco-lib",
+    "language": "rust",
+    "stars": 150,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "polonius",
+    "language": "rust",
+    "stars": 150,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "csharad",
+    "name": "ruukh",
+    "language": "rust",
+    "stars": 150,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Smithay",
+    "name": "smithay",
+    "language": "rust",
+    "stars": 150,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dtolnay",
+    "name": "reflect",
+    "language": "rust",
+    "stars": 149,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TeXitoi",
+    "name": "rust-mdo",
+    "language": "rust",
+    "stars": 149,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jonhoo",
+    "name": "rust-evmap",
+    "language": "rust",
+    "stars": 149,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AlexPikalov",
+    "name": "cdrs",
+    "language": "rust",
+    "stars": 149,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Thinkofname",
+    "name": "stylish",
+    "language": "rust",
+    "stars": 149,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "npryce",
+    "name": "rusty-pi",
+    "language": "rust",
+    "stars": 148,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "InQuicker",
+    "name": "ktmpl",
+    "language": "rust",
+    "stars": 148,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qmonnet",
+    "name": "rbpf",
+    "language": "rust",
+    "stars": 148,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iliekturtles",
+    "name": "uom",
+    "language": "rust",
+    "stars": 148,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "onur",
+    "name": "acme-client",
+    "language": "rust",
+    "stars": 148,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anderejd",
+    "name": "cargo-geiger",
+    "language": "rust",
+    "stars": 148,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "J-F-Liu",
+    "name": "pom",
+    "language": "rust",
+    "stars": 147,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-dsp",
+    "name": "rust-vst",
+    "language": "rust",
+    "stars": 147,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ogeon",
+    "name": "palette",
+    "language": "rust",
+    "stars": 147,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hjr3",
+    "name": "weldr",
+    "language": "rust",
+    "stars": 147,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "millardjn",
+    "name": "rusty_sr",
+    "language": "rust",
+    "stars": 147,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "japaric",
+    "name": "cortex-m-rtfm",
+    "language": "rust",
+    "stars": 147,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ticki",
+    "name": "eudex",
+    "language": "rust",
+    "stars": 146,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hoodie",
+    "name": "notify-rust",
+    "language": "rust",
+    "stars": 146,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kmcallister",
+    "name": "glassful",
+    "language": "rust",
+    "stars": 146,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcarton",
+    "name": "rust-herbie-lint",
+    "language": "rust",
+    "stars": 146,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cramertj",
+    "name": "domafic-rs",
+    "language": "rust",
+    "stars": 145,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paritytech",
+    "name": "pwasm-tutorial",
+    "language": "rust",
+    "stars": 145,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tailhook",
+    "name": "rust-argparse",
+    "language": "rust",
+    "stars": 145,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "cargo-benchcmp",
+    "language": "rust",
+    "stars": 145,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paritytech",
+    "name": "polkadot",
+    "language": "rust",
+    "stars": 145,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "softprops",
+    "name": "shiplift",
+    "language": "rust",
+    "stars": 145,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andrewjstone",
+    "name": "rabble",
+    "language": "rust",
+    "stars": 144,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "llogiq",
+    "name": "flamer",
+    "language": "rust",
+    "stars": 144,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sharkdp",
+    "name": "hexyl",
+    "language": "rust",
+    "stars": 144,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maralla",
+    "name": "pack",
+    "language": "rust",
+    "stars": 144,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gimli-rs",
+    "name": "cpp_demangle",
+    "language": "rust",
+    "stars": 144,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mattgathu",
+    "name": "cute",
+    "language": "rust",
+    "stars": 144,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "inre",
+    "name": "rust-mq",
+    "language": "rust",
+    "stars": 143,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coeuvre",
+    "name": "rust-2048",
+    "language": "rust",
+    "stars": 142,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dylanede",
+    "name": "cassowary-rs",
+    "language": "rust",
+    "stars": 142,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jonhoo",
+    "name": "fantoccini",
+    "language": "rust",
+    "stars": 142,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zetok",
+    "name": "tox",
+    "language": "rust",
+    "stars": 142,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bitflags",
+    "name": "bitflags",
+    "language": "rust",
+    "stars": 142,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "devcat-studio",
+    "name": "kailua",
+    "language": "rust",
+    "stars": 141,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "frankmcsherry",
+    "name": "COST",
+    "language": "rust",
+    "stars": 141,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Stebalien",
+    "name": "horrorshow-rs",
+    "language": "rust",
+    "stars": 141,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saschagrunert",
+    "name": "indextree",
+    "language": "rust",
+    "stars": 141,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redox-os",
+    "name": "orbtk",
+    "language": "rust",
+    "stars": 141,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "salsa-rs",
+    "name": "salsa",
+    "language": "rust",
+    "stars": 141,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nrc",
+    "name": "derive-new",
+    "language": "rust",
+    "stars": 140,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danielpclark",
+    "name": "rutie",
+    "language": "rust",
+    "stars": 139,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "briansmith",
+    "name": "webpki",
+    "language": "rust",
+    "stars": 139,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kali",
+    "name": "opencv-rust",
+    "language": "rust",
+    "stars": 139,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "djc",
+    "name": "quinn",
+    "language": "rust",
+    "stars": 139,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "witheve",
+    "name": "eve-native",
+    "language": "rust",
+    "stars": 139,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bwasty",
+    "name": "vulkan-tutorial-rs",
+    "language": "rust",
+    "stars": 138,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rickyhan",
+    "name": "tectonicdb",
+    "language": "rust",
+    "stars": 138,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "michaelwoerister",
+    "name": "hamt-rs",
+    "language": "rust",
+    "stars": 138,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cessen",
+    "name": "ropey",
+    "language": "rust",
+    "stars": 138,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "repi",
+    "name": "shadertoy-browser",
+    "language": "rust",
+    "stars": 137,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-embedded",
+    "name": "cortex-m",
+    "language": "rust",
+    "stars": 136,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "libm",
+    "language": "rust",
+    "stars": 136,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zkcrypto",
+    "name": "bellman",
+    "language": "rust",
+    "stars": 135,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Marthog",
+    "name": "rust-stm",
+    "language": "rust",
+    "stars": 134,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rschmitt",
+    "name": "heatseeker",
+    "language": "rust",
+    "stars": 134,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "getsentry",
+    "name": "sentry-rust",
+    "language": "rust",
+    "stars": 134,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kinghajj",
+    "name": "deque",
+    "language": "rust",
+    "stars": 134,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trailofbits",
+    "name": "flying-sandbox-monster",
+    "language": "rust",
+    "stars": 133,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "polydraw",
+    "name": "polydraw",
+    "language": "rust",
+    "stars": 133,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tiffany352",
+    "name": "rink-rs",
+    "language": "rust",
+    "stars": 133,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-bitcoin",
+    "name": "rust-lightning",
+    "language": "rust",
+    "stars": 133,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustr",
+    "name": "rustr",
+    "language": "rust",
+    "stars": 133,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mitchmindtree",
+    "name": "elmesque",
+    "language": "rust",
+    "stars": 133,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-analyzer",
+    "name": "rust-analyzer",
+    "language": "rust",
+    "stars": 132,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dcuddeback",
+    "name": "serial-rs",
+    "language": "rust",
+    "stars": 131,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gz",
+    "name": "rust-x86",
+    "language": "rust",
+    "stars": 131,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "quininer",
+    "name": "sarkara",
+    "language": "rust",
+    "stars": 131,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "polachok",
+    "name": "fahrenheit",
+    "language": "rust",
+    "stars": 131,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wycats",
+    "name": "rust-activesupport",
+    "language": "rust",
+    "stars": 131,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jtomschroeder",
+    "name": "cedar",
+    "language": "rust",
+    "stars": 131,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snapview",
+    "name": "tungstenite-rs",
+    "language": "rust",
+    "stars": 131,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PistonDevelopers",
+    "name": "imageproc",
+    "language": "rust",
+    "stars": 131,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "utkarshkukreti",
+    "name": "draco",
+    "language": "rust",
+    "stars": 130,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AndyBarron",
+    "name": "app-dirs-rs",
+    "language": "rust",
+    "stars": 130,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "perceptia",
+    "name": "perceptia",
+    "language": "rust",
+    "stars": 130,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tox-rs",
+    "name": "tox",
+    "language": "rust",
+    "stars": 130,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gtk-rs",
+    "name": "examples",
+    "language": "rust",
+    "stars": 129,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kpcyrd",
+    "name": "badtouch",
+    "language": "rust",
+    "stars": 129,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-numpy",
+    "name": "rust-numpy",
+    "language": "rust",
+    "stars": 129,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kbknapp",
+    "name": "cargo-graph",
+    "language": "rust",
+    "stars": 129,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carllerche",
+    "name": "slab",
+    "language": "rust",
+    "stars": 129,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruuda",
+    "name": "claxon",
+    "language": "rust",
+    "stars": 129,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tafia",
+    "name": "quick-protobuf",
+    "language": "rust",
+    "stars": 129,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swindon-rs",
+    "name": "tk-http",
+    "language": "rust",
+    "stars": 128,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tokio-rs",
+    "name": "tokio-io",
+    "language": "rust",
+    "stars": 128,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pedrocr",
+    "name": "syncer",
+    "language": "rust",
+    "stars": 128,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libOctavo",
+    "name": "octavo",
+    "language": "rust",
+    "stars": 128,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trevp",
+    "name": "screech",
+    "language": "rust",
+    "stars": 128,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dalek-cryptography",
+    "name": "ed25519-dalek",
+    "language": "rust",
+    "stars": 128,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mvdnes",
+    "name": "zip-rs",
+    "language": "rust",
+    "stars": 128,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sfackler",
+    "name": "rust-postgres-macros",
+    "language": "rust",
+    "stars": 128,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SiegeLord",
+    "name": "RustGnuplot",
+    "language": "rust",
+    "stars": 128,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raymontag",
+    "name": "rust-keepass",
+    "language": "rust",
+    "stars": 128,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomusdrw",
+    "name": "rust-web3",
+    "language": "rust",
+    "stars": 127,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GuillaumeGomez",
+    "name": "process-viewer",
+    "language": "rust",
+    "stars": 127,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kmcallister",
+    "name": "tunapanel",
+    "language": "rust",
+    "stars": 127,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ashleygwilliams",
+    "name": "cargo-generate",
+    "language": "rust",
+    "stars": 127,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheDan64",
+    "name": "inkwell",
+    "language": "rust",
+    "stars": 127,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steveklabnik",
+    "name": "semver",
+    "language": "rust",
+    "stars": 126,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RustAudio",
+    "name": "dsp-chain",
+    "language": "rust",
+    "stars": 126,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "p-e-w",
+    "name": "hegemon",
+    "language": "rust",
+    "stars": 126,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adnanademovic",
+    "name": "rosrust",
+    "language": "rust",
+    "stars": 126,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "softprops",
+    "name": "cargo-thanks",
+    "language": "rust",
+    "stars": 126,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mre",
+    "name": "fcat",
+    "language": "rust",
+    "stars": 125,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sfackler",
+    "name": "rust-native-tls",
+    "language": "rust",
+    "stars": 125,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OsnaCS",
+    "name": "plantex",
+    "language": "rust",
+    "stars": 125,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emoon",
+    "name": "rust_minifb",
+    "language": "rust",
+    "stars": 125,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sector-f",
+    "name": "admiral",
+    "language": "rust",
+    "stars": 125,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeremyletang",
+    "name": "rgtk",
+    "language": "rust",
+    "stars": 125,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cpjreynolds",
+    "name": "rustty",
+    "language": "rust",
+    "stars": 124,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RustAudio",
+    "name": "lewton",
+    "language": "rust",
+    "stars": 124,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dtolnay",
+    "name": "serde-yaml",
+    "language": "rust",
+    "stars": 124,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Michael-F-Bryan",
+    "name": "rust-ffi-guide",
+    "language": "rust",
+    "stars": 123,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "regexident",
+    "name": "cargo-modules",
+    "language": "rust",
+    "stars": 123,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "victorporof",
+    "name": "rsx",
+    "language": "rust",
+    "stars": 123,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emk",
+    "name": "subtitles-rs",
+    "language": "rust",
+    "stars": 123,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baskerville",
+    "name": "plato",
+    "language": "rust",
+    "stars": 123,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcginty",
+    "name": "snow",
+    "language": "rust",
+    "stars": 123,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jwilm",
+    "name": "racerd",
+    "language": "rust",
+    "stars": 123,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jni-rs",
+    "name": "jni-rs",
+    "language": "rust",
+    "stars": 123,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ProgrammingRust",
+    "name": "examples",
+    "language": "rust",
+    "stars": 123,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RustAudio",
+    "name": "sample",
+    "language": "rust",
+    "stars": 123,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruuda",
+    "name": "hound",
+    "language": "rust",
+    "stars": 122,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "meh",
+    "name": "rust-ffmpeg",
+    "language": "rust",
+    "stars": 122,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "graphql-rust",
+    "name": "graphql-client",
+    "language": "rust",
+    "stars": 122,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emilk",
+    "name": "drop-merge-sort",
+    "language": "rust",
+    "stars": 122,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wahn",
+    "name": "rs_pbrt",
+    "language": "rust",
+    "stars": 122,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheWaWaR",
+    "name": "simple-http-server",
+    "language": "rust",
+    "stars": 122,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "veorq",
+    "name": "oee",
+    "language": "rust",
+    "stars": 122,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chriskrycho",
+    "name": "newrustacean.com",
+    "language": "rust",
+    "stars": 122,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "christophertrml",
+    "name": "rs-natural",
+    "language": "rust",
+    "stars": 122,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reasonml-old",
+    "name": "rebel",
+    "language": "rust",
+    "stars": 122,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jackmott",
+    "name": "rust-simd-noise",
+    "language": "rust",
+    "stars": 121,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "rust-snappy",
+    "language": "rust",
+    "stars": 121,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "InQuicker",
+    "name": "kaws",
+    "language": "rust",
+    "stars": 121,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-deprecated",
+    "name": "tempdir",
+    "language": "rust",
+    "stars": 121,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcrichton",
+    "name": "ssh2-rs",
+    "language": "rust",
+    "stars": 121,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "urbica",
+    "name": "martin",
+    "language": "rust",
+    "stars": 121,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jonhoo",
+    "name": "bus",
+    "language": "rust",
+    "stars": 121,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cobalt-org",
+    "name": "liquid-rust",
+    "language": "rust",
+    "stars": 120,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snipsco",
+    "name": "dinghy",
+    "language": "rust",
+    "stars": 120,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maidsafe",
+    "name": "safe_client_libs",
+    "language": "rust",
+    "stars": 120,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ufoscout",
+    "name": "docker-compose-wait",
+    "language": "rust",
+    "stars": 120,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "klutzy",
+    "name": "suruga",
+    "language": "rust",
+    "stars": 120,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "schets",
+    "name": "multiqueue",
+    "language": "rust",
+    "stars": 120,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Geemili",
+    "name": "mdproof",
+    "language": "rust",
+    "stars": 120,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "assert-rs",
+    "name": "assert_cli",
+    "language": "rust",
+    "stars": 120,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kondrak",
+    "name": "rust64",
+    "language": "rust",
+    "stars": 120,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hannobraun",
+    "name": "vndf",
+    "language": "rust",
+    "stars": 120,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fizyk20",
+    "name": "generic-array",
+    "language": "rust",
+    "stars": 119,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rhysd",
+    "name": "vim-color-spring-night",
+    "language": "rust",
+    "stars": 119,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimonSapin",
+    "name": "rust-forest",
+    "language": "rust",
+    "stars": 119,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mneumann",
+    "name": "rust-msgpack",
+    "language": "rust",
+    "stars": 119,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carllerche",
+    "name": "syncbox",
+    "language": "rust",
+    "stars": 119,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maciejkula",
+    "name": "wyrm",
+    "language": "rust",
+    "stars": 119,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ebfull",
+    "name": "pcap",
+    "language": "rust",
+    "stars": 118,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sunng87",
+    "name": "handlebars-iron",
+    "language": "rust",
+    "stars": 118,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "semantic-rs",
+    "name": "semantic-rs",
+    "language": "rust",
+    "stars": 118,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "chan-signal",
+    "language": "rust",
+    "stars": 118,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "softprops",
+    "name": "hubcaps",
+    "language": "rust",
+    "stars": 118,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seanmonstar",
+    "name": "num_cpus",
+    "language": "rust",
+    "stars": 118,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AgilData",
+    "name": "mysql-proxy-rs",
+    "language": "rust",
+    "stars": 118,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "conduit-rust",
+    "name": "conduit",
+    "language": "rust",
+    "stars": 117,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xcambar",
+    "name": "purs",
+    "language": "rust",
+    "stars": 117,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abonander",
+    "name": "anterofit",
+    "language": "rust",
+    "stars": 117,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "changlan",
+    "name": "kytan",
+    "language": "rust",
+    "stars": 117,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WireGuard",
+    "name": "wireguard-rs",
+    "language": "rust",
+    "stars": 117,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "serde-deprecated",
+    "name": "syntex",
+    "language": "rust",
+    "stars": 117,
+    "forks": 32,
+    "default_branch": "abandoned"
+  },
+  {
+    "owner": "radareorg",
+    "name": "radeco",
+    "language": "rust",
+    "stars": 116,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "servo",
+    "name": "core-foundation-rs",
+    "language": "rust",
+    "stars": 116,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TomBebbington",
+    "name": "js.rs",
+    "language": "rust",
+    "stars": 116,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "manuels",
+    "name": "wireguard-p2p",
+    "language": "rust",
+    "stars": 116,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blinry",
+    "name": "habitctl",
+    "language": "rust",
+    "stars": 115,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ticki",
+    "name": "dybuk",
+    "language": "rust",
+    "stars": 115,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bluss",
+    "name": "maplit",
+    "language": "rust",
+    "stars": 115,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maidsafe",
+    "name": "parsec",
+    "language": "rust",
+    "stars": 115,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "llogiq",
+    "name": "metacollect",
+    "language": "rust",
+    "stars": 115,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steveklabnik",
+    "name": "rustbook",
+    "language": "rust",
+    "stars": 114,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maidsafe",
+    "name": "safe_vault",
+    "language": "rust",
+    "stars": 114,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RWTH-OS",
+    "name": "eduOS-rs",
+    "language": "rust",
+    "stars": 114,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmstick",
+    "name": "tv-renamer",
+    "language": "rust",
+    "stars": 114,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "johannhof",
+    "name": "pipeline.rs",
+    "language": "rust",
+    "stars": 114,
+    "forks": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bryant",
+    "name": "argon2rs",
+    "language": "rust",
+    "stars": 114,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bheisler",
+    "name": "raytracer",
+    "language": "rust",
+    "stars": 114,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlecartographer",
+    "name": "point_cloud_viewer",
+    "language": "rust",
+    "stars": 113,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "genet-app",
+    "name": "genet",
+    "language": "rust",
+    "stars": 113,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "laumann",
+    "name": "compiletest-rs",
+    "language": "rust",
+    "stars": 113,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elastic-rs",
+    "name": "elastic",
+    "language": "rust",
+    "stars": 113,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TimonPost",
+    "name": "crossterm",
+    "language": "rust",
+    "stars": 113,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stepancheg",
+    "name": "rust-http2",
+    "language": "rust",
+    "stars": 113,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "toshi0383",
+    "name": "cmdshelf",
+    "language": "rust",
+    "stars": 113,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Stebalien",
+    "name": "term",
+    "language": "rust",
+    "stars": 113,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brion",
+    "name": "mtpng",
+    "language": "rust",
+    "stars": 112,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "poanetwork",
+    "name": "hbbft",
+    "language": "rust",
+    "stars": 112,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pcwalton",
+    "name": "font-kit",
+    "language": "rust",
+    "stars": 112,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mikispag",
+    "name": "bitiodine",
+    "language": "rust",
+    "stars": 111,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amzn",
+    "name": "askalono",
+    "language": "rust",
+    "stars": 111,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "input-output-hk",
+    "name": "rust-cardano",
+    "language": "rust",
+    "stars": 111,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "getopts",
+    "language": "rust",
+    "stars": 111,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-embedded",
+    "name": "cortex-m-rt",
+    "language": "rust",
+    "stars": 111,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dwrensha",
+    "name": "gj",
+    "language": "rust",
+    "stars": 111,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yingDev",
+    "name": "rxrs",
+    "language": "rust",
+    "stars": 110,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Dushistov",
+    "name": "rust_swig",
+    "language": "rust",
+    "stars": 110,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ptal",
+    "name": "oak",
+    "language": "rust",
+    "stars": 110,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bluss",
+    "name": "arrayvec",
+    "language": "rust",
+    "stars": 110,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dtolnay",
+    "name": "semver-trick",
+    "language": "rust",
+    "stars": 110,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RustSec",
+    "name": "advisory-db",
+    "language": "rust",
+    "stars": 110,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tailhook",
+    "name": "rotor-http",
+    "language": "rust",
+    "stars": 110,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yorkie",
+    "name": "rust.js",
+    "language": "rust",
+    "stars": 109,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-deprecated",
+    "name": "time",
+    "language": "rust",
+    "stars": 109,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kaj",
+    "name": "rsass",
+    "language": "rust",
+    "stars": 109,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kvark",
+    "name": "froggy",
+    "language": "rust",
+    "stars": 109,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nagisa",
+    "name": "msi-rgb",
+    "language": "rust",
+    "stars": 109,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenHID",
+    "name": "code-vr",
+    "language": "rust",
+    "stars": 109,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jaemk",
+    "name": "cached",
+    "language": "rust",
+    "stars": 108,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "erickt",
+    "name": "stateful",
+    "language": "rust",
+    "stars": 108,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jkarns275",
+    "name": "stdgba",
+    "language": "rust",
+    "stars": 108,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozillascience",
+    "name": "studyGroupLessons",
+    "language": "rust",
+    "stars": 108,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gifnksm",
+    "name": "power-assert-rs",
+    "language": "rust",
+    "stars": 107,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GNOME",
+    "name": "librsvg",
+    "language": "rust",
+    "stars": 107,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kballard",
+    "name": "rust-lua",
+    "language": "rust",
+    "stars": 107,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "polyfractal",
+    "name": "Turbine",
+    "language": "rust",
+    "stars": 107,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eliovir",
+    "name": "rust-examples",
+    "language": "rust",
+    "stars": 107,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TimNN",
+    "name": "cargo-lipo",
+    "language": "rust",
+    "stars": 107,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dguo",
+    "name": "strsim-rs",
+    "language": "rust",
+    "stars": 107,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "itadinanta",
+    "name": "rust-oids",
+    "language": "rust",
+    "stars": 107,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kimundi",
+    "name": "owning-ref-rs",
+    "language": "rust",
+    "stars": 106,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hjr3",
+    "name": "php-rpm",
+    "language": "rust",
+    "stars": 106,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cortex",
+    "name": "ripasso",
+    "language": "rust",
+    "stars": 106,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "boxtown",
+    "name": "statrs",
+    "language": "rust",
+    "stars": 106,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zcash-hackworks",
+    "name": "bn",
+    "language": "rust",
+    "stars": 106,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MackieLoeffel",
+    "name": "avr-vm",
+    "language": "rust",
+    "stars": 106,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fitzgen",
+    "name": "oxischeme",
+    "language": "rust",
+    "stars": 105,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RalfJung",
+    "name": "rust-101",
+    "language": "rust",
+    "stars": 105,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ColinEberhardt",
+    "name": "wasm-rust-chip8",
+    "language": "rust",
+    "stars": 105,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steveklabnik",
+    "name": "simple-server",
+    "language": "rust",
+    "stars": 105,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snowplow",
+    "name": "factotum",
+    "language": "rust",
+    "stars": 105,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimonSapin",
+    "name": "rust-typed-arena",
+    "language": "rust",
+    "stars": 105,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dwango",
+    "name": "fibers-rs",
+    "language": "rust",
+    "stars": 105,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BurntSushi",
+    "name": "tabwriter",
+    "language": "rust",
+    "stars": 104,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "joyent",
+    "name": "statemap",
+    "language": "rust",
+    "stars": 104,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Shnatsel",
+    "name": "libdiffuzz",
+    "language": "rust",
+    "stars": 103,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ratel-rust",
+    "name": "ratel-core",
+    "language": "rust",
+    "stars": 103,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wu-lang",
+    "name": "wu",
+    "language": "rust",
+    "stars": 103,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thecasualcoder",
+    "name": "tztail",
+    "language": "rust",
+    "stars": 103,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pnkfelix",
+    "name": "tango",
+    "language": "rust",
+    "stars": 103,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-syndication",
+    "name": "rss",
+    "language": "rust",
+    "stars": 103,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reem",
+    "name": "rust-event",
+    "language": "rust",
+    "stars": 103,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ubnt-intrepid",
+    "name": "susanoo",
+    "language": "rust",
+    "stars": 103,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rustless",
+    "name": "valico",
+    "language": "rust",
+    "stars": 103,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "J-F-Liu",
+    "name": "lopdf",
+    "language": "rust",
+    "stars": 103,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "QuietMisdreavus",
+    "name": "twitter-rs",
+    "language": "rust",
+    "stars": 103,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomjakubowski",
+    "name": "json_macros",
+    "language": "rust",
+    "stars": 103,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hugues31",
+    "name": "coinnect",
+    "language": "rust",
+    "stars": 102,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abonander",
+    "name": "multipart",
+    "language": "rust",
+    "stars": 102,
+    "forks": 41,
+    "default_branch": "master"
+  }
+]

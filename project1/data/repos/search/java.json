@@ -1,0 +1,8002 @@
+[
+  {
+    "owner": "ReactiveX",
+    "name": "RxJava",
+    "language": "java",
+    "stars": 36206,
+    "forks": 6220,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "elastic",
+    "name": "elasticsearch",
+    "language": "java",
+    "stars": 35956,
+    "forks": 12149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-boot",
+    "language": "java",
+    "stars": 30869,
+    "forks": 21419,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "retrofit",
+    "language": "java",
+    "stars": 30275,
+    "forks": 5753,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kdn251",
+    "name": "interviews",
+    "language": "java",
+    "stars": 29948,
+    "forks": 5792,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-framework",
+    "language": "java",
+    "stars": 24615,
+    "forks": 15661,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "lottie-android",
+    "language": "java",
+    "stars": 23119,
+    "forks": 3625,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "butterknife",
+    "language": "java",
+    "stars": 22473,
+    "forks": 4357,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-dubbo",
+    "language": "java",
+    "stars": 22454,
+    "forks": 15441,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "leakcanary",
+    "language": "java",
+    "stars": 21061,
+    "forks": 3255,
+    "default_branch": "master"
+  },
+  {
+    "owner": "greenrobot",
+    "name": "EventBus",
+    "language": "java",
+    "stars": 19660,
+    "forks": 4165,
+    "default_branch": "master"
+  },
+  {
+    "owner": "proxyee-down-org",
+    "name": "proxyee-down",
+    "language": "java",
+    "stars": 17997,
+    "forks": 3194,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ReactiveX",
+    "name": "RxAndroid",
+    "language": "java",
+    "stars": 17073,
+    "forks": 2715,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "skylot",
+    "name": "jadx",
+    "language": "java",
+    "stars": 16489,
+    "forks": 1693,
+    "default_branch": "master"
+  },
+  {
+    "owner": "netty",
+    "name": "netty",
+    "language": "java",
+    "stars": 16473,
+    "forks": 7240,
+    "default_branch": "4.1"
+  },
+  {
+    "owner": "nostra13",
+    "name": "Android-Universal-Image-Loader",
+    "language": "java",
+    "stars": 16360,
+    "forks": 6417,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "picasso",
+    "language": "java",
+    "stars": 16161,
+    "forks": 3912,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "Hystrix",
+    "language": "java",
+    "stars": 15536,
+    "forks": 3165,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CymChad",
+    "name": "BaseRecyclerViewAdapterHelper",
+    "language": "java",
+    "stars": 15466,
+    "forks": 3282,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "fastjson",
+    "language": "java",
+    "stars": 15441,
+    "forks": 4492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scwang90",
+    "name": "SmartRefreshLayout",
+    "language": "java",
+    "stars": 15064,
+    "forks": 3130,
+    "default_branch": "release"
+  },
+  {
+    "owner": "libgdx",
+    "name": "libgdx",
+    "language": "java",
+    "stars": 14608,
+    "forks": 5759,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisbanes",
+    "name": "PhotoView",
+    "language": "java",
+    "stars": 14229,
+    "forks": 3461,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "gson",
+    "language": "java",
+    "stars": 14071,
+    "forks": 2871,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "druid",
+    "language": "java",
+    "stars": 13704,
+    "forks": 5229,
+    "default_branch": "master"
+  },
+  {
+    "owner": "android10",
+    "name": "Android-CleanArchitecture",
+    "language": "java",
+    "stars": 12709,
+    "forks": 2970,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "tinker",
+    "language": "java",
+    "stars": 12704,
+    "forks": 2613,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SeleniumHQ",
+    "name": "selenium",
+    "language": "java",
+    "stars": 12500,
+    "forks": 4406,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Snailclimb",
+    "name": "JavaGuide",
+    "language": "java",
+    "stars": 12167,
+    "forks": 3273,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nickbutcher",
+    "name": "plaid",
+    "language": "java",
+    "stars": 12017,
+    "forks": 2479,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shuzheng",
+    "name": "zheng",
+    "language": "java",
+    "stars": 11831,
+    "forks": 5873,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "ExoPlayer",
+    "language": "java",
+    "stars": 11605,
+    "forks": 3563,
+    "default_branch": "release-v2"
+  },
+  {
+    "owner": "jenkinsci",
+    "name": "jenkins",
+    "language": "java",
+    "stars": 11513,
+    "forks": 4929,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jfeinstein10",
+    "name": "SlidingMenu",
+    "language": "java",
+    "stars": 11107,
+    "forks": 5468,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-weex",
+    "language": "java",
+    "stars": 11016,
+    "forks": 1465,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hdodenhof",
+    "name": "CircleImageView",
+    "language": "java",
+    "stars": 10836,
+    "forks": 2574,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DrKLO",
+    "name": "Telegram",
+    "language": "java",
+    "stars": 10788,
+    "forks": 4273,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daimajia",
+    "name": "AndroidSwipeLayout",
+    "language": "java",
+    "stars": 10701,
+    "forks": 2587,
+    "default_branch": "master"
+  },
+  {
+    "owner": "androidannotations",
+    "name": "androidannotations",
+    "language": "java",
+    "stars": 10554,
+    "forks": 2466,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "signalapp",
+    "name": "Signal-Android",
+    "language": "java",
+    "stars": 10548,
+    "forks": 2754,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "stetho",
+    "language": "java",
+    "stars": 10432,
+    "forks": 957,
+    "default_branch": "master"
+  },
+  {
+    "owner": "winterbe",
+    "name": "java8-tutorial",
+    "language": "java",
+    "stars": 10422,
+    "forks": 2357,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bazelbuild",
+    "name": "bazel",
+    "language": "java",
+    "stars": 10404,
+    "forks": 1644,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "kafka",
+    "language": "java",
+    "stars": 10088,
+    "forks": 5659,
+    "default_branch": "trunk"
+  },
+  {
+    "owner": "daimajia",
+    "name": "AndroidViewAnimations",
+    "language": "java",
+    "stars": 10014,
+    "forks": 2168,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "ViewPagerIndicator",
+    "language": "java",
+    "stars": 9974,
+    "forks": 4290,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EnterpriseQualityCoding",
+    "name": "FizzBuzzEnterpriseEdition",
+    "language": "java",
+    "stars": 9862,
+    "forks": 476,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mikepenz",
+    "name": "MaterialDrawer",
+    "language": "java",
+    "stars": 9804,
+    "forks": 1969,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "openzipkin",
+    "name": "zipkin",
+    "language": "java",
+    "stars": 9705,
+    "forks": 1662,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hankcs",
+    "name": "HanLP",
+    "language": "java",
+    "stars": 9545,
+    "forks": 2879,
+    "default_branch": "master"
+  },
+  {
+    "owner": "liaohuqiu",
+    "name": "android-Ultra-Pull-To-Refresh",
+    "language": "java",
+    "stars": 9389,
+    "forks": 2835,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pockethub",
+    "name": "PocketHub",
+    "language": "java",
+    "stars": 9331,
+    "forks": 3705,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eugenp",
+    "name": "tutorials",
+    "language": "java",
+    "stars": 9297,
+    "forks": 14035,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ksoichiro",
+    "name": "Android-ObservableScrollView",
+    "language": "java",
+    "stars": 9117,
+    "forks": 2101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wix",
+    "name": "react-native-navigation",
+    "language": "java",
+    "stars": 9076,
+    "forks": 1929,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nathanmarz",
+    "name": "storm",
+    "language": "java",
+    "stars": 9076,
+    "forks": 1791,
+    "default_branch": "moved-to-apache"
+  },
+  {
+    "owner": "ctripcorp",
+    "name": "apollo",
+    "language": "java",
+    "stars": 8954,
+    "forks": 3223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mybatis",
+    "name": "mybatis-3",
+    "language": "java",
+    "stars": 8925,
+    "forks": 5473,
+    "default_branch": "master"
+  },
+  {
+    "owner": "navasmdc",
+    "name": "MaterialDesignLibrary",
+    "language": "java",
+    "stars": 8892,
+    "forks": 2394,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisbanes",
+    "name": "Android-PullToRefresh",
+    "language": "java",
+    "stars": 8770,
+    "forks": 5090,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Curzibn",
+    "name": "Luban",
+    "language": "java",
+    "stars": 8716,
+    "forks": 1551,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "vlayout",
+    "language": "java",
+    "stars": 8669,
+    "forks": 1538,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eclipse-vertx",
+    "name": "vert.x",
+    "language": "java",
+    "stars": 8662,
+    "forks": 1444,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bigkoo",
+    "name": "Android-PickerView",
+    "language": "java",
+    "stars": 8651,
+    "forks": 2239,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arduino",
+    "name": "Arduino",
+    "language": "java",
+    "stars": 8628,
+    "forks": 6389,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wasabeef",
+    "name": "recyclerview-animators",
+    "language": "java",
+    "stars": 8579,
+    "forks": 1706,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeasonlzy",
+    "name": "okhttp-OkGo",
+    "language": "java",
+    "stars": 8421,
+    "forks": 2113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "prestodb",
+    "name": "presto",
+    "language": "java",
+    "stars": 8285,
+    "forks": 2811,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brettwooldridge",
+    "name": "HikariCP",
+    "language": "java",
+    "stars": 8267,
+    "forks": 1257,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "TheAlgorithms",
+    "name": "Java",
+    "language": "java",
+    "stars": 8213,
+    "forks": 3238,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "hadoop",
+    "language": "java",
+    "stars": 8173,
+    "forks": 5156,
+    "default_branch": "trunk"
+  },
+  {
+    "owner": "zhihu",
+    "name": "Matisse",
+    "language": "java",
+    "stars": 8160,
+    "forks": 1227,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paolorotolo",
+    "name": "AppIntro",
+    "language": "java",
+    "stars": 8154,
+    "forks": 1498,
+    "default_branch": "master"
+  },
+  {
+    "owner": "roughike",
+    "name": "BottomBar",
+    "language": "java",
+    "stars": 8078,
+    "forks": 1530,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aosp-mirror",
+    "name": "platform_frameworks_base",
+    "language": "java",
+    "stars": 8051,
+    "forks": 5408,
+    "default_branch": "master"
+  },
+  {
+    "owner": "81813780",
+    "name": "AVLoadingIndicatorView",
+    "language": "java",
+    "stars": 8043,
+    "forks": 1624,
+    "default_branch": "master"
+  },
+  {
+    "owner": "umano",
+    "name": "AndroidSlidingUpPanel",
+    "language": "java",
+    "stars": 8043,
+    "forks": 2190,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisjenx",
+    "name": "Calligraphy",
+    "language": "java",
+    "stars": 8025,
+    "forks": 1026,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lipangit",
+    "name": "JiaoZiVideoPlayer",
+    "language": "java",
+    "stars": 7996,
+    "forks": 1952,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "CarGuo",
+    "name": "GSYVideoPlayer",
+    "language": "java",
+    "stars": 7903,
+    "forks": 1800,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vondear",
+    "name": "RxTool",
+    "language": "java",
+    "stars": 7860,
+    "forks": 1973,
+    "default_branch": "master"
+  },
+  {
+    "owner": "perwendel",
+    "name": "spark",
+    "language": "java",
+    "stars": 7847,
+    "forks": 1422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HannahMitt",
+    "name": "HomeMirror",
+    "language": "java",
+    "stars": 7840,
+    "forks": 698,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "ARouter",
+    "language": "java",
+    "stars": 7839,
+    "forks": 1307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mockito",
+    "name": "mockito",
+    "language": "java",
+    "stars": 7823,
+    "forks": 1381,
+    "default_branch": "release/2.x"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "uCrop",
+    "language": "java",
+    "stars": 7809,
+    "forks": 1417,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisbanes",
+    "name": "cheesesquare",
+    "language": "java",
+    "stars": 7629,
+    "forks": 1889,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lingochamp",
+    "name": "FileDownloader",
+    "language": "java",
+    "stars": 7587,
+    "forks": 1588,
+    "default_branch": "master"
+  },
+  {
+    "owner": "YoKeyword",
+    "name": "Fragmentation",
+    "language": "java",
+    "stars": 7568,
+    "forks": 1631,
+    "default_branch": "master"
+  },
+  {
+    "owner": "H07000223",
+    "name": "FlycoTabLayout",
+    "language": "java",
+    "stars": 7555,
+    "forks": 1688,
+    "default_branch": "master"
+  },
+  {
+    "owner": "naver",
+    "name": "pinpoint",
+    "language": "java",
+    "stars": 7477,
+    "forks": 2313,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clojure",
+    "name": "clojure",
+    "language": "java",
+    "stars": 7431,
+    "forks": 1211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tbruyelle",
+    "name": "RxPermissions",
+    "language": "java",
+    "stars": 7420,
+    "forks": 917,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bilibili",
+    "name": "DanmakuFlameMaster",
+    "language": "java",
+    "stars": 7342,
+    "forks": 1810,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xetorthio",
+    "name": "jedis",
+    "language": "java",
+    "stars": 7282,
+    "forks": 2897,
+    "default_branch": "master"
+  },
+  {
+    "owner": "youth5201314",
+    "name": "banner",
+    "language": "java",
+    "stars": 7240,
+    "forks": 1477,
+    "default_branch": "master"
+  },
+  {
+    "owner": "b3log",
+    "name": "symphony",
+    "language": "java",
+    "stars": 7221,
+    "forks": 2637,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-druid",
+    "language": "java",
+    "stars": 7198,
+    "forks": 1767,
+    "default_branch": "master"
+  },
+  {
+    "owner": "junit-team",
+    "name": "junit4",
+    "language": "java",
+    "stars": 7164,
+    "forks": 2715,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JeffLi1993",
+    "name": "springboot-learning-example",
+    "language": "java",
+    "stars": 7003,
+    "forks": 3853,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vondear",
+    "name": "RxTool",
+    "language": "java",
+    "stars": 7860,
+    "forks": 1973,
+    "default_branch": "master"
+  },
+  {
+    "owner": "perwendel",
+    "name": "spark",
+    "language": "java",
+    "stars": 7847,
+    "forks": 1422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HannahMitt",
+    "name": "HomeMirror",
+    "language": "java",
+    "stars": 7840,
+    "forks": 698,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "ARouter",
+    "language": "java",
+    "stars": 7839,
+    "forks": 1307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mockito",
+    "name": "mockito",
+    "language": "java",
+    "stars": 7823,
+    "forks": 1381,
+    "default_branch": "release/2.x"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "uCrop",
+    "language": "java",
+    "stars": 7809,
+    "forks": 1417,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "MaterialViewPager",
+    "language": "java",
+    "stars": 7686,
+    "forks": 1463,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisbanes",
+    "name": "cheesesquare",
+    "language": "java",
+    "stars": 7629,
+    "forks": 1889,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lingochamp",
+    "name": "FileDownloader",
+    "language": "java",
+    "stars": 7587,
+    "forks": 1588,
+    "default_branch": "master"
+  },
+  {
+    "owner": "YoKeyword",
+    "name": "Fragmentation",
+    "language": "java",
+    "stars": 7568,
+    "forks": 1631,
+    "default_branch": "master"
+  },
+  {
+    "owner": "H07000223",
+    "name": "FlycoTabLayout",
+    "language": "java",
+    "stars": 7555,
+    "forks": 1688,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Freelander",
+    "name": "Android_Data",
+    "language": "java",
+    "stars": 7542,
+    "forks": 2003,
+    "default_branch": "master"
+  },
+  {
+    "owner": "naver",
+    "name": "pinpoint",
+    "language": "java",
+    "stars": 7477,
+    "forks": 2313,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clojure",
+    "name": "clojure",
+    "language": "java",
+    "stars": 7431,
+    "forks": 1211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tbruyelle",
+    "name": "RxPermissions",
+    "language": "java",
+    "stars": 7420,
+    "forks": 917,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "guice",
+    "language": "java",
+    "stars": 7400,
+    "forks": 1128,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bilibili",
+    "name": "DanmakuFlameMaster",
+    "language": "java",
+    "stars": 7342,
+    "forks": 1810,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "ActionBarSherlock",
+    "language": "java",
+    "stars": 7300,
+    "forks": 3875,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "agera",
+    "language": "java",
+    "stars": 7288,
+    "forks": 683,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xetorthio",
+    "name": "jedis",
+    "language": "java",
+    "stars": 7282,
+    "forks": 2897,
+    "default_branch": "master"
+  },
+  {
+    "owner": "code4craft",
+    "name": "webmagic",
+    "language": "java",
+    "stars": 7260,
+    "forks": 3261,
+    "default_branch": "master"
+  },
+  {
+    "owner": "youth5201314",
+    "name": "banner",
+    "language": "java",
+    "stars": 7240,
+    "forks": 1477,
+    "default_branch": "master"
+  },
+  {
+    "owner": "b3log",
+    "name": "symphony",
+    "language": "java",
+    "stars": 7221,
+    "forks": 2637,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-druid",
+    "language": "java",
+    "stars": 7198,
+    "forks": 1767,
+    "default_branch": "master"
+  },
+  {
+    "owner": "junit-team",
+    "name": "junit4",
+    "language": "java",
+    "stars": 7164,
+    "forks": 2715,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "auto",
+    "language": "java",
+    "stars": 7138,
+    "forks": 782,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iBotPeaches",
+    "name": "Apktool",
+    "language": "java",
+    "stars": 7051,
+    "forks": 1929,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JeffLi1993",
+    "name": "springboot-learning-example",
+    "language": "java",
+    "stars": 7003,
+    "forks": 3853,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oracle",
+    "name": "graal",
+    "language": "java",
+    "stars": 6969,
+    "forks": 423,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wasabeef",
+    "name": "glide-transformations",
+    "language": "java",
+    "stars": 6960,
+    "forks": 1096,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rzwitserloot",
+    "name": "lombok",
+    "language": "java",
+    "stars": 6956,
+    "forks": 1298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "dagger",
+    "language": "java",
+    "stars": 6917,
+    "forks": 2565,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JessYanCoding",
+    "name": "MVPArms",
+    "language": "java",
+    "stars": 6902,
+    "forks": 1648,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dropwizard",
+    "name": "dropwizard",
+    "language": "java",
+    "stars": 6878,
+    "forks": 2937,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "SimianArmy",
+    "language": "java",
+    "stars": 6850,
+    "forks": 986,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cymcsg",
+    "name": "UltimateRecyclerView",
+    "language": "java",
+    "stars": 6841,
+    "forks": 1468,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bearded-Hen",
+    "name": "Android-Bootstrap",
+    "language": "java",
+    "stars": 6827,
+    "forks": 1480,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redisson",
+    "name": "redisson",
+    "language": "java",
+    "stars": 6799,
+    "forks": 1791,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kaushikgopal",
+    "name": "RxJava-Android-Samples",
+    "language": "java",
+    "stars": 6795,
+    "forks": 1299,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koral--",
+    "name": "android-gif-drawable",
+    "language": "java",
+    "stars": 6736,
+    "forks": 1479,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "google",
+    "name": "tink",
+    "language": "java",
+    "stars": 6660,
+    "forks": 486,
+    "default_branch": "master"
+  },
+  {
+    "owner": "astuetz",
+    "name": "PagerSlidingTabStrip",
+    "language": "java",
+    "stars": 6634,
+    "forks": 2886,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "eureka",
+    "language": "java",
+    "stars": 6612,
+    "forks": 1709,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "easypermissions",
+    "language": "java",
+    "stars": 6605,
+    "forks": 1082,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dbeaver",
+    "name": "dbeaver",
+    "language": "java",
+    "stars": 6548,
+    "forks": 558,
+    "default_branch": "devel"
+  },
+  {
+    "owner": "jhy",
+    "name": "jsoup",
+    "language": "java",
+    "stars": 6524,
+    "forks": 1567,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "atlas",
+    "language": "java",
+    "stars": 6502,
+    "forks": 1254,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hongyangAndroid",
+    "name": "okhttputils",
+    "language": "java",
+    "stars": 6466,
+    "forks": 2316,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ityouknow",
+    "name": "spring-boot-examples",
+    "language": "java",
+    "stars": 6461,
+    "forks": 3732,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hongyangAndroid",
+    "name": "AndroidAutoLayout",
+    "language": "java",
+    "stars": 6445,
+    "forks": 1961,
+    "default_branch": "master"
+  },
+  {
+    "owner": "laobie",
+    "name": "StatusBarUtil",
+    "language": "java",
+    "stars": 6443,
+    "forks": 1253,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChrisRM",
+    "name": "material-theme-jetbrains",
+    "language": "java",
+    "stars": 6441,
+    "forks": 381,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "hugo",
+    "language": "java",
+    "stars": 6389,
+    "forks": 632,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "zuul",
+    "language": "java",
+    "stars": 6369,
+    "forks": 1242,
+    "default_branch": "2.1"
+  },
+  {
+    "owner": "didi",
+    "name": "VirtualAPK",
+    "language": "java",
+    "stars": 6369,
+    "forks": 1000,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trello",
+    "name": "RxLifecycle",
+    "language": "java",
+    "stars": 6354,
+    "forks": 557,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aritraroy",
+    "name": "UltimateAndroidReference",
+    "language": "java",
+    "stars": 6285,
+    "forks": 921,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "timber",
+    "language": "java",
+    "stars": 6273,
+    "forks": 640,
+    "default_branch": "master"
+  },
+  {
+    "owner": "react-native-community",
+    "name": "react-native-camera",
+    "language": "java",
+    "stars": 6267,
+    "forks": 1857,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geeeeeeeeek",
+    "name": "WeChatLuckyMoney",
+    "language": "java",
+    "stars": 6267,
+    "forks": 2058,
+    "default_branch": "stable"
+  },
+  {
+    "owner": "alibaba",
+    "name": "canal",
+    "language": "java",
+    "stars": 6257,
+    "forks": 2372,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "buck",
+    "language": "java",
+    "stars": 6248,
+    "forks": 929,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pedant",
+    "name": "sweet-alert-dialog",
+    "language": "java",
+    "stars": 6215,
+    "forks": 1766,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lecho",
+    "name": "hellocharts-android",
+    "language": "java",
+    "stars": 6206,
+    "forks": 1568,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dropwizard",
+    "name": "metrics",
+    "language": "java",
+    "stars": 6103,
+    "forks": 1555,
+    "default_branch": "4.1-development"
+  },
+  {
+    "owner": "google",
+    "name": "physical-web",
+    "language": "java",
+    "stars": 6064,
+    "forks": 721,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "javapoet",
+    "language": "java",
+    "stars": 6043,
+    "forks": 743,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daniulive",
+    "name": "SmarterStreaming",
+    "language": "java",
+    "stars": 5902,
+    "forks": 1580,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DroidPluginTeam",
+    "name": "DroidPlugin",
+    "language": "java",
+    "stars": 5893,
+    "forks": 2421,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-testing",
+    "language": "java",
+    "stars": 5852,
+    "forks": 2194,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koush",
+    "name": "ion",
+    "language": "java",
+    "stars": 5847,
+    "forks": 1021,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codecentric",
+    "name": "spring-boot-admin",
+    "language": "java",
+    "stars": 5812,
+    "forks": 1654,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xuxueli",
+    "name": "xxl-job",
+    "language": "java",
+    "stars": 5800,
+    "forks": 2487,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pedrovgs",
+    "name": "EffectiveAndroidUI",
+    "language": "java",
+    "stars": 5795,
+    "forks": 1247,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mission-peace",
+    "name": "interview",
+    "language": "java",
+    "stars": 5759,
+    "forks": 2875,
+    "default_branch": "master"
+  },
+  {
+    "owner": "QMUI",
+    "name": "QMUI_Android",
+    "language": "java",
+    "stars": 5756,
+    "forks": 1065,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "rocketmq",
+    "language": "java",
+    "stars": 5755,
+    "forks": 2683,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "arthas",
+    "language": "java",
+    "stars": 5744,
+    "forks": 928,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GcsSloop",
+    "name": "AndroidNote",
+    "language": "java",
+    "stars": 5739,
+    "forks": 1468,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ogaclejapan",
+    "name": "SmartTabLayout",
+    "language": "java",
+    "stars": 5725,
+    "forks": 1158,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenRefine",
+    "name": "OpenRefine",
+    "language": "java",
+    "stars": 5715,
+    "forks": 1016,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koush",
+    "name": "AndroidAsync",
+    "language": "java",
+    "stars": 5714,
+    "forks": 1328,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crazycodeboy",
+    "name": "TakePhoto",
+    "language": "java",
+    "stars": 5708,
+    "forks": 1264,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sharding-sphere",
+    "name": "sharding-sphere",
+    "language": "java",
+    "stars": 5700,
+    "forks": 2111,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "futuresimple",
+    "name": "android-floating-action-button",
+    "language": "java",
+    "stars": 5700,
+    "forks": 1477,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nhaarman",
+    "name": "ListViewAnimations",
+    "language": "java",
+    "stars": 5693,
+    "forks": 1816,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lzyzsd",
+    "name": "JsBridge",
+    "language": "java",
+    "stars": 5665,
+    "forks": 1197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "neo4j",
+    "name": "neo4j",
+    "language": "java",
+    "stars": 5650,
+    "forks": 1447,
+    "default_branch": "3.5"
+  },
+  {
+    "owner": "rey5137",
+    "name": "material",
+    "language": "java",
+    "stars": 5645,
+    "forks": 1338,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pagehelper",
+    "name": "Mybatis-PageHelper",
+    "language": "java",
+    "stars": 5631,
+    "forks": 1868,
+    "default_branch": "master"
+  },
+  {
+    "owner": "b3log",
+    "name": "solo",
+    "language": "java",
+    "stars": 5558,
+    "forks": 2186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LitePalFramework",
+    "name": "LitePal",
+    "language": "java",
+    "stars": 5555,
+    "forks": 1285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "u2020",
+    "language": "java",
+    "stars": 5533,
+    "forks": 989,
+    "default_branch": "master"
+  },
+  {
+    "owner": "singwhatiwanna",
+    "name": "dynamic-load-apk",
+    "language": "java",
+    "stars": 5504,
+    "forks": 1994,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antoniolg",
+    "name": "androidmvp",
+    "language": "java",
+    "stars": 5501,
+    "forks": 1559,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cats-oss",
+    "name": "android-gpuimage",
+    "language": "java",
+    "stars": 5487,
+    "forks": 1627,
+    "default_branch": "master"
+  },
+  {
+    "owner": "springside",
+    "name": "springside4",
+    "language": "java",
+    "stars": 5470,
+    "forks": 3078,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rengwuxian",
+    "name": "MaterialEditText",
+    "language": "java",
+    "stars": 5453,
+    "forks": 1022,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ikew0ng",
+    "name": "SwipeBackLayout",
+    "language": "java",
+    "stars": 5447,
+    "forks": 1425,
+    "default_branch": "master"
+  },
+  {
+    "owner": "material-components",
+    "name": "material-components-android",
+    "language": "java",
+    "stars": 5445,
+    "forks": 641,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "litho",
+    "language": "java",
+    "stars": 5444,
+    "forks": 461,
+    "default_branch": "master"
+  },
+  {
+    "owner": "medcl",
+    "name": "elasticsearch-analysis-ik",
+    "language": "java",
+    "stars": 5442,
+    "forks": 1409,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stanfordnlp",
+    "name": "CoreNLP",
+    "language": "java",
+    "stars": 5435,
+    "forks": 1969,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ybq",
+    "name": "Android-SpinKit",
+    "language": "java",
+    "stars": 5420,
+    "forks": 903,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amlcurran",
+    "name": "ShowcaseView",
+    "language": "java",
+    "stars": 5405,
+    "forks": 1317,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "storm",
+    "language": "java",
+    "stars": 5395,
+    "forks": 3765,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emilsjolander",
+    "name": "StickyListHeaders",
+    "language": "java",
+    "stars": 5381,
+    "forks": 1562,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swagger-api",
+    "name": "swagger-core",
+    "language": "java",
+    "stars": 5365,
+    "forks": 1649,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amitshekhariitbhu",
+    "name": "Android-Debug-Database",
+    "language": "java",
+    "stars": 5363,
+    "forks": 573,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "zookeeper",
+    "language": "java",
+    "stars": 5330,
+    "forks": 3424,
+    "default_branch": "master"
+  },
+  {
+    "owner": "leolin310148",
+    "name": "ShortcutBadger",
+    "language": "java",
+    "stars": 5325,
+    "forks": 1057,
+    "default_branch": "master"
+  },
+  {
+    "owner": "evant",
+    "name": "gradle-retrolambda",
+    "language": "java",
+    "stars": 5325,
+    "forks": 456,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "j2objc",
+    "language": "java",
+    "stars": 5309,
+    "forks": 738,
+    "default_branch": "master"
+  },
+  {
+    "owner": "naman14",
+    "name": "Timber",
+    "language": "java",
+    "stars": 5277,
+    "forks": 1704,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pxb1988",
+    "name": "dex2jar",
+    "language": "java",
+    "stars": 5269,
+    "forks": 1133,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "lucasr",
+    "name": "twoway-view",
+    "language": "java",
+    "stars": 5268,
+    "forks": 1082,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "android-classyshark",
+    "language": "java",
+    "stars": 5255,
+    "forks": 670,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MyCATApache",
+    "name": "Mycat-Server",
+    "language": "java",
+    "stars": 5250,
+    "forks": 2924,
+    "default_branch": "1.6"
+  },
+  {
+    "owner": "daimajia",
+    "name": "AndroidImageSlider",
+    "language": "java",
+    "stars": 5249,
+    "forks": 1670,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daimajia",
+    "name": "NumberProgressBar",
+    "language": "java",
+    "stars": 5232,
+    "forks": 1344,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shwenzhang",
+    "name": "AndResGuard",
+    "language": "java",
+    "stars": 5228,
+    "forks": 1060,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hackware1993",
+    "name": "MagicIndicator",
+    "language": "java",
+    "stars": 5223,
+    "forks": 928,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "rebound",
+    "language": "java",
+    "stars": 5197,
+    "forks": 846,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wyouflf",
+    "name": "xUtils3",
+    "language": "java",
+    "stars": 5164,
+    "forks": 1929,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "otto",
+    "language": "java",
+    "stars": 5159,
+    "forks": 925,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Qihoo360",
+    "name": "RePlugin",
+    "language": "java",
+    "stars": 5154,
+    "forks": 1030,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "eclipse",
+    "name": "che",
+    "language": "java",
+    "stars": 5134,
+    "forks": 928,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vinc3m1",
+    "name": "RoundedImageView",
+    "language": "java",
+    "stars": 5114,
+    "forks": 1102,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Devlight",
+    "name": "InfiniteCycleViewPager",
+    "language": "java",
+    "stars": 5102,
+    "forks": 764,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LuckSiege",
+    "name": "PictureSelector",
+    "language": "java",
+    "stars": 5076,
+    "forks": 946,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Nightonke",
+    "name": "BoomMenu",
+    "language": "java",
+    "stars": 5076,
+    "forks": 1015,
+    "default_branch": "master"
+  },
+  {
+    "owner": "forezp",
+    "name": "SpringCloudLearning",
+    "language": "java",
+    "stars": 5072,
+    "forks": 2974,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgilfelt",
+    "name": "SystemBarTint",
+    "language": "java",
+    "stars": 5058,
+    "forks": 1293,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmytrodanylyk",
+    "name": "circular-progress-button",
+    "language": "java",
+    "stars": 5051,
+    "forks": 1181,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grpc",
+    "name": "grpc-java",
+    "language": "java",
+    "stars": 5026,
+    "forks": 1629,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wyouflf",
+    "name": "xUtils",
+    "language": "java",
+    "stars": 5018,
+    "forks": 2998,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apereo",
+    "name": "cas",
+    "language": "java",
+    "stars": 5011,
+    "forks": 2424,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sparklemotion",
+    "name": "nokogiri",
+    "language": "java",
+    "stars": 4982,
+    "forks": 709,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kickstarter",
+    "name": "android-oss",
+    "language": "java",
+    "stars": 4963,
+    "forks": 849,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sockeqwe",
+    "name": "mosby",
+    "language": "java",
+    "stars": 4943,
+    "forks": 756,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GoogleContainerTools",
+    "name": "jib",
+    "language": "java",
+    "stars": 4911,
+    "forks": 362,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dyc87112",
+    "name": "SpringBoot-Learning",
+    "language": "java",
+    "stars": 4911,
+    "forks": 2129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "flink",
+    "language": "java",
+    "stars": 4879,
+    "forks": 3095,
+    "default_branch": "master"
+  },
+  {
+    "owner": "asLody",
+    "name": "VirtualApp",
+    "language": "java",
+    "stars": 4870,
+    "forks": 1487,
+    "default_branch": "master"
+  },
+  {
+    "owner": "android-hacker",
+    "name": "VirtualXposed",
+    "language": "java",
+    "stars": 4868,
+    "forks": 669,
+    "default_branch": "exposed"
+  },
+  {
+    "owner": "evernote",
+    "name": "android-job",
+    "language": "java",
+    "stars": 4858,
+    "forks": 468,
+    "default_branch": "master"
+  },
+  {
+    "owner": "claritylab",
+    "name": "lucida",
+    "language": "java",
+    "stars": 4856,
+    "forks": 958,
+    "default_branch": "master"
+  },
+  {
+    "owner": "frogermcs",
+    "name": "InstaMaterial",
+    "language": "java",
+    "stars": 4853,
+    "forks": 1489,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ben-manes",
+    "name": "caffeine",
+    "language": "java",
+    "stars": 4852,
+    "forks": 423,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "epoxy",
+    "language": "java",
+    "stars": 4840,
+    "forks": 353,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Trinea",
+    "name": "android-common",
+    "language": "java",
+    "stars": 4827,
+    "forks": 2777,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yixia",
+    "name": "VitamioBundle",
+    "language": "java",
+    "stars": 4815,
+    "forks": 2097,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thinkaurelius",
+    "name": "titan",
+    "language": "java",
+    "stars": 4811,
+    "forks": 997,
+    "default_branch": "titan10"
+  },
+  {
+    "owner": "Justson",
+    "name": "AgentWeb",
+    "language": "java",
+    "stars": 4811,
+    "forks": 869,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-skywalking",
+    "language": "java",
+    "stars": 4799,
+    "forks": 1491,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gabrielemariotti",
+    "name": "cardslib",
+    "language": "java",
+    "stars": 4785,
+    "forks": 1297,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "Side-Menu.Android",
+    "language": "java",
+    "stars": 4784,
+    "forks": 1527,
+    "default_branch": "master"
+  },
+  {
+    "owner": "davemorrissey",
+    "name": "subsampling-scale-image-view",
+    "language": "java",
+    "stars": 4784,
+    "forks": 754,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aa112901",
+    "name": "remusic",
+    "language": "java",
+    "stars": 4781,
+    "forks": 1573,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "cassandra",
+    "language": "java",
+    "stars": 4779,
+    "forks": 2164,
+    "default_branch": "trunk"
+  },
+  {
+    "owner": "GrenderG",
+    "name": "Toasty",
+    "language": "java",
+    "stars": 4768,
+    "forks": 606,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "freeline",
+    "language": "java",
+    "stars": 4767,
+    "forks": 567,
+    "default_branch": "master"
+  },
+  {
+    "owner": "izzyleung",
+    "name": "ZhihuDailyPurify",
+    "language": "java",
+    "stars": 4760,
+    "forks": 1022,
+    "default_branch": "master"
+  },
+  {
+    "owner": "traex",
+    "name": "RippleEffect",
+    "language": "java",
+    "stars": 4753,
+    "forks": 1125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "etsy",
+    "name": "AndroidStaggeredGrid",
+    "language": "java",
+    "stars": 4731,
+    "forks": 1209,
+    "default_branch": "master"
+  },
+  {
+    "owner": "firebase",
+    "name": "quickstart-android",
+    "language": "java",
+    "stars": 4714,
+    "forks": 4633,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Blankj",
+    "name": "awesome-java-leetcode",
+    "language": "java",
+    "stars": 4706,
+    "forks": 848,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zaproxy",
+    "name": "zaproxy",
+    "language": "java",
+    "stars": 4705,
+    "forks": 873,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "AsyncHttpClient",
+    "name": "async-http-client",
+    "language": "java",
+    "stars": 4705,
+    "forks": 1321,
+    "default_branch": "master"
+  },
+  {
+    "owner": "prolificinteractive",
+    "name": "material-calendarview",
+    "language": "java",
+    "stars": 4702,
+    "forks": 1040,
+    "default_branch": "master"
+  },
+  {
+    "owner": "commonsguy",
+    "name": "cw-omnibus",
+    "language": "java",
+    "stars": 4701,
+    "forks": 3668,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "sqlbrite",
+    "language": "java",
+    "stars": 4701,
+    "forks": 443,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hs-web",
+    "name": "hsweb-framework",
+    "language": "java",
+    "stars": 4698,
+    "forks": 1976,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "DiskLruCache",
+    "language": "java",
+    "stars": 4695,
+    "forks": 1057,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antlr",
+    "name": "antlr4",
+    "language": "java",
+    "stars": 4693,
+    "forks": 1257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vipshop",
+    "name": "vjtools",
+    "language": "java",
+    "stars": 4690,
+    "forks": 875,
+    "default_branch": "master"
+  },
+  {
+    "owner": "weibocom",
+    "name": "motan",
+    "language": "java",
+    "stars": 4684,
+    "forks": 1582,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yanzhenjie",
+    "name": "AndPermission",
+    "language": "java",
+    "stars": 4674,
+    "forks": 833,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guardianproject",
+    "name": "haven",
+    "language": "java",
+    "stars": 4668,
+    "forks": 655,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gyf-dev",
+    "name": "ImmersionBar",
+    "language": "java",
+    "stars": 4668,
+    "forks": 799,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gitpitch",
+    "name": "gitpitch",
+    "language": "java",
+    "stars": 4666,
+    "forks": 399,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "facebook-android-sdk",
+    "language": "java",
+    "stars": 4665,
+    "forks": 2825,
+    "default_branch": "master"
+  },
+  {
+    "owner": "smuyyh",
+    "name": "BookReader",
+    "language": "java",
+    "stars": 4643,
+    "forks": 1457,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scribejava",
+    "name": "scribejava",
+    "language": "java",
+    "stars": 4628,
+    "forks": 1560,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ACRA",
+    "name": "acra",
+    "language": "java",
+    "stars": 4626,
+    "forks": 1016,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pardom-zz",
+    "name": "ActiveAndroid",
+    "language": "java",
+    "stars": 4624,
+    "forks": 1113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TooTallNate",
+    "name": "Java-WebSocket",
+    "language": "java",
+    "stars": 4615,
+    "forks": 1525,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TeamNewPipe",
+    "name": "NewPipe",
+    "language": "java",
+    "stars": 4590,
+    "forks": 745,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "JessYanCoding",
+    "name": "AndroidAutoSize",
+    "language": "java",
+    "stars": 4588,
+    "forks": 540,
+    "default_branch": "master"
+  },
+  {
+    "owner": "motianhuo",
+    "name": "wechat",
+    "language": "java",
+    "stars": 4575,
+    "forks": 2082,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NLPchina",
+    "name": "ansj_seg",
+    "language": "java",
+    "stars": 4572,
+    "forks": 2030,
+    "default_branch": "master"
+  },
+  {
+    "owner": "XRecyclerView",
+    "name": "XRecyclerView",
+    "language": "java",
+    "stars": 4549,
+    "forks": 1197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "markzhai",
+    "name": "AndroidPerformanceMonitor",
+    "language": "java",
+    "stars": 4544,
+    "forks": 740,
+    "default_branch": "master"
+  },
+  {
+    "owner": "react-community",
+    "name": "react-native-image-picker",
+    "language": "java",
+    "stars": 4539,
+    "forks": 1019,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Graylog2",
+    "name": "graylog2-server",
+    "language": "java",
+    "stars": 4533,
+    "forks": 691,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MindorksOpenSource",
+    "name": "android-interview-questions",
+    "language": "java",
+    "stars": 4513,
+    "forks": 866,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "closure-compiler",
+    "language": "java",
+    "stars": 4510,
+    "forks": 858,
+    "default_branch": "master"
+  },
+  {
+    "owner": "go-lang-plugin-org",
+    "name": "go-lang-idea-plugin",
+    "language": "java",
+    "stars": 4494,
+    "forks": 567,
+    "default_branch": "master"
+  },
+  {
+    "owner": "processing",
+    "name": "processing",
+    "language": "java",
+    "stars": 4482,
+    "forks": 1220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gocd",
+    "name": "gocd",
+    "language": "java",
+    "stars": 4463,
+    "forks": 745,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcxiaoke",
+    "name": "android-volley",
+    "language": "java",
+    "stars": 4455,
+    "forks": 1714,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wequick",
+    "name": "Small",
+    "language": "java",
+    "stars": 4454,
+    "forks": 1078,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chentao0707",
+    "name": "SimplifyReader",
+    "language": "java",
+    "stars": 4450,
+    "forks": 1697,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "NineOldAndroids",
+    "language": "java",
+    "stars": 4445,
+    "forks": 1651,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Clans",
+    "name": "FloatingActionButton",
+    "language": "java",
+    "stars": 4443,
+    "forks": 1031,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "moshi",
+    "language": "java",
+    "stars": 4442,
+    "forks": 331,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sqshq",
+    "name": "PiggyMetrics",
+    "language": "java",
+    "stars": 4421,
+    "forks": 2418,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hongyangAndroid",
+    "name": "FlowLayout",
+    "language": "java",
+    "stars": 4390,
+    "forks": 958,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danielzeller",
+    "name": "Depth-LIB-Android-",
+    "language": "java",
+    "stars": 4370,
+    "forks": 627,
+    "default_branch": "master"
+  },
+  {
+    "owner": "java-native-access",
+    "name": "jna",
+    "language": "java",
+    "stars": 4349,
+    "forks": 1066,
+    "default_branch": "master"
+  },
+  {
+    "owner": "careercup",
+    "name": "ctci",
+    "language": "java",
+    "stars": 4332,
+    "forks": 2231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "janishar",
+    "name": "mit-deep-learning-book-pdf",
+    "language": "java",
+    "stars": 4319,
+    "forks": 1053,
+    "default_branch": "master"
+  },
+  {
+    "owner": "knightliao",
+    "name": "disconf",
+    "language": "java",
+    "stars": 4310,
+    "forks": 2031,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aporter",
+    "name": "coursera-android",
+    "language": "java",
+    "stars": 4310,
+    "forks": 5772,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Devlight",
+    "name": "NavigationTabBar",
+    "language": "java",
+    "stars": 4303,
+    "forks": 747,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AndroidBootstrap",
+    "name": "android-bootstrap",
+    "language": "java",
+    "stars": 4296,
+    "forks": 1274,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dm77",
+    "name": "barcodescanner",
+    "language": "java",
+    "stars": 4292,
+    "forks": 1125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "android-times-square",
+    "language": "java",
+    "stars": 4286,
+    "forks": 1205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robolectric",
+    "name": "robolectric",
+    "language": "java",
+    "stars": 4248,
+    "forks": 1142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elasticjob",
+    "name": "elastic-job-lite",
+    "language": "java",
+    "stars": 4244,
+    "forks": 2037,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "hanks-zyh",
+    "name": "HTextView",
+    "language": "java",
+    "stars": 4232,
+    "forks": 689,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lets-blade",
+    "name": "blade",
+    "language": "java",
+    "stars": 4223,
+    "forks": 903,
+    "default_branch": "master"
+  },
+  {
+    "owner": "h6ah4i",
+    "name": "android-advancedrecyclerview",
+    "language": "java",
+    "stars": 4220,
+    "forks": 799,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "Activiti",
+    "name": "Activiti",
+    "language": "java",
+    "stars": 4217,
+    "forks": 3174,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "wasabeef",
+    "name": "richeditor-android",
+    "language": "java",
+    "stars": 4216,
+    "forks": 879,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andkulikov",
+    "name": "Transitions-Everywhere",
+    "language": "java",
+    "stars": 4209,
+    "forks": 466,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jdamcd",
+    "name": "android-crop",
+    "language": "java",
+    "stars": 4209,
+    "forks": 1111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NLPchina",
+    "name": "elasticsearch-sql",
+    "language": "java",
+    "stars": 4209,
+    "forks": 1026,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yarolegovich",
+    "name": "DiscreteScrollView",
+    "language": "java",
+    "stars": 4208,
+    "forks": 536,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ramotion",
+    "name": "folding-cell-android",
+    "language": "java",
+    "stars": 4206,
+    "forks": 738,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NanoHttpd",
+    "name": "nanohttpd",
+    "language": "java",
+    "stars": 4199,
+    "forks": 1259,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-mvc-showcase",
+    "language": "java",
+    "stars": 4186,
+    "forks": 3470,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "error-prone",
+    "language": "java",
+    "stars": 4185,
+    "forks": 453,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orhanobut",
+    "name": "dialogplus",
+    "language": "java",
+    "stars": 4184,
+    "forks": 705,
+    "default_branch": "master"
+  },
+  {
+    "owner": "castorflex",
+    "name": "SmoothProgressBar",
+    "language": "java",
+    "stars": 4128,
+    "forks": 1030,
+    "default_branch": "master"
+  },
+  {
+    "owner": "joelittlejohn",
+    "name": "jsonschema2pojo",
+    "language": "java",
+    "stars": 4126,
+    "forks": 1155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KeepSafe",
+    "name": "TapTargetView",
+    "language": "java",
+    "stars": 4093,
+    "forks": 433,
+    "default_branch": "master"
+  },
+  {
+    "owner": "k9mail",
+    "name": "k-9",
+    "language": "java",
+    "stars": 4082,
+    "forks": 1957,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Vedenin",
+    "name": "useful-java-links",
+    "language": "java",
+    "stars": 4078,
+    "forks": 832,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "UltraViewPager",
+    "language": "java",
+    "stars": 4075,
+    "forks": 555,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gzu-liyujiang",
+    "name": "AndroidPicker",
+    "language": "java",
+    "stars": 4067,
+    "forks": 1106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hongyangAndroid",
+    "name": "baseAdapter",
+    "language": "java",
+    "stars": 4063,
+    "forks": 1162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "haifengl",
+    "name": "smile",
+    "language": "java",
+    "stars": 4054,
+    "forks": 782,
+    "default_branch": "master"
+  },
+  {
+    "owner": "barteksc",
+    "name": "AndroidPdfViewer",
+    "language": "java",
+    "stars": 4027,
+    "forks": 841,
+    "default_branch": "master"
+  },
+  {
+    "owner": "careercup",
+    "name": "CtCI-6th-Edition",
+    "language": "java",
+    "stars": 4023,
+    "forks": 1957,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DreaminginCodeZH",
+    "name": "Douya",
+    "language": "java",
+    "stars": 4014,
+    "forks": 1117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Flipboard",
+    "name": "bottomsheet",
+    "language": "java",
+    "stars": 4010,
+    "forks": 564,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mikepenz",
+    "name": "Android-Iconics",
+    "language": "java",
+    "stars": 4003,
+    "forks": 521,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "makovkastar",
+    "name": "FloatingActionButton",
+    "language": "java",
+    "stars": 3998,
+    "forks": 901,
+    "default_branch": "master"
+  },
+  {
+    "owner": "checkstyle",
+    "name": "checkstyle",
+    "language": "java",
+    "stars": 3995,
+    "forks": 6654,
+    "default_branch": "master"
+  },
+  {
+    "owner": "diogobernardino",
+    "name": "WilliamChart",
+    "language": "java",
+    "stars": 3983,
+    "forks": 749,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "dexposed",
+    "language": "java",
+    "stars": 3972,
+    "forks": 1042,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ArthurHub",
+    "name": "Android-Image-Cropper",
+    "language": "java",
+    "stars": 3963,
+    "forks": 824,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bigkoo",
+    "name": "Android-ConvenientBanner",
+    "language": "java",
+    "stars": 3963,
+    "forks": 1011,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "cameraview",
+    "language": "java",
+    "stars": 3963,
+    "forks": 876,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uber",
+    "name": "RIBs",
+    "language": "java",
+    "stars": 3931,
+    "forks": 351,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amitshekhariitbhu",
+    "name": "RxJava2-Android-Samples",
+    "language": "java",
+    "stars": 3930,
+    "forks": 826,
+    "default_branch": "master"
+  },
+  {
+    "owner": "real-logic",
+    "name": "aeron",
+    "language": "java",
+    "stars": 3926,
+    "forks": 444,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amitshekhariitbhu",
+    "name": "Fast-Android-Networking",
+    "language": "java",
+    "stars": 3922,
+    "forks": 679,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zetbaitsu",
+    "name": "Compressor",
+    "language": "java",
+    "stars": 3916,
+    "forks": 594,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "Phoenix",
+    "language": "java",
+    "stars": 3913,
+    "forks": 969,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lightbend",
+    "name": "config",
+    "language": "java",
+    "stars": 3911,
+    "forks": 633,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jwtk",
+    "name": "jjwt",
+    "language": "java",
+    "stars": 3907,
+    "forks": 616,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcxiaoke",
+    "name": "packer-ng-plugin",
+    "language": "java",
+    "stars": 3906,
+    "forks": 726,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jpush",
+    "name": "aurora-imui",
+    "language": "java",
+    "stars": 3901,
+    "forks": 637,
+    "default_branch": "master"
+  },
+  {
+    "owner": "roboguice",
+    "name": "roboguice",
+    "language": "java",
+    "stars": 3867,
+    "forks": 904,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "zeppelin",
+    "language": "java",
+    "stars": 3839,
+    "forks": 1939,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kyleduo",
+    "name": "SwitchButton",
+    "language": "java",
+    "stars": 3832,
+    "forks": 798,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Meituan-Dianping",
+    "name": "walle",
+    "language": "java",
+    "stars": 3816,
+    "forks": 545,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pedrovgs",
+    "name": "AndroidWiFiADB",
+    "language": "java",
+    "stars": 3813,
+    "forks": 434,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bingoogolapple",
+    "name": "BGARefreshLayout-Android",
+    "language": "java",
+    "stars": 3812,
+    "forks": 982,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JodaOrg",
+    "name": "joda-time",
+    "language": "java",
+    "stars": 3811,
+    "forks": 798,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HotBitmapGG",
+    "name": "bilibili-android-client",
+    "language": "java",
+    "stars": 3807,
+    "forks": 1130,
+    "default_branch": "master-x"
+  },
+  {
+    "owner": "Angel-ML",
+    "name": "angel",
+    "language": "java",
+    "stars": 3773,
+    "forks": 961,
+    "default_branch": "master"
+  },
+  {
+    "owner": "k0shk0sh",
+    "name": "FastHub",
+    "language": "java",
+    "stars": 3764,
+    "forks": 525,
+    "default_branch": "development"
+  },
+  {
+    "owner": "wdullaer",
+    "name": "MaterialDateTimePicker",
+    "language": "java",
+    "stars": 3759,
+    "forks": 831,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubensousa",
+    "name": "RecyclerViewSnap",
+    "language": "java",
+    "stars": 3753,
+    "forks": 496,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wuhaoyu1990",
+    "name": "MagicCamera",
+    "language": "java",
+    "stars": 3745,
+    "forks": 1219,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lihengming",
+    "name": "spring-boot-api-project-seed",
+    "language": "java",
+    "stars": 3744,
+    "forks": 1651,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "otter",
+    "language": "java",
+    "stars": 3741,
+    "forks": 1509,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Alluxio",
+    "name": "alluxio",
+    "language": "java",
+    "stars": 3737,
+    "forks": 2033,
+    "default_branch": "master"
+  },
+  {
+    "owner": "drakeet",
+    "name": "MultiType",
+    "language": "java",
+    "stars": 3710,
+    "forks": 556,
+    "default_branch": "3.x"
+  },
+  {
+    "owner": "MindorksOpenSource",
+    "name": "from-java-to-kotlin",
+    "language": "java",
+    "stars": 3698,
+    "forks": 442,
+    "default_branch": "master"
+  },
+  {
+    "owner": "liyifeng1994",
+    "name": "ssm",
+    "language": "java",
+    "stars": 3695,
+    "forks": 1871,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yipianfengye",
+    "name": "android-zxingLibrary",
+    "language": "java",
+    "stars": 3662,
+    "forks": 789,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huanghaibin-dev",
+    "name": "CalendarView",
+    "language": "java",
+    "stars": 3662,
+    "forks": 581,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grantland",
+    "name": "android-autofittextview",
+    "language": "java",
+    "stars": 3661,
+    "forks": 632,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rengwuxian",
+    "name": "RxJavaSamples",
+    "language": "java",
+    "stars": 3660,
+    "forks": 845,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "orientechnologies",
+    "name": "orientdb",
+    "language": "java",
+    "stars": 3658,
+    "forks": 764,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "nisrulz",
+    "name": "android-tips-tricks",
+    "language": "java",
+    "stars": 3658,
+    "forks": 451,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "JoanZapata",
+    "name": "android-iconify",
+    "language": "java",
+    "stars": 3656,
+    "forks": 508,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "jstorm",
+    "language": "java",
+    "stars": 3651,
+    "forks": 1844,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wasabeef",
+    "name": "Blurry",
+    "language": "java",
+    "stars": 3637,
+    "forks": 469,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BoltsFramework",
+    "name": "Bolts-Android",
+    "language": "java",
+    "stars": 3602,
+    "forks": 504,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenFeign",
+    "name": "feign",
+    "language": "java",
+    "stars": 3601,
+    "forks": 738,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pili-engineering",
+    "name": "PLDroidPlayer",
+    "language": "java",
+    "stars": 3592,
+    "forks": 833,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ashok-Varma",
+    "name": "BottomNavigation",
+    "language": "java",
+    "stars": 3564,
+    "forks": 628,
+    "default_branch": "master_v2"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "ideavim",
+    "language": "java",
+    "stars": 3562,
+    "forks": 398,
+    "default_branch": "master"
+  },
+  {
+    "owner": "h2oai",
+    "name": "h2o-3",
+    "language": "java",
+    "stars": 3554,
+    "forks": 1354,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yanzhenjie",
+    "name": "SwipeRecyclerView",
+    "language": "java",
+    "stars": 3553,
+    "forks": 823,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yanzhenjie",
+    "name": "NoHttp",
+    "language": "java",
+    "stars": 3543,
+    "forks": 865,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hugeterry",
+    "name": "CoordinatorTabLayout",
+    "language": "java",
+    "stars": 3538,
+    "forks": 511,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sohutv",
+    "name": "cachecloud",
+    "language": "java",
+    "stars": 3537,
+    "forks": 1246,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Karumi",
+    "name": "Dexter",
+    "language": "java",
+    "stars": 3528,
+    "forks": 447,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flyway",
+    "name": "flyway",
+    "language": "java",
+    "stars": 3519,
+    "forks": 825,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TommyLemon",
+    "name": "APIJSON",
+    "language": "java",
+    "stars": 3501,
+    "forks": 487,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgilfelt",
+    "name": "chuck",
+    "language": "java",
+    "stars": 3500,
+    "forks": 286,
+    "default_branch": "master"
+  },
+  {
+    "owner": "react-native-community",
+    "name": "react-native-video",
+    "language": "java",
+    "stars": 3498,
+    "forks": 1147,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baoyachi",
+    "name": "StepView",
+    "language": "java",
+    "stars": 3487,
+    "forks": 738,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openhab",
+    "name": "openhab1-addons",
+    "language": "java",
+    "stars": 3485,
+    "forks": 1764,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubensousa",
+    "name": "ViewPagerCards",
+    "language": "java",
+    "stars": 3485,
+    "forks": 526,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChadCSong",
+    "name": "ShineButton",
+    "language": "java",
+    "stars": 3480,
+    "forks": 489,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dinuscxj",
+    "name": "LoadingDrawable",
+    "language": "java",
+    "stars": 3476,
+    "forks": 566,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ximsfei",
+    "name": "Android-skin-support",
+    "language": "java",
+    "stars": 3474,
+    "forks": 564,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rest-assured",
+    "name": "rest-assured",
+    "language": "java",
+    "stars": 3465,
+    "forks": 927,
+    "default_branch": "master"
+  },
+  {
+    "owner": "luontola",
+    "name": "retrolambda",
+    "language": "java",
+    "stars": 3461,
+    "forks": 222,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "Context-Menu.Android",
+    "language": "java",
+    "stars": 3455,
+    "forks": 993,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zo0r",
+    "name": "react-native-push-notification",
+    "language": "java",
+    "stars": 3454,
+    "forks": 881,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hibernate",
+    "name": "hibernate-orm",
+    "language": "java",
+    "stars": 3452,
+    "forks": 2361,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kevin-wayne",
+    "name": "algs4",
+    "language": "java",
+    "stars": 3417,
+    "forks": 1559,
+    "default_branch": "master"
+  },
+  {
+    "owner": "timehop",
+    "name": "sticky-headers-recyclerview",
+    "language": "java",
+    "stars": 3411,
+    "forks": 720,
+    "default_branch": "master"
+  },
+  {
+    "owner": "johncarl81",
+    "name": "parceler",
+    "language": "java",
+    "stars": 3407,
+    "forks": 258,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rockerhieu",
+    "name": "emojicon",
+    "language": "java",
+    "stars": 3398,
+    "forks": 854,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baoyongzhang",
+    "name": "SwipeMenuListView",
+    "language": "java",
+    "stars": 3385,
+    "forks": 1314,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MindorksOpenSource",
+    "name": "android-mvp-architecture",
+    "language": "java",
+    "stars": 3383,
+    "forks": 952,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "grafika",
+    "language": "java",
+    "stars": 3380,
+    "forks": 894,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NYTimes",
+    "name": "Store",
+    "language": "java",
+    "stars": 3380,
+    "forks": 291,
+    "default_branch": "feature/rx2"
+  },
+  {
+    "owner": "avast",
+    "name": "android-butterknife-zelezny",
+    "language": "java",
+    "stars": 3376,
+    "forks": 421,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lcodecorex",
+    "name": "TwinklingRefreshLayout",
+    "language": "java",
+    "stars": 3375,
+    "forks": 610,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jankotek",
+    "name": "mapdb",
+    "language": "java",
+    "stars": 3374,
+    "forks": 695,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "GT",
+    "language": "java",
+    "stars": 3367,
+    "forks": 760,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aurelhubert",
+    "name": "ahbottomnavigation",
+    "language": "java",
+    "stars": 3365,
+    "forks": 622,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeasonlzy",
+    "name": "ImagePicker",
+    "language": "java",
+    "stars": 3362,
+    "forks": 811,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amirzaidi",
+    "name": "Launcher3",
+    "language": "java",
+    "stars": 3361,
+    "forks": 486,
+    "default_branch": "o-mr1"
+  },
+  {
+    "owner": "socketio",
+    "name": "socket.io-client-java",
+    "language": "java",
+    "stars": 3356,
+    "forks": 652,
+    "default_branch": "master"
+  },
+  {
+    "owner": "romandanylyk",
+    "name": "PageIndicatorView",
+    "language": "java",
+    "stars": 3353,
+    "forks": 414,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CellularPrivacy",
+    "name": "Android-IMSI-Catcher-Detector",
+    "language": "java",
+    "stars": 3335,
+    "forks": 697,
+    "default_branch": "development"
+  },
+  {
+    "owner": "puniverse",
+    "name": "quasar",
+    "language": "java",
+    "stars": 3325,
+    "forks": 400,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "Sentinel",
+    "language": "java",
+    "stars": 3320,
+    "forks": 786,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenTSDB",
+    "name": "opentsdb",
+    "language": "java",
+    "stars": 3318,
+    "forks": 999,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xcc3641",
+    "name": "SeeWeather",
+    "language": "java",
+    "stars": 3315,
+    "forks": 730,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MiguelCatalan",
+    "name": "MaterialSearchView",
+    "language": "java",
+    "stars": 3304,
+    "forks": 570,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "google",
+    "name": "google-authenticator",
+    "language": "java",
+    "stars": 3300,
+    "forks": 663,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Manabu-GT",
+    "name": "ExpandableTextView",
+    "language": "java",
+    "stars": 3293,
+    "forks": 727,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanhoo",
+    "name": "StylishMusicPlayer",
+    "language": "java",
+    "stars": 3280,
+    "forks": 681,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-heron",
+    "language": "java",
+    "stars": 3278,
+    "forks": 596,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisbanes",
+    "name": "ActionBar-PullToRefresh",
+    "language": "java",
+    "stars": 3276,
+    "forks": 1060,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tyrantgit",
+    "name": "ExplosionField",
+    "language": "java",
+    "stars": 3274,
+    "forks": 574,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mrniko",
+    "name": "netty-socketio",
+    "language": "java",
+    "stars": 3267,
+    "forks": 971,
+    "default_branch": "master"
+  },
+  {
+    "owner": "actorapp",
+    "name": "actor-platform",
+    "language": "java",
+    "stars": 3262,
+    "forks": 760,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yigit",
+    "name": "android-priority-jobqueue",
+    "language": "java",
+    "stars": 3256,
+    "forks": 373,
+    "default_branch": "master"
+  },
+  {
+    "owner": "youlookwhat",
+    "name": "CloudReader",
+    "language": "java",
+    "stars": 3255,
+    "forks": 1000,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bluelinelabs",
+    "name": "Conductor",
+    "language": "java",
+    "stars": 3252,
+    "forks": 281,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "kikoso",
+    "name": "android-stackblur",
+    "language": "java",
+    "stars": 3250,
+    "forks": 667,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "ivacf",
+    "name": "archi",
+    "language": "java",
+    "stars": 3244,
+    "forks": 509,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Atmosphere",
+    "name": "atmosphere",
+    "language": "java",
+    "stars": 3241,
+    "forks": 705,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robinhood",
+    "name": "ticker",
+    "language": "java",
+    "stars": 3230,
+    "forks": 364,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yasserg",
+    "name": "crawler4j",
+    "language": "java",
+    "stars": 3213,
+    "forks": 1667,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yangfuhai",
+    "name": "ASimpleCache",
+    "language": "java",
+    "stars": 3207,
+    "forks": 1110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dropbox",
+    "name": "hackpad",
+    "language": "java",
+    "stars": 3207,
+    "forks": 507,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lsjwzh",
+    "name": "RecyclerViewPager",
+    "language": "java",
+    "stars": 3202,
+    "forks": 618,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Jacksgong",
+    "name": "JKeyboardPanelSwitch",
+    "language": "java",
+    "stars": 3201,
+    "forks": 547,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jfoenixadmin",
+    "name": "JFoenix",
+    "language": "java",
+    "stars": 3201,
+    "forks": 637,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bauerca",
+    "name": "drag-sort-listview",
+    "language": "java",
+    "stars": 3200,
+    "forks": 1572,
+    "default_branch": "master"
+  },
+  {
+    "owner": "litesuits",
+    "name": "android-common",
+    "language": "java",
+    "stars": 3196,
+    "forks": 1021,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "DeepLinkDispatch",
+    "language": "java",
+    "stars": 3193,
+    "forks": 319,
+    "default_branch": "master"
+  },
+  {
+    "owner": "json-path",
+    "name": "JsonPath",
+    "language": "java",
+    "stars": 3183,
+    "forks": 630,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xcltapestry",
+    "name": "XCL-Charts",
+    "language": "java",
+    "stars": 3181,
+    "forks": 1053,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ongakuer",
+    "name": "CircleIndicator",
+    "language": "java",
+    "stars": 3172,
+    "forks": 622,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lzyzsd",
+    "name": "CircleProgress",
+    "language": "java",
+    "stars": 3169,
+    "forks": 847,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codeestX",
+    "name": "GeekNews",
+    "language": "java",
+    "stars": 3169,
+    "forks": 803,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bluelinelabs",
+    "name": "LoganSquare",
+    "language": "java",
+    "stars": 3166,
+    "forks": 313,
+    "default_branch": "development"
+  },
+  {
+    "owner": "yangfuhai",
+    "name": "afinal",
+    "language": "java",
+    "stars": 3162,
+    "forks": 1631,
+    "default_branch": "master"
+  },
+  {
+    "owner": "topjohnwu",
+    "name": "Magisk",
+    "language": "java",
+    "stars": 3160,
+    "forks": 438,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PipelineAI",
+    "name": "pipeline",
+    "language": "java",
+    "stars": 3158,
+    "forks": 808,
+    "default_branch": "master"
+  },
+  {
+    "owner": "journeyapps",
+    "name": "zxing-android-embedded",
+    "language": "java",
+    "stars": 3151,
+    "forks": 809,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rabbitmq",
+    "name": "rabbitmq-tutorials",
+    "language": "java",
+    "stars": 3150,
+    "forks": 1871,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pengjianbo",
+    "name": "GalleryFinal",
+    "language": "java",
+    "stars": 3133,
+    "forks": 817,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orhanobut",
+    "name": "hawk",
+    "language": "java",
+    "stars": 3118,
+    "forks": 315,
+    "default_branch": "master"
+  },
+  {
+    "owner": "springfox",
+    "name": "springfox",
+    "language": "java",
+    "stars": 3106,
+    "forks": 990,
+    "default_branch": "master"
+  },
+  {
+    "owner": "firebase",
+    "name": "FirebaseUI-Android",
+    "language": "java",
+    "stars": 3102,
+    "forks": 1311,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zouzg",
+    "name": "mybatis-generator-gui",
+    "language": "java",
+    "stars": 3101,
+    "forks": 1259,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tangqi92",
+    "name": "Android-Tips",
+    "language": "java",
+    "stars": 3098,
+    "forks": 871,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JesusFreke",
+    "name": "smali",
+    "language": "java",
+    "stars": 3094,
+    "forks": 649,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "shimmer-android",
+    "language": "java",
+    "stars": 3084,
+    "forks": 501,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-security-oauth",
+    "language": "java",
+    "stars": 3081,
+    "forks": 3000,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SonarSource",
+    "name": "sonarqube",
+    "language": "java",
+    "stars": 3074,
+    "forks": 915,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baomidou",
+    "name": "mybatis-plus",
+    "language": "java",
+    "stars": 3066,
+    "forks": 880,
+    "default_branch": "3.0"
+  },
+  {
+    "owner": "dongjunkun",
+    "name": "DropDownMenu",
+    "language": "java",
+    "stars": 3062,
+    "forks": 711,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "native-navigation",
+    "language": "java",
+    "stars": 3062,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "keyboardsurfer",
+    "name": "Crouton",
+    "language": "java",
+    "stars": 3061,
+    "forks": 734,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arimorty",
+    "name": "floatingsearchview",
+    "language": "java",
+    "stars": 3061,
+    "forks": 616,
+    "default_branch": "master"
+  },
+  {
+    "owner": "siacs",
+    "name": "Conversations",
+    "language": "java",
+    "stars": 3060,
+    "forks": 1021,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stleary",
+    "name": "JSON-java",
+    "language": "java",
+    "stars": 3060,
+    "forks": 2175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stephanenicolas",
+    "name": "robospice",
+    "language": "java",
+    "stars": 3051,
+    "forks": 594,
+    "default_branch": "release"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "malmo",
+    "language": "java",
+    "stars": 3051,
+    "forks": 478,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andremion",
+    "name": "Music-Player",
+    "language": "java",
+    "stars": 3049,
+    "forks": 630,
+    "default_branch": "master"
+  },
+  {
+    "owner": "udacity",
+    "name": "Sunshine-Version-2",
+    "language": "java",
+    "stars": 3049,
+    "forks": 5094,
+    "default_branch": "sunshine_master"
+  },
+  {
+    "owner": "bitcoinj",
+    "name": "bitcoinj",
+    "language": "java",
+    "stars": 3034,
+    "forks": 1790,
+    "default_branch": "master"
+  },
+  {
+    "owner": "react-native-community",
+    "name": "react-native-svg",
+    "language": "java",
+    "stars": 3021,
+    "forks": 412,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dyc87112",
+    "name": "SpringCloud-Learning",
+    "language": "java",
+    "stars": 3020,
+    "forks": 1513,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bingoogolapple",
+    "name": "BGABanner-Android",
+    "language": "java",
+    "stars": 3006,
+    "forks": 641,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgilfelt",
+    "name": "android-viewbadger",
+    "language": "java",
+    "stars": 3003,
+    "forks": 1091,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hitherejoe",
+    "name": "animate",
+    "language": "java",
+    "stars": 2999,
+    "forks": 472,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nicolasgramlich",
+    "name": "AndEngine",
+    "language": "java",
+    "stars": 2997,
+    "forks": 1453,
+    "default_branch": "GLES2"
+  },
+  {
+    "owner": "gabrielemariotti",
+    "name": "RecyclerViewItemAnimators",
+    "language": "java",
+    "stars": 2996,
+    "forks": 708,
+    "default_branch": "master"
+  },
+  {
+    "owner": "keycloak",
+    "name": "keycloak",
+    "language": "java",
+    "stars": 2994,
+    "forks": 1608,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daimajia",
+    "name": "AndroidViewHover",
+    "language": "java",
+    "stars": 2982,
+    "forks": 760,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alamkanak",
+    "name": "Android-Week-View",
+    "language": "java",
+    "stars": 2981,
+    "forks": 1009,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "Bilibili",
+    "name": "MagicaSakura",
+    "language": "java",
+    "stars": 2978,
+    "forks": 413,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DingMouRen",
+    "name": "LayoutManagerGroup",
+    "language": "java",
+    "stars": 2952,
+    "forks": 369,
+    "default_branch": "master"
+  },
+  {
+    "owner": "termux",
+    "name": "termux-app",
+    "language": "java",
+    "stars": 2948,
+    "forks": 389,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Meituan-Dianping",
+    "name": "Robust",
+    "language": "java",
+    "stars": 2945,
+    "forks": 480,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TommyLemon",
+    "name": "Android-ZBLibrary",
+    "language": "java",
+    "stars": 2940,
+    "forks": 949,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-security",
+    "language": "java",
+    "stars": 2939,
+    "forks": 2749,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gephi",
+    "name": "gephi",
+    "language": "java",
+    "stars": 2931,
+    "forks": 1229,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cjlin1",
+    "name": "libsvm",
+    "language": "java",
+    "stars": 2926,
+    "forks": 1264,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ManuelPeinado",
+    "name": "FadingActionBar",
+    "language": "java",
+    "stars": 2922,
+    "forks": 761,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mybatis",
+    "name": "generator",
+    "language": "java",
+    "stars": 2918,
+    "forks": 1714,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saulmm",
+    "name": "Android-Material-Examples",
+    "language": "java",
+    "stars": 2917,
+    "forks": 849,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ragunathjawahar",
+    "name": "android-saripaar",
+    "language": "java",
+    "stars": 2915,
+    "forks": 444,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yahoo",
+    "name": "anthelion",
+    "language": "java",
+    "stars": 2912,
+    "forks": 737,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pedrovgs",
+    "name": "DraggablePanel",
+    "language": "java",
+    "stars": 2911,
+    "forks": 636,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "race604",
+    "name": "FlyRefresh",
+    "language": "java",
+    "stars": 2902,
+    "forks": 589,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qstumn",
+    "name": "BadgeView",
+    "language": "java",
+    "stars": 2896,
+    "forks": 405,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Piasy",
+    "name": "BigImageViewer",
+    "language": "java",
+    "stars": 2880,
+    "forks": 313,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "groovy",
+    "language": "java",
+    "stars": 2879,
+    "forks": 1108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "davideas",
+    "name": "FlexibleAdapter",
+    "language": "java",
+    "stars": 2876,
+    "forks": 461,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jasonross",
+    "name": "Nuwa",
+    "language": "java",
+    "stars": 2875,
+    "forks": 593,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shekhargulati",
+    "name": "99-problems",
+    "language": "java",
+    "stars": 2870,
+    "forks": 846,
+    "default_branch": "master"
+  },
+  {
+    "owner": "psaravan",
+    "name": "JamsMusicPlayer",
+    "language": "java",
+    "stars": 2859,
+    "forks": 1222,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Skykai521",
+    "name": "StickerCamera",
+    "language": "java",
+    "stars": 2844,
+    "forks": 826,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DuGuQiuBai",
+    "name": "Java",
+    "language": "java",
+    "stars": 2841,
+    "forks": 1733,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-cloud",
+    "name": "spring-cloud-netflix",
+    "language": "java",
+    "stars": 2839,
+    "forks": 1419,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hazelcast",
+    "name": "hazelcast",
+    "language": "java",
+    "stars": 2837,
+    "forks": 1076,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmytrodanylyk",
+    "name": "android-process-button",
+    "language": "java",
+    "stars": 2832,
+    "forks": 590,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lovetuzitong",
+    "name": "MultiImageSelector",
+    "language": "java",
+    "stars": 2826,
+    "forks": 810,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jersey",
+    "name": "jersey",
+    "language": "java",
+    "stars": 2826,
+    "forks": 2512,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sherxon",
+    "name": "AlgoDS",
+    "language": "java",
+    "stars": 2824,
+    "forks": 489,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danikula",
+    "name": "AndroidVideoCache",
+    "language": "java",
+    "stars": 2819,
+    "forks": 666,
+    "default_branch": "master"
+  },
+  {
+    "owner": "willowtreeapps",
+    "name": "spruce-android",
+    "language": "java",
+    "stars": 2816,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JulienGenoud",
+    "name": "android-percent-support-lib-sample",
+    "language": "java",
+    "stars": 2808,
+    "forks": 672,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bytedeco",
+    "name": "javacv",
+    "language": "java",
+    "stars": 2806,
+    "forks": 865,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amulyakhare",
+    "name": "TextDrawable",
+    "language": "java",
+    "stars": 2803,
+    "forks": 539,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubensousa",
+    "name": "PreviewSeekBar",
+    "language": "java",
+    "stars": 2782,
+    "forks": 336,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "network-connection-class",
+    "language": "java",
+    "stars": 2781,
+    "forks": 470,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Exrick",
+    "name": "xmall",
+    "language": "java",
+    "stars": 2761,
+    "forks": 1082,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zzz40500",
+    "name": "GsonFormat",
+    "language": "java",
+    "stars": 2760,
+    "forks": 512,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kevinsawicki",
+    "name": "http-request",
+    "language": "java",
+    "stars": 2759,
+    "forks": 731,
+    "default_branch": "master"
+  },
+  {
+    "owner": "donglua",
+    "name": "PhotoPicker",
+    "language": "java",
+    "stars": 2739,
+    "forks": 693,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SpecialCyCi",
+    "name": "AndroidResideMenu",
+    "language": "java",
+    "stars": 2736,
+    "forks": 1132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openaphid",
+    "name": "android-flip",
+    "language": "java",
+    "stars": 2734,
+    "forks": 1341,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huangyanbin",
+    "name": "smartTable",
+    "language": "java",
+    "stars": 2723,
+    "forks": 404,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alipay",
+    "name": "sofa-jarslink",
+    "language": "java",
+    "stars": 2720,
+    "forks": 628,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vavr-io",
+    "name": "vavr",
+    "language": "java",
+    "stars": 2719,
+    "forks": 327,
+    "default_branch": "master"
+  },
+  {
+    "owner": "objectbox",
+    "name": "objectbox-java",
+    "language": "java",
+    "stars": 2719,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iammert",
+    "name": "ScalingLayout",
+    "language": "java",
+    "stars": 2719,
+    "forks": 260,
+    "default_branch": "master"
+  },
+  {
+    "owner": "code-troopers",
+    "name": "android-betterpickers",
+    "language": "java",
+    "stars": 2719,
+    "forks": 596,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aws",
+    "name": "aws-sdk-java",
+    "language": "java",
+    "stars": 2711,
+    "forks": 2031,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oblac",
+    "name": "jodd",
+    "language": "java",
+    "stars": 2710,
+    "forks": 602,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abel533",
+    "name": "Mapper",
+    "language": "java",
+    "stars": 2705,
+    "forks": 807,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yipianfengye",
+    "name": "android-adDialog",
+    "language": "java",
+    "stars": 2704,
+    "forks": 526,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reactive-streams",
+    "name": "reactive-streams-jvm",
+    "language": "java",
+    "stars": 2702,
+    "forks": 261,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-petclinic",
+    "language": "java",
+    "stars": 2699,
+    "forks": 5134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "changmingxie",
+    "name": "tcc-transaction",
+    "language": "java",
+    "stars": 2698,
+    "forks": 1526,
+    "default_branch": "master-1.2.x"
+  },
+  {
+    "owner": "HoraApps",
+    "name": "LeafPic",
+    "language": "java",
+    "stars": 2698,
+    "forks": 1090,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "square",
+    "name": "flow",
+    "language": "java",
+    "stars": 2697,
+    "forks": 248,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "tomcat",
+    "language": "java",
+    "stars": 2692,
+    "forks": 1887,
+    "default_branch": "trunk"
+  },
+  {
+    "owner": "yui",
+    "name": "yuicompressor",
+    "language": "java",
+    "stars": 2690,
+    "forks": 641,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qii",
+    "name": "weiciyuan",
+    "language": "java",
+    "stars": 2688,
+    "forks": 1288,
+    "default_branch": "0.50"
+  },
+  {
+    "owner": "crazycodeboy",
+    "name": "react-native-splash-screen",
+    "language": "java",
+    "stars": 2687,
+    "forks": 534,
+    "default_branch": "master"
+  },
+  {
+    "owner": "graphql-java",
+    "name": "graphql-java",
+    "language": "java",
+    "stars": 2685,
+    "forks": 497,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danylovolokh",
+    "name": "VideoPlayerManager",
+    "language": "java",
+    "stars": 2683,
+    "forks": 652,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimonVT",
+    "name": "android-menudrawer",
+    "language": "java",
+    "stars": 2681,
+    "forks": 1214,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jiangqqlmj",
+    "name": "FastDev4Android",
+    "language": "java",
+    "stars": 2681,
+    "forks": 1023,
+    "default_branch": "master"
+  },
+  {
+    "owner": "binIoter",
+    "name": "GuideView",
+    "language": "java",
+    "stars": 2680,
+    "forks": 508,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CalebFenton",
+    "name": "simplify",
+    "language": "java",
+    "stars": 2677,
+    "forks": 221,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bilibili",
+    "name": "boxing",
+    "language": "java",
+    "stars": 2675,
+    "forks": 322,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jOOQ",
+    "name": "jOOQ",
+    "language": "java",
+    "stars": 2669,
+    "forks": 681,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jfeinstein10",
+    "name": "JazzyViewPager",
+    "language": "java",
+    "stars": 2665,
+    "forks": 878,
+    "default_branch": "master"
+  },
+  {
+    "owner": "edmodo",
+    "name": "cropper",
+    "language": "java",
+    "stars": 2664,
+    "forks": 856,
+    "default_branch": "master"
+  },
+  {
+    "owner": "databricks",
+    "name": "learning-spark",
+    "language": "java",
+    "stars": 2662,
+    "forks": 1956,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sunfusheng",
+    "name": "MarqueeView",
+    "language": "java",
+    "stars": 2658,
+    "forks": 544,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CameraKit",
+    "name": "blurkit-android",
+    "language": "java",
+    "stars": 2656,
+    "forks": 239,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jfinal",
+    "name": "jfinal",
+    "language": "java",
+    "stars": 2652,
+    "forks": 1284,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "GuillotineMenu-Android",
+    "language": "java",
+    "stars": 2647,
+    "forks": 532,
+    "default_branch": "master"
+  },
+  {
+    "owner": "owncloud",
+    "name": "android",
+    "language": "java",
+    "stars": 2647,
+    "forks": 2721,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hmkcode",
+    "name": "Android",
+    "language": "java",
+    "stars": 2646,
+    "forks": 3266,
+    "default_branch": "master"
+  },
+  {
+    "owner": "requery",
+    "name": "requery",
+    "language": "java",
+    "stars": 2638,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seven332",
+    "name": "EhViewer",
+    "language": "java",
+    "stars": 2633,
+    "forks": 338,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pushtorefresh",
+    "name": "storio",
+    "language": "java",
+    "stars": 2632,
+    "forks": 181,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlemaps",
+    "name": "android-maps-utils",
+    "language": "java",
+    "stars": 2632,
+    "forks": 1252,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vespa-engine",
+    "name": "vespa",
+    "language": "java",
+    "stars": 2629,
+    "forks": 312,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cyrilmottier",
+    "name": "GreenDroid",
+    "language": "java",
+    "stars": 2623,
+    "forks": 956,
+    "default_branch": "master"
+  },
+  {
+    "owner": "luojilab",
+    "name": "DDComponentForAndroid",
+    "language": "java",
+    "stars": 2618,
+    "forks": 458,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Malinskiy",
+    "name": "SuperRecyclerView",
+    "language": "java",
+    "stars": 2617,
+    "forks": 485,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lygttpod",
+    "name": "SuperTextView",
+    "language": "java",
+    "stars": 2614,
+    "forks": 466,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ereza",
+    "name": "CustomActivityOnCrash",
+    "language": "java",
+    "stars": 2614,
+    "forks": 427,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hongyangAndroid",
+    "name": "Highlight",
+    "language": "java",
+    "stars": 2604,
+    "forks": 533,
+    "default_branch": "master"
+  },
+  {
+    "owner": "beworker",
+    "name": "pinned-section-listview",
+    "language": "java",
+    "stars": 2601,
+    "forks": 870,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "scalpel",
+    "language": "java",
+    "stars": 2601,
+    "forks": 216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eirslett",
+    "name": "frontend-maven-plugin",
+    "language": "java",
+    "stars": 2596,
+    "forks": 610,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xmuSistone",
+    "name": "ViewpagerTransition",
+    "language": "java",
+    "stars": 2591,
+    "forks": 433,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bytedeco",
+    "name": "javacpp",
+    "language": "java",
+    "stars": 2590,
+    "forks": 351,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paascloud",
+    "name": "paascloud-master",
+    "language": "java",
+    "stars": 2589,
+    "forks": 1136,
+    "default_branch": "master"
+  },
+  {
+    "owner": "junit-team",
+    "name": "junit5",
+    "language": "java",
+    "stars": 2585,
+    "forks": 584,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brianway",
+    "name": "java-learning",
+    "language": "java",
+    "stars": 2583,
+    "forks": 960,
+    "default_branch": "master"
+  },
+  {
+    "owner": "knowm",
+    "name": "XChange",
+    "language": "java",
+    "stars": 2581,
+    "forks": 1222,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "MinecraftForge",
+    "name": "MinecraftForge",
+    "language": "java",
+    "stars": 2581,
+    "forks": 1243,
+    "default_branch": "1.12.x"
+  },
+  {
+    "owner": "Tencent",
+    "name": "MSEC",
+    "language": "java",
+    "stars": 2580,
+    "forks": 718,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mzule",
+    "name": "ActivityRouter",
+    "language": "java",
+    "stars": 2579,
+    "forks": 374,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LyndonChin",
+    "name": "MasteringAndroidDataBinding",
+    "language": "java",
+    "stars": 2577,
+    "forks": 525,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sunfusheng",
+    "name": "StickyHeaderListView",
+    "language": "java",
+    "stars": 2573,
+    "forks": 631,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JohnPersano",
+    "name": "SuperToasts",
+    "language": "java",
+    "stars": 2564,
+    "forks": 523,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "ExpectAnim",
+    "language": "java",
+    "stars": 2561,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "north2016",
+    "name": "T-MVP",
+    "language": "java",
+    "stars": 2561,
+    "forks": 642,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "wire",
+    "language": "java",
+    "stars": 2560,
+    "forks": 343,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chennaione",
+    "name": "sugar",
+    "language": "java",
+    "stars": 2559,
+    "forks": 616,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zzhoujay",
+    "name": "RichText",
+    "language": "java",
+    "stars": 2549,
+    "forks": 411,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Teevity",
+    "name": "ice",
+    "language": "java",
+    "stars": 2547,
+    "forks": 440,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Marswin",
+    "name": "MarsDaemon",
+    "language": "java",
+    "stars": 2543,
+    "forks": 734,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Todd-Davies",
+    "name": "ProgressWheel",
+    "language": "java",
+    "stars": 2541,
+    "forks": 748,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "pulsar",
+    "language": "java",
+    "stars": 2539,
+    "forks": 524,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yusugomori",
+    "name": "DeepLearning",
+    "language": "java",
+    "stars": 2538,
+    "forks": 1329,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bisq-network",
+    "name": "bisq",
+    "language": "java",
+    "stars": 2536,
+    "forks": 699,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Nightonke",
+    "name": "WoWoViewPager",
+    "language": "java",
+    "stars": 2535,
+    "forks": 427,
+    "default_branch": "master"
+  },
+  {
+    "owner": "johannilsson",
+    "name": "android-pulltorefresh",
+    "language": "java",
+    "stars": 2534,
+    "forks": 1119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saulmm",
+    "name": "CoordinatorBehaviorExample",
+    "language": "java",
+    "stars": 2533,
+    "forks": 574,
+    "default_branch": "master"
+  },
+  {
+    "owner": "w446108264",
+    "name": "XhsEmoticonsKeyboard",
+    "language": "java",
+    "stars": 2528,
+    "forks": 553,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geftimov",
+    "name": "android-pathview",
+    "language": "java",
+    "stars": 2518,
+    "forks": 477,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "Dragonfly",
+    "language": "java",
+    "stars": 2518,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jprante",
+    "name": "elasticsearch-jdbc",
+    "language": "java",
+    "stars": 2517,
+    "forks": 673,
+    "default_branch": "master"
+  },
+  {
+    "owner": "awangdev",
+    "name": "LintCode",
+    "language": "java",
+    "stars": 2514,
+    "forks": 949,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pqpo",
+    "name": "SmartCropper",
+    "language": "java",
+    "stars": 2511,
+    "forks": 397,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BelooS",
+    "name": "ChipsLayoutManager",
+    "language": "java",
+    "stars": 2509,
+    "forks": 283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eishay",
+    "name": "jvm-serializers",
+    "language": "java",
+    "stars": 2507,
+    "forks": 482,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zwwill",
+    "name": "yanxuan-weex-demo",
+    "language": "java",
+    "stars": 2504,
+    "forks": 530,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mihaip",
+    "name": "dex-method-counts",
+    "language": "java",
+    "stars": 2500,
+    "forks": 379,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rstudio",
+    "name": "rstudio",
+    "language": "java",
+    "stars": 2500,
+    "forks": 625,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saulmm",
+    "name": "Material-Movies",
+    "language": "java",
+    "stars": 2498,
+    "forks": 647,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Jasonchenlijian",
+    "name": "FastBle",
+    "language": "java",
+    "stars": 2490,
+    "forks": 624,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kbastani",
+    "name": "spring-cloud-microservice-example",
+    "language": "java",
+    "stars": 2489,
+    "forks": 1583,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "ThreeTenABP",
+    "language": "java",
+    "stars": 2487,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcxtzhang",
+    "name": "SwipeDelMenuLayout",
+    "language": "java",
+    "stars": 2481,
+    "forks": 456,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JoanZapata",
+    "name": "android-pdfview",
+    "language": "java",
+    "stars": 2479,
+    "forks": 776,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GitLqr",
+    "name": "LQRWeChat",
+    "language": "java",
+    "stars": 2477,
+    "forks": 825,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Freeyourgadget",
+    "name": "Gadgetbridge",
+    "language": "java",
+    "stars": 2475,
+    "forks": 416,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RobotiumTech",
+    "name": "robotium",
+    "language": "java",
+    "stars": 2475,
+    "forks": 749,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oguzbilgener",
+    "name": "CircularFloatingActionMenu",
+    "language": "java",
+    "stars": 2474,
+    "forks": 686,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "cordova-android",
+    "language": "java",
+    "stars": 2470,
+    "forks": 1282,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cryptomator",
+    "name": "cryptomator",
+    "language": "java",
+    "stars": 2466,
+    "forks": 235,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "Netflix",
+    "name": "ribbon",
+    "language": "java",
+    "stars": 2463,
+    "forks": 593,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oldmanpushcart",
+    "name": "greys-anatomy",
+    "language": "java",
+    "stars": 2458,
+    "forks": 942,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ming1016",
+    "name": "study",
+    "language": "java",
+    "stars": 2455,
+    "forks": 484,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Comcast",
+    "name": "FreeFlow",
+    "language": "java",
+    "stars": 2454,
+    "forks": 428,
+    "default_branch": "master"
+  },
+  {
+    "owner": "path",
+    "name": "android-priority-jobqueue",
+    "language": "java",
+    "stars": 2449,
+    "forks": 412,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mikepenz",
+    "name": "FastAdapter",
+    "language": "java",
+    "stars": 2449,
+    "forks": 349,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "pedrovgs",
+    "name": "Algorithms",
+    "language": "java",
+    "stars": 2448,
+    "forks": 715,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TangoAgency",
+    "name": "material-intro-screen",
+    "language": "java",
+    "stars": 2448,
+    "forks": 365,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sharish",
+    "name": "ShimmerRecyclerView",
+    "language": "java",
+    "stars": 2443,
+    "forks": 378,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MovingBlocks",
+    "name": "Terasology",
+    "language": "java",
+    "stars": 2434,
+    "forks": 1104,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "balysv",
+    "name": "material-menu",
+    "language": "java",
+    "stars": 2432,
+    "forks": 541,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yarolegovich",
+    "name": "SlidingRootNav",
+    "language": "java",
+    "stars": 2428,
+    "forks": 370,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crossoverJie",
+    "name": "SSM",
+    "language": "java",
+    "stars": 2425,
+    "forks": 1038,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-vision",
+    "language": "java",
+    "stars": 2425,
+    "forks": 1475,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jd-alexander",
+    "name": "LikeButton",
+    "language": "java",
+    "stars": 2419,
+    "forks": 330,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "cobar",
+    "language": "java",
+    "stars": 2419,
+    "forks": 1126,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-data-examples",
+    "language": "java",
+    "stars": 2415,
+    "forks": 1885,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "binnavi",
+    "language": "java",
+    "stars": 2414,
+    "forks": 419,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phishman3579",
+    "name": "java-algorithms-implementation",
+    "language": "java",
+    "stars": 2411,
+    "forks": 1041,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "hover",
+    "language": "java",
+    "stars": 2409,
+    "forks": 249,
+    "default_branch": "master"
+  },
+  {
+    "owner": "romainguy",
+    "name": "ViewServer",
+    "language": "java",
+    "stars": 2407,
+    "forks": 610,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yhaolpz",
+    "name": "FloatWindow",
+    "language": "java",
+    "stars": 2407,
+    "forks": 323,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "airpal",
+    "language": "java",
+    "stars": 2406,
+    "forks": 413,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "DiagonalLayout",
+    "language": "java",
+    "stars": 2398,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ozodrukh",
+    "name": "CircularReveal",
+    "language": "java",
+    "stars": 2389,
+    "forks": 394,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sd6352051",
+    "name": "NiftyDialogEffects",
+    "language": "java",
+    "stars": 2386,
+    "forks": 775,
+    "default_branch": "master"
+  },
+  {
+    "owner": "harjot-oberai",
+    "name": "MusicDNA",
+    "language": "java",
+    "stars": 2384,
+    "forks": 492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cglib",
+    "name": "cglib",
+    "language": "java",
+    "stars": 2382,
+    "forks": 564,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bmelnychuk",
+    "name": "AndroidTreeView",
+    "language": "java",
+    "stars": 2377,
+    "forks": 523,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pchmn",
+    "name": "MaterialChipsInput",
+    "language": "java",
+    "stars": 2377,
+    "forks": 330,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raphw",
+    "name": "byte-buddy",
+    "language": "java",
+    "stars": 2373,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cleveroad",
+    "name": "SlidingTutorial-Android",
+    "language": "java",
+    "stars": 2370,
+    "forks": 401,
+    "default_branch": "master"
+  },
+  {
+    "owner": "glomadrian",
+    "name": "Grav",
+    "language": "java",
+    "stars": 2370,
+    "forks": 286,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fyhertz",
+    "name": "libstreaming",
+    "language": "java",
+    "stars": 2369,
+    "forks": 888,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wenmingvs",
+    "name": "AndroidProcess",
+    "language": "java",
+    "stars": 2366,
+    "forks": 447,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uber",
+    "name": "NullAway",
+    "language": "java",
+    "stars": 2365,
+    "forks": 172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "jmeter",
+    "language": "java",
+    "stars": 2362,
+    "forks": 888,
+    "default_branch": "trunk"
+  },
+  {
+    "owner": "pnikosis",
+    "name": "materialish-progress",
+    "language": "java",
+    "stars": 2362,
+    "forks": 470,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jhalterman",
+    "name": "failsafe",
+    "language": "java",
+    "stars": 2361,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MagicMashRoom",
+    "name": "SuperCalendar",
+    "language": "java",
+    "stars": 2361,
+    "forks": 445,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "hbase",
+    "language": "java",
+    "stars": 2359,
+    "forks": 1725,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nisrulz",
+    "name": "sensey",
+    "language": "java",
+    "stars": 2354,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flavioarfaria",
+    "name": "KenBurnsView",
+    "language": "java",
+    "stars": 2349,
+    "forks": 405,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chewiebug",
+    "name": "GCViewer",
+    "language": "java",
+    "stars": 2349,
+    "forks": 578,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "500px",
+    "name": "500px-android-blur",
+    "language": "java",
+    "stars": 2349,
+    "forks": 304,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dreamhead",
+    "name": "moco",
+    "language": "java",
+    "stars": 2344,
+    "forks": 604,
+    "default_branch": "master"
+  },
+  {
+    "owner": "languagetool-org",
+    "name": "languagetool",
+    "language": "java",
+    "stars": 2342,
+    "forks": 487,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "Telecine",
+    "language": "java",
+    "stars": 2339,
+    "forks": 435,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stfalcon-studio",
+    "name": "ChatKit",
+    "language": "java",
+    "stars": 2335,
+    "forks": 529,
+    "default_branch": "master"
+  },
+  {
+    "owner": "githubwing",
+    "name": "ZoomHeader",
+    "language": "java",
+    "stars": 2320,
+    "forks": 388,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "google-services",
+    "language": "java",
+    "stars": 2319,
+    "forks": 2324,
+    "default_branch": "master"
+  },
+  {
+    "owner": "youtube",
+    "name": "api-samples",
+    "language": "java",
+    "stars": 2315,
+    "forks": 1889,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "beam",
+    "language": "java",
+    "stars": 2311,
+    "forks": 1436,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LawnchairLauncher",
+    "name": "Lawnchair",
+    "language": "java",
+    "stars": 2299,
+    "forks": 439,
+    "default_branch": "alpha"
+  },
+  {
+    "owner": "iPaulPro",
+    "name": "Android-ItemTouchHelper-Demo",
+    "language": "java",
+    "stars": 2299,
+    "forks": 465,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DylanVann",
+    "name": "react-native-fast-image",
+    "language": "java",
+    "stars": 2289,
+    "forks": 375,
+    "default_branch": "master"
+  },
+  {
+    "owner": "konifar",
+    "name": "android-material-design-icon-generator-plugin",
+    "language": "java",
+    "stars": 2287,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "simple-android-framework",
+    "name": "android_design_patterns_analysis",
+    "language": "java",
+    "stars": 2285,
+    "forks": 1442,
+    "default_branch": "master"
+  },
+  {
+    "owner": "siyamed",
+    "name": "android-shape-imageview",
+    "language": "java",
+    "stars": 2283,
+    "forks": 600,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hussien89aa",
+    "name": "AndroidTutorialForBeginners",
+    "language": "java",
+    "stars": 2283,
+    "forks": 3798,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iwgang",
+    "name": "CountdownView",
+    "language": "java",
+    "stars": 2280,
+    "forks": 514,
+    "default_branch": "master"
+  },
+  {
+    "owner": "h2oai",
+    "name": "h2o-2",
+    "language": "java",
+    "stars": 2277,
+    "forks": 601,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Screetsec",
+    "name": "TheFatRat",
+    "language": "java",
+    "stars": 2275,
+    "forks": 843,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ronmamo",
+    "name": "reflections",
+    "language": "java",
+    "stars": 2274,
+    "forks": 410,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Twitter4J",
+    "name": "Twitter4J",
+    "language": "java",
+    "stars": 2272,
+    "forks": 1050,
+    "default_branch": "master"
+  },
+  {
+    "owner": "theDazzler",
+    "name": "droidicon",
+    "language": "java",
+    "stars": 2265,
+    "forks": 259,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dlew",
+    "name": "joda-time-android",
+    "language": "java",
+    "stars": 2261,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JackyAndroid",
+    "name": "AndroidChromium",
+    "language": "java",
+    "stars": 2258,
+    "forks": 574,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Nightonke",
+    "name": "CoCoin",
+    "language": "java",
+    "stars": 2256,
+    "forks": 861,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aritraroy",
+    "name": "PatternLockView",
+    "language": "java",
+    "stars": 2255,
+    "forks": 359,
+    "default_branch": "master"
+  },
+  {
+    "owner": "auth0",
+    "name": "java-jwt",
+    "language": "java",
+    "stars": 2253,
+    "forks": 466,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rovo89",
+    "name": "XposedInstaller",
+    "language": "java",
+    "stars": 2253,
+    "forks": 1003,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brianfrankcooper",
+    "name": "YCSB",
+    "language": "java",
+    "stars": 2250,
+    "forks": 1378,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abel533",
+    "name": "MyBatis-Spring-Boot",
+    "language": "java",
+    "stars": 2249,
+    "forks": 1312,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eclipse",
+    "name": "jetty.project",
+    "language": "java",
+    "stars": 2244,
+    "forks": 1268,
+    "default_branch": "jetty-9.4.x"
+  },
+  {
+    "owner": "android-cjj",
+    "name": "JJSearchViewAnim",
+    "language": "java",
+    "stars": 2242,
+    "forks": 316,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter",
+    "name": "distributedlog",
+    "language": "java",
+    "stars": 2240,
+    "forks": 288,
+    "default_branch": "master"
+  },
+  {
+    "owner": "luckybilly",
+    "name": "CC",
+    "language": "java",
+    "stars": 2238,
+    "forks": 305,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mpusher",
+    "name": "mpush",
+    "language": "java",
+    "stars": 2237,
+    "forks": 942,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Prototik",
+    "name": "HoloEverywhere",
+    "language": "java",
+    "stars": 2236,
+    "forks": 681,
+    "default_branch": "master"
+  },
+  {
+    "owner": "markushi",
+    "name": "android-ui",
+    "language": "java",
+    "stars": 2235,
+    "forks": 459,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oracle",
+    "name": "opengrok",
+    "language": "java",
+    "stars": 2233,
+    "forks": 465,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qiujuer",
+    "name": "Genius-Android",
+    "language": "java",
+    "stars": 2233,
+    "forks": 599,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xinghongfei",
+    "name": "LookLook",
+    "language": "java",
+    "stars": 2229,
+    "forks": 761,
+    "default_branch": "master"
+  },
+  {
+    "owner": "deano2390",
+    "name": "MaterialShowcaseView",
+    "language": "java",
+    "stars": 2224,
+    "forks": 435,
+    "default_branch": "master"
+  },
+  {
+    "owner": "javaee-samples",
+    "name": "javaee7-samples",
+    "language": "java",
+    "stars": 2222,
+    "forks": 1535,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Frank-Zhu",
+    "name": "PullZoomView",
+    "language": "java",
+    "stars": 2222,
+    "forks": 648,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vipulasri",
+    "name": "Timeline-View",
+    "language": "java",
+    "stars": 2217,
+    "forks": 437,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TeamAmaze",
+    "name": "AmazeFileManager",
+    "language": "java",
+    "stars": 2214,
+    "forks": 784,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mxn21",
+    "name": "FlowingDrawer",
+    "language": "java",
+    "stars": 2214,
+    "forks": 447,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ffay",
+    "name": "lanproxy",
+    "language": "java",
+    "stars": 2213,
+    "forks": 576,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ZieIony",
+    "name": "Carbon",
+    "language": "java",
+    "stars": 2213,
+    "forks": 325,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bigbluebutton",
+    "name": "bigbluebutton",
+    "language": "java",
+    "stars": 2211,
+    "forks": 3630,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LuckyJayce",
+    "name": "ViewPagerIndicator",
+    "language": "java",
+    "stars": 2210,
+    "forks": 614,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "tape",
+    "language": "java",
+    "stars": 2206,
+    "forks": 283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stormzhang",
+    "name": "9GAG",
+    "language": "java",
+    "stars": 2205,
+    "forks": 1155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "2dxgujun",
+    "name": "AndroidTagGroup",
+    "language": "java",
+    "stars": 2203,
+    "forks": 492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "camel",
+    "language": "java",
+    "stars": 2203,
+    "forks": 3054,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "google-java-format",
+    "language": "java",
+    "stars": 2202,
+    "forks": 397,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mikepenz",
+    "name": "AboutLibraries",
+    "language": "java",
+    "stars": 2202,
+    "forks": 288,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "JackyAndroid",
+    "name": "AndroidTVLauncher",
+    "language": "java",
+    "stars": 2201,
+    "forks": 535,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chanjarster",
+    "name": "weixin-java-tools",
+    "language": "java",
+    "stars": 2199,
+    "forks": 4707,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AriaLyy",
+    "name": "Aria",
+    "language": "java",
+    "stars": 2192,
+    "forks": 330,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chenupt",
+    "name": "SpringIndicator",
+    "language": "java",
+    "stars": 2190,
+    "forks": 537,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "hive",
+    "language": "java",
+    "stars": 2188,
+    "forks": 2219,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ata4",
+    "name": "disunity",
+    "language": "java",
+    "stars": 2188,
+    "forks": 584,
+    "default_branch": "master"
+  },
+  {
+    "owner": "react-native-community",
+    "name": "react-native-blur",
+    "language": "java",
+    "stars": 2186,
+    "forks": 258,
+    "default_branch": "master"
+  },
+  {
+    "owner": "voldemort",
+    "name": "voldemort",
+    "language": "java",
+    "stars": 2185,
+    "forks": 544,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ldoublem",
+    "name": "LoadingView",
+    "language": "java",
+    "stars": 2185,
+    "forks": 408,
+    "default_branch": "master"
+  },
+  {
+    "owner": "btraceio",
+    "name": "btrace",
+    "language": "java",
+    "stars": 2183,
+    "forks": 450,
+    "default_branch": "master"
+  },
+  {
+    "owner": "powermock",
+    "name": "powermock",
+    "language": "java",
+    "stars": 2183,
+    "forks": 403,
+    "default_branch": "release/2.x"
+  },
+  {
+    "owner": "huazhiyuan2008",
+    "name": "RecyclerViewCardGallery",
+    "language": "java",
+    "stars": 2183,
+    "forks": 446,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhanglei-workspace",
+    "name": "shopping-management-system",
+    "language": "java",
+    "stars": 2182,
+    "forks": 1613,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ityouknow",
+    "name": "spring-cloud-examples",
+    "language": "java",
+    "stars": 2182,
+    "forks": 1304,
+    "default_branch": "master"
+  },
+  {
+    "owner": "goldze",
+    "name": "MVVMHabit",
+    "language": "java",
+    "stars": 2180,
+    "forks": 416,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thingsboard",
+    "name": "thingsboard",
+    "language": "java",
+    "stars": 2179,
+    "forks": 750,
+    "default_branch": "master"
+  },
+  {
+    "owner": "esoxjem",
+    "name": "MovieGuide",
+    "language": "java",
+    "stars": 2179,
+    "forks": 685,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "Euclid",
+    "language": "java",
+    "stars": 2178,
+    "forks": 582,
+    "default_branch": "master"
+  },
+  {
+    "owner": "immutables",
+    "name": "immutables",
+    "language": "java",
+    "stars": 2178,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daimajia",
+    "name": "AnimationEasingFunctions",
+    "language": "java",
+    "stars": 2176,
+    "forks": 383,
+    "default_branch": "master"
+  },
+  {
+    "owner": "r0adkll",
+    "name": "Slidr",
+    "language": "java",
+    "stars": 2176,
+    "forks": 333,
+    "default_branch": "master"
+  },
+  {
+    "owner": "quartz-scheduler",
+    "name": "quartz",
+    "language": "java",
+    "stars": 2175,
+    "forks": 704,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jjoe64",
+    "name": "GraphView",
+    "language": "java",
+    "stars": 2173,
+    "forks": 716,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "data-transfer-project",
+    "language": "java",
+    "stars": 2172,
+    "forks": 165,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xmuSistone",
+    "name": "CardSlidePanel",
+    "language": "java",
+    "stars": 2172,
+    "forks": 511,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "react-native-fbsdk",
+    "language": "java",
+    "stars": 2170,
+    "forks": 603,
+    "default_branch": "master"
+  },
+  {
+    "owner": "code-mc",
+    "name": "material-icon-lib",
+    "language": "java",
+    "stars": 2167,
+    "forks": 206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "mortar",
+    "language": "java",
+    "stars": 2166,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "linkedin",
+    "name": "databus",
+    "language": "java",
+    "stars": 2163,
+    "forks": 497,
+    "default_branch": "master"
+  },
+  {
+    "owner": "balysv",
+    "name": "material-ripple",
+    "language": "java",
+    "stars": 2162,
+    "forks": 458,
+    "default_branch": "master"
+  },
+  {
+    "owner": "avast",
+    "name": "android-styled-dialogs",
+    "language": "java",
+    "stars": 2161,
+    "forks": 485,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moezbhatti",
+    "name": "qksms",
+    "language": "java",
+    "stars": 2157,
+    "forks": 668,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xfumihiro",
+    "name": "ViewInspector",
+    "language": "java",
+    "stars": 2157,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bingoogolapple",
+    "name": "BGABadgeView-Android",
+    "language": "java",
+    "stars": 2156,
+    "forks": 393,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WritingMinds",
+    "name": "ffmpeg-android-java",
+    "language": "java",
+    "stars": 2154,
+    "forks": 610,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iammert",
+    "name": "MaterialIntroView",
+    "language": "java",
+    "stars": 2152,
+    "forks": 334,
+    "default_branch": "master"
+  },
+  {
+    "owner": "android-cjj",
+    "name": "BeautifulRefreshLayout",
+    "language": "java",
+    "stars": 2152,
+    "forks": 440,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FinalTeam",
+    "name": "RxGalleryFinal",
+    "language": "java",
+    "stars": 2152,
+    "forks": 415,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wildfly",
+    "name": "wildfly",
+    "language": "java",
+    "stars": 2145,
+    "forks": 1835,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-dubbo-spring-boot-project",
+    "language": "java",
+    "stars": 2143,
+    "forks": 613,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mybatis",
+    "name": "spring-boot-starter",
+    "language": "java",
+    "stars": 2142,
+    "forks": 959,
+    "default_branch": "master"
+  },
+  {
+    "owner": "undertow-io",
+    "name": "undertow",
+    "language": "java",
+    "stars": 2141,
+    "forks": 627,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crate",
+    "name": "crate",
+    "language": "java",
+    "stars": 2140,
+    "forks": 297,
+    "default_branch": "master"
+  },
+  {
+    "owner": "looly",
+    "name": "hutool",
+    "language": "java",
+    "stars": 2139,
+    "forks": 721,
+    "default_branch": "v4-master"
+  },
+  {
+    "owner": "vikramkakkar",
+    "name": "SublimePicker",
+    "language": "java",
+    "stars": 2136,
+    "forks": 386,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-loaded",
+    "language": "java",
+    "stars": 2135,
+    "forks": 409,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eleme",
+    "name": "UETool",
+    "language": "java",
+    "stars": 2135,
+    "forks": 225,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bin456789",
+    "name": "Unblock163MusicClient-Xposed",
+    "language": "java",
+    "stars": 2134,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jaydenxiao2016",
+    "name": "AndroidFire",
+    "language": "java",
+    "stars": 2134,
+    "forks": 721,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhouchaoyuan",
+    "name": "excelPanel",
+    "language": "java",
+    "stars": 2134,
+    "forks": 290,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spockframework",
+    "name": "spock",
+    "language": "java",
+    "stars": 2132,
+    "forks": 331,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisbanes",
+    "name": "philm",
+    "language": "java",
+    "stars": 2130,
+    "forks": 514,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iSoron",
+    "name": "uhabits",
+    "language": "java",
+    "stars": 2129,
+    "forks": 474,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "soarcn",
+    "name": "BottomSheet",
+    "language": "java",
+    "stars": 2129,
+    "forks": 420,
+    "default_branch": "master"
+  },
+  {
+    "owner": "azkaban",
+    "name": "azkaban",
+    "language": "java",
+    "stars": 2125,
+    "forks": 934,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reark",
+    "name": "reark",
+    "language": "java",
+    "stars": 2122,
+    "forks": 245,
+    "default_branch": "master"
+  },
+  {
+    "owner": "woxingxiao",
+    "name": "BubbleSeekBar",
+    "language": "java",
+    "stars": 2119,
+    "forks": 357,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pentaho",
+    "name": "pentaho-kettle",
+    "language": "java",
+    "stars": 2115,
+    "forks": 1545,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "Tangram-Android",
+    "language": "java",
+    "stars": 2115,
+    "forks": 316,
+    "default_branch": "master"
+  },
+  {
+    "owner": "web3j",
+    "name": "web3j",
+    "language": "java",
+    "stars": 2113,
+    "forks": 738,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amitshekhariitbhu",
+    "name": "awesome-android-complete-reference",
+    "language": "java",
+    "stars": 2112,
+    "forks": 502,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AntennaPod",
+    "name": "AntennaPod",
+    "language": "java",
+    "stars": 2110,
+    "forks": 670,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "aragozin",
+    "name": "jvm-tools",
+    "language": "java",
+    "stars": 2109,
+    "forks": 334,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VictorAlbertos",
+    "name": "RxCache",
+    "language": "java",
+    "stars": 2103,
+    "forks": 169,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "ittianyu",
+    "name": "BottomNavigationViewEx",
+    "language": "java",
+    "stars": 2103,
+    "forks": 375,
+    "default_branch": "master"
+  },
+  {
+    "owner": "watabou",
+    "name": "pixel-dungeon",
+    "language": "java",
+    "stars": 2101,
+    "forks": 795,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CrawlScript",
+    "name": "WebCollector",
+    "language": "java",
+    "stars": 2099,
+    "forks": 1272,
+    "default_branch": "master"
+  },
+  {
+    "owner": "code4craft",
+    "name": "netty-learning",
+    "language": "java",
+    "stars": 2095,
+    "forks": 795,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "easyexcel",
+    "language": "java",
+    "stars": 2092,
+    "forks": 475,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bm-x",
+    "name": "PhotoView",
+    "language": "java",
+    "stars": 2092,
+    "forks": 480,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oasisfeng",
+    "name": "condom",
+    "language": "java",
+    "stars": 2087,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Diolor",
+    "name": "Swipecards",
+    "language": "java",
+    "stars": 2085,
+    "forks": 574,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yqritc",
+    "name": "RecyclerView-FlexibleDivider",
+    "language": "java",
+    "stars": 2085,
+    "forks": 349,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mongodb",
+    "name": "mongo-java-driver",
+    "language": "java",
+    "stars": 2083,
+    "forks": 1216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zagum",
+    "name": "Android-SwitchIcon",
+    "language": "java",
+    "stars": 2081,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "android-cjj",
+    "name": "Android-MaterialRefreshLayout",
+    "language": "java",
+    "stars": 2077,
+    "forks": 510,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jdsjlzx",
+    "name": "LRecyclerView",
+    "language": "java",
+    "stars": 2076,
+    "forks": 558,
+    "default_branch": "master"
+  },
+  {
+    "owner": "androidquery",
+    "name": "androidquery",
+    "language": "java",
+    "stars": 2076,
+    "forks": 600,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "nacos",
+    "language": "java",
+    "stars": 2070,
+    "forks": 432,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "ViewAnimator",
+    "language": "java",
+    "stars": 2069,
+    "forks": 362,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grandcentrix",
+    "name": "tray",
+    "language": "java",
+    "stars": 2069,
+    "forks": 249,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "ignite",
+    "language": "java",
+    "stars": 2067,
+    "forks": 1084,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igreenwood",
+    "name": "SimpleCropView",
+    "language": "java",
+    "stars": 2066,
+    "forks": 385,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "device-year-class",
+    "language": "java",
+    "stars": 2065,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "katzer",
+    "name": "cordova-plugin-local-notifications",
+    "language": "java",
+    "stars": 2065,
+    "forks": 1286,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AbrahamCaiJin",
+    "name": "CommonUtilLibrary",
+    "language": "java",
+    "stars": 2064,
+    "forks": 601,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Zomato",
+    "name": "AndroidPhotoFilters",
+    "language": "java",
+    "stars": 2063,
+    "forks": 370,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JZ-Darkal",
+    "name": "AndroidHttpCapture",
+    "language": "java",
+    "stars": 2062,
+    "forks": 411,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skavanagh",
+    "name": "KeyBox",
+    "language": "java",
+    "stars": 2058,
+    "forks": 259,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AltBeacon",
+    "name": "android-beacon-library",
+    "language": "java",
+    "stars": 2058,
+    "forks": 682,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "lucene-solr",
+    "language": "java",
+    "stars": 2057,
+    "forks": 1593,
+    "default_branch": "master"
+  },
+  {
+    "owner": "javaparser",
+    "name": "javaparser",
+    "language": "java",
+    "stars": 2055,
+    "forks": 482,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hefuyicoder",
+    "name": "ListenerMusicPlayer",
+    "language": "java",
+    "stars": 2055,
+    "forks": 502,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alipay",
+    "name": "sofa-boot",
+    "language": "java",
+    "stars": 2052,
+    "forks": 490,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zaaach",
+    "name": "CityPicker",
+    "language": "java",
+    "stars": 2050,
+    "forks": 434,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcharmas",
+    "name": "Android-ReactiveLocation",
+    "language": "java",
+    "stars": 2050,
+    "forks": 304,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Dimezis",
+    "name": "BlurView",
+    "language": "java",
+    "stars": 2049,
+    "forks": 189,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cymcsg",
+    "name": "UltimateAndroid",
+    "language": "java",
+    "stars": 2046,
+    "forks": 734,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AigeStudio",
+    "name": "WheelPicker",
+    "language": "java",
+    "stars": 2039,
+    "forks": 422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmilicic",
+    "name": "Android-Clean-Boilerplate",
+    "language": "java",
+    "stars": 2037,
+    "forks": 448,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ToxicBakery",
+    "name": "ViewPagerTransforms",
+    "language": "java",
+    "stars": 2036,
+    "forks": 450,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elye",
+    "name": "loaderviewlibrary",
+    "language": "java",
+    "stars": 2036,
+    "forks": 277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sockeqwe",
+    "name": "AdapterDelegates",
+    "language": "java",
+    "stars": 2033,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "CameraFragment",
+    "language": "java",
+    "stars": 2029,
+    "forks": 367,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tronprotocol",
+    "name": "java-tron",
+    "language": "java",
+    "stars": 2027,
+    "forks": 469,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "ltsopensource",
+    "name": "light-task-scheduler",
+    "language": "java",
+    "stars": 2023,
+    "forks": 865,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-pinot",
+    "language": "java",
+    "stars": 2023,
+    "forks": 368,
+    "default_branch": "master"
+  },
+  {
+    "owner": "querydsl",
+    "name": "querydsl",
+    "language": "java",
+    "stars": 2021,
+    "forks": 476,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Rukey7",
+    "name": "MvpApp",
+    "language": "java",
+    "stars": 2017,
+    "forks": 623,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhou-you",
+    "name": "RxEasyHttp",
+    "language": "java",
+    "stars": 2017,
+    "forks": 367,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgilfelt",
+    "name": "android-sqlite-asset-helper",
+    "language": "java",
+    "stars": 2015,
+    "forks": 524,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zcweng",
+    "name": "ToggleButton",
+    "language": "java",
+    "stars": 2015,
+    "forks": 716,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "wycheproof",
+    "language": "java",
+    "stars": 2014,
+    "forks": 212,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tyzlmjj",
+    "name": "PagerBottomTabStrip",
+    "language": "java",
+    "stars": 2014,
+    "forks": 321,
+    "default_branch": "master"
+  },
+  {
+    "owner": "H07000223",
+    "name": "FlycoDialog_Master",
+    "language": "java",
+    "stars": 2009,
+    "forks": 513,
+    "default_branch": "master"
+  },
+  {
+    "owner": "confluentinc",
+    "name": "ksql",
+    "language": "java",
+    "stars": 2005,
+    "forks": 373,
+    "default_branch": "master"
+  },
+  {
+    "owner": "konmik",
+    "name": "nucleus",
+    "language": "java",
+    "stars": 2002,
+    "forks": 277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "keywhiz",
+    "language": "java",
+    "stars": 1999,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AnderWeb",
+    "name": "discreteSeekBar",
+    "language": "java",
+    "stars": 1994,
+    "forks": 413,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fengjundev",
+    "name": "Android-Skin-Loader",
+    "language": "java",
+    "stars": 1993,
+    "forks": 421,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zjw-swun",
+    "name": "AppMethodOrder",
+    "language": "java",
+    "stars": 1992,
+    "forks": 244,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Aspsine",
+    "name": "SwipeToLoadLayout",
+    "language": "java",
+    "stars": 1992,
+    "forks": 464,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tjerkw",
+    "name": "Android-SlideExpandableListView",
+    "language": "java",
+    "stars": 1991,
+    "forks": 808,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PomepuyN",
+    "name": "BlurEffectForAndroidDesign",
+    "language": "java",
+    "stars": 1989,
+    "forks": 513,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bonnyfone",
+    "name": "vectalign",
+    "language": "java",
+    "stars": 1988,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "balsikandar",
+    "name": "Android-Studio-Plugins",
+    "language": "java",
+    "stars": 1988,
+    "forks": 181,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "RxRelay",
+    "language": "java",
+    "stars": 1988,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nanchen2251",
+    "name": "RxJava2Examples",
+    "language": "java",
+    "stars": 1981,
+    "forks": 464,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcharmas",
+    "name": "android-parcelable-intellij-plugin",
+    "language": "java",
+    "stars": 1981,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "volley",
+    "language": "java",
+    "stars": 1980,
+    "forks": 504,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gjiazhe",
+    "name": "PanoramaImageView",
+    "language": "java",
+    "stars": 1979,
+    "forks": 222,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "shiro",
+    "language": "java",
+    "stars": 1979,
+    "forks": 1236,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LaiFeng-Android",
+    "name": "SopCastComponent",
+    "language": "java",
+    "stars": 1977,
+    "forks": 484,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ramotion",
+    "name": "paper-onboarding-android",
+    "language": "java",
+    "stars": 1976,
+    "forks": 340,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Naoki2015",
+    "name": "CircleDemo",
+    "language": "java",
+    "stars": 1974,
+    "forks": 569,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheFinestArtist",
+    "name": "FinestWebView-Android",
+    "language": "java",
+    "stars": 1974,
+    "forks": 457,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pwittchen",
+    "name": "ReactiveNetwork",
+    "language": "java",
+    "stars": 1967,
+    "forks": 196,
+    "default_branch": "RxJava2.x"
+  },
+  {
+    "owner": "google",
+    "name": "rejoiner",
+    "language": "java",
+    "stars": 1965,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zzz40500",
+    "name": "AndroidSweetSheet",
+    "language": "java",
+    "stars": 1964,
+    "forks": 378,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MikeOrtiz",
+    "name": "TouchImageView",
+    "language": "java",
+    "stars": 1961,
+    "forks": 806,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steelkiwi",
+    "name": "cropiwa",
+    "language": "java",
+    "stars": 1960,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Jude95",
+    "name": "EasyRecyclerView",
+    "language": "java",
+    "stars": 1958,
+    "forks": 461,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guoguibing",
+    "name": "librec",
+    "language": "java",
+    "stars": 1958,
+    "forks": 760,
+    "default_branch": "3.0.0"
+  },
+  {
+    "owner": "kymjs",
+    "name": "KJFrameForAndroid",
+    "language": "java",
+    "stars": 1958,
+    "forks": 840,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jackpal",
+    "name": "Android-Terminal-Emulator",
+    "language": "java",
+    "stars": 1958,
+    "forks": 771,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spotify",
+    "name": "helios",
+    "language": "java",
+    "stars": 1958,
+    "forks": 228,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Polidea",
+    "name": "RxAndroidBle",
+    "language": "java",
+    "stars": 1955,
+    "forks": 347,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crazyandcoder",
+    "name": "citypicker",
+    "language": "java",
+    "stars": 1953,
+    "forks": 430,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BaronZ88",
+    "name": "MinimalistWeather",
+    "language": "java",
+    "stars": 1953,
+    "forks": 483,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cSploit",
+    "name": "android",
+    "language": "java",
+    "stars": 1951,
+    "forks": 891,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "zhangkaitao",
+    "name": "es",
+    "language": "java",
+    "stars": 1948,
+    "forks": 1658,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kabouzeid",
+    "name": "Phonograph",
+    "language": "java",
+    "stars": 1942,
+    "forks": 512,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Devlight",
+    "name": "NavigationTabStrip",
+    "language": "java",
+    "stars": 1940,
+    "forks": 273,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baoyongzhang",
+    "name": "android-PullRefreshLayout",
+    "language": "java",
+    "stars": 1938,
+    "forks": 529,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nutzam",
+    "name": "nutz",
+    "language": "java",
+    "stars": 1937,
+    "forks": 904,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Krupen",
+    "name": "FabulousFilter",
+    "language": "java",
+    "stars": 1934,
+    "forks": 254,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fython",
+    "name": "MaterialStepperView",
+    "language": "java",
+    "stars": 1933,
+    "forks": 225,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LWJGL",
+    "name": "lwjgl3",
+    "language": "java",
+    "stars": 1930,
+    "forks": 303,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcxtzhang",
+    "name": "ZLayoutManager",
+    "language": "java",
+    "stars": 1930,
+    "forks": 321,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "curator",
+    "language": "java",
+    "stars": 1929,
+    "forks": 400,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lingochamp",
+    "name": "okdownload",
+    "language": "java",
+    "stars": 1929,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "linyiqun",
+    "name": "DataMiningAlgorithm",
+    "language": "java",
+    "stars": 1923,
+    "forks": 1226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "prontera",
+    "name": "spring-cloud-rest-tcc",
+    "language": "java",
+    "stars": 1918,
+    "forks": 952,
+    "default_branch": "master"
+  },
+  {
+    "owner": "deathmarine",
+    "name": "Luyten",
+    "language": "java",
+    "stars": 1917,
+    "forks": 433,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twosigma",
+    "name": "beakerx",
+    "language": "java",
+    "stars": 1917,
+    "forks": 271,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alipay",
+    "name": "sofa-rpc",
+    "language": "java",
+    "stars": 1916,
+    "forks": 533,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SplashCodes",
+    "name": "JAViewer",
+    "language": "java",
+    "stars": 1916,
+    "forks": 309,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yingLanNull",
+    "name": "ShadowImageView",
+    "language": "java",
+    "stars": 1915,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ApmeM",
+    "name": "android-flowlayout",
+    "language": "java",
+    "stars": 1915,
+    "forks": 387,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lapism",
+    "name": "SearchBar-SearchView",
+    "language": "java",
+    "stars": 1914,
+    "forks": 362,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guoxiaoxing",
+    "name": "android-open-source-project-analysis",
+    "language": "java",
+    "stars": 1906,
+    "forks": 307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Wizcorp",
+    "name": "phonegap-facebook-plugin",
+    "language": "java",
+    "stars": 1906,
+    "forks": 1863,
+    "default_branch": "master"
+  },
+  {
+    "owner": "white-cat",
+    "name": "ThinkAndroid",
+    "language": "java",
+    "stars": 1904,
+    "forks": 1097,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KieronQuinn",
+    "name": "PersistentSearch",
+    "language": "java",
+    "stars": 1903,
+    "forks": 442,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fqrouter",
+    "name": "fqrouter",
+    "language": "java",
+    "stars": 1901,
+    "forks": 588,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elevenetc",
+    "name": "TextSurface",
+    "language": "java",
+    "stars": 1897,
+    "forks": 234,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pmd",
+    "name": "pmd",
+    "language": "java",
+    "stars": 1896,
+    "forks": 667,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rmtheis",
+    "name": "android-ocr",
+    "language": "java",
+    "stars": 1894,
+    "forks": 857,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lettuce-io",
+    "name": "lettuce-core",
+    "language": "java",
+    "stars": 1894,
+    "forks": 366,
+    "default_branch": "master"
+  },
+  {
+    "owner": "evrencoskun",
+    "name": "TableView",
+    "language": "java",
+    "stars": 1894,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skyfishjy",
+    "name": "android-ripple-background",
+    "language": "java",
+    "stars": 1890,
+    "forks": 510,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "Horizon",
+    "language": "java",
+    "stars": 1889,
+    "forks": 287,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jiajunhui",
+    "name": "PlayerBase",
+    "language": "java",
+    "stars": 1888,
+    "forks": 248,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EverythingMe",
+    "name": "overscroll-decor",
+    "language": "java",
+    "stars": 1887,
+    "forks": 283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wordpress-mobile",
+    "name": "WordPress-Android",
+    "language": "java",
+    "stars": 1886,
+    "forks": 967,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "novoda",
+    "name": "android-demos",
+    "language": "java",
+    "stars": 1885,
+    "forks": 673,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flavienlaurent",
+    "name": "datetimepicker",
+    "language": "java",
+    "stars": 1882,
+    "forks": 629,
+    "default_branch": "master"
+  },
+  {
+    "owner": "addthis",
+    "name": "stream-lib",
+    "language": "java",
+    "stars": 1882,
+    "forks": 492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-Camera2Basic",
+    "language": "java",
+    "stars": 1881,
+    "forks": 999,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fanrunqi",
+    "name": "MaterialLogin",
+    "language": "java",
+    "stars": 1877,
+    "forks": 377,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JanusGraph",
+    "name": "janusgraph",
+    "language": "java",
+    "stars": 1877,
+    "forks": 459,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tiann",
+    "name": "understand-plugin-framework",
+    "language": "java",
+    "stars": 1876,
+    "forks": 625,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lisawray",
+    "name": "groupie",
+    "language": "java",
+    "stars": 1876,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jjdxmashl",
+    "name": "jjdxm_ijkplayer",
+    "language": "java",
+    "stars": 1875,
+    "forks": 467,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RomainPiel",
+    "name": "Shimmer-android",
+    "language": "java",
+    "stars": 1875,
+    "forks": 443,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Red5",
+    "name": "red5-server",
+    "language": "java",
+    "stars": 1874,
+    "forks": 736,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Karumi",
+    "name": "Rosie",
+    "language": "java",
+    "stars": 1872,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "linkedin",
+    "name": "rest.li",
+    "language": "java",
+    "stars": 1872,
+    "forks": 363,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jMonkeyEngine",
+    "name": "jmonkeyengine",
+    "language": "java",
+    "stars": 1872,
+    "forks": 773,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FasterXML",
+    "name": "jackson-databind",
+    "language": "java",
+    "stars": 1871,
+    "forks": 735,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nanchen2251",
+    "name": "CompressHelper",
+    "language": "java",
+    "stars": 1870,
+    "forks": 358,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bukkit",
+    "name": "Bukkit",
+    "language": "java",
+    "stars": 1867,
+    "forks": 1083,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yanzhenjie",
+    "name": "Album",
+    "language": "java",
+    "stars": 1863,
+    "forks": 366,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hitherejoe",
+    "name": "Android-Boilerplate",
+    "language": "java",
+    "stars": 1860,
+    "forks": 1220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tvbarthel",
+    "name": "BlurDialogFragment",
+    "language": "java",
+    "stars": 1857,
+    "forks": 331,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AweiLoveAndroid",
+    "name": "CommonDevKnowledge",
+    "language": "java",
+    "stars": 1855,
+    "forks": 361,
+    "default_branch": "master"
+  },
+  {
+    "owner": "niorgai",
+    "name": "StatusBarCompat",
+    "language": "java",
+    "stars": 1854,
+    "forks": 311,
+    "default_branch": "master"
+  },
+  {
+    "owner": "XunMengWinter",
+    "name": "CircularAnim",
+    "language": "java",
+    "stars": 1850,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ethereum",
+    "name": "ethereumj",
+    "language": "java",
+    "stars": 1849,
+    "forks": 945,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "seiginonakama",
+    "name": "BlockCanaryEx",
+    "language": "java",
+    "stars": 1848,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JustKiddingBaby",
+    "name": "FragmentRigger",
+    "language": "java",
+    "stars": 1848,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gongwen",
+    "name": "MarqueeViewLibrary",
+    "language": "java",
+    "stars": 1848,
+    "forks": 285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MindorksOpenSource",
+    "name": "PRDownloader",
+    "language": "java",
+    "stars": 1847,
+    "forks": 295,
+    "default_branch": "master"
+  },
+  {
+    "owner": "promeG",
+    "name": "TinyPinyin",
+    "language": "java",
+    "stars": 1847,
+    "forks": 228,
+    "default_branch": "master"
+  },
+  {
+    "owner": "M66B",
+    "name": "XPrivacy",
+    "language": "java",
+    "stars": 1844,
+    "forks": 512,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yadav-rahul",
+    "name": "TastyToast",
+    "language": "java",
+    "stars": 1842,
+    "forks": 328,
+    "default_branch": "lib"
+  },
+  {
+    "owner": "detro",
+    "name": "ghostdriver",
+    "language": "java",
+    "stars": 1842,
+    "forks": 356,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JessYanCoding",
+    "name": "ProgressManager",
+    "language": "java",
+    "stars": 1841,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mojang",
+    "name": "brigadier",
+    "language": "java",
+    "stars": 1840,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gotev",
+    "name": "android-upload-service",
+    "language": "java",
+    "stars": 1839,
+    "forks": 507,
+    "default_branch": "master"
+  },
+  {
+    "owner": "http-kit",
+    "name": "http-kit",
+    "language": "java",
+    "stars": 1839,
+    "forks": 270,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reactor",
+    "name": "reactor-core",
+    "language": "java",
+    "stars": 1836,
+    "forks": 325,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pakerfeldt",
+    "name": "android-viewflow",
+    "language": "java",
+    "stars": 1833,
+    "forks": 751,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jboss-javassist",
+    "name": "javassist",
+    "language": "java",
+    "stars": 1833,
+    "forks": 392,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igniterealtime",
+    "name": "Smack",
+    "language": "java",
+    "stars": 1832,
+    "forks": 723,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "StarWars.Android",
+    "language": "java",
+    "stars": 1831,
+    "forks": 307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cleveroad",
+    "name": "FanLayoutManager",
+    "language": "java",
+    "stars": 1829,
+    "forks": 249,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NLPIR-team",
+    "name": "NLPIR",
+    "language": "java",
+    "stars": 1824,
+    "forks": 1063,
+    "default_branch": "master"
+  },
+  {
+    "owner": "akaxincom",
+    "name": "openzaly",
+    "language": "java",
+    "stars": 1824,
+    "forks": 284,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vert-x3",
+    "name": "vertx-examples",
+    "language": "java",
+    "stars": 1823,
+    "forks": 1432,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Froussios",
+    "name": "Intro-To-RxJava",
+    "language": "java",
+    "stars": 1821,
+    "forks": 372,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libgdx",
+    "name": "packr",
+    "language": "java",
+    "stars": 1819,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "FlipViewPager.Draco",
+    "language": "java",
+    "stars": 1816,
+    "forks": 363,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ninjaframework",
+    "name": "ninja",
+    "language": "java",
+    "stars": 1816,
+    "forks": 506,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "alexvasilkov",
+    "name": "GestureViews",
+    "language": "java",
+    "stars": 1815,
+    "forks": 314,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mthli",
+    "name": "Knife",
+    "language": "java",
+    "stars": 1814,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pilgr",
+    "name": "Paper",
+    "language": "java",
+    "stars": 1813,
+    "forks": 162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "nutch",
+    "language": "java",
+    "stars": 1810,
+    "forks": 1125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "matrixxun",
+    "name": "ProductTour",
+    "language": "java",
+    "stars": 1807,
+    "forks": 327,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mikepenz",
+    "name": "LollipopShowcase",
+    "language": "java",
+    "stars": 1806,
+    "forks": 530,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "archaius",
+    "language": "java",
+    "stars": 1806,
+    "forks": 401,
+    "default_branch": "master"
+  },
+  {
+    "owner": "floragunncom",
+    "name": "search-guard",
+    "language": "java",
+    "stars": 1805,
+    "forks": 356,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gouthampradhan",
+    "name": "leetcode",
+    "language": "java",
+    "stars": 1803,
+    "forks": 357,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WVector",
+    "name": "AppUpdate",
+    "language": "java",
+    "stars": 1802,
+    "forks": 350,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cucumber",
+    "name": "cucumber-jvm",
+    "language": "java",
+    "stars": 1802,
+    "forks": 1538,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kiegroup",
+    "name": "drools",
+    "language": "java",
+    "stars": 1799,
+    "forks": 1496,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JorgeCastilloPrz",
+    "name": "AndroidFillableLoaders",
+    "language": "java",
+    "stars": 1799,
+    "forks": 260,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FudanNLP",
+    "name": "fnlp",
+    "language": "java",
+    "stars": 1797,
+    "forks": 608,
+    "default_branch": "master"
+  },
+  {
+    "owner": "recruit-lifestyle",
+    "name": "WaveSwipeRefreshLayout",
+    "language": "java",
+    "stars": 1796,
+    "forks": 395,
+    "default_branch": "master"
+  }
+]

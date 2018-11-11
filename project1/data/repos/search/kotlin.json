@@ -1,0 +1,8002 @@
+[
+  {
+    "owner": "JetBrains",
+    "name": "kotlin",
+    "language": "kotlin",
+    "stars": 25159,
+    "forks": 2901,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shadowsocks",
+    "name": "shadowsocks-android",
+    "language": "kotlin",
+    "stars": 18752,
+    "forks": 7830,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tipsy",
+    "name": "profile-summary-for-github",
+    "language": "kotlin",
+    "stars": 18312,
+    "forks": 351,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "iosched",
+    "language": "kotlin",
+    "stars": 17662,
+    "forks": 5666,
+    "default_branch": "master"
+  },
+  {
+    "owner": "afollestad",
+    "name": "material-dialogs",
+    "language": "kotlin",
+    "stars": 14567,
+    "forks": 2560,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "anko",
+    "language": "kotlin",
+    "stars": 12772,
+    "forks": 1016,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "flexbox-layout",
+    "language": "kotlin",
+    "stars": 12771,
+    "forks": 1379,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "p3c",
+    "language": "kotlin",
+    "stars": 12033,
+    "forks": 2627,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-architecture-components",
+    "language": "kotlin",
+    "stars": 10650,
+    "forks": 2792,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-UniversalMusicPlayer",
+    "language": "kotlin",
+    "stars": 10386,
+    "forks": 3228,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "RxBinding",
+    "language": "kotlin",
+    "stars": 8123,
+    "forks": 836,
+    "default_branch": "master"
+  },
+  {
+    "owner": "android",
+    "name": "android-ktx",
+    "language": "kotlin",
+    "stars": 7506,
+    "forks": 615,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KotlinBy",
+    "name": "awesome-kotlin",
+    "language": "kotlin",
+    "stars": 5951,
+    "forks": 636,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "okio",
+    "language": "kotlin",
+    "stars": 5664,
+    "forks": 843,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlin-native",
+    "language": "kotlin",
+    "stars": 5073,
+    "forks": 333,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-topeka",
+    "language": "kotlin",
+    "stars": 4990,
+    "forks": 1088,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ReactiveX",
+    "name": "RxKotlin",
+    "language": "kotlin",
+    "stars": 4964,
+    "forks": 329,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-sunflower",
+    "language": "kotlin",
+    "stars": 4755,
+    "forks": 711,
+    "default_branch": "master"
+  },
+  {
+    "owner": "agrosner",
+    "name": "DBFlow",
+    "language": "kotlin",
+    "stars": 4396,
+    "forks": 577,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tapadoo",
+    "name": "Alerter",
+    "language": "kotlin",
+    "stars": 4029,
+    "forks": 469,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ktorio",
+    "name": "ktor",
+    "language": "kotlin",
+    "stars": 3788,
+    "forks": 275,
+    "default_branch": "master"
+  },
+  {
+    "owner": "romannurik",
+    "name": "muzei",
+    "language": "kotlin",
+    "stars": 3744,
+    "forks": 889,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlinx.coroutines",
+    "language": "kotlin",
+    "stars": 3522,
+    "forks": 451,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ssseasonnn",
+    "name": "RxDownload",
+    "language": "kotlin",
+    "stars": 3397,
+    "forks": 542,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RedApparat",
+    "name": "Fotoapparat",
+    "language": "kotlin",
+    "stars": 3011,
+    "forks": 291,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sourcerer-io",
+    "name": "sourcerer-app",
+    "language": "kotlin",
+    "stars": 2883,
+    "forks": 81,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "enbandari",
+    "name": "Kotlin-Tutorials",
+    "language": "kotlin",
+    "stars": 2862,
+    "forks": 418,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bufferapp",
+    "name": "android-clean-architecture-boilerplate",
+    "language": "kotlin",
+    "stars": 2566,
+    "forks": 327,
+    "default_branch": "master"
+  },
+  {
+    "owner": "worker8",
+    "name": "TourGuide",
+    "language": "kotlin",
+    "stars": 2540,
+    "forks": 418,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KeepSafe",
+    "name": "dexcount-gradle-plugin",
+    "language": "kotlin",
+    "stars": 2534,
+    "forks": 209,
+    "default_branch": "master"
+  },
+  {
+    "owner": "corda",
+    "name": "corda",
+    "language": "kotlin",
+    "stars": 2439,
+    "forks": 632,
+    "default_branch": "master"
+  },
+  {
+    "owner": "InsertKoinIO",
+    "name": "koin",
+    "language": "kotlin",
+    "stars": 2430,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dbacinski",
+    "name": "Design-Patterns-In-Kotlin",
+    "language": "kotlin",
+    "stars": 2387,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Triple-T",
+    "name": "gradle-play-publisher",
+    "language": "kotlin",
+    "stars": 2361,
+    "forks": 195,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kittinunf",
+    "name": "Fuel",
+    "language": "kotlin",
+    "stars": 2301,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "inorichi",
+    "name": "tachiyomi",
+    "language": "kotlin",
+    "stars": 2204,
+    "forks": 378,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlin-koans",
+    "language": "kotlin",
+    "stars": 2197,
+    "forks": 1408,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TonicArtos",
+    "name": "SuperSLiM",
+    "language": "kotlin",
+    "stars": 2122,
+    "forks": 328,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "kotterknife",
+    "language": "kotlin",
+    "stars": 2112,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tipsy",
+    "name": "javalin",
+    "language": "kotlin",
+    "stars": 2080,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arrow-kt",
+    "name": "arrow",
+    "language": "kotlin",
+    "stars": 2075,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gradle",
+    "name": "kotlin-dsl",
+    "language": "kotlin",
+    "stars": 2074,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "MvRx",
+    "language": "kotlin",
+    "stars": 2073,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlin-examples",
+    "language": "kotlin",
+    "stars": 2048,
+    "forks": 644,
+    "default_branch": "master"
+  },
+  {
+    "owner": "intellij-rust",
+    "name": "intellij-rust",
+    "language": "kotlin",
+    "stars": 2039,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "edvin",
+    "name": "tornadofx",
+    "language": "kotlin",
+    "stars": 1982,
+    "forks": 161,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "Exposed",
+    "language": "kotlin",
+    "stars": 1972,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "garretyoder",
+    "name": "Colorful",
+    "language": "kotlin",
+    "stars": 1964,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antoniolg",
+    "name": "Kotlin-for-Android-Developers",
+    "language": "kotlin",
+    "stars": 1944,
+    "forks": 449,
+    "default_branch": "master"
+  },
+  {
+    "owner": "git-xuhao",
+    "name": "KotlinMvp",
+    "language": "kotlin",
+    "stars": 1879,
+    "forks": 439,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "sqldelight",
+    "language": "kotlin",
+    "stars": 1846,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlinconf-app",
+    "language": "kotlin",
+    "stars": 1826,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "afollestad",
+    "name": "aesthetic",
+    "language": "kotlin",
+    "stars": 1825,
+    "forks": 203,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TwidereProject",
+    "name": "Twidere-Android",
+    "language": "kotlin",
+    "stars": 1769,
+    "forks": 330,
+    "default_branch": "master"
+  },
+  {
+    "owner": "YiiGuxing",
+    "name": "TranslationPlugin",
+    "language": "kotlin",
+    "stars": 1735,
+    "forks": 256,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dev-labs-bg",
+    "name": "transitioner",
+    "language": "kotlin",
+    "stars": 1734,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "izhangzhihao",
+    "name": "intellij-rainbow-brackets",
+    "language": "kotlin",
+    "stars": 1730,
+    "forks": 37,
+    "default_branch": "IC-2017.2"
+  },
+  {
+    "owner": "shyiko",
+    "name": "ktlint",
+    "language": "kotlin",
+    "stars": 1715,
+    "forks": 122,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DroidNinja",
+    "name": "Android-FilePicker",
+    "language": "kotlin",
+    "stars": 1669,
+    "forks": 339,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisbanes",
+    "name": "tivi",
+    "language": "kotlin",
+    "stars": 1664,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antoniolg",
+    "name": "Bandhook-Kotlin",
+    "language": "kotlin",
+    "stars": 1650,
+    "forks": 322,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arturbosch",
+    "name": "detekt",
+    "language": "kotlin",
+    "stars": 1516,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "kotlinpoet",
+    "language": "kotlin",
+    "stars": 1504,
+    "forks": 100,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "SdkSearch",
+    "language": "kotlin",
+    "stars": 1495,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nhaarman",
+    "name": "mockito-kotlin",
+    "language": "kotlin",
+    "stars": 1480,
+    "forks": 113,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "nekocode",
+    "name": "create-android-kotlin-app",
+    "language": "kotlin",
+    "stars": 1468,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spekframework",
+    "name": "spek",
+    "language": "kotlin",
+    "stars": 1461,
+    "forks": 146,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "afollestad",
+    "name": "drag-select-recyclerview",
+    "language": "kotlin",
+    "stars": 1427,
+    "forks": 190,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Calendar",
+    "language": "kotlin",
+    "stars": 1407,
+    "forks": 573,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kodein-Framework",
+    "name": "Kodein-DI",
+    "language": "kotlin",
+    "stars": 1405,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ingbyr",
+    "name": "VDM",
+    "language": "kotlin",
+    "stars": 1400,
+    "forks": 234,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "klinker24",
+    "name": "Android-TextView-LinkBuilder",
+    "language": "kotlin",
+    "stars": 1374,
+    "forks": 187,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "transmittable-thread-local",
+    "language": "kotlin",
+    "stars": 1371,
+    "forks": 496,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "SearchFilter",
+    "language": "kotlin",
+    "stars": 1359,
+    "forks": 230,
+    "default_branch": "master"
+  },
+  {
+    "owner": "githubwing",
+    "name": "GankClient-Kotlin",
+    "language": "kotlin",
+    "stars": 1357,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "JellyToolbar",
+    "language": "kotlin",
+    "stars": 1310,
+    "forks": 163,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "LRH1993",
+    "name": "Eyepetizer-in-Kotlin",
+    "language": "kotlin",
+    "stars": 1309,
+    "forks": 317,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aritraroy",
+    "name": "Flashbar",
+    "language": "kotlin",
+    "stars": 1294,
+    "forks": 107,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "anthonycr",
+    "name": "Lightning-Browser",
+    "language": "kotlin",
+    "stars": 1282,
+    "forks": 617,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "SumiMakito",
+    "name": "AwesomeQRCode",
+    "language": "kotlin",
+    "stars": 1266,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "Multi-Selection",
+    "language": "kotlin",
+    "stars": 1255,
+    "forks": 162,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "DanielMartinus",
+    "name": "Konfetti",
+    "language": "kotlin",
+    "stars": 1239,
+    "forks": 123,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kotlintest",
+    "name": "kotlintest",
+    "language": "kotlin",
+    "stars": 1219,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "heimashi",
+    "name": "kotlin_tips",
+    "language": "kotlin",
+    "stars": 1203,
+    "forks": 126,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tinder",
+    "name": "Scarlet",
+    "language": "kotlin",
+    "stars": 1199,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fossasia",
+    "name": "susi_android",
+    "language": "kotlin",
+    "stars": 1191,
+    "forks": 702,
+    "default_branch": "development"
+  },
+  {
+    "owner": "faruktoptas",
+    "name": "FancyShowCaseView",
+    "language": "kotlin",
+    "stars": 1174,
+    "forks": 180,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "retrofit2-kotlin-coroutines-adapter",
+    "language": "kotlin",
+    "stars": 1099,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "loopeer",
+    "name": "shadow",
+    "language": "kotlin",
+    "stars": 1094,
+    "forks": 102,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mockk",
+    "name": "mockk",
+    "language": "kotlin",
+    "stars": 1091,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ajermakovics",
+    "name": "jvm-mon",
+    "language": "kotlin",
+    "stars": 1088,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "android10",
+    "name": "Android-CleanArchitecture-Kotlin",
+    "language": "kotlin",
+    "stars": 1082,
+    "forks": 165,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TonnyL",
+    "name": "PaperPlane",
+    "language": "kotlin",
+    "stars": 1080,
+    "forks": 295,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DroidKaigi",
+    "name": "conference-app-2018",
+    "language": "kotlin",
+    "stars": 1075,
+    "forks": 286,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-ConstraintLayoutExamples",
+    "language": "kotlin",
+    "stars": 1041,
+    "forks": 198,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igalata",
+    "name": "Bubble-Picker",
+    "language": "kotlin",
+    "stars": 1036,
+    "forks": 178,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "saket",
+    "name": "InboxRecyclerView",
+    "language": "kotlin",
+    "stars": 1022,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PaulWoitaschek",
+    "name": "Voice",
+    "language": "kotlin",
+    "stars": 1013,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nickbutcher",
+    "name": "AdaptiveIconPlayground",
+    "language": "kotlin",
+    "stars": 1009,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hzsweers",
+    "name": "CatchUp",
+    "language": "kotlin",
+    "stars": 974,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ramotion",
+    "name": "fluid-slider-android",
+    "language": "kotlin",
+    "stars": 967,
+    "forks": 87,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mwolfson",
+    "name": "android-historian",
+    "language": "kotlin",
+    "stars": 964,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Gh0u1L5",
+    "name": "WechatMagician",
+    "language": "kotlin",
+    "stars": 959,
+    "forks": 244,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetradarMobile",
+    "name": "android-snowfall",
+    "language": "kotlin",
+    "stars": 952,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wuapnjie",
+    "name": "PoiShuhui-Kotlin",
+    "language": "kotlin",
+    "stars": 936,
+    "forks": 214,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlinx.serialization",
+    "language": "kotlin",
+    "stars": 930,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rbro112",
+    "name": "Android-Indefinite-Pager-Indicator",
+    "language": "kotlin",
+    "stars": 928,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlin-fullstack-sample",
+    "language": "kotlin",
+    "stars": 928,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cbeust",
+    "name": "klaxon",
+    "language": "kotlin",
+    "stars": 920,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PaperAirplane-Dev-Team",
+    "name": "BlackLight",
+    "language": "kotlin",
+    "stars": 908,
+    "forks": 240,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wuseal",
+    "name": "JsonToKotlinClass",
+    "language": "kotlin",
+    "stars": 897,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "paris",
+    "language": "kotlin",
+    "stars": 879,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "afollestad",
+    "name": "material-cab",
+    "language": "kotlin",
+    "stars": 864,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vektah",
+    "name": "CodeGlance",
+    "language": "kotlin",
+    "stars": 853,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bufferapp",
+    "name": "clean-architecture-components-boilerplate",
+    "language": "kotlin",
+    "stars": 844,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blackbbc",
+    "name": "Tucao",
+    "language": "kotlin",
+    "stars": 843,
+    "forks": 176,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ncapdevi",
+    "name": "FragNav",
+    "language": "kotlin",
+    "stars": 815,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "8enet",
+    "name": "Charles-Crack",
+    "language": "kotlin",
+    "stars": 814,
+    "forks": 205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "dokka",
+    "language": "kotlin",
+    "stars": 806,
+    "forks": 95,
+    "default_branch": "master"
+  },
+  {
+    "owner": "armcha",
+    "name": "Ribble",
+    "language": "kotlin",
+    "stars": 802,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kiruto",
+    "name": "debug-bottle",
+    "language": "kotlin",
+    "stars": 800,
+    "forks": 80,
+    "default_branch": "1.1.x"
+  },
+  {
+    "owner": "loopeer",
+    "name": "code-reader",
+    "language": "kotlin",
+    "stars": 799,
+    "forks": 140,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pawegio",
+    "name": "KAndroid",
+    "language": "kotlin",
+    "stars": 784,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kizitonwose",
+    "name": "Time",
+    "language": "kotlin",
+    "stars": 780,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TradeMe",
+    "name": "MapMe",
+    "language": "kotlin",
+    "stars": 765,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarioAriasC",
+    "name": "funKTionale",
+    "language": "kotlin",
+    "stars": 756,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shellljx",
+    "name": "TagViewGroup",
+    "language": "kotlin",
+    "stars": 754,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fossasia",
+    "name": "open-event-android",
+    "language": "kotlin",
+    "stars": 750,
+    "forks": 127,
+    "default_branch": "development"
+  },
+  {
+    "owner": "perwendel",
+    "name": "spark-kotlin",
+    "language": "kotlin",
+    "stars": 735,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RedMadRobot",
+    "name": "input-mask-android",
+    "language": "kotlin",
+    "stars": 719,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ingokegel",
+    "name": "jclasslib",
+    "language": "kotlin",
+    "stars": 716,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "duanhong169",
+    "name": "DrawableToolbox",
+    "language": "kotlin",
+    "stars": 697,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-projects",
+    "name": "spring-fu",
+    "language": "kotlin",
+    "stars": 691,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "holgerbrandl",
+    "name": "kscript",
+    "language": "kotlin",
+    "stars": 679,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "juanchosaravia",
+    "name": "KedditBySteps",
+    "language": "kotlin",
+    "stars": 674,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nitrico",
+    "name": "LastAdapter",
+    "language": "kotlin",
+    "stars": 668,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "2dust",
+    "name": "v2rayNG",
+    "language": "kotlin",
+    "stars": 665,
+    "forks": 168,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dlew",
+    "name": "android-architecture-counter-sample",
+    "language": "kotlin",
+    "stars": 652,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "http4k",
+    "name": "http4k",
+    "language": "kotlin",
+    "stars": 648,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ccixyj",
+    "name": "JBusDriver",
+    "language": "kotlin",
+    "stars": 645,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SchibstedSpain",
+    "name": "Barista",
+    "language": "kotlin",
+    "stars": 639,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "agoda-com",
+    "name": "Kakao",
+    "language": "kotlin",
+    "stars": 639,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bufferapp",
+    "name": "android-clean-architecture-mvi-boilerplate",
+    "language": "kotlin",
+    "stars": 632,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ramotion",
+    "name": "android-ui-animation-components-and-libraries",
+    "language": "kotlin",
+    "stars": 629,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "permissions-dispatcher",
+    "name": "permissions-dispatcher-plugin",
+    "language": "kotlin",
+    "stars": 628,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "duckduckgo",
+    "name": "Android",
+    "language": "kotlin",
+    "stars": 620,
+    "forks": 165,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "TonnyL",
+    "name": "Mango",
+    "language": "kotlin",
+    "stars": 612,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MicroUtils",
+    "name": "kotlin-logging",
+    "language": "kotlin",
+    "stars": 606,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mplatvoet",
+    "name": "kovenant",
+    "language": "kotlin",
+    "stars": 605,
+    "forks": 29,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Gallery",
+    "language": "kotlin",
+    "stars": 605,
+    "forks": 240,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jabbink",
+    "name": "PokemonGoBot",
+    "language": "kotlin",
+    "stars": 587,
+    "forks": 274,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "SalomonBrys",
+    "name": "Kotson",
+    "language": "kotlin",
+    "stars": 581,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kbiakov",
+    "name": "CodeView-android",
+    "language": "kotlin",
+    "stars": 577,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ansman",
+    "name": "kotshi",
+    "language": "kotlin",
+    "stars": 570,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "burhanrashid52",
+    "name": "YoutubeUX",
+    "language": "kotlin",
+    "stars": 566,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Gh0u1L5",
+    "name": "WechatSpellbook",
+    "language": "kotlin",
+    "stars": 563,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "acejump",
+    "name": "AceJump",
+    "language": "kotlin",
+    "stars": 559,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RocketChat",
+    "name": "Rocket.Chat.Android",
+    "language": "kotlin",
+    "stars": 558,
+    "forks": 365,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "patloew",
+    "name": "countries",
+    "language": "kotlin",
+    "stars": 556,
+    "forks": 93,
+    "default_branch": "kotlin"
+  },
+  {
+    "owner": "tommybuonomo",
+    "name": "morph-bottom-navigation",
+    "language": "kotlin",
+    "stars": 554,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vanniktech",
+    "name": "gradle-dependency-graph-generator-plugin",
+    "language": "kotlin",
+    "stars": 551,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FredJul",
+    "name": "Flym",
+    "language": "kotlin",
+    "stars": 549,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hussien89aa",
+    "name": "KotlinUdemy",
+    "language": "kotlin",
+    "stars": 546,
+    "forks": 3034,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blokadaorg",
+    "name": "blokada",
+    "language": "kotlin",
+    "stars": 546,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xiprox",
+    "name": "ErrorView",
+    "language": "kotlin",
+    "stars": 543,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gildor",
+    "name": "kotlin-coroutines-retrofit",
+    "language": "kotlin",
+    "stars": 542,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JesusM",
+    "name": "FingerprintManager",
+    "language": "kotlin",
+    "stars": 539,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mrsegev",
+    "name": "MovieNight",
+    "language": "kotlin",
+    "stars": 538,
+    "forks": 102,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "dex-member-list",
+    "language": "kotlin",
+    "stars": 537,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TonnyL",
+    "name": "Spark",
+    "language": "kotlin",
+    "stars": 535,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlinx.html",
+    "language": "kotlin",
+    "stars": 532,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GwonHyeok",
+    "name": "StickySwitch",
+    "language": "kotlin",
+    "stars": 527,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "damianpetla",
+    "name": "kotlin-dagger-example",
+    "language": "kotlin",
+    "stars": 527,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qiuxiang",
+    "name": "react-native-amap3d",
+    "language": "kotlin",
+    "stars": 524,
+    "forks": 131,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qingmei2",
+    "name": "RxImagePicker",
+    "language": "kotlin",
+    "stars": 524,
+    "forks": 68,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "wangzailfm",
+    "name": "WanAndroidClient",
+    "language": "kotlin",
+    "stars": 523,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bakumon",
+    "name": "MoneyKeeper",
+    "language": "kotlin",
+    "stars": 522,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scana",
+    "name": "ok-gradle",
+    "language": "kotlin",
+    "stars": 519,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yjfnypeu",
+    "name": "EasyAndroid",
+    "language": "kotlin",
+    "stars": 511,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iceCola7",
+    "name": "WanAndroid",
+    "language": "kotlin",
+    "stars": 511,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "androidstarters",
+    "name": "kotlin-android-starter",
+    "language": "kotlin",
+    "stars": 508,
+    "forks": 90,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "intellij-solidity",
+    "name": "intellij-solidity",
+    "language": "kotlin",
+    "stars": 505,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FasterXML",
+    "name": "jackson-module-kotlin",
+    "language": "kotlin",
+    "stars": 499,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HabitRPG",
+    "name": "habitica-android",
+    "language": "kotlin",
+    "stars": 498,
+    "forks": 264,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "wasabifx",
+    "name": "wasabi",
+    "language": "kotlin",
+    "stars": 494,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rarnu",
+    "name": "root-tools",
+    "language": "kotlin",
+    "stars": 486,
+    "forks": 144,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TinyMission",
+    "name": "kara",
+    "language": "kotlin",
+    "stars": 484,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TonnyL",
+    "name": "Light",
+    "language": "kotlin",
+    "stars": 482,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JoaoMotondon",
+    "name": "RxJavaDemoApp",
+    "language": "kotlin",
+    "stars": 480,
+    "forks": 94,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-databinding",
+    "language": "kotlin",
+    "stars": 479,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlinconf-spinner",
+    "language": "kotlin",
+    "stars": 476,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aweconf",
+    "name": "awesome-conferences-database",
+    "language": "kotlin",
+    "stars": 476,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tommybuonomo",
+    "name": "creative-viewpager",
+    "language": "kotlin",
+    "stars": 476,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ramotion",
+    "name": "navigation-toolbar-android",
+    "language": "kotlin",
+    "stars": 475,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlin-frontend-plugin",
+    "language": "kotlin",
+    "stars": 468,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla-mobile",
+    "name": "android-components",
+    "language": "kotlin",
+    "stars": 466,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlin-workshop",
+    "language": "kotlin",
+    "stars": 465,
+    "forks": 106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruzhan123",
+    "name": "awaker",
+    "language": "kotlin",
+    "stars": 461,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adisonhuang",
+    "name": "awesome-kotlin-android",
+    "language": "kotlin",
+    "stars": 461,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cuieney",
+    "name": "RxPay",
+    "language": "kotlin",
+    "stars": 460,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nekocode",
+    "name": "Murmur",
+    "language": "kotlin",
+    "stars": 459,
+    "forks": 90,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gojuno",
+    "name": "composer",
+    "language": "kotlin",
+    "stars": 459,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libktx",
+    "name": "ktx",
+    "language": "kotlin",
+    "stars": 455,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcxiaoke",
+    "name": "kotlin-koi",
+    "language": "kotlin",
+    "stars": 452,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skedgo",
+    "name": "DateTimeRangePicker",
+    "language": "kotlin",
+    "stars": 448,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grote",
+    "name": "Transportr",
+    "language": "kotlin",
+    "stars": 445,
+    "forks": 117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bassaer",
+    "name": "ChatMessageView",
+    "language": "kotlin",
+    "stars": 443,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "recruit-mp",
+    "name": "LightCalendarView",
+    "language": "kotlin",
+    "stars": 439,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mobcase",
+    "name": "McImage",
+    "language": "kotlin",
+    "stars": 438,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bgard6977",
+    "name": "depends",
+    "language": "kotlin",
+    "stars": 433,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarkusAmshove",
+    "name": "Kluent",
+    "language": "kotlin",
+    "stars": 432,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Werb",
+    "name": "PickPhotoSample",
+    "language": "kotlin",
+    "stars": 429,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sdeleuze",
+    "name": "spring-boot-kotlin-demo",
+    "language": "kotlin",
+    "stars": 427,
+    "forks": 122,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kotcity",
+    "name": "kotcity",
+    "language": "kotlin",
+    "stars": 427,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dkandalov",
+    "name": "kotlin-99",
+    "language": "kotlin",
+    "stars": 425,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ffgiraldez",
+    "name": "rx-mvvm-android",
+    "language": "kotlin",
+    "stars": 422,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pro100svitlo",
+    "name": "FingerprintAuthHelper",
+    "language": "kotlin",
+    "stars": 421,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "simonpercic",
+    "name": "OkLog",
+    "language": "kotlin",
+    "stars": 417,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "karntrehan",
+    "name": "Posts",
+    "language": "kotlin",
+    "stars": 412,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "550609334",
+    "name": "Twobbble",
+    "language": "kotlin",
+    "stars": 410,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brianegan",
+    "name": "bansa",
+    "language": "kotlin",
+    "stars": 409,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thomasnield",
+    "name": "kotlin-statistics",
+    "language": "kotlin",
+    "stars": 406,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vicpinm",
+    "name": "Kotlin-Realm-Extensions",
+    "language": "kotlin",
+    "stars": 405,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mixitconf",
+    "name": "mixit",
+    "language": "kotlin",
+    "stars": 404,
+    "forks": 95,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andremion",
+    "name": "Theatre",
+    "language": "kotlin",
+    "stars": 402,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "konifar",
+    "name": "material-cat",
+    "language": "kotlin",
+    "stars": 400,
+    "forks": 87,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ligi",
+    "name": "PassAndroid",
+    "language": "kotlin",
+    "stars": 400,
+    "forks": 89,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "OfficialFoldingTabBar.Android",
+    "language": "kotlin",
+    "stars": 399,
+    "forks": 102,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "amanjeetsingh150",
+    "name": "kotlin-android-examples",
+    "language": "kotlin",
+    "stars": 397,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BennyWang",
+    "name": "KBinding",
+    "language": "kotlin",
+    "stars": 396,
+    "forks": 44,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "florent37",
+    "name": "KotlinPleaseAnimate",
+    "language": "kotlin",
+    "stars": 393,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "romainguy",
+    "name": "kotlin-math",
+    "language": "kotlin",
+    "stars": 392,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TonnyL",
+    "name": "Charles",
+    "language": "kotlin",
+    "stars": 391,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "metalabdesign",
+    "name": "AsyncAwait",
+    "language": "kotlin",
+    "stars": 387,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "QuickPermissions",
+    "name": "QuickPermissions",
+    "language": "kotlin",
+    "stars": 386,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "okdroid",
+    "name": "checkable-chip-view",
+    "language": "kotlin",
+    "stars": 384,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andretietz",
+    "name": "retroauth",
+    "language": "kotlin",
+    "stars": 383,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aykuttasil",
+    "name": "CallRecorder",
+    "language": "kotlin",
+    "stars": 382,
+    "forks": 108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DanielMartinus",
+    "name": "Stepper-Touch",
+    "language": "kotlin",
+    "stars": 381,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saket",
+    "name": "FluidKeyboardResize",
+    "language": "kotlin",
+    "stars": 379,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SchibstedSpain",
+    "name": "Leku",
+    "language": "kotlin",
+    "stars": 377,
+    "forks": 100,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moove-it",
+    "name": "fakeit",
+    "language": "kotlin",
+    "stars": 374,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "develar",
+    "name": "settings-repository",
+    "language": "kotlin",
+    "stars": 373,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "francoiscampbell",
+    "name": "CircleLayout",
+    "language": "kotlin",
+    "stars": 373,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mistamek",
+    "name": "Android-drawable-preview-plugin",
+    "language": "kotlin",
+    "stars": 371,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lyft",
+    "name": "domic",
+    "language": "kotlin",
+    "stars": 371,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saulmm",
+    "name": "From-design-to-Android-part2",
+    "language": "kotlin",
+    "stars": 369,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gurleensethi",
+    "name": "LiteUtilities",
+    "language": "kotlin",
+    "stars": 369,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wajahatkarim3",
+    "name": "MediumClap-Android",
+    "language": "kotlin",
+    "stars": 368,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qhutch",
+    "name": "BottomSheetLayout",
+    "language": "kotlin",
+    "stars": 368,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VladimirWrites",
+    "name": "Lemniscate",
+    "language": "kotlin",
+    "stars": 365,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ligi",
+    "name": "SurvivalManual",
+    "language": "kotlin",
+    "stars": 365,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cbeust",
+    "name": "kobalt",
+    "language": "kotlin",
+    "stars": 364,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zsmb13",
+    "name": "MaterialDrawerKt",
+    "language": "kotlin",
+    "stars": 363,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexstyl",
+    "name": "RadiusTransition",
+    "language": "kotlin",
+    "stars": 363,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MindorksOpenSource",
+    "name": "android-kotlin-mvp-architecture",
+    "language": "kotlin",
+    "stars": 362,
+    "forks": 106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "thrifty",
+    "language": "kotlin",
+    "stars": 358,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tinder",
+    "name": "StateMachine",
+    "language": "kotlin",
+    "stars": 358,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Arasthel",
+    "name": "SpannedGridLayoutManager",
+    "language": "kotlin",
+    "stars": 357,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "AssistedInject",
+    "language": "kotlin",
+    "stars": 356,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "Reagent",
+    "language": "kotlin",
+    "stars": 353,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kittinunf",
+    "name": "Result",
+    "language": "kotlin",
+    "stars": 349,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "V2Ray-Android",
+    "name": "Actinium",
+    "language": "kotlin",
+    "stars": 348,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LibreShift",
+    "name": "red-moon",
+    "language": "kotlin",
+    "stars": 347,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "freeletics",
+    "name": "RxRedux",
+    "language": "kotlin",
+    "stars": 344,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "michaelxs",
+    "name": "Android-CommonShapeButton",
+    "language": "kotlin",
+    "stars": 343,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fabianonline",
+    "name": "telegram_backup",
+    "language": "kotlin",
+    "stars": 337,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hypeapps",
+    "name": "MaterialTimelineView",
+    "language": "kotlin",
+    "stars": 336,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ssseasonnn",
+    "name": "Yaksa",
+    "language": "kotlin",
+    "stars": 336,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Talentica",
+    "name": "AndroidWithKotlin",
+    "language": "kotlin",
+    "stars": 336,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sangcomz",
+    "name": "StickyTimeLine",
+    "language": "kotlin",
+    "stars": 334,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "android",
+    "name": "android-studio-poet",
+    "language": "kotlin",
+    "stars": 334,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moshbit",
+    "name": "Kotlift",
+    "language": "kotlin",
+    "stars": 333,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chibatching",
+    "name": "Kotpref",
+    "language": "kotlin",
+    "stars": 332,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JorgeCastilloPrz",
+    "name": "ArrowAndroidSamples",
+    "language": "kotlin",
+    "stars": 330,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stfalcon-studio",
+    "name": "MultiImageView",
+    "language": "kotlin",
+    "stars": 330,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "armcha",
+    "name": "ElasticView",
+    "language": "kotlin",
+    "stars": 330,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CleverPumpkin",
+    "name": "CrunchyCalendar",
+    "language": "kotlin",
+    "stars": 329,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Jire",
+    "name": "Charlatano",
+    "language": "kotlin",
+    "stars": 327,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarcinMoskala",
+    "name": "ActivityStarter",
+    "language": "kotlin",
+    "stars": 327,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stepstone-tech",
+    "name": "android-material-app-rating",
+    "language": "kotlin",
+    "stars": 324,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarcinMoskala",
+    "name": "ArcSeekBar",
+    "language": "kotlin",
+    "stars": 324,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JorgeCastilloPrz",
+    "name": "hiroaki",
+    "language": "kotlin",
+    "stars": 319,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dbacinski",
+    "name": "Android-Testing-With-Kotlin",
+    "language": "kotlin",
+    "stars": 315,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mpcjanssen",
+    "name": "simpletask-android",
+    "language": "kotlin",
+    "stars": 314,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "graphql-java-kickstart",
+    "name": "graphql-java-tools",
+    "language": "kotlin",
+    "stars": 313,
+    "forks": 87,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TonnyL",
+    "name": "WhatsNew",
+    "language": "kotlin",
+    "stars": 310,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vanniktech",
+    "name": "RxRiddles",
+    "language": "kotlin",
+    "stars": 309,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xenomachina",
+    "name": "kotlin-argparser",
+    "language": "kotlin",
+    "stars": 308,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Daio-io",
+    "name": "dresscode",
+    "language": "kotlin",
+    "stars": 304,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jerryOkafor",
+    "name": "TimeLineView",
+    "language": "kotlin",
+    "stars": 304,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Shopify",
+    "name": "livedata-ktx",
+    "language": "kotlin",
+    "stars": 302,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "walleth",
+    "name": "walleth",
+    "language": "kotlin",
+    "stars": 302,
+    "forks": 87,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Commit451",
+    "name": "ModalBottomSheetDialogFragment",
+    "language": "kotlin",
+    "stars": 301,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bernaferrari",
+    "name": "EmojiSlider",
+    "language": "kotlin",
+    "stars": 300,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thevpaliy",
+    "name": "Movies",
+    "language": "kotlin",
+    "stars": 300,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "quiph",
+    "name": "RecyclerView-FastScroller",
+    "language": "kotlin",
+    "stars": 299,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "minecraft-dev",
+    "name": "MinecraftDev",
+    "language": "kotlin",
+    "stars": 299,
+    "forks": 42,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "elpassion",
+    "name": "crweather",
+    "language": "kotlin",
+    "stars": 298,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sanogueralorenzo",
+    "name": "Android-Kotlin-Clean-Architecture",
+    "language": "kotlin",
+    "stars": 298,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "kotlin-mvp-example",
+    "language": "kotlin",
+    "stars": 298,
+    "forks": 94,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "tingyik90",
+    "name": "snackprogressbar",
+    "language": "kotlin",
+    "stars": 296,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LiushuiXiaoxia",
+    "name": "AndroidModular",
+    "language": "kotlin",
+    "stars": 296,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lsxiao",
+    "name": "Apollo",
+    "language": "kotlin",
+    "stars": 294,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wordpress-mobile",
+    "name": "AztecEditor-Android",
+    "language": "kotlin",
+    "stars": 293,
+    "forks": 38,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "SeunAdelekan",
+    "name": "Kanary",
+    "language": "kotlin",
+    "stars": 290,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mygod",
+    "name": "VPNHotspot",
+    "language": "kotlin",
+    "stars": 288,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zawadz88",
+    "name": "MaterialPopupMenu",
+    "language": "kotlin",
+    "stars": 285,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nirukk52",
+    "name": "SnapTabLayout",
+    "language": "kotlin",
+    "stars": 283,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fython",
+    "name": "PackageTracker",
+    "language": "kotlin",
+    "stars": 283,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "stencil",
+    "language": "kotlin",
+    "stars": 283,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LouisCAD",
+    "name": "Splitties",
+    "language": "kotlin",
+    "stars": 283,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blackbbc",
+    "name": "Evil-Hide",
+    "language": "kotlin",
+    "stars": 282,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kaikaixue",
+    "name": "Eyepetizer",
+    "language": "kotlin",
+    "stars": 282,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "santalu",
+    "name": "mask-edittext",
+    "language": "kotlin",
+    "stars": 280,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KucherenkoIhor",
+    "name": "Android-Architecture-Components",
+    "language": "kotlin",
+    "stars": 279,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "msesma",
+    "name": "Karchitec",
+    "language": "kotlin",
+    "stars": 279,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cretz",
+    "name": "asmble",
+    "language": "kotlin",
+    "stars": 278,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "klinker24",
+    "name": "Android-FloatingTutorialActivity",
+    "language": "kotlin",
+    "stars": 278,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AkshayChordiya",
+    "name": "android-arch-news-sample",
+    "language": "kotlin",
+    "stars": 277,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yelp",
+    "name": "kotlin-android-workshop",
+    "language": "kotlin",
+    "stars": 277,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jonnyzzz",
+    "name": "TeamCity.Node",
+    "language": "kotlin",
+    "stars": 275,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fython",
+    "name": "MaterialStatusBarCompat",
+    "language": "kotlin",
+    "stars": 273,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andyb129",
+    "name": "31DaysOfKotlin",
+    "language": "kotlin",
+    "stars": 271,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlin-wrappers",
+    "language": "kotlin",
+    "stars": 271,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "revely-inc",
+    "name": "co.revely.gradient",
+    "language": "kotlin",
+    "stars": 271,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RubyLichtenstein",
+    "name": "RxTest",
+    "language": "kotlin",
+    "stars": 270,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uber",
+    "name": "stylist",
+    "language": "kotlin",
+    "stars": 269,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-text",
+    "language": "kotlin",
+    "stars": 269,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "infinum",
+    "name": "Android-GoldenEye",
+    "language": "kotlin",
+    "stars": 268,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Karn",
+    "name": "notify",
+    "language": "kotlin",
+    "stars": 266,
+    "forks": 18,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "pakoito",
+    "name": "FunctionalAndroidReference",
+    "language": "kotlin",
+    "stars": 266,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qhutch",
+    "name": "ElevationImageView",
+    "language": "kotlin",
+    "stars": 264,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skydoves",
+    "name": "AndroidVeil",
+    "language": "kotlin",
+    "stars": 264,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bernaferrari",
+    "name": "ChangeDetection",
+    "language": "kotlin",
+    "stars": 264,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jaredsburrows",
+    "name": "android-gif-example",
+    "language": "kotlin",
+    "stars": 264,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mannodermaus",
+    "name": "android-junit5",
+    "language": "kotlin",
+    "stars": 264,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "erikcaffrey",
+    "name": "Android-Architecture-Components-Kotlin",
+    "language": "kotlin",
+    "stars": 263,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ravidsrk",
+    "name": "kotlinextensions.com",
+    "language": "kotlin",
+    "stars": 263,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "djuarez",
+    "name": "Kotlin-CleanArchitecture",
+    "language": "kotlin",
+    "stars": 262,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ssseasonnn",
+    "name": "RxRouter",
+    "language": "kotlin",
+    "stars": 262,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mattbdean",
+    "name": "JRAW",
+    "language": "kotlin",
+    "stars": 261,
+    "forks": 101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "general-mobile",
+    "name": "kotlin-android-mvp-starter",
+    "language": "kotlin",
+    "stars": 261,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "satorufujiwara",
+    "name": "kotlin-architecture-components",
+    "language": "kotlin",
+    "stars": 261,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nordprojects",
+    "name": "lantern",
+    "language": "kotlin",
+    "stars": 261,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mpv-android",
+    "name": "mpv-android",
+    "language": "kotlin",
+    "stars": 261,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-File-Manager",
+    "language": "kotlin",
+    "stars": 260,
+    "forks": 106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mazurio",
+    "name": "bodyweight-fitness-android",
+    "language": "kotlin",
+    "stars": 259,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "husaynhakeem",
+    "name": "android-face-detector",
+    "language": "kotlin",
+    "stars": 259,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "anko-example",
+    "language": "kotlin",
+    "stars": 258,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin-lang-CN",
+    "name": "Kotlin-CN",
+    "language": "kotlin",
+    "stars": 258,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hotchemi",
+    "name": "khronos",
+    "language": "kotlin",
+    "stars": 257,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arturbosch",
+    "name": "sonar-kotlin",
+    "language": "kotlin",
+    "stars": 256,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "irontec",
+    "name": "android-kotlin-samples",
+    "language": "kotlin",
+    "stars": 255,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sekwiatkowski",
+    "name": "komputation",
+    "language": "kotlin",
+    "stars": 253,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dev-labs-bg",
+    "name": "fast-list",
+    "language": "kotlin",
+    "stars": 252,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cortinico",
+    "name": "slidetoact",
+    "language": "kotlin",
+    "stars": 252,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "ts2kt",
+    "language": "kotlin",
+    "stars": 251,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Plastix",
+    "name": "Kotlin-Android-Boilerplate",
+    "language": "kotlin",
+    "stars": 251,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Camera",
+    "language": "kotlin",
+    "stars": 251,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zalando",
+    "name": "zally",
+    "language": "kotlin",
+    "stars": 249,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "neo4j-graphql",
+    "name": "neo4j-graphql",
+    "language": "kotlin",
+    "stars": 249,
+    "forks": 43,
+    "default_branch": "3.4"
+  },
+  {
+    "owner": "iammert",
+    "name": "AnimatedTabLayout",
+    "language": "kotlin",
+    "stars": 247,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ollide",
+    "name": "intellij-java2smali",
+    "language": "kotlin",
+    "stars": 246,
+    "forks": 45,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "gojuno",
+    "name": "koptional",
+    "language": "kotlin",
+    "stars": 245,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "squanchy-dev",
+    "name": "squanchy-android",
+    "language": "kotlin",
+    "stars": 245,
+    "forks": 49,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "AllenCoder",
+    "name": "BRVAH_kotlin",
+    "language": "kotlin",
+    "stars": 244,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jkcclemens",
+    "name": "khttp",
+    "language": "kotlin",
+    "stars": 244,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iglaweb",
+    "name": "Ferris-Wheel",
+    "language": "kotlin",
+    "stars": 243,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "icela",
+    "name": "FriceEngine",
+    "language": "kotlin",
+    "stars": 243,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "YvesCheung",
+    "name": "RollingText",
+    "language": "kotlin",
+    "stars": 243,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Music-Player",
+    "language": "kotlin",
+    "stars": 243,
+    "forks": 136,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ScaleChain",
+    "name": "scalechain",
+    "language": "kotlin",
+    "stars": 240,
+    "forks": 72,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jahirfiquitiva",
+    "name": "Frames",
+    "language": "kotlin",
+    "stars": 240,
+    "forks": 54,
+    "default_branch": "sample"
+  },
+  {
+    "owner": "santalu",
+    "name": "diagonal-imageview",
+    "language": "kotlin",
+    "stars": 239,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wuapnjie",
+    "name": "LayoutMaster",
+    "language": "kotlin",
+    "stars": 236,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JcMinarro",
+    "name": "Philology",
+    "language": "kotlin",
+    "stars": 236,
+    "forks": 7,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "UCodeUStory",
+    "name": "Relax",
+    "language": "kotlin",
+    "stars": 234,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Hexworks",
+    "name": "zircon",
+    "language": "kotlin",
+    "stars": 234,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imablanco",
+    "name": "Parallax",
+    "language": "kotlin",
+    "stars": 233,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iPoli",
+    "name": "iPoli-android",
+    "language": "kotlin",
+    "stars": 232,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "angryziber",
+    "name": "kotlin-puzzlers",
+    "language": "kotlin",
+    "stars": 231,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pardom-zz",
+    "name": "redux-kotlin",
+    "language": "kotlin",
+    "stars": 231,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gazolla",
+    "name": "Kotlin-Algorithm",
+    "language": "kotlin",
+    "stars": 230,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "npryce",
+    "name": "hamkrest",
+    "language": "kotlin",
+    "stars": 230,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "patrickyin",
+    "name": "clean-architecture-android-kotlin",
+    "language": "kotlin",
+    "stars": 229,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "retrofit2-kotlinx-serialization-converter",
+    "language": "kotlin",
+    "stars": 228,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saket",
+    "name": "Flick",
+    "language": "kotlin",
+    "stars": 227,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubygarage",
+    "name": "emotion-rating-view",
+    "language": "kotlin",
+    "stars": 227,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rock3r",
+    "name": "deep-clean",
+    "language": "kotlin",
+    "stars": 225,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "armcha",
+    "name": "ColoredShadowImageView",
+    "language": "kotlin",
+    "stars": 224,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reddit",
+    "name": "IndicatorFastScroll",
+    "language": "kotlin",
+    "stars": 224,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "armcha",
+    "name": "PlayTabLayout",
+    "language": "kotlin",
+    "stars": 224,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "satorufujiwara",
+    "name": "kotlin-android-flux",
+    "language": "kotlin",
+    "stars": 224,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CesarValiente",
+    "name": "KUnidirectional",
+    "language": "kotlin",
+    "stars": 223,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "awslabs",
+    "name": "serverless-photo-recognition",
+    "language": "kotlin",
+    "stars": 222,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AiYinZiLeGong",
+    "name": "PUBG-Radar",
+    "language": "kotlin",
+    "stars": 221,
+    "forks": 253,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paphonb",
+    "name": "AndroidP-ify",
+    "language": "kotlin",
+    "stars": 221,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kennycason",
+    "name": "bayesian_sentiment_analysis",
+    "language": "kotlin",
+    "stars": 220,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "styled-components",
+    "name": "webstorm-styled-components",
+    "language": "kotlin",
+    "stars": 220,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Commit451",
+    "name": "LabCoat",
+    "language": "kotlin",
+    "stars": 220,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jnizet",
+    "name": "gradle-kotlin-dsl-migration-guide",
+    "language": "kotlin",
+    "stars": 219,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dvoiss",
+    "name": "literallytoast",
+    "language": "kotlin",
+    "stars": 218,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blockchain",
+    "name": "My-Wallet-V3-Android",
+    "language": "kotlin",
+    "stars": 217,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kohesive",
+    "name": "injekt",
+    "language": "kotlin",
+    "stars": 217,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "isuPatches",
+    "name": "WiseFy",
+    "language": "kotlin",
+    "stars": 216,
+    "forks": 24,
+    "default_branch": "3.x"
+  },
+  {
+    "owner": "jeffreystoke",
+    "name": "openct-android",
+    "language": "kotlin",
+    "stars": 216,
+    "forks": 63,
+    "default_branch": "kotlin"
+  },
+  {
+    "owner": "badoo",
+    "name": "MVICore",
+    "language": "kotlin",
+    "stars": 215,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "foolchen",
+    "name": "AndroidTracker",
+    "language": "kotlin",
+    "stars": 210,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "discordapp",
+    "name": "SimpleAST",
+    "language": "kotlin",
+    "stars": 210,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TonnyL",
+    "name": "FanfouHandpick",
+    "language": "kotlin",
+    "stars": 209,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nsk-mironov",
+    "name": "smuggler",
+    "language": "kotlin",
+    "stars": 209,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bmaslakov",
+    "name": "kotlin-algorithm-club",
+    "language": "kotlin",
+    "stars": 208,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SchibstedSpain",
+    "name": "Protein",
+    "language": "kotlin",
+    "stars": 208,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmytrodanylyk",
+    "name": "coroutine-recipes",
+    "language": "kotlin",
+    "stars": 208,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ztc1997",
+    "name": "Fingerprint2Sleep",
+    "language": "kotlin",
+    "stars": 207,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iielse",
+    "name": "behavior-learn",
+    "language": "kotlin",
+    "stars": 206,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NewsCatchr",
+    "name": "NewsCatchr",
+    "language": "kotlin",
+    "stars": 206,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlecodelabs",
+    "name": "android-navigation",
+    "language": "kotlin",
+    "stars": 205,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ruin0x11",
+    "name": "intellij-lsp-server",
+    "language": "kotlin",
+    "stars": 204,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alxrm",
+    "name": "audiowave-progressbar",
+    "language": "kotlin",
+    "stars": 204,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "atsky",
+    "name": "haskell-idea-plugin",
+    "language": "kotlin",
+    "stars": 203,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kirtan403",
+    "name": "K4Kotlin",
+    "language": "kotlin",
+    "stars": 201,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ligi",
+    "name": "IPFSDroid",
+    "language": "kotlin",
+    "stars": 201,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kerr1Gan",
+    "name": "Flesh",
+    "language": "kotlin",
+    "stars": 199,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "substratum",
+    "name": "template",
+    "language": "kotlin",
+    "stars": 199,
+    "forks": 533,
+    "default_branch": "kt-n"
+  },
+  {
+    "owner": "temyco",
+    "name": "security-workshop-sample",
+    "language": "kotlin",
+    "stars": 199,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alxrm",
+    "name": "animated-clock-icon",
+    "language": "kotlin",
+    "stars": 199,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "XiaoQiWen",
+    "name": "KRefreshLayout",
+    "language": "kotlin",
+    "stars": 198,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TradeMe",
+    "name": "Covert",
+    "language": "kotlin",
+    "stars": 198,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "netguru",
+    "name": "videochatguru-android",
+    "language": "kotlin",
+    "stars": 197,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "afollestad",
+    "name": "assent",
+    "language": "kotlin",
+    "stars": 196,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "limuyang2",
+    "name": "LDialog",
+    "language": "kotlin",
+    "stars": 194,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MixinNetwork",
+    "name": "android-app",
+    "language": "kotlin",
+    "stars": 193,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhudyos",
+    "name": "duic",
+    "language": "kotlin",
+    "stars": 192,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tslamic",
+    "name": "AndroidDeviceNames",
+    "language": "kotlin",
+    "stars": 192,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dkrivoruchko",
+    "name": "ScreenStream",
+    "language": "kotlin",
+    "stars": 192,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CypherpunkArmory",
+    "name": "UserLAnd",
+    "language": "kotlin",
+    "stars": 192,
+    "forks": 20,
+    "default_branch": "staging"
+  },
+  {
+    "owner": "zhoujunjiang",
+    "name": "DoubanMovie",
+    "language": "kotlin",
+    "stars": 191,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "StevenDXC",
+    "name": "DxLoadingButton",
+    "language": "kotlin",
+    "stars": 191,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wanglu1209",
+    "name": "WPopup",
+    "language": "kotlin",
+    "stars": 190,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andrefrsousa",
+    "name": "SuperBottomSheet",
+    "language": "kotlin",
+    "stars": 190,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cheptsov",
+    "name": "kotlin-nosql",
+    "language": "kotlin",
+    "stars": 190,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MindorksOpenSource",
+    "name": "EditDrawableText",
+    "language": "kotlin",
+    "stars": 189,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "joaquim-verges",
+    "name": "Helium",
+    "language": "kotlin",
+    "stars": 189,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ianhanniballake",
+    "name": "LocalStorage",
+    "language": "kotlin",
+    "stars": 188,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pgutkowski",
+    "name": "KGraphQL",
+    "language": "kotlin",
+    "stars": 188,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gothinkster",
+    "name": "kotlin-spring-realworld-example-app",
+    "language": "kotlin",
+    "stars": 187,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Turbo87",
+    "name": "intellij-emberjs",
+    "language": "kotlin",
+    "stars": 186,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bufferapp",
+    "name": "clean-architecture-koin-boilerplate",
+    "language": "kotlin",
+    "stars": 185,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "esoxjem",
+    "name": "MovieGuide-Kotlin",
+    "language": "kotlin",
+    "stars": 185,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kizitonwose",
+    "name": "android-disposebag",
+    "language": "kotlin",
+    "stars": 184,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexstyl",
+    "name": "Memento-Calendar",
+    "language": "kotlin",
+    "stars": 184,
+    "forks": 46,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "konrad-kaminski",
+    "name": "spring-kotlin-coroutine",
+    "language": "kotlin",
+    "stars": 183,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sellmair",
+    "name": "kompass",
+    "language": "kotlin",
+    "stars": 183,
+    "forks": 3,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "divyanshub024",
+    "name": "AndroidDraw",
+    "language": "kotlin",
+    "stars": 183,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "inorichi",
+    "name": "tachiyomi-extensions",
+    "language": "kotlin",
+    "stars": 183,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ahmedrizwan",
+    "name": "RxRecyclerAdapter",
+    "language": "kotlin",
+    "stars": 182,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xurxodev",
+    "name": "Movies-Kotlin-Kata",
+    "language": "kotlin",
+    "stars": 182,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mopsalarm",
+    "name": "Pr0",
+    "language": "kotlin",
+    "stars": 182,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "StylingAndroid",
+    "name": "Prefekt",
+    "language": "kotlin",
+    "stars": 181,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CodeXiaoMai",
+    "name": "AndroidGeek",
+    "language": "kotlin",
+    "stars": 179,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mvarnagiris",
+    "name": "expensius",
+    "language": "kotlin",
+    "stars": 178,
+    "forks": 96,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "StephaneBg",
+    "name": "SimpleNumberPicker",
+    "language": "kotlin",
+    "stars": 177,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlinx.collections.immutable",
+    "language": "kotlin",
+    "stars": 176,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "borisf",
+    "name": "classyshark-bytecode-viewer",
+    "language": "kotlin",
+    "stars": 176,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ajalt",
+    "name": "clikt",
+    "language": "kotlin",
+    "stars": 176,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vitorhugods",
+    "name": "AvatarView",
+    "language": "kotlin",
+    "stars": 175,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JoaquimLey",
+    "name": "transport-eta",
+    "language": "kotlin",
+    "stars": 175,
+    "forks": 42,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "biezhihua",
+    "name": "DYTT",
+    "language": "kotlin",
+    "stars": 175,
+    "forks": 59,
+    "default_branch": "kotlin_master"
+  },
+  {
+    "owner": "andrewoma",
+    "name": "kwery",
+    "language": "kotlin",
+    "stars": 175,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "Shrine-MaterialDesign2",
+    "language": "kotlin",
+    "stars": 173,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kyonifer",
+    "name": "koma",
+    "language": "kotlin",
+    "stars": 173,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Archinamon",
+    "name": "android-gradle-aspectj",
+    "language": "kotlin",
+    "stars": 172,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pwittchen",
+    "name": "RxBiometric",
+    "language": "kotlin",
+    "stars": 172,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fabioCollini",
+    "name": "ArchitectureComponentsDemo",
+    "language": "kotlin",
+    "stars": 172,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlin-in-action",
+    "language": "kotlin",
+    "stars": 171,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rakshakhegde",
+    "name": "LastPagerAdapter",
+    "language": "kotlin",
+    "stars": 171,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sdeleuze",
+    "name": "geospatial-messenger",
+    "language": "kotlin",
+    "stars": 170,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ftomassetti",
+    "name": "LangSandbox",
+    "language": "kotlin",
+    "stars": 170,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bufferapp",
+    "name": "CounterView",
+    "language": "kotlin",
+    "stars": 169,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maannajjar",
+    "name": "lattekit",
+    "language": "kotlin",
+    "stars": 169,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sdeleuze",
+    "name": "spring-kotlin-functional",
+    "language": "kotlin",
+    "stars": 168,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MrBIMC",
+    "name": "SELinuxModeChanger",
+    "language": "kotlin",
+    "stars": 168,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nsk-mironov",
+    "name": "kotlin-jetpack",
+    "language": "kotlin",
+    "stars": 167,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yoavst",
+    "name": "androidKotlin",
+    "language": "kotlin",
+    "stars": 167,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "0xFireball",
+    "name": "Enlightened",
+    "language": "kotlin",
+    "stars": 165,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tungdx",
+    "name": "android-media-picker",
+    "language": "kotlin",
+    "stars": 165,
+    "forks": 62,
+    "default_branch": "git_hub"
+  },
+  {
+    "owner": "uber",
+    "name": "artist",
+    "language": "kotlin",
+    "stars": 165,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "willowtreeapps",
+    "name": "assertk",
+    "language": "kotlin",
+    "stars": 165,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JLLeitschuh",
+    "name": "ktlint-gradle",
+    "language": "kotlin",
+    "stars": 164,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ligi",
+    "name": "gobandroid",
+    "language": "kotlin",
+    "stars": 163,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "marlonlom",
+    "name": "timeago",
+    "language": "kotlin",
+    "stars": 163,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "riggaroo",
+    "name": "ConstraintLayoutDemo",
+    "language": "kotlin",
+    "stars": 163,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rarnu",
+    "name": "wechat_no_revoke",
+    "language": "kotlin",
+    "stars": 162,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skateboard1991",
+    "name": "NumberRain",
+    "language": "kotlin",
+    "stars": 162,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ditclear",
+    "name": "PaoNet",
+    "language": "kotlin",
+    "stars": 162,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "touchlab",
+    "name": "DroidconKotlin",
+    "language": "kotlin",
+    "stars": 161,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BijoySingh",
+    "name": "Scarlet-Notes",
+    "language": "kotlin",
+    "stars": 161,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wajahatkarim3",
+    "name": "EasyValidation",
+    "language": "kotlin",
+    "stars": 161,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coder-pig",
+    "name": "CPWechatXposed",
+    "language": "kotlin",
+    "stars": 160,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Werb",
+    "name": "MoreType",
+    "language": "kotlin",
+    "stars": 160,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gojuno",
+    "name": "swarmer",
+    "language": "kotlin",
+    "stars": 160,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "denofevil",
+    "name": "import-cost",
+    "language": "kotlin",
+    "stars": 160,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla-mobile",
+    "name": "fenix",
+    "language": "kotlin",
+    "stars": 160,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hzsweers",
+    "name": "palettehelper",
+    "language": "kotlin",
+    "stars": 159,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "r21nomi",
+    "name": "GLRippleView",
+    "language": "kotlin",
+    "stars": 159,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Beepiz",
+    "name": "BleGattCoroutines",
+    "language": "kotlin",
+    "stars": 158,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Will-Ls",
+    "name": "WeiYueKotlin",
+    "language": "kotlin",
+    "stars": 158,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openrndr",
+    "name": "openrndr",
+    "language": "kotlin",
+    "stars": 158,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hhariri",
+    "name": "oreilly-kotlin-course",
+    "language": "kotlin",
+    "stars": 157,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Fondesa",
+    "name": "RecyclerViewDivider",
+    "language": "kotlin",
+    "stars": 157,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "holgerbrandl",
+    "name": "krangl",
+    "language": "kotlin",
+    "stars": 156,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Notes",
+    "language": "kotlin",
+    "stars": 156,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yusufcakmak",
+    "name": "ExoPlayerSample",
+    "language": "kotlin",
+    "stars": 156,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "data2viz",
+    "name": "data2viz",
+    "language": "kotlin",
+    "stars": 155,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nex3z",
+    "name": "NotificationBadge",
+    "language": "kotlin",
+    "stars": 155,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CoinbaseWallet",
+    "name": "toshi-android-client",
+    "language": "kotlin",
+    "stars": 154,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DanluTeam",
+    "name": "ColdStart",
+    "language": "kotlin",
+    "stars": 153,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dodyg",
+    "name": "Kotlin101",
+    "language": "kotlin",
+    "stars": 153,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakeWharton",
+    "name": "PxJava",
+    "language": "kotlin",
+    "stars": 152,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MichaelRocks",
+    "name": "paranoid",
+    "language": "kotlin",
+    "stars": 152,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wheat7",
+    "name": "NationalGeographic",
+    "language": "kotlin",
+    "stars": 152,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vanniktech",
+    "name": "gradle-maven-publish-plugin",
+    "language": "kotlin",
+    "stars": 152,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlinx-io",
+    "language": "kotlin",
+    "stars": 151,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ahmedrizwan",
+    "name": "SeekBarCompat",
+    "language": "kotlin",
+    "stars": 151,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "volodymyrprokopyuk",
+    "name": "kotlin-sdp",
+    "language": "kotlin",
+    "stars": 151,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mrmike",
+    "name": "DiffUtil-sample",
+    "language": "kotlin",
+    "stars": 150,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yhaolpz",
+    "name": "Smile",
+    "language": "kotlin",
+    "stars": 149,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cmelchior",
+    "name": "realmfieldnameshelper",
+    "language": "kotlin",
+    "stars": 149,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhangzhao4444",
+    "name": "Maxim",
+    "language": "kotlin",
+    "stars": 148,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PicnicSupermarket",
+    "name": "FingerPaintView",
+    "language": "kotlin",
+    "stars": 148,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jaychang0917",
+    "name": "SimpleApiClient",
+    "language": "kotlin",
+    "stars": 148,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "juanchosaravia",
+    "name": "Keddit",
+    "language": "kotlin",
+    "stars": 148,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yole",
+    "name": "jitwatch-intellij",
+    "language": "kotlin",
+    "stars": 147,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ihsg",
+    "name": "PatternLocker",
+    "language": "kotlin",
+    "stars": 147,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-dynamic-features",
+    "language": "kotlin",
+    "stars": 147,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skydoves",
+    "name": "GithubFollows",
+    "language": "kotlin",
+    "stars": 146,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Waboodoo",
+    "name": "HTTP-Shortcuts",
+    "language": "kotlin",
+    "stars": 146,
+    "forks": 28,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "felipecsl",
+    "name": "ktnes",
+    "language": "kotlin",
+    "stars": 146,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hugocastelani",
+    "name": "waterfall-toolbar",
+    "language": "kotlin",
+    "stars": 146,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jshvarts",
+    "name": "ConductorMVP",
+    "language": "kotlin",
+    "stars": 146,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bridouille",
+    "name": "android-beacon-scanner",
+    "language": "kotlin",
+    "stars": 145,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mochixuan",
+    "name": "AirPurgeView",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ernestoyaquello",
+    "name": "DragDropSwipeRecyclerview",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 13,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "kymjs",
+    "name": "KotlinPrimer",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arunkumar9t2",
+    "name": "transition-x",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "traversals",
+    "name": "kapsule",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mythz",
+    "name": "kotlin-linq-examples",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "premnirmal",
+    "name": "StockTicker",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Vuksa",
+    "name": "RuntimePermissionsExtended",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "npryce",
+    "name": "konfig",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LRH1993",
+    "name": "SuiYue",
+    "language": "kotlin",
+    "stars": 144,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "marukami",
+    "name": "RxKotlin-Android-Samples",
+    "language": "kotlin",
+    "stars": 143,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fwcd",
+    "name": "KotlinLanguageServer",
+    "language": "kotlin",
+    "stars": 142,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bendikv",
+    "name": "simple-range-view",
+    "language": "kotlin",
+    "stars": 142,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "x2bool",
+    "name": "kuery",
+    "language": "kotlin",
+    "stars": 141,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "XhstormR",
+    "name": "GetBilibili",
+    "language": "kotlin",
+    "stars": 141,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ragunathjawahar",
+    "name": "kaffeine",
+    "language": "kotlin",
+    "stars": 141,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phauer",
+    "name": "blog-related",
+    "language": "kotlin",
+    "stars": 140,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "winterbe",
+    "name": "expekt",
+    "language": "kotlin",
+    "stars": 140,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ehsunshine",
+    "name": "colored-time-selector",
+    "language": "kotlin",
+    "stars": 140,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jasync-sql",
+    "name": "jasync-sql",
+    "language": "kotlin",
+    "stars": 140,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Litote",
+    "name": "kmongo",
+    "language": "kotlin",
+    "stars": 139,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ibhavikmakwana",
+    "name": "Constraint-Layout-Animations",
+    "language": "kotlin",
+    "stars": 139,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Takhion",
+    "name": "android-extras-delegates",
+    "language": "kotlin",
+    "stars": 139,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bravoborja",
+    "name": "SimpleRatingBar",
+    "language": "kotlin",
+    "stars": 139,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MehdiK",
+    "name": "Humanizer.jvm",
+    "language": "kotlin",
+    "stars": 139,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Hexworks",
+    "name": "mixite",
+    "language": "kotlin",
+    "stars": 138,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "standardnotes",
+    "name": "android-classic",
+    "language": "kotlin",
+    "stars": 138,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kotlin-graphics",
+    "name": "imgui",
+    "language": "kotlin",
+    "stars": 138,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fractalwrench",
+    "name": "json-2-kotlin",
+    "language": "kotlin",
+    "stars": 138,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "omar753sahl",
+    "name": "Flopsy",
+    "language": "kotlin",
+    "stars": 138,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pixiteapps",
+    "name": "billingx",
+    "language": "kotlin",
+    "stars": 138,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jahirfiquitiva",
+    "name": "Blueprint",
+    "language": "kotlin",
+    "stars": 138,
+    "forks": 35,
+    "default_branch": "sample"
+  },
+  {
+    "owner": "gregsh",
+    "name": "Clojure-Kit",
+    "language": "kotlin",
+    "stars": 137,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "m7mdra",
+    "name": "HtmlRecycler",
+    "language": "kotlin",
+    "stars": 137,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-media-controller",
+    "language": "kotlin",
+    "stars": 137,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nitrico",
+    "name": "FontBinder",
+    "language": "kotlin",
+    "stars": 137,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "savvyapps",
+    "name": "ToggleButtonLayout",
+    "language": "kotlin",
+    "stars": 136,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orangy",
+    "name": "squash",
+    "language": "kotlin",
+    "stars": 136,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skydoves",
+    "name": "ElasticViews",
+    "language": "kotlin",
+    "stars": 136,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ligee",
+    "name": "kotlin-jupyter",
+    "language": "kotlin",
+    "stars": 135,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eddywm",
+    "name": "KTFLITE",
+    "language": "kotlin",
+    "stars": 135,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bogerchan",
+    "name": "Nier-Visualizer",
+    "language": "kotlin",
+    "stars": 135,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Commit451",
+    "name": "Easel",
+    "language": "kotlin",
+    "stars": 135,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thomasnield",
+    "name": "RxKotlinFX",
+    "language": "kotlin",
+    "stars": 135,
+    "forks": 11,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "steelkiwi",
+    "name": "Getting-started-with-Kotlin",
+    "language": "kotlin",
+    "stars": 134,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "githubhaohao",
+    "name": "DoubanBook",
+    "language": "kotlin",
+    "stars": 134,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sirlantis",
+    "name": "rubocop-for-rubymine",
+    "language": "kotlin",
+    "stars": 134,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "algolia",
+    "name": "voice-overlay-android",
+    "language": "kotlin",
+    "stars": 134,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Calculator",
+    "language": "kotlin",
+    "stars": 134,
+    "forks": 123,
+    "default_branch": "master"
+  },
+  {
+    "owner": "goyourfly",
+    "name": "MultiSelectAdapter",
+    "language": "kotlin",
+    "stars": 133,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ajalt",
+    "name": "timberkt",
+    "language": "kotlin",
+    "stars": 132,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "YvesCheung",
+    "name": "TouchEventBus",
+    "language": "kotlin",
+    "stars": 132,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lisawray",
+    "name": "physics-playground",
+    "language": "kotlin",
+    "stars": 132,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coder-pig",
+    "name": "WechatHelper",
+    "language": "kotlin",
+    "stars": 132,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mr-XiaoLiang",
+    "name": "RecyclerViewBanner",
+    "language": "kotlin",
+    "stars": 132,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlin-eclipse",
+    "language": "kotlin",
+    "stars": 132,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "consoleau",
+    "name": "kotlin-jpa-specification-dsl",
+    "language": "kotlin",
+    "stars": 132,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Zeyad-37",
+    "name": "RxRedux",
+    "language": "kotlin",
+    "stars": 132,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antoxa2584x",
+    "name": "PinCodeView",
+    "language": "kotlin",
+    "stars": 131,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "transferwise",
+    "name": "sequence-layout",
+    "language": "kotlin",
+    "stars": 131,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "beworker",
+    "name": "autoplay",
+    "language": "kotlin",
+    "stars": 130,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steelkiwi",
+    "name": "SlidingSquareLoaderView",
+    "language": "kotlin",
+    "stars": 130,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "inspection-plugin",
+    "language": "kotlin",
+    "stars": 130,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ImangazalievM",
+    "name": "Notelin",
+    "language": "kotlin",
+    "stars": 130,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "galex",
+    "name": "name-that-color-intellij-plugin",
+    "language": "kotlin",
+    "stars": 130,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "burakeregar",
+    "name": "KotlinMvpArchitecture",
+    "language": "kotlin",
+    "stars": 130,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Hamadakram",
+    "name": "AlertView",
+    "language": "kotlin",
+    "stars": 130,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anupcowkur",
+    "name": "statelin",
+    "language": "kotlin",
+    "stars": 130,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlinx.atomicfu",
+    "language": "kotlin",
+    "stars": 129,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MycroftAI",
+    "name": "Mycroft-Android",
+    "language": "kotlin",
+    "stars": 128,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "360Conferences",
+    "name": "chicago-roboto",
+    "language": "kotlin",
+    "stars": 128,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheKhaeng",
+    "name": "material-design-guideline",
+    "language": "kotlin",
+    "stars": 128,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mannodermaus",
+    "name": "RxBonjour",
+    "language": "kotlin",
+    "stars": 128,
+    "forks": 24,
+    "default_branch": "2.x"
+  },
+  {
+    "owner": "measuresforjustice",
+    "name": "textricator",
+    "language": "kotlin",
+    "stars": 127,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ttymsd",
+    "name": "coordinator-behaviors",
+    "language": "kotlin",
+    "stars": 127,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "StephenVinouze",
+    "name": "AdvancedRecyclerView",
+    "language": "kotlin",
+    "stars": 127,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mladenrakonjac",
+    "name": "ModernAndroidApp",
+    "language": "kotlin",
+    "stars": 127,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gurleensethi",
+    "name": "kotlin-weather",
+    "language": "kotlin",
+    "stars": 126,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "binaryroot",
+    "name": "AndroidArchitecture",
+    "language": "kotlin",
+    "stars": 126,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vickychijwani",
+    "name": "kotlin-koans-android",
+    "language": "kotlin",
+    "stars": 126,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wangzailfm",
+    "name": "GenerateFindViewById",
+    "language": "kotlin",
+    "stars": 126,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sannies",
+    "name": "isoviewer",
+    "language": "kotlin",
+    "stars": 126,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thesurix",
+    "name": "gesture-recycler",
+    "language": "kotlin",
+    "stars": 126,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adisonhuang",
+    "name": "buildJar",
+    "language": "kotlin",
+    "stars": 125,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moyheen",
+    "name": "face-detector",
+    "language": "kotlin",
+    "stars": 125,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Fondesa",
+    "name": "KPermissions",
+    "language": "kotlin",
+    "stars": 124,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Blankeer",
+    "name": "WechatBotXposed",
+    "language": "kotlin",
+    "stars": 124,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abhinav272",
+    "name": "NewsApp",
+    "language": "kotlin",
+    "stars": 124,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Leeeyou",
+    "name": "RsKotlin",
+    "language": "kotlin",
+    "stars": 123,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "infotech-group",
+    "name": "android-drawable-dsl",
+    "language": "kotlin",
+    "stars": 123,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "tropos-android",
+    "language": "kotlin",
+    "stars": 123,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "massivedisaster",
+    "name": "ArcToolbarView",
+    "language": "kotlin",
+    "stars": 123,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yodle",
+    "name": "android-kotlin-demo",
+    "language": "kotlin",
+    "stars": 123,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Streetwalrus",
+    "name": "android_usb_msd",
+    "language": "kotlin",
+    "stars": 122,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yole",
+    "name": "kxdate",
+    "language": "kotlin",
+    "stars": 122,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kunny",
+    "name": "RxFirebase",
+    "language": "kotlin",
+    "stars": 122,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ruben-Sten",
+    "name": "TeXiFy-IDEA",
+    "language": "kotlin",
+    "stars": 122,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarcinMoskala",
+    "name": "PreferenceHolder",
+    "language": "kotlin",
+    "stars": 121,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlinx.cli",
+    "language": "kotlin",
+    "stars": 121,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VolodymyrLykhonis",
+    "name": "kotlinAndroidLib",
+    "language": "kotlin",
+    "stars": 121,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ktorio",
+    "name": "ktor-samples",
+    "language": "kotlin",
+    "stars": 121,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MenosGrante",
+    "name": "Rekado",
+    "language": "kotlin",
+    "stars": 121,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kotlinsg",
+    "name": "modular",
+    "language": "kotlin",
+    "stars": 120,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlin-web-demo",
+    "language": "kotlin",
+    "stars": 120,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "charbgr",
+    "name": "AuthManager",
+    "language": "kotlin",
+    "stars": 119,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "the-dagger",
+    "name": "Pokidex",
+    "language": "kotlin",
+    "stars": 119,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DSteve595",
+    "name": "Put.io",
+    "language": "kotlin",
+    "stars": 119,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pbyrne84",
+    "name": "DynamicReturnTypePlugin",
+    "language": "kotlin",
+    "stars": 118,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "misk",
+    "language": "kotlin",
+    "stars": 118,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shalupov",
+    "name": "idea-cloudformation",
+    "language": "kotlin",
+    "stars": 117,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yongjhih",
+    "name": "kotlin-extensions",
+    "language": "kotlin",
+    "stars": 117,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AsynkronIT",
+    "name": "protoactor-kotlin",
+    "language": "kotlin",
+    "stars": 117,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmitry-zhuravlev",
+    "name": "hotswap-agent-intellij-plugin",
+    "language": "kotlin",
+    "stars": 117,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kohesive",
+    "name": "kovert",
+    "language": "kotlin",
+    "stars": 117,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "marcoRS",
+    "name": "nested-fragments",
+    "language": "kotlin",
+    "stars": 116,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Contacts",
+    "language": "kotlin",
+    "stars": 116,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tazjin",
+    "name": "kubernetes-letsencrypt",
+    "language": "kotlin",
+    "stars": 116,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LPirro",
+    "name": "ConstraintLayoutAnimations",
+    "language": "kotlin",
+    "stars": 115,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Polidea",
+    "name": "Cockpit",
+    "language": "kotlin",
+    "stars": 115,
+    "forks": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PSPDFKit-labs",
+    "name": "QuickDemo",
+    "language": "kotlin",
+    "stars": 115,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "feelfreelinux",
+    "name": "WykopMobilny",
+    "language": "kotlin",
+    "stars": 114,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Camerash",
+    "name": "ToggleEditTextView",
+    "language": "kotlin",
+    "stars": 114,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shiweibsw",
+    "name": "EasyHttp",
+    "language": "kotlin",
+    "stars": 113,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sellmair",
+    "name": "disposer",
+    "language": "kotlin",
+    "stars": 113,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "githubwing",
+    "name": "DroidSword",
+    "language": "kotlin",
+    "stars": 113,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VladRassokhin",
+    "name": "intellij-hcl",
+    "language": "kotlin",
+    "stars": 112,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vanita5",
+    "name": "twittnuker",
+    "language": "kotlin",
+    "stars": 112,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kohesive",
+    "name": "klutter",
+    "language": "kotlin",
+    "stars": 112,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "springboot-angular2-tutorial",
+    "name": "boot-app",
+    "language": "kotlin",
+    "stars": 112,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Draw",
+    "language": "kotlin",
+    "stars": 112,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Nimrodda",
+    "name": "dagger-androidinjector",
+    "language": "kotlin",
+    "stars": 111,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MojRoid",
+    "name": "memes",
+    "language": "kotlin",
+    "stars": 111,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SpazeDog",
+    "name": "rootfw",
+    "language": "kotlin",
+    "stars": 111,
+    "forks": 29,
+    "default_branch": "5.x"
+  },
+  {
+    "owner": "VerbalExpressions",
+    "name": "KotlinVerbalExpressions",
+    "language": "kotlin",
+    "stars": 111,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huzenan",
+    "name": "EasyPullLayout",
+    "language": "kotlin",
+    "stars": 111,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yubico",
+    "name": "yubioath-android",
+    "language": "kotlin",
+    "stars": 111,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yole",
+    "name": "jkid",
+    "language": "kotlin",
+    "stars": 110,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clwater",
+    "name": "BezierCurve",
+    "language": "kotlin",
+    "stars": 110,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "markormesher",
+    "name": "android-fab",
+    "language": "kotlin",
+    "stars": 110,
+    "forks": 15,
+    "default_branch": "development"
+  },
+  {
+    "owner": "geminiwen",
+    "name": "tudounotepad",
+    "language": "kotlin",
+    "stars": 110,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeancsanchez",
+    "name": "JcPlayer",
+    "language": "kotlin",
+    "stars": 110,
+    "forks": 64,
+    "default_branch": "master_v2"
+  },
+  {
+    "owner": "QuickPermissions",
+    "name": "QuickPermissions-Kotlin",
+    "language": "kotlin",
+    "stars": 110,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hitherejoe",
+    "name": "GithubTrending",
+    "language": "kotlin",
+    "stars": 109,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-petclinic",
+    "name": "spring-petclinic-kotlin",
+    "language": "kotlin",
+    "stars": 109,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Zellius",
+    "name": "RxLocationManager",
+    "language": "kotlin",
+    "stars": 109,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-RuntimePermissionsBasic",
+    "language": "kotlin",
+    "stars": 108,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sreich",
+    "name": "ore-infinium",
+    "language": "kotlin",
+    "stars": 108,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zzhoujay",
+    "name": "WallpaperStore",
+    "language": "kotlin",
+    "stars": 108,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yoyiyi",
+    "name": "bilisoleil-kotlin",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ticketmaster",
+    "name": "actions-on-google-kotlin",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kittinunf",
+    "name": "Fuse",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivnvrmn",
+    "name": "CryptoMoon",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antoniolg",
+    "name": "clean-architecture",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cdimascio",
+    "name": "kotlin-swagger-spring-functional-template",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abdularis",
+    "name": "ParallaxImageView",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VerachadW",
+    "name": "kraph",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arawn",
+    "name": "kotlin-spring-example",
+    "language": "kotlin",
+    "stars": 107,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ohmerhe",
+    "name": "Kolley",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bazelbuild",
+    "name": "rules_kotlin",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sembozdemir",
+    "name": "PermissionsKt",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-SliceViewer",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "edvin",
+    "name": "tornadofx-samples",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sagar-viradiya",
+    "name": "AndroidPhysicsAnimation",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmdevgo",
+    "name": "RxPM",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 9,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "artem-zinnatullin",
+    "name": "droidcon-nyc-2017-puzzlers",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pavelpoley",
+    "name": "AdvancedRecycleView",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vert-x3",
+    "name": "vertx-lang-kotlin",
+    "language": "kotlin",
+    "stars": 106,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "omjoonkim",
+    "name": "SkeletonLoadingView",
+    "language": "kotlin",
+    "stars": 105,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "czyzby",
+    "name": "gdx-setup",
+    "language": "kotlin",
+    "stars": 105,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ovy9086",
+    "name": "android-mvvm-rx",
+    "language": "kotlin",
+    "stars": 105,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hexagonkt",
+    "name": "hexagon",
+    "language": "kotlin",
+    "stars": 105,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "minibugdev",
+    "name": "DrawableBadge",
+    "language": "kotlin",
+    "stars": 104,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarcinMoskala",
+    "name": "KotlinAndroidViewBindings",
+    "language": "kotlin",
+    "stars": 104,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yinjinyj",
+    "name": "SuperCalendar",
+    "language": "kotlin",
+    "stars": 104,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "korlibs",
+    "name": "korio",
+    "language": "kotlin",
+    "stars": 104,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cleveroad",
+    "name": "DroidArt",
+    "language": "kotlin",
+    "stars": 104,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "konform-kt",
+    "name": "konform",
+    "language": "kotlin",
+    "stars": 103,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring-guides",
+    "name": "tut-spring-boot-kotlin",
+    "language": "kotlin",
+    "stars": 103,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sergiocasero",
+    "name": "votlin-app",
+    "language": "kotlin",
+    "stars": 103,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "general-mobile",
+    "name": "kotlin-architecture-components-notes-demo",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "Koloda-Android",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sriharshaarangi",
+    "name": "BatteryChargeLimit",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "leon2017",
+    "name": "GankJetpack",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Commit451",
+    "name": "YouTubeExtractor",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AxeChen",
+    "name": "WanAndroid",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yuvraj24",
+    "name": "LiveSmashBar",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yiyuanliu",
+    "name": "Currency",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "klazuka",
+    "name": "intellij-elm",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rock3r",
+    "name": "uplift",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WeRockStar",
+    "name": "Dagger2",
+    "language": "kotlin",
+    "stars": 102,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "s4kibs4mi",
+    "name": "BelleORM",
+    "language": "kotlin",
+    "stars": 101,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JcMinarro",
+    "name": "RoundKornerLayouts",
+    "language": "kotlin",
+    "stars": 101,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "general-mobile",
+    "name": "kotlin-android-mvvm-starter",
+    "language": "kotlin",
+    "stars": 101,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gahfy",
+    "name": "MVVMPosts",
+    "language": "kotlin",
+    "stars": 101,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codestation",
+    "name": "henkaku-android",
+    "language": "kotlin",
+    "stars": 100,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hakobast",
+    "name": "DropdownTextView",
+    "language": "kotlin",
+    "stars": 100,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "unbroken-dome",
+    "name": "gradle-testsets-plugin",
+    "language": "kotlin",
+    "stars": 100,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "ruby-type-inference",
+    "language": "kotlin",
+    "stars": 100,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "q876625596",
+    "name": "GenjiDialogV2",
+    "language": "kotlin",
+    "stars": 100,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "whalemare",
+    "name": "sheetmenu",
+    "language": "kotlin",
+    "stars": 100,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hummatli",
+    "name": "AndroidAppUpdater",
+    "language": "kotlin",
+    "stars": 100,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nhaarman",
+    "name": "AsyncAwait-Android",
+    "language": "kotlin",
+    "stars": 99,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kyash",
+    "name": "rx-keyboard-detector",
+    "language": "kotlin",
+    "stars": 99,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dpreussler",
+    "name": "kotlin-testrunner",
+    "language": "kotlin",
+    "stars": 99,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ashdavies",
+    "name": "data-binding",
+    "language": "kotlin",
+    "stars": 98,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Zhuinden",
+    "name": "espresso-helper",
+    "language": "kotlin",
+    "stars": 98,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenConference",
+    "name": "OpenConference-android",
+    "language": "kotlin",
+    "stars": 98,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fede87",
+    "name": "StatusBarAlert",
+    "language": "kotlin",
+    "stars": 97,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Flashlight",
+    "language": "kotlin",
+    "stars": 97,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vicboma1",
+    "name": "Kotlin-Koans",
+    "language": "kotlin",
+    "stars": 96,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fkorotkov",
+    "name": "k8s-kotlin-dsl",
+    "language": "kotlin",
+    "stars": 96,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WindSekirun",
+    "name": "RichUtilsKt",
+    "language": "kotlin",
+    "stars": 95,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lice-lang",
+    "name": "lice",
+    "language": "kotlin",
+    "stars": 95,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yshrsmz",
+    "name": "monotweety",
+    "language": "kotlin",
+    "stars": 95,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CarGuo",
+    "name": "GSYGithubAppKotlin",
+    "language": "kotlin",
+    "stars": 94,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cdimascio",
+    "name": "java-dotenv",
+    "language": "kotlin",
+    "stars": 94,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "YeungKC",
+    "name": "Gank.io-for-Kotlin-Android",
+    "language": "kotlin",
+    "stars": 94,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sdeleuze",
+    "name": "spring-kotlin-fullstack",
+    "language": "kotlin",
+    "stars": 94,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hypeapps",
+    "name": "episodie",
+    "language": "kotlin",
+    "stars": 94,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "heimashi",
+    "name": "debug_view_kotlin",
+    "language": "kotlin",
+    "stars": 93,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adibfara",
+    "name": "Lives",
+    "language": "kotlin",
+    "stars": 93,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LateNightProductions",
+    "name": "CardKeeper",
+    "language": "kotlin",
+    "stars": 93,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yalantis",
+    "name": "ColorMatchTabsAndroid",
+    "language": "kotlin",
+    "stars": 93,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bufferapp",
+    "name": "ReactivePlayBilling",
+    "language": "kotlin",
+    "stars": 92,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hidroh",
+    "name": "tldroid",
+    "language": "kotlin",
+    "stars": 92,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hendraanggrian",
+    "name": "socialview",
+    "language": "kotlin",
+    "stars": 91,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xmartlabs",
+    "name": "fountain",
+    "language": "kotlin",
+    "stars": 91,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bjzhou",
+    "name": "Coolapk-kotlin",
+    "language": "kotlin",
+    "stars": 91,
+    "forks": 28,
+    "default_branch": "o"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-VideoPlayer",
+    "language": "kotlin",
+    "stars": 91,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Petrulak",
+    "name": "android-kotlin-mvp-clean-architecture",
+    "language": "kotlin",
+    "stars": 91,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "russhwolf",
+    "name": "multiplatform-settings",
+    "language": "kotlin",
+    "stars": 91,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seratch",
+    "name": "kotliquery",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "youxin11544",
+    "name": "NumberPicker",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AllanWang",
+    "name": "KAU",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 9,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "kropp",
+    "name": "intellij-makefile",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MichaelJokAr",
+    "name": "ZhihuDaily",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "denisidoro",
+    "name": "krouter",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jitsi",
+    "name": "jibri",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fccaikai",
+    "name": "Gan_Kotlin",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EzraLopez",
+    "name": "nearbychat",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BenoitDuffez",
+    "name": "AndroidCupsPrint",
+    "language": "kotlin",
+    "stars": 90,
+    "forks": 34,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "ice1000",
+    "name": "julia-intellij",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kohesive",
+    "name": "solr-undertow",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "exercism",
+    "name": "kotlin",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "line",
+    "name": "clay",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "momentslz",
+    "name": "Eyepetizer",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elpassion",
+    "name": "mainframer-intellij-plugin",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 13,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "cloudoptlab",
+    "name": "cloudopt-next",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "edsilfer",
+    "name": "sticky-index",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JesperQv",
+    "name": "Listn",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pandulapeter",
+    "name": "campfire-android",
+    "language": "kotlin",
+    "stars": 89,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RobotPajamas",
+    "name": "Blueteeth",
+    "language": "kotlin",
+    "stars": 88,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wuseal",
+    "name": "Kotlin-Reflect-Tools-For-Android",
+    "language": "kotlin",
+    "stars": 87,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sephiroth74",
+    "name": "AndroidUIGestureRecognizer",
+    "language": "kotlin",
+    "stars": 87,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarcinMoskala",
+    "name": "KotlinDiscreteMathToolkit",
+    "language": "kotlin",
+    "stars": 87,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kotomisak",
+    "name": "security-showcase-android",
+    "language": "kotlin",
+    "stars": 86,
+    "forks": 9,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "michaelkourlas",
+    "name": "voipms-sms-client",
+    "language": "kotlin",
+    "stars": 86,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mvysny",
+    "name": "vaadin-on-kotlin",
+    "language": "kotlin",
+    "stars": 85,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dvoiss",
+    "name": "android-geocities-theme",
+    "language": "kotlin",
+    "stars": 85,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "7449",
+    "name": "BannerLayout",
+    "language": "kotlin",
+    "stars": 85,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dkandalov",
+    "name": "pomodoro-tm",
+    "language": "kotlin",
+    "stars": 85,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stepango",
+    "name": "Archetype",
+    "language": "kotlin",
+    "stars": 85,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MrBIMC",
+    "name": "RunInBackgroundPermissionSetter",
+    "language": "kotlin",
+    "stars": 85,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antonicg",
+    "name": "cryptodata",
+    "language": "kotlin",
+    "stars": 85,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "ideolog",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pardom-zz",
+    "name": "CleanNews",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mukeshsolanki",
+    "name": "liquidrefreshlayout",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pablisco",
+    "name": "ramBuild",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pdvrieze",
+    "name": "android-coroutines",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "westoncb",
+    "name": "HNDesktop",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "the-dagger",
+    "name": "MLKitAndroid",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pszklarska",
+    "name": "LiveDataBinding",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jkwiecien",
+    "name": "Switcher",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gildor",
+    "name": "kotlin-coroutines-okhttp",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "EnhancedNavigationView",
+    "language": "kotlin",
+    "stars": 84,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "faob-dev",
+    "name": "MotionLayoutCarousel",
+    "language": "kotlin",
+    "stars": 83,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "viniciussoares",
+    "name": "ribot-android-boilerplate-kotlin",
+    "language": "kotlin",
+    "stars": 83,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MaiJiantian",
+    "name": "blockchain-kotlin",
+    "language": "kotlin",
+    "stars": 83,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mtcn",
+    "name": "MotionLayoutExamples",
+    "language": "kotlin",
+    "stars": 83,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "touchlab",
+    "name": "knarch.db",
+    "language": "kotlin",
+    "stars": 83,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "program-in-chinese",
+    "name": "overview",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "humazed",
+    "name": "RoomAsset",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Dimezis",
+    "name": "RxBus",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Madrapps",
+    "name": "Pikolo",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nosix",
+    "name": "vue-kotlin",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bkase",
+    "name": "cyklic",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jraska",
+    "name": "Console",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zsmb13",
+    "name": "VillageDSL",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "h0tk3y",
+    "name": "kotlin-monads",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Sefford",
+    "name": "kor",
+    "language": "kotlin",
+    "stars": 82,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ItsPriyesh",
+    "name": "chroma",
+    "language": "kotlin",
+    "stars": 81,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Clock",
+    "language": "kotlin",
+    "stars": 81,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "burakeregar",
+    "name": "KotlinRxMvpArchitecture",
+    "language": "kotlin",
+    "stars": 81,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhudongya123",
+    "name": "WechatChatRoomHelper",
+    "language": "kotlin",
+    "stars": 81,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "funkyg",
+    "name": "funkytunes",
+    "language": "kotlin",
+    "stars": 81,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "youxin11544",
+    "name": "KPermissions-kotlin",
+    "language": "kotlin",
+    "stars": 81,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "msink",
+    "name": "kotlin-libui",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ch4vi",
+    "name": "FlowLayout",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "porokoro",
+    "name": "paperboy",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 8,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "hotpodata",
+    "name": "redchain",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spacecowboy",
+    "name": "Feeder",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "StephenVinouze",
+    "name": "KontinuousSpeechRecognizer",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ZakTaccardi",
+    "name": "deck-of-cards",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zekapp",
+    "name": "Android-ProgressViews",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "walleth",
+    "name": "kethereum",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AndreaCioccarelli",
+    "name": "CryptoPrefs",
+    "language": "kotlin",
+    "stars": 80,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wasabeef",
+    "name": "kotlin-mvvm",
+    "language": "kotlin",
+    "stars": 79,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ftomassetti",
+    "name": "kanvas",
+    "language": "kotlin",
+    "stars": 79,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jiangkang",
+    "name": "KTools",
+    "language": "kotlin",
+    "stars": 79,
+    "forks": 19,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sockeqwe",
+    "name": "Model-View-Intent-Android",
+    "language": "kotlin",
+    "stars": 79,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "siosio",
+    "name": "GradleDependenciesHelperPlugin",
+    "language": "kotlin",
+    "stars": 79,
+    "forks": 47,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kwebio",
+    "name": "core",
+    "language": "kotlin",
+    "stars": 79,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imaNNeoFighT",
+    "name": "ArcChartView",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imaNNeoFighT",
+    "name": "StepBarView",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chuross",
+    "name": "flinglayout",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JuniperPhoton",
+    "name": "FlipperLayout",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarioAriasC",
+    "name": "KotlinPrimavera",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "afollestad",
+    "name": "rxkprefs",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TouK",
+    "name": "bubble",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shiraji",
+    "name": "databinding-support",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MichaelRocks",
+    "name": "lightsaber",
+    "language": "kotlin",
+    "stars": 78,
+    "forks": 6,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "StylingAndroid",
+    "name": "WeatherStation",
+    "language": "kotlin",
+    "stars": 77,
+    "forks": 19,
+    "default_branch": "navigation"
+  },
+  {
+    "owner": "zzhoujay",
+    "name": "DailyGank",
+    "language": "kotlin",
+    "stars": 77,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheJuki",
+    "name": "KFormMaster",
+    "language": "kotlin",
+    "stars": 77,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "howshea",
+    "name": "GeekNews",
+    "language": "kotlin",
+    "stars": 77,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Commit451",
+    "name": "ResourcesPoet",
+    "language": "kotlin",
+    "stars": 77,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kittinunf",
+    "name": "ReactiveAndroid",
+    "language": "kotlin",
+    "stars": 76,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VictorChow",
+    "name": "kotlin-android-lib",
+    "language": "kotlin",
+    "stars": 76,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trent-dev",
+    "name": "Kamera",
+    "language": "kotlin",
+    "stars": 76,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-App-Launcher",
+    "language": "kotlin",
+    "stars": 76,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomoima525",
+    "name": "debot",
+    "language": "kotlin",
+    "stars": 76,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iOSDevLog",
+    "name": "JumpJump",
+    "language": "kotlin",
+    "stars": 76,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "creageek",
+    "name": "un-material-tab",
+    "language": "kotlin",
+    "stars": 76,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rs146",
+    "name": "NewAndroidArchitecture",
+    "language": "kotlin",
+    "stars": 75,
+    "forks": 20,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "itsxtt",
+    "name": "pattern-lock",
+    "language": "kotlin",
+    "stars": 75,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "masterwok",
+    "name": "simple-vlc-player",
+    "language": "kotlin",
+    "stars": 75,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlin-mpp-example",
+    "language": "kotlin",
+    "stars": 75,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lizixian18",
+    "name": "NicePhoto",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emreeran",
+    "name": "LocationLiveData",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xdrop",
+    "name": "night-owl-jetbrains",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 7,
+    "default_branch": "2018.2"
+  },
+  {
+    "owner": "nomisRev",
+    "name": "FasterLayoutsWithAnko",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ahmedrizwan",
+    "name": "AndroidKotlinComponents",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adrianbukros",
+    "name": "github-multiplatform-example",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dkandalov",
+    "name": "scratch",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "miquelbeltran",
+    "name": "kotlin-node.js",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dyguests",
+    "name": "FlameBarChart",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Jetictors",
+    "name": "KotlinLearn",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "code-helix",
+    "name": "slatekit",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ajalt",
+    "name": "mordant",
+    "language": "kotlin",
+    "stars": 74,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sys1yagi",
+    "name": "mastodon4j",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arturogutierrez",
+    "name": "Openticator",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mapzen",
+    "name": "eraser-map",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shigebeyond",
+    "name": "jkmvc",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robfletcher",
+    "name": "strikt",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apptreesoftware",
+    "name": "flutter_webview",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "Kanvas",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brianwernick",
+    "name": "PlaylistCore",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Lesincs",
+    "name": "SimpleRead",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GavinPacini",
+    "name": "daysuntil",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kotlin",
+    "name": "kotlinx.reflect.lite",
+    "language": "kotlin",
+    "stars": 73,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MindorksOpenSource",
+    "name": "Kotlin-Networking",
+    "language": "kotlin",
+    "stars": 72,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "params-ing",
+    "name": "StepViewAndroid",
+    "language": "kotlin",
+    "stars": 72,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "project-ubin",
+    "name": "ubin-corda",
+    "language": "kotlin",
+    "stars": 72,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arslancharyev31",
+    "name": "Anko-ExpandableTextView",
+    "language": "kotlin",
+    "stars": 72,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pakoito",
+    "name": "Komprehensions",
+    "language": "kotlin",
+    "stars": 72,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yumenokanata",
+    "name": "FragmentManager",
+    "language": "kotlin",
+    "stars": 72,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koalanlp",
+    "name": "koalanlp",
+    "language": "kotlin",
+    "stars": 72,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eugenebrusov",
+    "name": "android-cards",
+    "language": "kotlin",
+    "stars": 71,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AllanWang",
+    "name": "Frost-for-Facebook",
+    "language": "kotlin",
+    "stars": 71,
+    "forks": 22,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "developer--",
+    "name": "before_after_slider",
+    "language": "kotlin",
+    "stars": 71,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "retrograde",
+    "name": "retrograde-android",
+    "language": "kotlin",
+    "stars": 71,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hazuki0x0",
+    "name": "YuzuBrowser",
+    "language": "kotlin",
+    "stars": 71,
+    "forks": 29,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "sorra",
+    "name": "sage-system",
+    "language": "kotlin",
+    "stars": 71,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "surfstudio",
+    "name": "SurfAndroidStandard",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 7,
+    "default_branch": "snapshot-0.4.0"
+  },
+  {
+    "owner": "ajalt",
+    "name": "flexadapter",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "h0tk3y",
+    "name": "better-parse",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "KotlinAnim",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jaredsburrows",
+    "name": "android-gradle-kotlin-app-template",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mplacona",
+    "name": "BurnerPhones",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Takhion",
+    "name": "kotlin-metadata",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gahfy",
+    "name": "Feed-Me",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zacharee",
+    "name": "SystemUITunerRedesign",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "whalemare",
+    "name": "RxValidator2",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DavidEdwards",
+    "name": "GDPRConsent",
+    "language": "kotlin",
+    "stars": 70,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Khang-NT",
+    "name": "Android-Media-Converter",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sockeqwe",
+    "name": "CoordinatorsAndroid",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kingsollyu",
+    "name": "AppEnv-Kotlin",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 18,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ErikHellman",
+    "name": "KotlinAsyncWithCoroutines",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "teamcity-dotnet-plugin",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wuseal",
+    "name": "Kotlin-Reflect-Tools-For-JVM",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "goyourfly",
+    "name": "MultiPictureView",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uber",
+    "name": "crumb",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brianmadden",
+    "name": "krawler",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kioko",
+    "name": "motion-layout-playground",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "agilie",
+    "name": "VolumeControlView",
+    "language": "kotlin",
+    "stars": 69,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MarcinMoskala",
+    "name": "VideoPlayView",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "korlibs",
+    "name": "klock",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "npryce",
+    "name": "snodge",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 3,
+    "default_branch": "kotlin"
+  },
+  {
+    "owner": "SimpleMobileTools",
+    "name": "Simple-Commons",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hanjoongcho",
+    "name": "aaf-easydiary",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "darshanparajuli",
+    "name": "LogcatReader",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeremymailen",
+    "name": "kotlinter-gradle",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "panpanini",
+    "name": "MokuMokuNotes_Android",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kroegerama",
+    "name": "retrofit-kaiteki",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jstuyts",
+    "name": "kotlin-multiplatform-recipes",
+    "language": "kotlin",
+    "stars": 68,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chahine",
+    "name": "pageindicator",
+    "language": "kotlin",
+    "stars": 67,
+    "forks": 12,
+    "default_branch": "master"
+  },
+  {
+    "owner": "afollestad",
+    "name": "viewpagerdots",
+    "language": "kotlin",
+    "stars": 67,
+    "forks": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "slamdon",
+    "name": "kotlin-playground",
+    "language": "kotlin",
+    "stars": 67,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bitvale",
+    "name": "DroidMotion",
+    "language": "kotlin",
+    "stars": 67,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "2dxgujun",
+    "name": "Kpan",
+    "language": "kotlin",
+    "stars": 67,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fengzhizi715",
+    "name": "SAF-Kotlin-Utils",
+    "language": "kotlin",
+    "stars": 67,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "voyages-sncf-technologies",
+    "name": "tock",
+    "language": "kotlin",
+    "stars": 67,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ECLaboratorio",
+    "name": "BubbleShowCase-Android",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CodingDoug",
+    "name": "firebase-jetpack",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fengzhizi715",
+    "name": "SAF-Kotlin-log",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fython",
+    "name": "Kotlinyan",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 3,
+    "default_branch": "master"
+  },
+  {
+    "owner": "concretesolutions",
+    "name": "kappuccino",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 10,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "cpjit",
+    "name": "swagger",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kitek",
+    "name": "android-rv-swipe-delete",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kevalpatel2106",
+    "name": "green-build",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "burntcookie90",
+    "name": "KotMeh",
+    "language": "kotlin",
+    "stars": 66,
+    "forks": 7,
+    "default_branch": "master"
+  },
+  {
+    "owner": "divyanshub024",
+    "name": "ColorSeekBar",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "binaryfoo",
+    "name": "emv-bertlv",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andreabresolin",
+    "name": "KotlinCoroutinesExamples",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cognifide",
+    "name": "gradle-aem-plugin",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetBrains",
+    "name": "kotlin-netbeans",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrislo27",
+    "name": "RhythmHeavenRemixEditor",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 20,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "pvasa",
+    "name": "EasyCrypt",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kotlin-graphics",
+    "name": "kotlin-unsigned",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dcampogiani",
+    "name": "UnderlinePageIndicator",
+    "language": "kotlin",
+    "stars": 65,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vanniktech",
+    "name": "lint-rules",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Jire",
+    "name": "Abendigo",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 68,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HelmMobile",
+    "name": "KotlinCleanArchitecture",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zyyoona7",
+    "name": "KExtensions",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robstoll",
+    "name": "atrium",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wuhenzhizao",
+    "name": "kotlin-adapter",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huan-nguyen",
+    "name": "SpringAnimation",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BlueBoxWare",
+    "name": "LibGDXPlugin",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abalta",
+    "name": "swappy-image-view",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "passsy",
+    "name": "Konduit",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SupLuo",
+    "name": "HaloPermission",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kozmi55",
+    "name": "Kotlin-Android-Examples",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 15,
+    "default_branch": "master"
+  },
+  {
+    "owner": "marcoferrer",
+    "name": "kroto-plus",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 2,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KonradSzewczuk",
+    "name": "WeatherApp",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivanisidrowu",
+    "name": "palumu",
+    "language": "kotlin",
+    "stars": 64,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankitsharma6466",
+    "name": "AndroidKotlinBoilerplate",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "miaoMiaoDaShi",
+    "name": "YangYanNew",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 14,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skydoves",
+    "name": "Multi-ColorPicker",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 6,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pedromassango",
+    "name": "IBackdrop",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 9,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DeKoServidoni",
+    "name": "OMFM",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jrenner",
+    "name": "kotlin-voxel",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 10,
+    "default_branch": "master"
+  },
+  {
+    "owner": "erikcaffrey",
+    "name": "LiveData-DataBinding-Kotlin",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "michaldrabik",
+    "name": "KotlinMVP",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 11,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jasonwyatt",
+    "name": "AsyncListUtil-Example",
+    "language": "kotlin",
+    "stars": 63,
+    "forks": 8,
+    "default_branch": "master"
+  },
+  {
+    "owner": "florent37",
+    "name": "KotlinNativeSample",
+    "language": "kotlin",
+    "stars": 62,
+    "forks": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JetradarMobile",
+    "name": "mrbutler",
+    "language": "kotlin",
+    "stars": 62,
+    "forks": 5,
+    "default_branch": "master"
+  },
+  {
+    "owner": "valich",
+    "name": "intellij-markdown",
+    "language": "kotlin",
+    "stars": 62,
+    "forks": 20,
+    "default_branch": "master"
+  }
+]

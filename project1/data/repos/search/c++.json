@@ -1,0 +1,8002 @@
+[
+  {
+    "owner": "tensorflow",
+    "name": "tensorflow",
+    "language": "c++",
+    "stars": 114203,
+    "forks": 69463,
+    "default_branch": "master"
+  },
+  {
+    "owner": "electron",
+    "name": "electron",
+    "language": "c++",
+    "stars": 66461,
+    "forks": 8671,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apple",
+    "name": "swift",
+    "language": "c++",
+    "stars": 45732,
+    "forks": 7255,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bitcoin",
+    "name": "bitcoin",
+    "language": "c++",
+    "stars": 35833,
+    "forks": 21329,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nwjs",
+    "name": "nw.js",
+    "language": "c++",
+    "stars": 34539,
+    "forks": 3781,
+    "default_branch": "nw34"
+  },
+  {
+    "owner": "x64dbg",
+    "name": "x64dbg",
+    "language": "c++",
+    "stars": 33366,
+    "forks": 838,
+    "default_branch": "development"
+  },
+  {
+    "owner": "protocolbuffers",
+    "name": "protobuf",
+    "language": "c++",
+    "stars": 30138,
+    "forks": 8344,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opencv",
+    "name": "opencv",
+    "language": "c++",
+    "stars": 29110,
+    "forks": 20855,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BVLC",
+    "name": "caffe",
+    "language": "c++",
+    "stars": 26150,
+    "forks": 15929,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tesseract-ocr",
+    "name": "tesseract",
+    "language": "c++",
+    "stars": 22330,
+    "forks": 4414,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rethinkdb",
+    "name": "rethinkdb-legacy",
+    "language": "c++",
+    "stars": 21808,
+    "forks": 1722,
+    "default_branch": "next"
+  },
+  {
+    "owner": "pytorch",
+    "name": "pytorch",
+    "language": "c++",
+    "stars": 21044,
+    "forks": 5000,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grpc",
+    "name": "grpc",
+    "language": "c++",
+    "stars": 17953,
+    "forks": 4143,
+    "default_branch": "master"
+  },
+  {
+    "owner": "godotengine",
+    "name": "godot",
+    "language": "c++",
+    "stars": 17696,
+    "forks": 3622,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cmderdev",
+    "name": "cmder",
+    "language": "c++",
+    "stars": 16102,
+    "forks": 1130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "hhvm",
+    "language": "c++",
+    "stars": 15648,
+    "forks": 2802,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "leveldb",
+    "language": "c++",
+    "stars": 15418,
+    "forks": 3762,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "CNTK",
+    "language": "c++",
+    "stars": 15379,
+    "forks": 4131,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mongodb",
+    "name": "mongo",
+    "language": "c++",
+    "stars": 14893,
+    "forks": 3807,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmlc",
+    "name": "xgboost",
+    "language": "c++",
+    "stars": 14028,
+    "forks": 6079,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "osquery",
+    "language": "c++",
+    "stars": 13403,
+    "forks": 1598,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cocos2d",
+    "name": "cocos2d-x",
+    "language": "c++",
+    "stars": 12540,
+    "forks": 6597,
+    "default_branch": "v3"
+  },
+  {
+    "owner": "ocornut",
+    "name": "imgui",
+    "language": "c++",
+    "stars": 12525,
+    "forks": 1705,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "rocksdb",
+    "language": "c++",
+    "stars": 12037,
+    "forks": 2652,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aria2",
+    "name": "aria2",
+    "language": "c++",
+    "stars": 11952,
+    "forks": 1377,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nlohmann",
+    "name": "json",
+    "language": "c++",
+    "stars": 11739,
+    "forks": 1883,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "facebook",
+    "name": "folly",
+    "language": "c++",
+    "stars": 11611,
+    "forks": 2838,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "guetzli",
+    "language": "c++",
+    "stars": 11558,
+    "forks": 954,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ApolloAuto",
+    "name": "apollo",
+    "language": "c++",
+    "stars": 11532,
+    "forks": 3298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "mars",
+    "language": "c++",
+    "stars": 11388,
+    "forks": 2218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "v8",
+    "name": "v8",
+    "language": "c++",
+    "stars": 10985,
+    "forks": 2206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "yoga",
+    "language": "c++",
+    "stars": 10852,
+    "forks": 832,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "flatbuffers",
+    "language": "c++",
+    "stars": 10704,
+    "forks": 1691,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sqlitebrowser",
+    "name": "sqlitebrowser",
+    "language": "c++",
+    "stars": 9869,
+    "forks": 1165,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uglide",
+    "name": "RedisDesktopManager",
+    "language": "c++",
+    "stars": 9799,
+    "forks": 1488,
+    "default_branch": "0.9"
+  },
+  {
+    "owner": "uNetworking",
+    "name": "uWebSockets",
+    "language": "c++",
+    "stars": 9744,
+    "forks": 883,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "googletest",
+    "language": "c++",
+    "stars": 9739,
+    "forks": 4121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CMU-Perceptual-Computing-Lab",
+    "name": "openpose",
+    "language": "c++",
+    "stars": 9729,
+    "forks": 2642,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EOSIO",
+    "name": "eos",
+    "language": "c++",
+    "stars": 9686,
+    "forks": 2887,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apple",
+    "name": "foundationdb",
+    "language": "c++",
+    "stars": 8449,
+    "forks": 603,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla",
+    "name": "DeepSpeech",
+    "language": "c++",
+    "stars": 8375,
+    "forks": 1445,
+    "default_branch": "master"
+  },
+  {
+    "owner": "telegramdesktop",
+    "name": "tdesktop",
+    "language": "c++",
+    "stars": 8374,
+    "forks": 2084,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "napajs",
+    "language": "c++",
+    "stars": 8350,
+    "forks": 305,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yangyangwithgnu",
+    "name": "hardseed",
+    "language": "c++",
+    "stars": 8335,
+    "forks": 1872,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CRYTEK",
+    "name": "CRYENGINE",
+    "language": "c++",
+    "stars": 8329,
+    "forks": 1594,
+    "default_branch": "release"
+  },
+  {
+    "owner": "haoel",
+    "name": "leetcode",
+    "language": "c++",
+    "stars": 8200,
+    "forks": 2834,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SFTtech",
+    "name": "openage",
+    "language": "c++",
+    "stars": 7902,
+    "forks": 785,
+    "default_branch": "master"
+  },
+  {
+    "owner": "catchorg",
+    "name": "Catch2",
+    "language": "c++",
+    "stars": 7798,
+    "forks": 1252,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mobile-shell",
+    "name": "mosh",
+    "language": "c++",
+    "stars": 7764,
+    "forks": 498,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlei18n",
+    "name": "libphonenumber",
+    "language": "c++",
+    "stars": 7752,
+    "forks": 1024,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PaddlePaddle",
+    "name": "Paddle",
+    "language": "c++",
+    "stars": 7724,
+    "forks": 2098,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "apple",
+    "name": "turicreate",
+    "language": "c++",
+    "stars": 7706,
+    "forks": 706,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openalpr",
+    "name": "openalpr",
+    "language": "c++",
+    "stars": 7683,
+    "forks": 1660,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aspnet",
+    "name": "AspNetCore",
+    "language": "c++",
+    "stars": 7680,
+    "forks": 1811,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brpc",
+    "name": "brpc",
+    "language": "c++",
+    "stars": 7657,
+    "forks": 1733,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xbmc",
+    "name": "xbmc",
+    "language": "c++",
+    "stars": 7548,
+    "forks": 4757,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tekezo",
+    "name": "Karabiner-Elements",
+    "language": "c++",
+    "stars": 7476,
+    "forks": 494,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wkhtmltopdf",
+    "name": "wkhtmltopdf",
+    "language": "c++",
+    "stars": 7343,
+    "forks": 1056,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "watchman",
+    "language": "c++",
+    "stars": 7332,
+    "forks": 559,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "LightGBM",
+    "language": "c++",
+    "stars": 7149,
+    "forks": 1919,
+    "default_branch": "master"
+  },
+  {
+    "owner": "envoyproxy",
+    "name": "envoy",
+    "language": "c++",
+    "stars": 7134,
+    "forks": 989,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Studio3T",
+    "name": "robomongo",
+    "language": "c++",
+    "stars": 7067,
+    "forks": 613,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ValveSoftware",
+    "name": "Proton",
+    "language": "c++",
+    "stars": 6999,
+    "forks": 222,
+    "default_branch": "proton_3.16"
+  },
+  {
+    "owner": "Tencent",
+    "name": "rapidjson",
+    "language": "c++",
+    "stars": 6852,
+    "forks": 1939,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vnpy",
+    "name": "vnpy",
+    "language": "c++",
+    "stars": 6804,
+    "forks": 3281,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arangodb",
+    "name": "arangodb",
+    "language": "c++",
+    "stars": 6681,
+    "forks": 500,
+    "default_branch": "devel"
+  },
+  {
+    "owner": "openframeworks",
+    "name": "openFrameworks",
+    "language": "c++",
+    "stars": 6509,
+    "forks": 2152,
+    "default_branch": "patch-release"
+  },
+  {
+    "owner": "notepad-plus-plus",
+    "name": "notepad-plus-plus",
+    "language": "c++",
+    "stars": 6466,
+    "forks": 1976,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenRCT2",
+    "name": "OpenRCT2",
+    "language": "c++",
+    "stars": 6425,
+    "forks": 691,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "symless",
+    "name": "synergy-core",
+    "language": "c++",
+    "stars": 6418,
+    "forks": 1531,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "AndFix",
+    "language": "c++",
+    "stars": 6347,
+    "forks": 1564,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zealdocs",
+    "name": "zeal",
+    "language": "c++",
+    "stars": 6328,
+    "forks": 503,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ethereum",
+    "name": "solidity",
+    "language": "c++",
+    "stars": 6273,
+    "forks": 1674,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "capnproto",
+    "name": "capnproto",
+    "language": "c++",
+    "stars": 6046,
+    "forks": 501,
+    "default_branch": "master"
+  },
+  {
+    "owner": "davisking",
+    "name": "dlib",
+    "language": "c++",
+    "stars": 6026,
+    "forks": 1815,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AudioKit",
+    "name": "AudioKit",
+    "language": "c++",
+    "stars": 5997,
+    "forks": 905,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "AirSim",
+    "language": "c++",
+    "stars": 5993,
+    "forks": 1601,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VowpalWabbit",
+    "name": "vowpal_wabbit",
+    "language": "c++",
+    "stars": 5906,
+    "forks": 1476,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "proxygen",
+    "language": "c++",
+    "stars": 5851,
+    "forks": 1119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bjorn",
+    "name": "tiled",
+    "language": "c++",
+    "stars": 5820,
+    "forks": 1167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "acaudwell",
+    "name": "Gource",
+    "language": "c++",
+    "stars": 5785,
+    "forks": 489,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TarsCloud",
+    "name": "Tars",
+    "language": "c++",
+    "stars": 5774,
+    "forks": 1432,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ideawu",
+    "name": "ssdb",
+    "language": "c++",
+    "stars": 5751,
+    "forks": 1186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RPCS3",
+    "name": "rpcs3",
+    "language": "c++",
+    "stars": 5749,
+    "forks": 1024,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aseprite",
+    "name": "aseprite",
+    "language": "c++",
+    "stars": 5684,
+    "forks": 584,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sass",
+    "name": "node-sass",
+    "language": "c++",
+    "stars": 5667,
+    "forks": 794,
+    "default_branch": "master"
+  },
+  {
+    "owner": "diasurgical",
+    "name": "devilution",
+    "language": "c++",
+    "stars": 5598,
+    "forks": 671,
+    "default_branch": "nightly"
+  },
+  {
+    "owner": "shadowsocks",
+    "name": "shadowsocks-qt5",
+    "language": "c++",
+    "stars": 5597,
+    "forks": 1806,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "thrift",
+    "language": "c++",
+    "stars": 5474,
+    "forks": 2686,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Automattic",
+    "name": "node-canvas",
+    "language": "c++",
+    "stars": 5455,
+    "forks": 741,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yuzu-emu",
+    "name": "yuzu",
+    "language": "c++",
+    "stars": 5439,
+    "forks": 329,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yandex",
+    "name": "ClickHouse",
+    "language": "c++",
+    "stars": 5424,
+    "forks": 855,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bkaradzic",
+    "name": "bgfx",
+    "language": "c++",
+    "stars": 5376,
+    "forks": 891,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "MMKV",
+    "language": "c++",
+    "stars": 5343,
+    "forks": 475,
+    "default_branch": "master"
+  },
+  {
+    "owner": "draios",
+    "name": "sysdig",
+    "language": "c++",
+    "stars": 5336,
+    "forks": 487,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "ssloy",
+    "name": "tinyrenderer",
+    "language": "c++",
+    "stars": 5334,
+    "forks": 428,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Maximus5",
+    "name": "ConEmu",
+    "language": "c++",
+    "stars": 5299,
+    "forks": 367,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlesamples",
+    "name": "android-ndk",
+    "language": "c++",
+    "stars": 5280,
+    "forks": 2445,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ceph",
+    "name": "ceph",
+    "language": "c++",
+    "stars": 5249,
+    "forks": 2780,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qbittorrent",
+    "name": "qBittorrent",
+    "language": "c++",
+    "stars": 5209,
+    "forks": 920,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "filament",
+    "language": "c++",
+    "stars": 5045,
+    "forks": 266,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chenshuo",
+    "name": "muduo",
+    "language": "c++",
+    "stars": 4975,
+    "forks": 2662,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookresearch",
+    "name": "faiss",
+    "language": "c++",
+    "stars": 4950,
+    "forks": 928,
+    "default_branch": "master"
+  },
+  {
+    "owner": "asmuth",
+    "name": "zdb",
+    "language": "c++",
+    "stars": 4895,
+    "forks": 399,
+    "default_branch": "master"
+  },
+  {
+    "owner": "visualfc",
+    "name": "liteide",
+    "language": "c++",
+    "stars": 4864,
+    "forks": 655,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TrinityCore",
+    "name": "TrinityCore",
+    "language": "c++",
+    "stars": 4837,
+    "forks": 4196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dolphin-emu",
+    "name": "dolphin",
+    "language": "c++",
+    "stars": 4812,
+    "forks": 1135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ossrs",
+    "name": "srs",
+    "language": "c++",
+    "stars": 4714,
+    "forks": 1995,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zeromq",
+    "name": "libzmq",
+    "language": "c++",
+    "stars": 4699,
+    "forks": 1403,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fmtlib",
+    "name": "fmt",
+    "language": "c++",
+    "stars": 4687,
+    "forks": 590,
+    "default_branch": "master"
+  },
+  {
+    "owner": "abseil",
+    "name": "abseil-cpp",
+    "language": "c++",
+    "stars": 4644,
+    "forks": 568,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SFML",
+    "name": "SFML",
+    "language": "c++",
+    "stars": 4644,
+    "forks": 971,
+    "default_branch": "master"
+  },
+  {
+    "owner": "360Controller",
+    "name": "360Controller",
+    "language": "c++",
+    "stars": 4636,
+    "forks": 280,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ipkn",
+    "name": "crow",
+    "language": "c++",
+    "stars": 4594,
+    "forks": 561,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gzc",
+    "name": "CLRS",
+    "language": "c++",
+    "stars": 4588,
+    "forks": 1752,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arendst",
+    "name": "Sonoff-Tasmota",
+    "language": "c++",
+    "stars": 4523,
+    "forks": 1062,
+    "default_branch": "development"
+  },
+  {
+    "owner": "scylladb",
+    "name": "scylla",
+    "language": "c++",
+    "stars": 4515,
+    "forks": 545,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gabime",
+    "name": "spdlog",
+    "language": "c++",
+    "stars": 4510,
+    "forks": 998,
+    "default_branch": "v1.x"
+  },
+  {
+    "owner": "dropbox",
+    "name": "lepton",
+    "language": "c++",
+    "stars": 4473,
+    "forks": 319,
+    "default_branch": "master"
+  },
+  {
+    "owner": "keepassxreboot",
+    "name": "keepassxc",
+    "language": "c++",
+    "stars": 4467,
+    "forks": 345,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "tiny-dnn",
+    "name": "tiny-dnn",
+    "language": "c++",
+    "stars": 4466,
+    "forks": 1173,
+    "default_branch": "master"
+  },
+  {
+    "owner": "citra-emu",
+    "name": "citra",
+    "language": "c++",
+    "stars": 4404,
+    "forks": 994,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tjanczuk",
+    "name": "edge",
+    "language": "c++",
+    "stars": 4393,
+    "forks": 569,
+    "default_branch": "master"
+  },
+  {
+    "owner": "butor",
+    "name": "blackbird",
+    "language": "c++",
+    "stars": 4387,
+    "forks": 830,
+    "default_branch": "master"
+  },
+  {
+    "owner": "liuruoze",
+    "name": "EasyPR",
+    "language": "c++",
+    "stars": 4370,
+    "forks": 2005,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kyleneideck",
+    "name": "BackgroundMusic",
+    "language": "c++",
+    "stars": 4329,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spotify",
+    "name": "annoy",
+    "language": "c++",
+    "stars": 4327,
+    "forks": 515,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rovo89",
+    "name": "Xposed",
+    "language": "c++",
+    "stars": 4275,
+    "forks": 945,
+    "default_branch": "master"
+  },
+  {
+    "owner": "avast-tl",
+    "name": "retdec",
+    "language": "c++",
+    "stars": 4270,
+    "forks": 483,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phusion",
+    "name": "passenger",
+    "language": "c++",
+    "stars": 4236,
+    "forks": 499,
+    "default_branch": "stable-5.3"
+  },
+  {
+    "owner": "uber",
+    "name": "horovod",
+    "language": "c++",
+    "stars": 4221,
+    "forks": 575,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pybind",
+    "name": "pybind11",
+    "language": "c++",
+    "stars": 4205,
+    "forks": 545,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bulletphysics",
+    "name": "bullet3",
+    "language": "c++",
+    "stars": 4178,
+    "forks": 1112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scylladb",
+    "name": "seastar",
+    "language": "c++",
+    "stars": 4129,
+    "forks": 818,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Squirrel",
+    "name": "Squirrel.Windows",
+    "language": "c++",
+    "stars": 4125,
+    "forks": 614,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "redex",
+    "language": "c++",
+    "stars": 4095,
+    "forks": 425,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PaddlePaddle",
+    "name": "paddle-mobile",
+    "language": "c++",
+    "stars": 4088,
+    "forks": 790,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "kelektiv",
+    "name": "node.bcrypt.js",
+    "language": "c++",
+    "stars": 4056,
+    "forks": 322,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mawww",
+    "name": "kakoune",
+    "language": "c++",
+    "stars": 4032,
+    "forks": 293,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hrydgard",
+    "name": "ppsspp",
+    "language": "c++",
+    "stars": 3978,
+    "forks": 1226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "mesos",
+    "language": "c++",
+    "stars": 3930,
+    "forks": 1530,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sass",
+    "name": "libsass",
+    "language": "c++",
+    "stars": 3906,
+    "forks": 417,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zcash",
+    "name": "zcash",
+    "language": "c++",
+    "stars": 3900,
+    "forks": 1378,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-pagespeed-ngx",
+    "language": "c++",
+    "stars": 3896,
+    "forks": 314,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TTimo",
+    "name": "doom3.gpl",
+    "language": "c++",
+    "stars": 3834,
+    "forks": 1376,
+    "default_branch": "master"
+  },
+  {
+    "owner": "keepassx",
+    "name": "keepassx",
+    "language": "c++",
+    "stars": 3819,
+    "forks": 560,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ninja-build",
+    "name": "ninja",
+    "language": "c++",
+    "stars": 3818,
+    "forks": 623,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jaagr",
+    "name": "polybar",
+    "language": "c++",
+    "stars": 3799,
+    "forks": 207,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlecartographer",
+    "name": "cartographer",
+    "language": "c++",
+    "stars": 3797,
+    "forks": 1237,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookarchive",
+    "name": "scribe",
+    "language": "c++",
+    "stars": 3701,
+    "forks": 785,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oguzhaninan",
+    "name": "Stacer",
+    "language": "c++",
+    "stars": 3687,
+    "forks": 291,
+    "default_branch": "native"
+  },
+  {
+    "owner": "tekezo",
+    "name": "Karabiner",
+    "language": "c++",
+    "stars": 3666,
+    "forks": 338,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla",
+    "name": "rr",
+    "language": "c++",
+    "stars": 3652,
+    "forks": 280,
+    "default_branch": "master"
+  },
+  {
+    "owner": "assimp",
+    "name": "assimp",
+    "language": "c++",
+    "stars": 3593,
+    "forks": 1179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ArduPilot",
+    "name": "ardupilot",
+    "language": "c++",
+    "stars": 3575,
+    "forks": 7106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "peterbraden",
+    "name": "node-opencv",
+    "language": "c++",
+    "stars": 3570,
+    "forks": 710,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Z3Prover",
+    "name": "z3",
+    "language": "c++",
+    "stars": 3563,
+    "forks": 630,
+    "default_branch": "master"
+  },
+  {
+    "owner": "minetest",
+    "name": "minetest",
+    "language": "c++",
+    "stars": 3558,
+    "forks": 950,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "libco",
+    "language": "c++",
+    "stars": 3543,
+    "forks": 994,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ValveSoftware",
+    "name": "GameNetworkingSockets",
+    "language": "c++",
+    "stars": 3529,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ponylang",
+    "name": "ponyc",
+    "language": "c++",
+    "stars": 3493,
+    "forks": 304,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mooophy",
+    "name": "Cpp-Primer",
+    "language": "c++",
+    "stars": 3475,
+    "forks": 1991,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koekeishiya",
+    "name": "kwm",
+    "language": "c++",
+    "stars": 3466,
+    "forks": 123,
+    "default_branch": "master"
+  },
+  {
+    "owner": "electronicarts",
+    "name": "EASTL",
+    "language": "c++",
+    "stars": 3461,
+    "forks": 395,
+    "default_branch": "master"
+  },
+  {
+    "owner": "appjs",
+    "name": "appjs",
+    "language": "c++",
+    "stars": 3457,
+    "forks": 396,
+    "default_branch": "master"
+  },
+  {
+    "owner": "relativty",
+    "name": "Relativ",
+    "language": "c++",
+    "stars": 3441,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ethereum",
+    "name": "aleth",
+    "language": "c++",
+    "stars": 3431,
+    "forks": 2125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "monero-project",
+    "name": "monero",
+    "language": "c++",
+    "stars": 3428,
+    "forks": 1774,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "liquidfun",
+    "language": "c++",
+    "stars": 3427,
+    "forks": 462,
+    "default_branch": "master"
+  },
+  {
+    "owner": "radareorg",
+    "name": "cutter",
+    "language": "c++",
+    "stars": 3423,
+    "forks": 283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opencv",
+    "name": "opencv_contrib",
+    "language": "c++",
+    "stars": 3404,
+    "forks": 2932,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ValveSoftware",
+    "name": "openvr",
+    "language": "c++",
+    "stars": 3380,
+    "forks": 875,
+    "default_branch": "master"
+  },
+  {
+    "owner": "catboost",
+    "name": "catboost",
+    "language": "c++",
+    "stars": 3369,
+    "forks": 476,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AGWA",
+    "name": "git-crypt",
+    "language": "c++",
+    "stars": 3335,
+    "forks": 228,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SaschaWillems",
+    "name": "Vulkan",
+    "language": "c++",
+    "stars": 3326,
+    "forks": 648,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seetaface",
+    "name": "SeetaFaceEngine",
+    "language": "c++",
+    "stars": 3313,
+    "forks": 1497,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hioa-cs",
+    "name": "IncludeOS",
+    "language": "c++",
+    "stars": 3312,
+    "forks": 265,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mamedev",
+    "name": "mame",
+    "language": "c++",
+    "stars": 3307,
+    "forks": 808,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "cpprestsdk",
+    "language": "c++",
+    "stars": 3303,
+    "forks": 844,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BYVoid",
+    "name": "OpenCC",
+    "language": "c++",
+    "stars": 3265,
+    "forks": 529,
+    "default_branch": "master"
+  },
+  {
+    "owner": "open-source-parsers",
+    "name": "jsoncpp",
+    "language": "c++",
+    "stars": 3237,
+    "forks": 1337,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "or-tools",
+    "language": "c++",
+    "stars": 3231,
+    "forks": 753,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bblanchon",
+    "name": "ArduinoJson",
+    "language": "c++",
+    "stars": 3220,
+    "forks": 620,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tamlok",
+    "name": "vnote",
+    "language": "c++",
+    "stars": 3219,
+    "forks": 305,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gperftools",
+    "name": "gperftools",
+    "language": "c++",
+    "stars": 3196,
+    "forks": 728,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "lmctfy",
+    "language": "c++",
+    "stars": 3171,
+    "forks": 227,
+    "default_branch": "master"
+  },
+  {
+    "owner": "id-Software",
+    "name": "DOOM-3-BFG",
+    "language": "c++",
+    "stars": 3170,
+    "forks": 950,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cisco",
+    "name": "openh264",
+    "language": "c++",
+    "stars": 3153,
+    "forks": 1150,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snowie2000",
+    "name": "mactype",
+    "language": "c++",
+    "stars": 3150,
+    "forks": 216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "albertlauncher",
+    "name": "albert",
+    "language": "c++",
+    "stars": 3146,
+    "forks": 159,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "mysql",
+    "name": "mysql-server",
+    "language": "c++",
+    "stars": 3141,
+    "forks": 1263,
+    "default_branch": "8.0"
+  },
+  {
+    "owner": "TranslucentTB",
+    "name": "TranslucentTB",
+    "language": "c++",
+    "stars": 3135,
+    "forks": 313,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xenia-project",
+    "name": "xenia",
+    "language": "c++",
+    "stars": 3127,
+    "forks": 451,
+    "default_branch": "master"
+  },
+  {
+    "owner": "musescore",
+    "name": "MuseScore",
+    "language": "c++",
+    "stars": 3116,
+    "forks": 1065,
+    "default_branch": "master"
+  },
+  {
+    "owner": "changkun",
+    "name": "modern-cpp-tutorial",
+    "language": "c++",
+    "stars": 3112,
+    "forks": 414,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PointCloudLibrary",
+    "name": "pcl",
+    "language": "c++",
+    "stars": 3069,
+    "forks": 2424,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FLIF-hub",
+    "name": "FLIF",
+    "language": "c++",
+    "stars": 3067,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "GSL",
+    "language": "c++",
+    "stars": 3067,
+    "forks": 410,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cameron314",
+    "name": "concurrentqueue",
+    "language": "c++",
+    "stars": 3063,
+    "forks": 596,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ricochet-im",
+    "name": "ricochet",
+    "language": "c++",
+    "stars": 3057,
+    "forks": 345,
+    "default_branch": "master"
+  },
+  {
+    "owner": "laverdet",
+    "name": "node-fibers",
+    "language": "c++",
+    "stars": 3056,
+    "forks": 205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "snappy",
+    "language": "c++",
+    "stars": 3052,
+    "forks": 515,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FreeCAD",
+    "name": "FreeCAD",
+    "language": "c++",
+    "stars": 3044,
+    "forks": 1124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ripple",
+    "name": "rippled",
+    "language": "c++",
+    "stars": 3030,
+    "forks": 912,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "facebookarchive",
+    "name": "webscalesql-5.6",
+    "language": "c++",
+    "stars": 3029,
+    "forks": 394,
+    "default_branch": "webscalesql-5.6.27"
+  },
+  {
+    "owner": "google",
+    "name": "re2",
+    "language": "c++",
+    "stars": 3028,
+    "forks": 453,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "AliSQL",
+    "language": "c++",
+    "stars": 3018,
+    "forks": 675,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google-ar",
+    "name": "arcore-android-sdk",
+    "language": "c++",
+    "stars": 3002,
+    "forks": 479,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TadasBaltrusaitis",
+    "name": "OpenFace",
+    "language": "c++",
+    "stars": 2987,
+    "forks": 1058,
+    "default_branch": "master"
+  },
+  {
+    "owner": "s3fs-fuse",
+    "name": "s3fs-fuse",
+    "language": "c++",
+    "stars": 2967,
+    "forks": 465,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raulmur",
+    "name": "ORB_SLAM2",
+    "language": "c++",
+    "stars": 2956,
+    "forks": 2057,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mapbox",
+    "name": "mapbox-gl-native",
+    "language": "c++",
+    "stars": 2956,
+    "forks": 914,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baldurk",
+    "name": "renderdoc",
+    "language": "c++",
+    "stars": 2926,
+    "forks": 408,
+    "default_branch": "v1.x"
+  },
+  {
+    "owner": "googlevr",
+    "name": "gvr-android-sdk",
+    "language": "c++",
+    "stars": 2912,
+    "forks": 1207,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "benchmark",
+    "language": "c++",
+    "stars": 2907,
+    "forks": 548,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GarageGames",
+    "name": "Torque3D",
+    "language": "c++",
+    "stars": 2883,
+    "forks": 1205,
+    "default_branch": "development"
+  },
+  {
+    "owner": "fireice-uk",
+    "name": "xmr-stak",
+    "language": "c++",
+    "stars": 2876,
+    "forks": 1452,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gcp",
+    "name": "leela-zero",
+    "language": "c++",
+    "stars": 2865,
+    "forks": 593,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mapsme",
+    "name": "omim",
+    "language": "c++",
+    "stars": 2837,
+    "forks": 613,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tzapu",
+    "name": "WiFiManager",
+    "language": "c++",
+    "stars": 2831,
+    "forks": 820,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CtripMobile",
+    "name": "DynamicAPK",
+    "language": "c++",
+    "stars": 2822,
+    "forks": 855,
+    "default_branch": "master"
+  },
+  {
+    "owner": "breach",
+    "name": "thrust",
+    "language": "c++",
+    "stars": 2804,
+    "forks": 128,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tensorflow",
+    "name": "serving",
+    "language": "c++",
+    "stars": 2785,
+    "forks": 1182,
+    "default_branch": "master"
+  },
+  {
+    "owner": "doitsujin",
+    "name": "dxvk",
+    "language": "c++",
+    "stars": 2785,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "conceal",
+    "language": "c++",
+    "stars": 2774,
+    "forks": 423,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koekeishiya",
+    "name": "chunkwm",
+    "language": "c++",
+    "stars": 2766,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oclint",
+    "name": "oclint",
+    "language": "c++",
+    "stars": 2765,
+    "forks": 329,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookarchive",
+    "name": "beringei",
+    "language": "c++",
+    "stars": 2745,
+    "forks": 255,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ethereum-mining",
+    "name": "ethminer",
+    "language": "c++",
+    "stars": 2744,
+    "forks": 798,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zerotier",
+    "name": "ZeroTierOne",
+    "language": "c++",
+    "stars": 2742,
+    "forks": 310,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Project-OSRM",
+    "name": "osrm-backend",
+    "language": "c++",
+    "stars": 2684,
+    "forks": 1437,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zaphoyd",
+    "name": "websocketpp",
+    "language": "c++",
+    "stars": 2678,
+    "forks": 915,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "arrow",
+    "language": "c++",
+    "stars": 2667,
+    "forks": 717,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anyRTC",
+    "name": "anyRTC-RTMP-OpenSource",
+    "language": "c++",
+    "stars": 2667,
+    "forks": 964,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PCSX2",
+    "name": "pcsx2",
+    "language": "c++",
+    "stars": 2655,
+    "forks": 525,
+    "default_branch": "master"
+  },
+  {
+    "owner": "XiaoMi",
+    "name": "mace",
+    "language": "c++",
+    "stars": 2648,
+    "forks": 462,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ledger",
+    "name": "ledger",
+    "language": "c++",
+    "stars": 2636,
+    "forks": 319,
+    "default_branch": "next"
+  },
+  {
+    "owner": "nghttp2",
+    "name": "nghttp2",
+    "language": "c++",
+    "stars": 2623,
+    "forks": 492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "me115",
+    "name": "design_patterns",
+    "language": "c++",
+    "stars": 2621,
+    "forks": 801,
+    "default_branch": "master"
+  },
+  {
+    "owner": "halide",
+    "name": "Halide",
+    "language": "c++",
+    "stars": 2616,
+    "forks": 542,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xtaci",
+    "name": "algorithms",
+    "language": "c++",
+    "stars": 2600,
+    "forks": 1010,
+    "default_branch": "master"
+  },
+  {
+    "owner": "haseebr",
+    "name": "competitive-programming",
+    "language": "c++",
+    "stars": 2600,
+    "forks": 1031,
+    "default_branch": "master"
+  },
+  {
+    "owner": "duilib",
+    "name": "duilib",
+    "language": "c++",
+    "stars": 2588,
+    "forks": 1243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gameplay3d",
+    "name": "GamePlay",
+    "language": "c++",
+    "stars": 2565,
+    "forks": 1066,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fibjs",
+    "name": "fibjs",
+    "language": "c++",
+    "stars": 2558,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clab",
+    "name": "dynet",
+    "language": "c++",
+    "stars": 2542,
+    "forks": 586,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FastLED",
+    "name": "FastLED",
+    "language": "c++",
+    "stars": 2541,
+    "forks": 622,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "skia",
+    "language": "c++",
+    "stars": 2540,
+    "forks": 552,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mandliya",
+    "name": "algorithms_and_data_structures",
+    "language": "c++",
+    "stars": 2528,
+    "forks": 432,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "glog",
+    "language": "c++",
+    "stars": 2522,
+    "forks": 1046,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BearishSun",
+    "name": "BansheeEngine",
+    "language": "c++",
+    "stars": 2522,
+    "forks": 301,
+    "default_branch": "master"
+  },
+  {
+    "owner": "urho3d",
+    "name": "Urho3D",
+    "language": "c++",
+    "stars": 2503,
+    "forks": 685,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brndnmtthws",
+    "name": "conky",
+    "language": "c++",
+    "stars": 2496,
+    "forks": 324,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomahawk-player",
+    "name": "tomahawk",
+    "language": "c++",
+    "stars": 2478,
+    "forks": 385,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CPFL",
+    "name": "Autoware",
+    "language": "c++",
+    "stars": 2469,
+    "forks": 1127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emcrisostomo",
+    "name": "fswatch",
+    "language": "c++",
+    "stars": 2467,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swig",
+    "name": "swig",
+    "language": "c++",
+    "stars": 2461,
+    "forks": 667,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cuberite",
+    "name": "cuberite",
+    "language": "c++",
+    "stars": 2460,
+    "forks": 452,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mlpack",
+    "name": "mlpack",
+    "language": "c++",
+    "stars": 2455,
+    "forks": 884,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChrisKnott",
+    "name": "Algojammer",
+    "language": "c++",
+    "stars": 2454,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "draco",
+    "language": "c++",
+    "stars": 2446,
+    "forks": 348,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhongyang219",
+    "name": "TrafficMonitor",
+    "language": "c++",
+    "stars": 2445,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Croteam-official",
+    "name": "Serious-Engine",
+    "language": "c++",
+    "stars": 2442,
+    "forks": 304,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Sigil-Ebook",
+    "name": "Sigil",
+    "language": "c++",
+    "stars": 2441,
+    "forks": 383,
+    "default_branch": "master"
+  },
+  {
+    "owner": "biometrics",
+    "name": "openbr",
+    "language": "c++",
+    "stars": 2418,
+    "forks": 656,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lltcggie",
+    "name": "waifu2x-caffe",
+    "language": "c++",
+    "stars": 2414,
+    "forks": 344,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sysown",
+    "name": "proxysql",
+    "language": "c++",
+    "stars": 2381,
+    "forks": 412,
+    "default_branch": "v2.0.0"
+  },
+  {
+    "owner": "z3t0",
+    "name": "Arduino-IRremote",
+    "language": "c++",
+    "stars": 2376,
+    "forks": 1164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baidu",
+    "name": "bfs",
+    "language": "c++",
+    "stars": 2373,
+    "forks": 481,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nodejs",
+    "name": "nan",
+    "language": "c++",
+    "stars": 2368,
+    "forks": 370,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "zopfli",
+    "language": "c++",
+    "stars": 2361,
+    "forks": 228,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivansafrin",
+    "name": "Polycode",
+    "language": "c++",
+    "stars": 2353,
+    "forks": 355,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenMW",
+    "name": "openmw",
+    "language": "c++",
+    "stars": 2349,
+    "forks": 671,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wjakob",
+    "name": "nanogui",
+    "language": "c++",
+    "stars": 2346,
+    "forks": 395,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pmq20",
+    "name": "node-packer",
+    "language": "c++",
+    "stars": 2345,
+    "forks": 146,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fanout",
+    "name": "pushpin",
+    "language": "c++",
+    "stars": 2337,
+    "forks": 87,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openscad",
+    "name": "openscad",
+    "language": "c++",
+    "stars": 2334,
+    "forks": 591,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "mcrouter",
+    "language": "c++",
+    "stars": 2333,
+    "forks": 408,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookresearch",
+    "name": "StarSpace",
+    "language": "c++",
+    "stars": 2324,
+    "forks": 285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "leethomason",
+    "name": "tinyxml2",
+    "language": "c++",
+    "stars": 2321,
+    "forks": 1005,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmlc",
+    "name": "tvm",
+    "language": "c++",
+    "stars": 2303,
+    "forks": 540,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qgis",
+    "name": "QGIS",
+    "language": "c++",
+    "stars": 2299,
+    "forks": 1347,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "service-fabric",
+    "language": "c++",
+    "stars": 2296,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tstack",
+    "name": "lnav",
+    "language": "c++",
+    "stars": 2293,
+    "forks": 142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ShiqiYu",
+    "name": "libfacedetection",
+    "language": "c++",
+    "stars": 2285,
+    "forks": 998,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Qihoo360",
+    "name": "pika",
+    "language": "c++",
+    "stars": 2279,
+    "forks": 471,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanjay0",
+    "name": "miles-deep",
+    "language": "c++",
+    "stars": 2276,
+    "forks": 257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "recastnavigation",
+    "name": "recastnavigation",
+    "language": "c++",
+    "stars": 2275,
+    "forks": 687,
+    "default_branch": "master"
+  },
+  {
+    "owner": "justadudewhohacks",
+    "name": "opencv4nodejs",
+    "language": "c++",
+    "stars": 2270,
+    "forks": 328,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nanocurrency",
+    "name": "raiblocks",
+    "language": "c++",
+    "stars": 2266,
+    "forks": 507,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rakshasa",
+    "name": "rtorrent",
+    "language": "c++",
+    "stars": 2263,
+    "forks": 278,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pavel-odintsov",
+    "name": "fastnetmon",
+    "language": "c++",
+    "stars": 2263,
+    "forks": 384,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opentoonz",
+    "name": "opentoonz",
+    "language": "c++",
+    "stars": 2261,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shogun-toolbox",
+    "name": "shogun",
+    "language": "c++",
+    "stars": 2258,
+    "forks": 874,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "pytorch",
+    "name": "ELF",
+    "language": "c++",
+    "stars": 2253,
+    "forks": 367,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MariaDB",
+    "name": "server",
+    "language": "c++",
+    "stars": 2253,
+    "forks": 723,
+    "default_branch": "10.4"
+  },
+  {
+    "owner": "arrayfire",
+    "name": "arrayfire",
+    "language": "c++",
+    "stars": 2251,
+    "forks": 339,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CleverRaven",
+    "name": "Cataclysm-DDA",
+    "language": "c++",
+    "stars": 2242,
+    "forks": 1495,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wangyu-",
+    "name": "udp2raw-tunnel",
+    "language": "c++",
+    "stars": 2235,
+    "forks": 454,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LMMS",
+    "name": "lmms",
+    "language": "c++",
+    "stars": 2235,
+    "forks": 436,
+    "default_branch": "stable-1.2"
+  },
+  {
+    "owner": "JoeyDeVries",
+    "name": "LearnOpenGL",
+    "language": "c++",
+    "stars": 2218,
+    "forks": 624,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "wdt",
+    "language": "c++",
+    "stars": 2206,
+    "forks": 345,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "phxsql",
+    "language": "c++",
+    "stars": 2199,
+    "forks": 516,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mapnik",
+    "name": "mapnik",
+    "language": "c++",
+    "stars": 2197,
+    "forks": 634,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codebutler",
+    "name": "firesheep",
+    "language": "c++",
+    "stars": 2191,
+    "forks": 618,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huangyz0918",
+    "name": "Hackintosh-Installer-University",
+    "language": "c++",
+    "stars": 2188,
+    "forks": 291,
+    "default_branch": "master"
+  },
+  {
+    "owner": "supercollider",
+    "name": "supercollider",
+    "language": "c++",
+    "stars": 2178,
+    "forks": 408,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "ValveSoftware",
+    "name": "source-sdk-2013",
+    "language": "c++",
+    "stars": 2176,
+    "forks": 1282,
+    "default_branch": "master"
+  },
+  {
+    "owner": "doxygen",
+    "name": "doxygen",
+    "language": "c++",
+    "stars": 2175,
+    "forks": 618,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wxWidgets",
+    "name": "wxWidgets",
+    "language": "c++",
+    "stars": 2175,
+    "forks": 823,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Lexikos",
+    "name": "AutoHotkey_L",
+    "language": "c++",
+    "stars": 2172,
+    "forks": 381,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jrowberg",
+    "name": "i2cdevlib",
+    "language": "c++",
+    "stars": 2152,
+    "forks": 4956,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MasteringOpenCV",
+    "name": "code",
+    "language": "c++",
+    "stars": 2151,
+    "forks": 1470,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qTox",
+    "name": "qTox",
+    "language": "c++",
+    "stars": 2142,
+    "forks": 569,
+    "default_branch": "master"
+  },
+  {
+    "owner": "goldendict",
+    "name": "goldendict",
+    "language": "c++",
+    "stars": 2140,
+    "forks": 376,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "PhoenixGo",
+    "language": "c++",
+    "stars": 2139,
+    "forks": 405,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PixarAnimationStudios",
+    "name": "OpenSubdiv",
+    "language": "c++",
+    "stars": 2129,
+    "forks": 435,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ziglang",
+    "name": "zig",
+    "language": "c++",
+    "stars": 2128,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dropbox",
+    "name": "djinni",
+    "language": "c++",
+    "stars": 2126,
+    "forks": 331,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LibreVR",
+    "name": "Revive",
+    "language": "c++",
+    "stars": 2116,
+    "forks": 236,
+    "default_branch": "master"
+  },
+  {
+    "owner": "farbrausch",
+    "name": "fr_public",
+    "language": "c++",
+    "stars": 2105,
+    "forks": 251,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AtomicGameEngine",
+    "name": "AtomicGameEngine",
+    "language": "c++",
+    "stars": 2099,
+    "forks": 419,
+    "default_branch": "master"
+  },
+  {
+    "owner": "llvm-mirror",
+    "name": "clang",
+    "language": "c++",
+    "stars": 2096,
+    "forks": 1263,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wangyu-",
+    "name": "UDPspeeder",
+    "language": "c++",
+    "stars": 2095,
+    "forks": 373,
+    "default_branch": "branch_libev"
+  },
+  {
+    "owner": "wuye9036",
+    "name": "CppTemplateTutorial",
+    "language": "c++",
+    "stars": 2094,
+    "forks": 428,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xmrig",
+    "name": "xmrig",
+    "language": "c++",
+    "stars": 2089,
+    "forks": 904,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "wangle",
+    "language": "c++",
+    "stars": 2087,
+    "forks": 359,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PX4",
+    "name": "Firmware",
+    "language": "c++",
+    "stars": 2085,
+    "forks": 6154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crosswalk-project",
+    "name": "crosswalk",
+    "language": "c++",
+    "stars": 2080,
+    "forks": 544,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NixOS",
+    "name": "nix",
+    "language": "c++",
+    "stars": 2077,
+    "forks": 378,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chengr28",
+    "name": "Pcap_DNSProxy",
+    "language": "c++",
+    "stars": 2075,
+    "forks": 377,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mumble-voip",
+    "name": "mumble",
+    "language": "c++",
+    "stars": 2075,
+    "forks": 573,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudera",
+    "name": "Impala",
+    "language": "c++",
+    "stars": 2073,
+    "forks": 801,
+    "default_branch": "cdh5-trunk"
+  },
+  {
+    "owner": "Tencent",
+    "name": "phxpaxos",
+    "language": "c++",
+    "stars": 2052,
+    "forks": 607,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wesnoth",
+    "name": "wesnoth",
+    "language": "c++",
+    "stars": 2044,
+    "forks": 487,
+    "default_branch": "master"
+  },
+  {
+    "owner": "forhappy",
+    "name": "Cplusplus-Concurrency-In-Practice",
+    "language": "c++",
+    "stars": 2042,
+    "forks": 832,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mit-nlp",
+    "name": "MITIE",
+    "language": "c++",
+    "stars": 2031,
+    "forks": 403,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clementine-player",
+    "name": "Clementine",
+    "language": "c++",
+    "stars": 2014,
+    "forks": 412,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aksnzhy",
+    "name": "xlearn",
+    "language": "c++",
+    "stars": 2005,
+    "forks": 305,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mosra",
+    "name": "magnum",
+    "language": "c++",
+    "stars": 2001,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thrust",
+    "name": "thrust",
+    "language": "c++",
+    "stars": 1995,
+    "forks": 419,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dogecoin",
+    "name": "dogecoin",
+    "language": "c++",
+    "stars": 1993,
+    "forks": 812,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "DirectX-Graphics-Samples",
+    "language": "c++",
+    "stars": 1985,
+    "forks": 754,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anbox",
+    "name": "anbox",
+    "language": "c++",
+    "stars": 1968,
+    "forks": 449,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mozilla",
+    "name": "rhino",
+    "language": "c++",
+    "stars": 1951,
+    "forks": 490,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mltframework",
+    "name": "shotcut",
+    "language": "c++",
+    "stars": 1946,
+    "forks": 228,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lupoDharkael",
+    "name": "flameshot",
+    "language": "c++",
+    "stars": 1944,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "IntelRealSense",
+    "name": "librealsense",
+    "language": "c++",
+    "stars": 1942,
+    "forks": 1184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CppCon",
+    "name": "CppCon2014",
+    "language": "c++",
+    "stars": 1939,
+    "forks": 364,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mbasso",
+    "name": "asm-dom",
+    "language": "c++",
+    "stars": 1930,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "XProger",
+    "name": "OpenLara",
+    "language": "c++",
+    "stars": 1930,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "whoshuu",
+    "name": "cpr",
+    "language": "c++",
+    "stars": 1929,
+    "forks": 317,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flutter",
+    "name": "engine",
+    "language": "c++",
+    "stars": 1928,
+    "forks": 731,
+    "default_branch": "master"
+  },
+  {
+    "owner": "koth",
+    "name": "kcws",
+    "language": "c++",
+    "stars": 1926,
+    "forks": 662,
+    "default_branch": "master"
+  },
+  {
+    "owner": "slic3r",
+    "name": "Slic3r",
+    "language": "c++",
+    "stars": 1925,
+    "forks": 1084,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danmar",
+    "name": "cppcheck",
+    "language": "c++",
+    "stars": 1925,
+    "forks": 600,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MailCore",
+    "name": "mailcore2",
+    "language": "c++",
+    "stars": 1924,
+    "forks": 486,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yue",
+    "name": "yue",
+    "language": "c++",
+    "stars": 1916,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ValveSoftware",
+    "name": "ToGL",
+    "language": "c++",
+    "stars": 1908,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lloyd",
+    "name": "node-memwatch",
+    "language": "c++",
+    "stars": 1898,
+    "forks": 204,
+    "default_branch": "master"
+  },
+  {
+    "owner": "audreyt",
+    "name": "node-webworker-threads",
+    "language": "c++",
+    "stars": 1898,
+    "forks": 131,
+    "default_branch": "master"
+  },
+  {
+    "owner": "weolar",
+    "name": "miniblink49",
+    "language": "c++",
+    "stars": 1890,
+    "forks": 316,
+    "default_branch": "master"
+  },
+  {
+    "owner": "runner365",
+    "name": "LiveVideoCoreSDK",
+    "language": "c++",
+    "stars": 1889,
+    "forks": 580,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gaoxiang12",
+    "name": "slambook",
+    "language": "c++",
+    "stars": 1887,
+    "forks": 1226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openMVG",
+    "name": "openMVG",
+    "language": "c++",
+    "stars": 1886,
+    "forks": 834,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "Surround360",
+    "language": "c++",
+    "stars": 1877,
+    "forks": 528,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmp",
+    "name": "pbrt-v3",
+    "language": "c++",
+    "stars": 1871,
+    "forks": 530,
+    "default_branch": "master"
+  },
+  {
+    "owner": "muflihun",
+    "name": "easyloggingpp",
+    "language": "c++",
+    "stars": 1871,
+    "forks": 529,
+    "default_branch": "master"
+  },
+  {
+    "owner": "runtimejs",
+    "name": "runtime",
+    "language": "c++",
+    "stars": 1868,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "bond",
+    "language": "c++",
+    "stars": 1864,
+    "forks": 246,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thestinger",
+    "name": "termite",
+    "language": "c++",
+    "stars": 1863,
+    "forks": 170,
+    "default_branch": "master"
+  },
+  {
+    "owner": "blynkkk",
+    "name": "blynk-library",
+    "language": "c++",
+    "stars": 1859,
+    "forks": 481,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wesm",
+    "name": "feather",
+    "language": "c++",
+    "stars": 1859,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ericniebler",
+    "name": "range-v3",
+    "language": "c++",
+    "stars": 1850,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "knolleary",
+    "name": "pubsubclient",
+    "language": "c++",
+    "stars": 1850,
+    "forks": 822,
+    "default_branch": "master"
+  },
+  {
+    "owner": "audiorouterdev",
+    "name": "audio-router",
+    "language": "c++",
+    "stars": 1850,
+    "forks": 231,
+    "default_branch": "open"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "ELL",
+    "language": "c++",
+    "stars": 1847,
+    "forks": 252,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maestron",
+    "name": "botnets",
+    "language": "c++",
+    "stars": 1846,
+    "forks": 344,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carla-simulator",
+    "name": "carla",
+    "language": "c++",
+    "stars": 1812,
+    "forks": 431,
+    "default_branch": "master"
+  },
+  {
+    "owner": "VCVRack",
+    "name": "Rack",
+    "language": "c++",
+    "stars": 1801,
+    "forks": 194,
+    "default_branch": "v0.6"
+  },
+  {
+    "owner": "facebookresearch",
+    "name": "ELF",
+    "language": "c++",
+    "stars": 1800,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uber",
+    "name": "pyflame",
+    "language": "c++",
+    "stars": 1790,
+    "forks": 115,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yedf",
+    "name": "handy",
+    "language": "c++",
+    "stars": 1788,
+    "forks": 738,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "jsonnet",
+    "language": "c++",
+    "stars": 1785,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zdevito",
+    "name": "terra",
+    "language": "c++",
+    "stars": 1773,
+    "forks": 142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uncrustify",
+    "name": "uncrustify",
+    "language": "c++",
+    "stars": 1765,
+    "forks": 360,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trevorlinton",
+    "name": "webkit.js",
+    "language": "c++",
+    "stars": 1765,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wheybags",
+    "name": "freeablo",
+    "language": "c++",
+    "stars": 1763,
+    "forks": 166,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cquery-project",
+    "name": "cquery",
+    "language": "c++",
+    "stars": 1761,
+    "forks": 123,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lynckia",
+    "name": "licode",
+    "language": "c++",
+    "stars": 1758,
+    "forks": 725,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shaih",
+    "name": "HElib",
+    "language": "c++",
+    "stars": 1757,
+    "forks": 383,
+    "default_branch": "master"
+  },
+  {
+    "owner": "johang",
+    "name": "btfs",
+    "language": "c++",
+    "stars": 1755,
+    "forks": 85,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookincubator",
+    "name": "katran",
+    "language": "c++",
+    "stars": 1752,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wang-bin",
+    "name": "QtAV",
+    "language": "c++",
+    "stars": 1738,
+    "forks": 839,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baidu",
+    "name": "sofa-pbrpc",
+    "language": "c++",
+    "stars": 1736,
+    "forks": 613,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jolibrain",
+    "name": "deepdetect",
+    "language": "c++",
+    "stars": 1725,
+    "forks": 408,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ketoo",
+    "name": "NoahGameFrame",
+    "language": "c++",
+    "stars": 1722,
+    "forks": 569,
+    "default_branch": "master"
+  },
+  {
+    "owner": "progschj",
+    "name": "ThreadPool",
+    "language": "c++",
+    "stars": 1712,
+    "forks": 650,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openthread",
+    "name": "openthread",
+    "language": "c++",
+    "stars": 1704,
+    "forks": 508,
+    "default_branch": "master"
+  },
+  {
+    "owner": "USCiLab",
+    "name": "cereal",
+    "language": "c++",
+    "stars": 1698,
+    "forks": 338,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grpc",
+    "name": "grpc-web",
+    "language": "c++",
+    "stars": 1689,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "bloaty",
+    "language": "c++",
+    "stars": 1687,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Y-Vladimir",
+    "name": "SmartDeblur",
+    "language": "c++",
+    "stars": 1685,
+    "forks": 284,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huihut",
+    "name": "interview",
+    "language": "c++",
+    "stars": 1680,
+    "forks": 497,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jarulraj",
+    "name": "sqlcheck",
+    "language": "c++",
+    "stars": 1674,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HIT-SCIR",
+    "name": "ltp",
+    "language": "c++",
+    "stars": 1671,
+    "forks": 582,
+    "default_branch": "master"
+  },
+  {
+    "owner": "omnisci",
+    "name": "mapd-core",
+    "language": "c++",
+    "stars": 1671,
+    "forks": 235,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tjanczuk",
+    "name": "iisnode",
+    "language": "c++",
+    "stars": 1670,
+    "forks": 421,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steemit",
+    "name": "steem",
+    "language": "c++",
+    "stars": 1663,
+    "forks": 656,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dropbox",
+    "name": "json11",
+    "language": "c++",
+    "stars": 1661,
+    "forks": 396,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter-forks",
+    "name": "mysql",
+    "language": "c++",
+    "stars": 1652,
+    "forks": 433,
+    "default_branch": "master"
+  },
+  {
+    "owner": "actor-framework",
+    "name": "actor-framework",
+    "language": "c++",
+    "stars": 1649,
+    "forks": 309,
+    "default_branch": "master"
+  },
+  {
+    "owner": "endless-sky",
+    "name": "endless-sky",
+    "language": "c++",
+    "stars": 1628,
+    "forks": 419,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kripken",
+    "name": "ammo.js",
+    "language": "c++",
+    "stars": 1619,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pgmodeler",
+    "name": "pgmodeler",
+    "language": "c++",
+    "stars": 1619,
+    "forks": 239,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "eidheim",
+    "name": "Simple-Web-Server",
+    "language": "c++",
+    "stars": 1618,
+    "forks": 541,
+    "default_branch": "master"
+  },
+  {
+    "owner": "boostorg",
+    "name": "beast",
+    "language": "c++",
+    "stars": 1615,
+    "forks": 272,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "baidu",
+    "name": "tera",
+    "language": "c++",
+    "stars": 1614,
+    "forks": 422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maciejczyzewski",
+    "name": "libchaos",
+    "language": "c++",
+    "stars": 1610,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "sentencepiece",
+    "language": "c++",
+    "stars": 1605,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Grive",
+    "name": "grive",
+    "language": "c++",
+    "stars": 1601,
+    "forks": 355,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jpmorganchase",
+    "name": "perspective",
+    "language": "c++",
+    "stars": 1596,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "phxqueue",
+    "language": "c++",
+    "stars": 1591,
+    "forks": 277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cowboyd",
+    "name": "therubyracer",
+    "language": "c++",
+    "stars": 1590,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PixarAnimationStudios",
+    "name": "USD",
+    "language": "c++",
+    "stars": 1584,
+    "forks": 309,
+    "default_branch": "master"
+  },
+  {
+    "owner": "matt-42",
+    "name": "silicon",
+    "language": "c++",
+    "stars": 1582,
+    "forks": 116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nem0",
+    "name": "LumixEngine",
+    "language": "c++",
+    "stars": 1571,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tum-vision",
+    "name": "lsd_slam",
+    "language": "c++",
+    "stars": 1568,
+    "forks": 987,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cocos2d",
+    "name": "cocos2d-js",
+    "language": "c++",
+    "stars": 1564,
+    "forks": 497,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "hteso",
+    "name": "iaito",
+    "language": "c++",
+    "stars": 1562,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mkeeter",
+    "name": "antimony",
+    "language": "c++",
+    "stars": 1562,
+    "forks": 104,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "google",
+    "name": "sling",
+    "language": "c++",
+    "stars": 1555,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apitrace",
+    "name": "apitrace",
+    "language": "c++",
+    "stars": 1555,
+    "forks": 300,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmlc",
+    "name": "nnvm",
+    "language": "c++",
+    "stars": 1554,
+    "forks": 281,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chriskohlhoff",
+    "name": "asio",
+    "language": "c++",
+    "stars": 1552,
+    "forks": 499,
+    "default_branch": "master"
+  },
+  {
+    "owner": "asmjit",
+    "name": "asmjit",
+    "language": "c++",
+    "stars": 1551,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kitt-AI",
+    "name": "snowboy",
+    "language": "c++",
+    "stars": 1551,
+    "forks": 410,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "xcbuild",
+    "language": "c++",
+    "stars": 1550,
+    "forks": 128,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rainmeter",
+    "name": "rainmeter",
+    "language": "c++",
+    "stars": 1547,
+    "forks": 366,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plaidml",
+    "name": "plaidml",
+    "language": "c++",
+    "stars": 1545,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pezy",
+    "name": "LeetCode",
+    "language": "c++",
+    "stars": 1544,
+    "forks": 576,
+    "default_branch": "master"
+  },
+  {
+    "owner": "artoolkit",
+    "name": "artoolkit5",
+    "language": "c++",
+    "stars": 1544,
+    "forks": 672,
+    "default_branch": "master"
+  },
+  {
+    "owner": "znc",
+    "name": "znc",
+    "language": "c++",
+    "stars": 1536,
+    "forks": 338,
+    "default_branch": "master"
+  },
+  {
+    "owner": "floooh",
+    "name": "oryol",
+    "language": "c++",
+    "stars": 1536,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zeux",
+    "name": "pugixml",
+    "language": "c++",
+    "stars": 1534,
+    "forks": 290,
+    "default_branch": "master"
+  },
+  {
+    "owner": "parro-it",
+    "name": "libui-node",
+    "language": "c++",
+    "stars": 1533,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spring",
+    "name": "spring",
+    "language": "c++",
+    "stars": 1533,
+    "forks": 557,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "adafruit",
+    "name": "Adafruit_NeoPixel",
+    "language": "c++",
+    "stars": 1529,
+    "forks": 700,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arvidn",
+    "name": "libtorrent",
+    "language": "c++",
+    "stars": 1524,
+    "forks": 425,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "fbthrift",
+    "language": "c++",
+    "stars": 1514,
+    "forks": 371,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seenaburns",
+    "name": "dex-ui",
+    "language": "c++",
+    "stars": 1509,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CppCon",
+    "name": "CppCon2016",
+    "language": "c++",
+    "stars": 1505,
+    "forks": 212,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hluk",
+    "name": "CopyQ",
+    "language": "c++",
+    "stars": 1503,
+    "forks": 116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlecreativelab",
+    "name": "open-nsynth-super",
+    "language": "c++",
+    "stars": 1503,
+    "forks": 142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-singa",
+    "language": "c++",
+    "stars": 1501,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ROCm-Developer-Tools",
+    "name": "HIP",
+    "language": "c++",
+    "stars": 1501,
+    "forks": 202,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tdlib",
+    "name": "td",
+    "language": "c++",
+    "stars": 1501,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LordNoteworthy",
+    "name": "al-khaser",
+    "language": "c++",
+    "stars": 1494,
+    "forks": 406,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baidu",
+    "name": "Familia",
+    "language": "c++",
+    "stars": 1487,
+    "forks": 400,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CppCon",
+    "name": "CppCon2015",
+    "language": "c++",
+    "stars": 1485,
+    "forks": 279,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Qihoo360",
+    "name": "QConf",
+    "language": "c++",
+    "stars": 1482,
+    "forks": 466,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wjakob",
+    "name": "instant-meshes",
+    "language": "c++",
+    "stars": 1480,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Nevcairiel",
+    "name": "LAVFilters",
+    "language": "c++",
+    "stars": 1473,
+    "forks": 265,
+    "default_branch": "master"
+  },
+  {
+    "owner": "milostosic",
+    "name": "MTuner",
+    "language": "c++",
+    "stars": 1465,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "oceanbase",
+    "language": "c++",
+    "stars": 1464,
+    "forks": 639,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gatieme",
+    "name": "CodingInterviews",
+    "language": "c++",
+    "stars": 1463,
+    "forks": 417,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Subsurface-divelog",
+    "name": "subsurface",
+    "language": "c++",
+    "stars": 1461,
+    "forks": 369,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jmoon018",
+    "name": "PacVim",
+    "language": "c++",
+    "stars": 1458,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "msgpack",
+    "name": "msgpack-c",
+    "language": "c++",
+    "stars": 1452,
+    "forks": 560,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ReactiveX",
+    "name": "RxCpp",
+    "language": "c++",
+    "stars": 1449,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cmu-db",
+    "name": "peloton",
+    "language": "c++",
+    "stars": 1448,
+    "forks": 532,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgh-",
+    "name": "VideoCore-Inactive",
+    "language": "c++",
+    "stars": 1447,
+    "forks": 532,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iagox86",
+    "name": "dnscat2",
+    "language": "c++",
+    "stars": 1442,
+    "forks": 310,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cvxgrp",
+    "name": "cvxpy",
+    "language": "c++",
+    "stars": 1439,
+    "forks": 427,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "mysql-5.6",
+    "language": "c++",
+    "stars": 1438,
+    "forks": 476,
+    "default_branch": "fb-mysql-5.6.35"
+  },
+  {
+    "owner": "ShapeLab",
+    "name": "SwarmUI",
+    "language": "c++",
+    "stars": 1438,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "charto",
+    "name": "nbind",
+    "language": "c++",
+    "stars": 1436,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clangen",
+    "name": "musikcube",
+    "language": "c++",
+    "stars": 1432,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChaiScript",
+    "name": "ChaiScript",
+    "language": "c++",
+    "stars": 1432,
+    "forks": 200,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "libigl",
+    "name": "libigl",
+    "language": "c++",
+    "stars": 1430,
+    "forks": 490,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GarageGames",
+    "name": "Torque2D",
+    "language": "c++",
+    "stars": 1430,
+    "forks": 1680,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ctubio",
+    "name": "Krypto-trading-bot",
+    "language": "c++",
+    "stars": 1427,
+    "forks": 395,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ThePowderToy",
+    "name": "The-Powder-Toy",
+    "language": "c++",
+    "stars": 1424,
+    "forks": 505,
+    "default_branch": "master"
+  },
+  {
+    "owner": "netease-youdao",
+    "name": "hex",
+    "language": "c++",
+    "stars": 1424,
+    "forks": 302,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DarthTon",
+    "name": "Blackbone",
+    "language": "c++",
+    "stars": 1423,
+    "forks": 528,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vczh-libraries",
+    "name": "GacUI",
+    "language": "c++",
+    "stars": 1421,
+    "forks": 236,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sphinxsearch",
+    "name": "sphinx",
+    "language": "c++",
+    "stars": 1411,
+    "forks": 335,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ry",
+    "name": "v8worker",
+    "language": "c++",
+    "stars": 1409,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chukong",
+    "name": "quick-cocos2d-x",
+    "language": "c++",
+    "stars": 1406,
+    "forks": 893,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Aloshi",
+    "name": "EmulationStation",
+    "language": "c++",
+    "stars": 1405,
+    "forks": 597,
+    "default_branch": "master"
+  },
+  {
+    "owner": "weidai11",
+    "name": "cryptopp",
+    "language": "c++",
+    "stars": 1403,
+    "forks": 467,
+    "default_branch": "master"
+  },
+  {
+    "owner": "simongog",
+    "name": "sdsl-lite",
+    "language": "c++",
+    "stars": 1403,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tdenniston",
+    "name": "bish",
+    "language": "c++",
+    "stars": 1400,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PowerDNS",
+    "name": "pdns",
+    "language": "c++",
+    "stars": 1399,
+    "forks": 461,
+    "default_branch": "master"
+  },
+  {
+    "owner": "joeferner",
+    "name": "node-java",
+    "language": "c++",
+    "stars": 1399,
+    "forks": 198,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gnuradio",
+    "name": "gnuradio",
+    "language": "c++",
+    "stars": 1392,
+    "forks": 881,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ideawu",
+    "name": "icomet",
+    "language": "c++",
+    "stars": 1392,
+    "forks": 500,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ue4plugins",
+    "name": "StreetMap",
+    "language": "c++",
+    "stars": 1391,
+    "forks": 187,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Qihoo360",
+    "name": "evpp",
+    "language": "c++",
+    "stars": 1390,
+    "forks": 463,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vgvassilev",
+    "name": "cling",
+    "language": "c++",
+    "stars": 1381,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "butteraugli",
+    "language": "c++",
+    "stars": 1380,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arturadib",
+    "name": "node-qt",
+    "language": "c++",
+    "stars": 1375,
+    "forks": 168,
+    "default_branch": "master"
+  },
+  {
+    "owner": "intel",
+    "name": "hyperscan",
+    "language": "c++",
+    "stars": 1374,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ValveSoftware",
+    "name": "halflife",
+    "language": "c++",
+    "stars": 1374,
+    "forks": 340,
+    "default_branch": "master"
+  },
+  {
+    "owner": "onqtam",
+    "name": "doctest",
+    "language": "c++",
+    "stars": 1374,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "flutter-desktop-embedding",
+    "language": "c++",
+    "stars": 1373,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookresearch",
+    "name": "TensorComprehensions",
+    "language": "c++",
+    "stars": 1368,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "miguelbalboa",
+    "name": "rfid",
+    "language": "c++",
+    "stars": 1358,
+    "forks": 812,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ValveSoftware",
+    "name": "vogl",
+    "language": "c++",
+    "stars": 1354,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Blizzard",
+    "name": "s2client-api",
+    "language": "c++",
+    "stars": 1350,
+    "forks": 242,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Andersbakken",
+    "name": "rtags",
+    "language": "c++",
+    "stars": 1349,
+    "forks": 232,
+    "default_branch": "master"
+  },
+  {
+    "owner": "acaudwell",
+    "name": "Logstalgia",
+    "language": "c++",
+    "stars": 1344,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jwise",
+    "name": "HoRNDIS",
+    "language": "c++",
+    "stars": 1344,
+    "forks": 147,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pezy",
+    "name": "CppPrimer",
+    "language": "c++",
+    "stars": 1343,
+    "forks": 992,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yyzybb537",
+    "name": "libgo",
+    "language": "c++",
+    "stars": 1339,
+    "forks": 388,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MrKepzie",
+    "name": "Natron",
+    "language": "c++",
+    "stars": 1335,
+    "forks": 188,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookincubator",
+    "name": "LogDevice",
+    "language": "c++",
+    "stars": 1332,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "ion",
+    "language": "c++",
+    "stars": 1331,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xuelangZF",
+    "name": "CS_Offer",
+    "language": "c++",
+    "stars": 1329,
+    "forks": 447,
+    "default_branch": "master"
+  },
+  {
+    "owner": "clasp-developers",
+    "name": "clasp",
+    "language": "c++",
+    "stars": 1326,
+    "forks": 95,
+    "default_branch": "master"
+  },
+  {
+    "owner": "miguelfreitas",
+    "name": "twister-core",
+    "language": "c++",
+    "stars": 1322,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fuchsia-mirror",
+    "name": "zircon",
+    "language": "c++",
+    "stars": 1322,
+    "forks": 201,
+    "default_branch": "master"
+  },
+  {
+    "owner": "manuelruder",
+    "name": "artistic-videos",
+    "language": "c++",
+    "stars": 1320,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OculusVR",
+    "name": "Flicks",
+    "language": "c++",
+    "stars": 1319,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dotnet",
+    "name": "llilc",
+    "language": "c++",
+    "stars": 1312,
+    "forks": 133,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jvm-profiling-tools",
+    "name": "async-profiler",
+    "language": "c++",
+    "stars": 1304,
+    "forks": 151,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vgough",
+    "name": "encfs",
+    "language": "c++",
+    "stars": 1301,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zeusees",
+    "name": "HyperLPR",
+    "language": "c++",
+    "stars": 1298,
+    "forks": 610,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alecthomas",
+    "name": "entityx",
+    "language": "c++",
+    "stars": 1297,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "helio-fm",
+    "name": "helio-workstation",
+    "language": "c++",
+    "stars": 1297,
+    "forks": 46,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "rescrv",
+    "name": "HyperDex",
+    "language": "c++",
+    "stars": 1293,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "asLody",
+    "name": "TurboDex",
+    "language": "c++",
+    "stars": 1288,
+    "forks": 257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "panda3d",
+    "name": "panda3d",
+    "language": "c++",
+    "stars": 1279,
+    "forks": 388,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qdore",
+    "name": "Mutate",
+    "language": "c++",
+    "stars": 1278,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChenglongChen",
+    "name": "Kaggle_CrowdFlower",
+    "language": "c++",
+    "stars": 1276,
+    "forks": 581,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bruderstein",
+    "name": "nppPluginManager",
+    "language": "c++",
+    "stars": 1273,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "simbody",
+    "name": "simbody",
+    "language": "c++",
+    "stars": 1273,
+    "forks": 332,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yanyiwu",
+    "name": "cppjieba",
+    "language": "c++",
+    "stars": 1269,
+    "forks": 431,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ThePhD",
+    "name": "sol2",
+    "language": "c++",
+    "stars": 1267,
+    "forks": 144,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "openai",
+    "name": "retro",
+    "language": "c++",
+    "stars": 1265,
+    "forks": 146,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cztomczak",
+    "name": "cefpython",
+    "language": "c++",
+    "stars": 1259,
+    "forks": 205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Hawstein",
+    "name": "cracking-the-coding-interview",
+    "language": "c++",
+    "stars": 1258,
+    "forks": 608,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rexdex",
+    "name": "recompiler",
+    "language": "c++",
+    "stars": 1257,
+    "forks": 75,
+    "default_branch": "master"
+  },
+  {
+    "owner": "0ad",
+    "name": "0ad",
+    "language": "c++",
+    "stars": 1253,
+    "forks": 285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "letscontrolit",
+    "name": "ESPEasy",
+    "language": "c++",
+    "stars": 1253,
+    "forks": 907,
+    "default_branch": "mega"
+  },
+  {
+    "owner": "OpenKinect",
+    "name": "libfreenect2",
+    "language": "c++",
+    "stars": 1244,
+    "forks": 551,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sebastianstarke",
+    "name": "AI4Animation",
+    "language": "c++",
+    "stars": 1243,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yuanming-hu",
+    "name": "taichi",
+    "language": "c++",
+    "stars": 1240,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JACoders",
+    "name": "OpenJK",
+    "language": "c++",
+    "stars": 1236,
+    "forks": 402,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WeAreROLI",
+    "name": "JUCE",
+    "language": "c++",
+    "stars": 1236,
+    "forks": 575,
+    "default_branch": "master"
+  },
+  {
+    "owner": "syoyo",
+    "name": "tinyobjloader",
+    "language": "c++",
+    "stars": 1234,
+    "forks": 260,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opengl-tutorials",
+    "name": "ogl",
+    "language": "c++",
+    "stars": 1231,
+    "forks": 483,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "Pyjion",
+    "language": "c++",
+    "stars": 1230,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WebAssembly",
+    "name": "wabt",
+    "language": "c++",
+    "stars": 1225,
+    "forks": 161,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guillaumechereau",
+    "name": "goxel",
+    "language": "c++",
+    "stars": 1220,
+    "forks": 94,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nRF24",
+    "name": "RF24",
+    "language": "c++",
+    "stars": 1215,
+    "forks": 553,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TangXiaoLv",
+    "name": "TelegramGallery",
+    "language": "c++",
+    "stars": 1212,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Valloric",
+    "name": "ycmd",
+    "language": "c++",
+    "stars": 1211,
+    "forks": 620,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gflags",
+    "name": "gflags",
+    "language": "c++",
+    "stars": 1208,
+    "forks": 448,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bwapi",
+    "name": "bwapi",
+    "language": "c++",
+    "stars": 1208,
+    "forks": 206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yinqiwen",
+    "name": "ardb",
+    "language": "c++",
+    "stars": 1207,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ccMSC",
+    "name": "ckb",
+    "language": "c++",
+    "stars": 1206,
+    "forks": 169,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zeroc-ice",
+    "name": "ice",
+    "language": "c++",
+    "stars": 1199,
+    "forks": 411,
+    "default_branch": "3.7"
+  },
+  {
+    "owner": "include-what-you-use",
+    "name": "include-what-you-use",
+    "language": "c++",
+    "stars": 1199,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhihu",
+    "name": "kids",
+    "language": "c++",
+    "stars": 1198,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KDE",
+    "name": "krita",
+    "language": "c++",
+    "stars": 1196,
+    "forks": 147,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LUX-Core",
+    "name": "lux",
+    "language": "c++",
+    "stars": 1195,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mfontanini",
+    "name": "libtins",
+    "language": "c++",
+    "stars": 1188,
+    "forks": 232,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aras-p",
+    "name": "glsl-optimizer",
+    "language": "c++",
+    "stars": 1184,
+    "forks": 315,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "nsjail",
+    "language": "c++",
+    "stars": 1180,
+    "forks": 133,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lballabio",
+    "name": "QuantLib",
+    "language": "c++",
+    "stars": 1179,
+    "forks": 641,
+    "default_branch": "master"
+  },
+  {
+    "owner": "x64dbg",
+    "name": "ScyllaHide",
+    "language": "c++",
+    "stars": 1179,
+    "forks": 76,
+    "default_branch": "vs13"
+  },
+  {
+    "owner": "openscenegraph",
+    "name": "OpenSceneGraph",
+    "language": "c++",
+    "stars": 1178,
+    "forks": 720,
+    "default_branch": "master"
+  },
+  {
+    "owner": "csete",
+    "name": "gqrx",
+    "language": "c++",
+    "stars": 1177,
+    "forks": 282,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jbeder",
+    "name": "yaml-cpp",
+    "language": "c++",
+    "stars": 1175,
+    "forks": 406,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenNI",
+    "name": "OpenNI",
+    "language": "c++",
+    "stars": 1173,
+    "forks": 594,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rbock",
+    "name": "sqlpp11",
+    "language": "c++",
+    "stars": 1170,
+    "forks": 182,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "AndreaOrru",
+    "name": "LaiNES",
+    "language": "c++",
+    "stars": 1170,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cameron314",
+    "name": "readerwriterqueue",
+    "language": "c++",
+    "stars": 1164,
+    "forks": 287,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RuntimeCompiledCPlusPlus",
+    "name": "RuntimeCompiledCPlusPlus",
+    "language": "c++",
+    "stars": 1162,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fritzing",
+    "name": "fritzing-app",
+    "language": "c++",
+    "stars": 1159,
+    "forks": 287,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brpc",
+    "name": "braft",
+    "language": "c++",
+    "stars": 1156,
+    "forks": 247,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fetlang",
+    "name": "fetlang",
+    "language": "c++",
+    "stars": 1154,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libmx3",
+    "name": "mx3",
+    "language": "c++",
+    "stars": 1153,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MaartenBaert",
+    "name": "ssr",
+    "language": "c++",
+    "stars": 1152,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mixxxdj",
+    "name": "mixxx",
+    "language": "c++",
+    "stars": 1150,
+    "forks": 543,
+    "default_branch": "master"
+  },
+  {
+    "owner": "badaix",
+    "name": "snapcast",
+    "language": "c++",
+    "stars": 1149,
+    "forks": 148,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fatih",
+    "name": "subvim",
+    "language": "c++",
+    "stars": 1147,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomlooman",
+    "name": "EpicSurvivalGameSeries",
+    "language": "c++",
+    "stars": 1146,
+    "forks": 708,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dusty-nv",
+    "name": "jetson-inference",
+    "language": "c++",
+    "stars": 1143,
+    "forks": 504,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TorchCraft",
+    "name": "TorchCraft",
+    "language": "c++",
+    "stars": 1143,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DeNA",
+    "name": "HandlerSocket-Plugin-for-MySQL",
+    "language": "c++",
+    "stars": 1142,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nmslib",
+    "name": "nmslib",
+    "language": "c++",
+    "stars": 1142,
+    "forks": 203,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ReadyTalk",
+    "name": "avian",
+    "language": "c++",
+    "stars": 1141,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kylemcdonald",
+    "name": "ofxFaceTracker",
+    "language": "c++",
+    "stars": 1141,
+    "forks": 343,
+    "default_branch": "master"
+  },
+  {
+    "owner": "appleseedhq",
+    "name": "appleseed",
+    "language": "c++",
+    "stars": 1140,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gioblu",
+    "name": "PJON",
+    "language": "c++",
+    "stars": 1138,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raboof",
+    "name": "nethogs",
+    "language": "c++",
+    "stars": 1138,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "socketio",
+    "name": "socket.io-client-cpp",
+    "language": "c++",
+    "stars": 1137,
+    "forks": 356,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kostya",
+    "name": "benchmarks",
+    "language": "c++",
+    "stars": 1137,
+    "forks": 140,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "microsoft-pdb",
+    "language": "c++",
+    "stars": 1136,
+    "forks": 162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "khizmax",
+    "name": "libcds",
+    "language": "c++",
+    "stars": 1135,
+    "forks": 195,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mcostalba",
+    "name": "Stockfish",
+    "language": "c++",
+    "stars": 1135,
+    "forks": 1065,
+    "default_branch": "master"
+  },
+  {
+    "owner": "happynear",
+    "name": "caffe-windows",
+    "language": "c++",
+    "stars": 1134,
+    "forks": 592,
+    "default_branch": "ms"
+  },
+  {
+    "owner": "HowardHinnant",
+    "name": "date",
+    "language": "c++",
+    "stars": 1133,
+    "forks": 242,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aoapc-book",
+    "name": "aoapc-bac2nd",
+    "language": "c++",
+    "stars": 1132,
+    "forks": 673,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wangyu-",
+    "name": "tinyfecVPN",
+    "language": "c++",
+    "stars": 1131,
+    "forks": 235,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Yelp",
+    "name": "MOE",
+    "language": "c++",
+    "stars": 1130,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "x64dbg",
+    "name": "GleeBug",
+    "language": "c++",
+    "stars": 1127,
+    "forks": 16,
+    "default_branch": "master"
+  },
+  {
+    "owner": "d5",
+    "name": "node.native",
+    "language": "c++",
+    "stars": 1127,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "argman",
+    "name": "EAST",
+    "language": "c++",
+    "stars": 1123,
+    "forks": 443,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HKUST-Aerial-Robotics",
+    "name": "VINS-Mono",
+    "language": "c++",
+    "stars": 1117,
+    "forks": 737,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tqchen",
+    "name": "tinyflow",
+    "language": "c++",
+    "stars": 1112,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "angle",
+    "language": "c++",
+    "stars": 1111,
+    "forks": 266,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "fruit",
+    "language": "c++",
+    "stars": 1109,
+    "forks": 146,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hzeller",
+    "name": "rpi-rgb-led-matrix",
+    "language": "c++",
+    "stars": 1107,
+    "forks": 464,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zhedahht",
+    "name": "CodingInterviewChinese2",
+    "language": "c++",
+    "stars": 1105,
+    "forks": 663,
+    "default_branch": "master"
+  },
+  {
+    "owner": "discordapp",
+    "name": "lilliput",
+    "language": "c++",
+    "stars": 1102,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KhronosGroup",
+    "name": "Vulkan-Hpp",
+    "language": "c++",
+    "stars": 1102,
+    "forks": 101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andrewssobral",
+    "name": "bgslibrary",
+    "language": "c++",
+    "stars": 1102,
+    "forks": 537,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eranif",
+    "name": "codelite",
+    "language": "c++",
+    "stars": 1099,
+    "forks": 307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "DirectXTK",
+    "language": "c++",
+    "stars": 1094,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oktal",
+    "name": "pistache",
+    "language": "c++",
+    "stars": 1090,
+    "forks": 266,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Tencent",
+    "name": "phxrpc",
+    "language": "c++",
+    "stars": 1090,
+    "forks": 371,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LongSoft",
+    "name": "UEFITool",
+    "language": "c++",
+    "stars": 1090,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hugoam",
+    "name": "toy",
+    "language": "c++",
+    "stars": 1089,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bombela",
+    "name": "backward-cpp",
+    "language": "c++",
+    "stars": 1089,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fireice-uk",
+    "name": "xmr-stak-cpu",
+    "language": "c++",
+    "stars": 1085,
+    "forks": 543,
+    "default_branch": "master"
+  },
+  {
+    "owner": "uzh-rpg",
+    "name": "rpg_svo",
+    "language": "c++",
+    "stars": 1084,
+    "forks": 609,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ARM-software",
+    "name": "ComputeLibrary",
+    "language": "c++",
+    "stars": 1084,
+    "forks": 350,
+    "default_branch": "master"
+  },
+  {
+    "owner": "js-platform",
+    "name": "node-webrtc",
+    "language": "c++",
+    "stars": 1083,
+    "forks": 210,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "ispc",
+    "name": "ispc",
+    "language": "c++",
+    "stars": 1082,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "taurusai",
+    "name": "kungfu",
+    "language": "c++",
+    "stars": 1081,
+    "forks": 444,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "Win2D",
+    "language": "c++",
+    "stars": 1079,
+    "forks": 201,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raspberrypi",
+    "name": "tools",
+    "language": "c++",
+    "stars": 1079,
+    "forks": 573,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eteran",
+    "name": "edb-debugger",
+    "language": "c++",
+    "stars": 1078,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tunabrain",
+    "name": "tungsten",
+    "language": "c++",
+    "stars": 1076,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "REhints",
+    "name": "HexRaysCodeXplorer",
+    "language": "c++",
+    "stars": 1075,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "falcosecurity",
+    "name": "falco",
+    "language": "c++",
+    "stars": 1073,
+    "forks": 106,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "CGAL",
+    "name": "cgal",
+    "language": "c++",
+    "stars": 1072,
+    "forks": 430,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CopernicaMarketingSoftware",
+    "name": "PHP-CPP",
+    "language": "c++",
+    "stars": 1072,
+    "forks": 248,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wangzheng0822",
+    "name": "algo",
+    "language": "c++",
+    "stars": 1068,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "notepadqq",
+    "name": "notepadqq",
+    "language": "c++",
+    "stars": 1068,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "f1xpl",
+    "name": "openauto",
+    "language": "c++",
+    "stars": 1068,
+    "forks": 127,
+    "default_branch": "development"
+  },
+  {
+    "owner": "acidanthera",
+    "name": "Lilu",
+    "language": "c++",
+    "stars": 1065,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adafruit",
+    "name": "DHT-sensor-library",
+    "language": "c++",
+    "stars": 1065,
+    "forks": 867,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JonathanSalwan",
+    "name": "Triton",
+    "language": "c++",
+    "stars": 1063,
+    "forks": 235,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RobotLocomotion",
+    "name": "drake",
+    "language": "c++",
+    "stars": 1062,
+    "forks": 609,
+    "default_branch": "master"
+  },
+  {
+    "owner": "toggl",
+    "name": "toggldesktop",
+    "language": "c++",
+    "stars": 1057,
+    "forks": 148,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wereturtle",
+    "name": "ghostwriter",
+    "language": "c++",
+    "stars": 1056,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fluent-project",
+    "name": "fluent",
+    "language": "c++",
+    "stars": 1054,
+    "forks": 142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "intel",
+    "name": "mkl-dnn",
+    "language": "c++",
+    "stars": 1053,
+    "forks": 259,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lief-project",
+    "name": "LIEF",
+    "language": "c++",
+    "stars": 1048,
+    "forks": 142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "voodooattack",
+    "name": "nexusjs",
+    "language": "c++",
+    "stars": 1044,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guestwalk",
+    "name": "libffm",
+    "language": "c++",
+    "stars": 1042,
+    "forks": 372,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nodeful",
+    "name": "eqMac2",
+    "language": "c++",
+    "stars": 1042,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Icinga",
+    "name": "icinga2",
+    "language": "c++",
+    "stars": 1041,
+    "forks": 392,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmlc",
+    "name": "cxxnet",
+    "language": "c++",
+    "stars": 1041,
+    "forks": 434,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phpv8",
+    "name": "v8js",
+    "language": "c++",
+    "stars": 1039,
+    "forks": 122,
+    "default_branch": "php7"
+  },
+  {
+    "owner": "BonzaiThePenguin",
+    "name": "WikiSort",
+    "language": "c++",
+    "stars": 1037,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gongminmin",
+    "name": "KlayGE",
+    "language": "c++",
+    "stars": 1037,
+    "forks": 228,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "aappleby",
+    "name": "smhasher",
+    "language": "c++",
+    "stars": 1033,
+    "forks": 207,
+    "default_branch": "master"
+  },
+  {
+    "owner": "owncloud",
+    "name": "client",
+    "language": "c++",
+    "stars": 1032,
+    "forks": 566,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PurpleI2P",
+    "name": "i2pd",
+    "language": "c++",
+    "stars": 1032,
+    "forks": 191,
+    "default_branch": "openssl"
+  },
+  {
+    "owner": "mgbellemare",
+    "name": "Arcade-Learning-Environment",
+    "language": "c++",
+    "stars": 1030,
+    "forks": 240,
+    "default_branch": "master"
+  },
+  {
+    "owner": "protobuf-c",
+    "name": "protobuf-c",
+    "language": "c++",
+    "stars": 1030,
+    "forks": 343,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenTTD",
+    "name": "OpenTTD",
+    "language": "c++",
+    "stars": 1025,
+    "forks": 123,
+    "default_branch": "master"
+  },
+  {
+    "owner": "IntelVCL",
+    "name": "Open3D",
+    "language": "c++",
+    "stars": 1025,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ibaaj",
+    "name": "dijkstra-cartography",
+    "language": "c++",
+    "stars": 1024,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libfann",
+    "name": "fann",
+    "language": "c++",
+    "stars": 1023,
+    "forks": 285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "tair",
+    "language": "c++",
+    "stars": 1022,
+    "forks": 429,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kripken",
+    "name": "BananaBread",
+    "language": "c++",
+    "stars": 1018,
+    "forks": 202,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookincubator",
+    "name": "BOLT",
+    "language": "c++",
+    "stars": 1016,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Kurento",
+    "name": "kurento-media-server",
+    "language": "c++",
+    "stars": 1015,
+    "forks": 324,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aspnet",
+    "name": "dnx",
+    "language": "c++",
+    "stars": 1014,
+    "forks": 249,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "cryptonomex",
+    "name": "graphene",
+    "language": "c++",
+    "stars": 1014,
+    "forks": 803,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LibreCAD",
+    "name": "LibreCAD",
+    "language": "c++",
+    "stars": 1014,
+    "forks": 426,
+    "default_branch": "master"
+  },
+  {
+    "owner": "logcabin",
+    "name": "logcabin",
+    "language": "c++",
+    "stars": 1013,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "devsisters",
+    "name": "libquic",
+    "language": "c++",
+    "stars": 1012,
+    "forks": 170,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pytorch",
+    "name": "glow",
+    "language": "c++",
+    "stars": 1010,
+    "forks": 130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "naelstrof",
+    "name": "maim",
+    "language": "c++",
+    "stars": 1004,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plibither8",
+    "name": "2048.cpp",
+    "language": "c++",
+    "stars": 1004,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cocaine",
+    "name": "cocaine-core",
+    "language": "c++",
+    "stars": 1003,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snap-stanford",
+    "name": "snap",
+    "language": "c++",
+    "stars": 1001,
+    "forks": 493,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nodejs",
+    "name": "node-addon-examples",
+    "language": "c++",
+    "stars": 1001,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "doug",
+    "name": "depthjs",
+    "language": "c++",
+    "stars": 997,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wiseio",
+    "name": "paratext",
+    "language": "c++",
+    "stars": 996,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mapbox",
+    "name": "tippecanoe",
+    "language": "c++",
+    "stars": 996,
+    "forks": 151,
+    "default_branch": "master"
+  },
+  {
+    "owner": "papyros",
+    "name": "papyros-shell",
+    "language": "c++",
+    "stars": 996,
+    "forks": 46,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "leanprover",
+    "name": "lean",
+    "language": "c++",
+    "stars": 995,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aguinet",
+    "name": "wannakey",
+    "language": "c++",
+    "stars": 995,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cgdb",
+    "name": "cgdb",
+    "language": "c++",
+    "stars": 994,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "msracver",
+    "name": "Deep-Image-Analogy",
+    "language": "c++",
+    "stars": 990,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mariusmuja",
+    "name": "flann",
+    "language": "c++",
+    "stars": 990,
+    "forks": 350,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "DirectXShaderCompiler",
+    "language": "c++",
+    "stars": 988,
+    "forks": 152,
+    "default_branch": "master"
+  },
+  {
+    "owner": "STEllAR-GROUP",
+    "name": "hpx",
+    "language": "c++",
+    "stars": 988,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mtytel",
+    "name": "helm",
+    "language": "c++",
+    "stars": 987,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shadowsocks",
+    "name": "libQtShadowsocks",
+    "language": "c++",
+    "stars": 986,
+    "forks": 517,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eventql",
+    "name": "eventql",
+    "language": "c++",
+    "stars": 983,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "acidanthera",
+    "name": "AppleALC",
+    "language": "c++",
+    "stars": 983,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jarro2783",
+    "name": "cxxopts",
+    "language": "c++",
+    "stars": 981,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "QupZilla",
+    "name": "qupzilla",
+    "language": "c++",
+    "stars": 980,
+    "forks": 301,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SmingHub",
+    "name": "Sming",
+    "language": "c++",
+    "stars": 977,
+    "forks": 299,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "qtumproject",
+    "name": "qtum",
+    "language": "c++",
+    "stars": 977,
+    "forks": 265,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ubisoftinc",
+    "name": "massgate",
+    "language": "c++",
+    "stars": 976,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skarupke",
+    "name": "flat_hash_map",
+    "language": "c++",
+    "stars": 975,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nidium",
+    "name": "Nidium",
+    "language": "c++",
+    "stars": 975,
+    "forks": 51,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scummvm",
+    "name": "scummvm",
+    "language": "c++",
+    "stars": 973,
+    "forks": 471,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "proto-quic",
+    "language": "c++",
+    "stars": 972,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "XhmikosR",
+    "name": "notepad2-mod",
+    "language": "c++",
+    "stars": 971,
+    "forks": 175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "unetbootin",
+    "name": "unetbootin",
+    "language": "c++",
+    "stars": 971,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cpvrlab",
+    "name": "ImagePlay",
+    "language": "c++",
+    "stars": 971,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "patriciogonzalezvivo",
+    "name": "glslViewer",
+    "language": "c++",
+    "stars": 970,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hyperledger",
+    "name": "iroha",
+    "language": "c++",
+    "stars": 967,
+    "forks": 305,
+    "default_branch": "master"
+  },
+  {
+    "owner": "klee",
+    "name": "klee",
+    "language": "c++",
+    "stars": 965,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brave",
+    "name": "muon",
+    "language": "c++",
+    "stars": 965,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SupSuper",
+    "name": "OpenXcom",
+    "language": "c++",
+    "stars": 957,
+    "forks": 300,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rtbkit",
+    "name": "rtbkit",
+    "language": "c++",
+    "stars": 957,
+    "forks": 376,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JoshuaWise",
+    "name": "better-sqlite3",
+    "language": "c++",
+    "stars": 956,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloose",
+    "name": "CuteMarkEd",
+    "language": "c++",
+    "stars": 955,
+    "forks": 198,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "zhangyuanwei",
+    "name": "node-images",
+    "language": "c++",
+    "stars": 954,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guestwalk",
+    "name": "kaggle-2014-criteo",
+    "language": "c++",
+    "stars": 952,
+    "forks": 573,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gigablast",
+    "name": "open-source-search-engine",
+    "language": "c++",
+    "stars": 952,
+    "forks": 310,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mavlink",
+    "name": "qgroundcontrol",
+    "language": "c++",
+    "stars": 951,
+    "forks": 1365,
+    "default_branch": "master"
+  },
+  {
+    "owner": "randombit",
+    "name": "botan",
+    "language": "c++",
+    "stars": 948,
+    "forks": 251,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cpp-taskflow",
+    "name": "cpp-taskflow",
+    "language": "c++",
+    "stars": 945,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bloomberg",
+    "name": "bde",
+    "language": "c++",
+    "stars": 942,
+    "forks": 209,
+    "default_branch": "master"
+  },
+  {
+    "owner": "salestock",
+    "name": "fastText.py",
+    "language": "c++",
+    "stars": 942,
+    "forks": 213,
+    "default_branch": "master"
+  },
+  {
+    "owner": "srendle",
+    "name": "libfm",
+    "language": "c++",
+    "stars": 940,
+    "forks": 337,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "oboe",
+    "language": "c++",
+    "stars": 941,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JakobEngel",
+    "name": "dso",
+    "language": "c++",
+    "stars": 938,
+    "forks": 496,
+    "default_branch": "master"
+  },
+  {
+    "owner": "srsLTE",
+    "name": "srsLTE",
+    "language": "c++",
+    "stars": 936,
+    "forks": 284,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmlc",
+    "name": "mshadow",
+    "language": "c++",
+    "stars": 935,
+    "forks": 424,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shamadee",
+    "name": "web-dsp",
+    "language": "c++",
+    "stars": 934,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orlp",
+    "name": "pdqsort",
+    "language": "c++",
+    "stars": 934,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arximboldi",
+    "name": "immer",
+    "language": "c++",
+    "stars": 933,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hyperion-project",
+    "name": "hyperion",
+    "language": "c++",
+    "stars": 932,
+    "forks": 216,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gdbinit",
+    "name": "MachOView",
+    "language": "c++",
+    "stars": 931,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "solodon4",
+    "name": "Mach7",
+    "language": "c++",
+    "stars": 931,
+    "forks": 75,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crawl",
+    "name": "crawl",
+    "language": "c++",
+    "stars": 928,
+    "forks": 387,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sui77",
+    "name": "rc-switch",
+    "language": "c++",
+    "stars": 928,
+    "forks": 329,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moderngpu",
+    "name": "moderngpu",
+    "language": "c++",
+    "stars": 927,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "incubator-doris",
+    "language": "c++",
+    "stars": 926,
+    "forks": 234,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mhammond",
+    "name": "pywin32",
+    "language": "c++",
+    "stars": 926,
+    "forks": 210,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sailing-pmls",
+    "name": "bosen",
+    "language": "c++",
+    "stars": 925,
+    "forks": 286,
+    "default_branch": "stable"
+  },
+  {
+    "owner": "fastio",
+    "name": "pedis",
+    "language": "c++",
+    "stars": 923,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RainerKuemmerle",
+    "name": "g2o",
+    "language": "c++",
+    "stars": 914,
+    "forks": 570,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vcmi",
+    "name": "vcmi",
+    "language": "c++",
+    "stars": 914,
+    "forks": 180,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "boostorg",
+    "name": "compute",
+    "language": "c++",
+    "stars": 913,
+    "forks": 217,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kmkolasinski",
+    "name": "AwesomeBump",
+    "language": "c++",
+    "stars": 913,
+    "forks": 112,
+    "default_branch": "Release"
+  },
+  {
+    "owner": "OSGeo",
+    "name": "gdal",
+    "language": "c++",
+    "stars": 911,
+    "forks": 558,
+    "default_branch": "master"
+  },
+  {
+    "owner": "QuantStack",
+    "name": "xtensor",
+    "language": "c++",
+    "stars": 909,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OtterBrowser",
+    "name": "otter-browser",
+    "language": "c++",
+    "stars": 908,
+    "forks": 162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ardour",
+    "name": "ardour",
+    "language": "c++",
+    "stars": 907,
+    "forks": 256,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eliben",
+    "name": "llvm-clang-samples",
+    "language": "c++",
+    "stars": 905,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kripken",
+    "name": "speak.js",
+    "language": "c++",
+    "stars": 903,
+    "forks": 240,
+    "default_branch": "master"
+  },
+  {
+    "owner": "simsong",
+    "name": "tcpflow",
+    "language": "c++",
+    "stars": 902,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "beark",
+    "name": "ftl",
+    "language": "c++",
+    "stars": 902,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yse",
+    "name": "easy_profiler",
+    "language": "c++",
+    "stars": 900,
+    "forks": 79,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "Kitware",
+    "name": "VTK",
+    "language": "c++",
+    "stars": 899,
+    "forks": 574,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rime",
+    "name": "librime",
+    "language": "c++",
+    "stars": 899,
+    "forks": 204,
+    "default_branch": "master"
+  },
+  {
+    "owner": "marcoschwartz",
+    "name": "aREST",
+    "language": "c++",
+    "stars": 897,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "mathfu",
+    "language": "c++",
+    "stars": 897,
+    "forks": 125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pbek",
+    "name": "QOwnNotes",
+    "language": "c++",
+    "stars": 897,
+    "forks": 130,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "jmpews",
+    "name": "HookZz",
+    "language": "c++",
+    "stars": 896,
+    "forks": 194,
+    "default_branch": "master"
+  },
+  {
+    "owner": "4ian",
+    "name": "GDevelop",
+    "language": "c++",
+    "stars": 894,
+    "forks": 150,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sftrabbit",
+    "name": "CppPatterns-Patterns",
+    "language": "c++",
+    "stars": 893,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rathena",
+    "name": "rathena",
+    "language": "c++",
+    "stars": 892,
+    "forks": 898,
+    "default_branch": "master"
+  },
+  {
+    "owner": "teeworlds",
+    "name": "teeworlds",
+    "language": "c++",
+    "stars": 891,
+    "forks": 355,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KhronosGroup",
+    "name": "glslang",
+    "language": "c++",
+    "stars": 891,
+    "forks": 286,
+    "default_branch": "master"
+  },
+  {
+    "owner": "couchbase",
+    "name": "forestdb",
+    "language": "c++",
+    "stars": 890,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GameFoundry",
+    "name": "bsf",
+    "language": "c++",
+    "stars": 889,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "boostorg",
+    "name": "hana",
+    "language": "c++",
+    "stars": 889,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "20tab",
+    "name": "UnrealEnginePython",
+    "language": "c++",
+    "stars": 886,
+    "forks": 253,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phaistos-networks",
+    "name": "TANK",
+    "language": "c++",
+    "stars": 885,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "Detours",
+    "language": "c++",
+    "stars": 885,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cppit",
+    "name": "jucipp",
+    "language": "c++",
+    "stars": 884,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Blizzard",
+    "name": "node-rdkafka",
+    "language": "c++",
+    "stars": 884,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cnjinhao",
+    "name": "nana",
+    "language": "c++",
+    "stars": 884,
+    "forks": 176,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zyq8709",
+    "name": "DexHunter",
+    "language": "c++",
+    "stars": 884,
+    "forks": 484,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hszhao",
+    "name": "PSPNet",
+    "language": "c++",
+    "stars": 883,
+    "forks": 394,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mysensors",
+    "name": "MySensors",
+    "language": "c++",
+    "stars": 879,
+    "forks": 745,
+    "default_branch": "development"
+  },
+  {
+    "owner": "aerys",
+    "name": "minko",
+    "language": "c++",
+    "stars": 878,
+    "forks": 234,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stepmania",
+    "name": "stepmania",
+    "language": "c++",
+    "stars": 878,
+    "forks": 294,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rust-lang-nursery",
+    "name": "rust-bindgen",
+    "language": "c++",
+    "stars": 877,
+    "forks": 302,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ceres-solver",
+    "name": "ceres-solver",
+    "language": "c++",
+    "stars": 876,
+    "forks": 349,
+    "default_branch": "master"
+  },
+  {
+    "owner": "node-inspector",
+    "name": "v8-profiler",
+    "language": "c++",
+    "stars": 875,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tojocky",
+    "name": "node-printer",
+    "language": "c++",
+    "stars": 875,
+    "forks": 205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DmitryUlyanov",
+    "name": "Multicore-TSNE",
+    "language": "c++",
+    "stars": 872,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "liuchuo",
+    "name": "PAT",
+    "language": "c++",
+    "stars": 869,
+    "forks": 287,
+    "default_branch": "master"
+  },
+  {
+    "owner": "embree",
+    "name": "embree",
+    "language": "c++",
+    "stars": 868,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Samsung",
+    "name": "veles",
+    "language": "c++",
+    "stars": 868,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dhewm",
+    "name": "dhewm3",
+    "language": "c++",
+    "stars": 867,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Stellarium",
+    "name": "stellarium",
+    "language": "c++",
+    "stars": 866,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "firmata",
+    "name": "arduino",
+    "language": "c++",
+    "stars": 866,
+    "forks": 385,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dannagle",
+    "name": "PacketSender",
+    "language": "c++",
+    "stars": 866,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vaibhavpandeyvpz",
+    "name": "apkstudio",
+    "language": "c++",
+    "stars": 865,
+    "forks": 219,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wichtounet",
+    "name": "thor-os",
+    "language": "c++",
+    "stars": 865,
+    "forks": 91,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "HostsTools",
+    "name": "Windows",
+    "language": "c++",
+    "stars": 865,
+    "forks": 167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "preshing",
+    "name": "junction",
+    "language": "c++",
+    "stars": 863,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Corvusoft",
+    "name": "restbed",
+    "language": "c++",
+    "stars": 863,
+    "forks": 206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cryfs",
+    "name": "cryfs",
+    "language": "c++",
+    "stars": 862,
+    "forks": 67,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "asb2m10",
+    "name": "dexed",
+    "language": "c++",
+    "stars": 862,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "souper",
+    "language": "c++",
+    "stars": 861,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "keystone-engine",
+    "name": "keystone",
+    "language": "c++",
+    "stars": 860,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "leozide",
+    "name": "leocad",
+    "language": "c++",
+    "stars": 859,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yrnkrn",
+    "name": "zapcc",
+    "language": "c++",
+    "stars": 859,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wysaid",
+    "name": "android-gpuimage-plus",
+    "language": "c++",
+    "stars": 859,
+    "forks": 285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "01org",
+    "name": "tbb",
+    "language": "c++",
+    "stars": 859,
+    "forks": 190,
+    "default_branch": "tbb_2019"
+  },
+  {
+    "owner": "begla",
+    "name": "Intrinsic",
+    "language": "c++",
+    "stars": 858,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SequoiaDB",
+    "name": "SequoiaDB",
+    "language": "c++",
+    "stars": 857,
+    "forks": 434,
+    "default_branch": "master"
+  },
+  {
+    "owner": "solvespace",
+    "name": "solvespace",
+    "language": "c++",
+    "stars": 855,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cinience",
+    "name": "RedisStudio",
+    "language": "c++",
+    "stars": 854,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eigenteam",
+    "name": "eigen-git-mirror",
+    "language": "c++",
+    "stars": 854,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BitFunnel",
+    "name": "NativeJIT",
+    "language": "c++",
+    "stars": 853,
+    "forks": 72,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmp",
+    "name": "pbrt-v2",
+    "language": "c++",
+    "stars": 852,
+    "forks": 326,
+    "default_branch": "master"
+  },
+  {
+    "owner": "excamera",
+    "name": "alfalfa",
+    "language": "c++",
+    "stars": 852,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nokiatech",
+    "name": "heif",
+    "language": "c++",
+    "stars": 852,
+    "forks": 125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hugoam",
+    "name": "mud",
+    "language": "c++",
+    "stars": 852,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "Windows-Driver-Frameworks",
+    "language": "c++",
+    "stars": 851,
+    "forks": 291,
+    "default_branch": "master"
+  },
+  {
+    "owner": "node-tensorflow",
+    "name": "node-tensorflow",
+    "language": "c++",
+    "stars": 850,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OGRECave",
+    "name": "ogre",
+    "language": "c++",
+    "stars": 850,
+    "forks": 331,
+    "default_branch": "master"
+  },
+  {
+    "owner": "felis",
+    "name": "USB_Host_Shield_2.0",
+    "language": "c++",
+    "stars": 848,
+    "forks": 465,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rime",
+    "name": "weasel",
+    "language": "c++",
+    "stars": 848,
+    "forks": 169,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomhrr",
+    "name": "dale",
+    "language": "c++",
+    "stars": 847,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libxmljs",
+    "name": "libxmljs",
+    "language": "c++",
+    "stars": 844,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "turi-code",
+    "name": "SFrame",
+    "language": "c++",
+    "stars": 842,
+    "forks": 307,
+    "default_branch": "master"
+  },
+  {
+    "owner": "br3ttb",
+    "name": "Arduino-PID-Library",
+    "language": "c++",
+    "stars": 841,
+    "forks": 490,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DFHack",
+    "name": "dfhack",
+    "language": "c++",
+    "stars": 841,
+    "forks": 283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apache",
+    "name": "trafficserver",
+    "language": "c++",
+    "stars": 839,
+    "forks": 552,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opentx",
+    "name": "opentx",
+    "language": "c++",
+    "stars": 838,
+    "forks": 420,
+    "default_branch": "2.2"
+  },
+  {
+    "owner": "greenheartgames",
+    "name": "greenworks",
+    "language": "c++",
+    "stars": 837,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "4Lang",
+    "name": "4",
+    "language": "c++",
+    "stars": 837,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "erengy",
+    "name": "taiga",
+    "language": "c++",
+    "stars": 837,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RobTillaart",
+    "name": "Arduino",
+    "language": "c++",
+    "stars": 836,
+    "forks": 2571,
+    "default_branch": "master"
+  },
+  {
+    "owner": "XiaoMi",
+    "name": "pegasus",
+    "language": "c++",
+    "stars": 835,
+    "forks": 140,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cztomczak",
+    "name": "phpdesktop",
+    "language": "c++",
+    "stars": 833,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alibaba",
+    "name": "tfs",
+    "language": "c++",
+    "stars": 831,
+    "forks": 369,
+    "default_branch": "master"
+  },
+  {
+    "owner": "visualboyadvance-m",
+    "name": "visualboyadvance-m",
+    "language": "c++",
+    "stars": 830,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sourcey",
+    "name": "libsourcey",
+    "language": "c++",
+    "stars": 830,
+    "forks": 245,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cmuratori",
+    "name": "meow_hash",
+    "language": "c++",
+    "stars": 830,
+    "forks": 23,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "gemmlowp",
+    "language": "c++",
+    "stars": 830,
+    "forks": 262,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "rDSN",
+    "language": "c++",
+    "stars": 830,
+    "forks": 204,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chenshuo",
+    "name": "recipes",
+    "language": "c++",
+    "stars": 828,
+    "forks": 586,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snes9xgit",
+    "name": "snes9x",
+    "language": "c++",
+    "stars": 828,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "lullaby",
+    "language": "c++",
+    "stars": 828,
+    "forks": 108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "unrealcv",
+    "name": "unrealcv",
+    "language": "c++",
+    "stars": 828,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baidu",
+    "name": "bigflow",
+    "language": "c++",
+    "stars": 826,
+    "forks": 123,
+    "default_branch": "master"
+  },
+  {
+    "owner": "superpoweredSDK",
+    "name": "Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform",
+    "language": "c++",
+    "stars": 826,
+    "forks": 168,
+    "default_branch": "master"
+  },
+  {
+    "owner": "s9xie",
+    "name": "hed",
+    "language": "c++",
+    "stars": 825,
+    "forks": 315,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spotify",
+    "name": "echoprint-codegen",
+    "language": "c++",
+    "stars": 824,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phacility",
+    "name": "libphutil",
+    "language": "c++",
+    "stars": 823,
+    "forks": 252,
+    "default_branch": "master"
+  },
+  {
+    "owner": "citp",
+    "name": "BlockSci",
+    "language": "c++",
+    "stars": 821,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "davidgfnet",
+    "name": "whatsapp-purple",
+    "language": "c++",
+    "stars": 821,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wavii",
+    "name": "darner",
+    "language": "c++",
+    "stars": 821,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookincubator",
+    "name": "oomd",
+    "language": "c++",
+    "stars": 821,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "freelan-developers",
+    "name": "freelan",
+    "language": "c++",
+    "stars": 819,
+    "forks": 133,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexgkendall",
+    "name": "caffe-segnet",
+    "language": "c++",
+    "stars": 819,
+    "forks": 401,
+    "default_branch": "segnet-cleaned"
+  },
+  {
+    "owner": "tpoechtrager",
+    "name": "osxcross",
+    "language": "c++",
+    "stars": 818,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Warzone2100",
+    "name": "warzone2100",
+    "language": "c++",
+    "stars": 817,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheCherno",
+    "name": "Sparky",
+    "language": "c++",
+    "stars": 816,
+    "forks": 204,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imageworks",
+    "name": "OpenShadingLanguage",
+    "language": "c++",
+    "stars": 816,
+    "forks": 198,
+    "default_branch": "master"
+  },
+  {
+    "owner": "harfbuzz",
+    "name": "harfbuzz",
+    "language": "c++",
+    "stars": 814,
+    "forks": 235,
+    "default_branch": "master"
+  },
+  {
+    "owner": "qt-creator",
+    "name": "qt-creator",
+    "language": "c++",
+    "stars": 812,
+    "forks": 335,
+    "default_branch": "master"
+  },
+  {
+    "owner": "root-project",
+    "name": "cling",
+    "language": "c++",
+    "stars": 812,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "UE4-OceanProject",
+    "name": "OceanProject",
+    "language": "c++",
+    "stars": 812,
+    "forks": 345,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rdp",
+    "name": "screen-capture-recorder-to-video-windows-free",
+    "language": "c++",
+    "stars": 811,
+    "forks": 246,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libRocket",
+    "name": "libRocket",
+    "language": "c++",
+    "stars": 810,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dpayne",
+    "name": "cli-visualizer",
+    "language": "c++",
+    "stars": 809,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Overv",
+    "name": "VulkanTutorial",
+    "language": "c++",
+    "stars": 807,
+    "forks": 120,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ethz-asl",
+    "name": "maplab",
+    "language": "c++",
+    "stars": 807,
+    "forks": 301,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opentrack",
+    "name": "opentrack",
+    "language": "c++",
+    "stars": 805,
+    "forks": 179,
+    "default_branch": "unstable"
+  },
+  {
+    "owner": "NVIDIA",
+    "name": "DALI",
+    "language": "c++",
+    "stars": 805,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aosp-mirror",
+    "name": "platform_system_core",
+    "language": "c++",
+    "stars": 805,
+    "forks": 896,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ml4a",
+    "name": "ml4a-ofx",
+    "language": "c++",
+    "stars": 804,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OpenImageIO",
+    "name": "oiio",
+    "language": "c++",
+    "stars": 804,
+    "forks": 323,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vinniefalco",
+    "name": "DSPFilters",
+    "language": "c++",
+    "stars": 802,
+    "forks": 206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lvandeve",
+    "name": "lodepng",
+    "language": "c++",
+    "stars": 801,
+    "forks": 182,
+    "default_branch": "master"
+  },
+  {
+    "owner": "libbitcoin",
+    "name": "libbitcoin",
+    "language": "c++",
+    "stars": 800,
+    "forks": 240,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mrtazz",
+    "name": "restclient-cpp",
+    "language": "c++",
+    "stars": 800,
+    "forks": 203,
+    "default_branch": "master"
+  },
+  {
+    "owner": "njh",
+    "name": "EtherCard",
+    "language": "c++",
+    "stars": 794,
+    "forks": 351,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baidu",
+    "name": "AnyQ",
+    "language": "c++",
+    "stars": 793,
+    "forks": 192,
+    "default_branch": "master"
+  },
+  {
+    "owner": "razimantv",
+    "name": "mazegenerator",
+    "language": "c++",
+    "stars": 792,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tree-sitter",
+    "name": "tree-sitter",
+    "language": "c++",
+    "stars": 792,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moai",
+    "name": "moai-dev",
+    "language": "c++",
+    "stars": 791,
+    "forks": 319,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "9miao",
+    "name": "CrossApp",
+    "language": "c++",
+    "stars": 791,
+    "forks": 712,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scipr-lab",
+    "name": "libsnark",
+    "language": "c++",
+    "stars": 790,
+    "forks": 271,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ErisBlastar",
+    "name": "cplusequality",
+    "language": "c++",
+    "stars": 788,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rocketscream",
+    "name": "Low-Power",
+    "language": "c++",
+    "stars": 786,
+    "forks": 236,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "vmaf",
+    "language": "c++",
+    "stars": 785,
+    "forks": 190,
+    "default_branch": "master"
+  },
+  {
+    "owner": "securesocketfunneling",
+    "name": "ssf",
+    "language": "c++",
+    "stars": 783,
+    "forks": 114,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "ethz-asl",
+    "name": "kalibr",
+    "language": "c++",
+    "stars": 783,
+    "forks": 397,
+    "default_branch": "master"
+  },
+  {
+    "owner": "secrary",
+    "name": "InjectProc",
+    "language": "c++",
+    "stars": 783,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "greg7mdp",
+    "name": "sparsepp",
+    "language": "c++",
+    "stars": 782,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "GPUOpen-Tools",
+    "name": "CodeXL",
+    "language": "c++",
+    "stars": 782,
+    "forks": 113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "markszabo",
+    "name": "IRremoteESP8266",
+    "language": "c++",
+    "stars": 782,
+    "forks": 234,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebook",
+    "name": "fatal",
+    "language": "c++",
+    "stars": 781,
+    "forks": 128,
+    "default_branch": "master"
+  },
+  {
+    "owner": "c-ares",
+    "name": "c-ares",
+    "language": "c++",
+    "stars": 781,
+    "forks": 293,
+    "default_branch": "master"
+  },
+  {
+    "owner": "akrennmair",
+    "name": "newsbeuter",
+    "language": "c++",
+    "stars": 778,
+    "forks": 108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plv8",
+    "name": "plv8",
+    "language": "c++",
+    "stars": 778,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zrm",
+    "name": "snow",
+    "language": "c++",
+    "stars": 777,
+    "forks": 25,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jackaudio",
+    "name": "jack2",
+    "language": "c++",
+    "stars": 775,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vczh",
+    "name": "tinymoe",
+    "language": "c++",
+    "stars": 775,
+    "forks": 206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "schlangster",
+    "name": "cpp.react",
+    "language": "c++",
+    "stars": 775,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AlloyTeam",
+    "name": "Rythem",
+    "language": "c++",
+    "stars": 771,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "a16z",
+    "name": "ai",
+    "language": "c++",
+    "stars": 770,
+    "forks": 260,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Dobiasd",
+    "name": "FunctionalPlus",
+    "language": "c++",
+    "stars": 770,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookresearch",
+    "name": "House3D",
+    "language": "c++",
+    "stars": 770,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aws",
+    "name": "aws-sdk-cpp",
+    "language": "c++",
+    "stars": 769,
+    "forks": 364,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WrBug",
+    "name": "dumpDex",
+    "language": "c++",
+    "stars": 768,
+    "forks": 174,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "sparsehash",
+    "name": "sparsehash",
+    "language": "c++",
+    "stars": 768,
+    "forks": 158,
+    "default_branch": "master"
+  },
+  {
+    "owner": "meganz",
+    "name": "sdk",
+    "language": "c++",
+    "stars": 767,
+    "forks": 260,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "oatpp",
+    "name": "oatpp",
+    "language": "c++",
+    "stars": 767,
+    "forks": 26,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scantailor",
+    "name": "scantailor",
+    "language": "c++",
+    "stars": 766,
+    "forks": 166,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "cppwinrt",
+    "language": "c++",
+    "stars": 766,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "unknownworlds",
+    "name": "decoda",
+    "language": "c++",
+    "stars": 764,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wisk",
+    "name": "medusa",
+    "language": "c++",
+    "stars": 764,
+    "forks": 72,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "google",
+    "name": "omaha",
+    "language": "c++",
+    "stars": 763,
+    "forks": 292,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kylemcdonald",
+    "name": "FaceTracker",
+    "language": "c++",
+    "stars": 763,
+    "forks": 330,
+    "default_branch": "master"
+  },
+  {
+    "owner": "horde3d",
+    "name": "Horde3D",
+    "language": "c++",
+    "stars": 762,
+    "forks": 232,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RetroShare",
+    "name": "RetroShare",
+    "language": "c++",
+    "stars": 762,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cjcliffe",
+    "name": "CubicSDR",
+    "language": "c++",
+    "stars": 760,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ultimaker",
+    "name": "CuraEngine",
+    "language": "c++",
+    "stars": 760,
+    "forks": 500,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lucasb-eyer",
+    "name": "pydensecrf",
+    "language": "c++",
+    "stars": 759,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Xtra-Computing",
+    "name": "thundersvm",
+    "language": "c++",
+    "stars": 758,
+    "forks": 101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cxbx-Reloaded",
+    "name": "Cxbx-Reloaded",
+    "language": "c++",
+    "stars": 758,
+    "forks": 122,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "mwydmuch",
+    "name": "ViZDoom",
+    "language": "c++",
+    "stars": 758,
+    "forks": 206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "patrikhuber",
+    "name": "eos",
+    "language": "c++",
+    "stars": 758,
+    "forks": 298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opentomb",
+    "name": "OpenTomb",
+    "language": "c++",
+    "stars": 757,
+    "forks": 85,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raulmur",
+    "name": "ORB_SLAM",
+    "language": "c++",
+    "stars": 756,
+    "forks": 569,
+    "default_branch": "master"
+  },
+  {
+    "owner": "esseks",
+    "name": "monicelli",
+    "language": "c++",
+    "stars": 756,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thunlp",
+    "name": "KB2E",
+    "language": "c++",
+    "stars": 756,
+    "forks": 290,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zddhub",
+    "name": "opensse",
+    "language": "c++",
+    "stars": 755,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openstf",
+    "name": "minicap",
+    "language": "c++",
+    "stars": 751,
+    "forks": 261,
+    "default_branch": "master"
+  },
+  {
+    "owner": "micknoise",
+    "name": "Maximilian",
+    "language": "c++",
+    "stars": 751,
+    "forks": 170,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmlc",
+    "name": "ps-lite",
+    "language": "c++",
+    "stars": 750,
+    "forks": 354,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Microsoft",
+    "name": "FFmpegInterop",
+    "language": "c++",
+    "stars": 747,
+    "forks": 202,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xiangzhai",
+    "name": "qwx",
+    "language": "c++",
+    "stars": 746,
+    "forks": 231,
+    "default_branch": "qt5"
+  },
+  {
+    "owner": "steveicarus",
+    "name": "iverilog",
+    "language": "c++",
+    "stars": 745,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JuncoJet",
+    "name": "unlimited-landeng-for-win",
+    "language": "c++",
+    "stars": 744,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stefanocasazza",
+    "name": "ULib",
+    "language": "c++",
+    "stars": 744,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexkay",
+    "name": "spek",
+    "language": "c++",
+    "stars": 744,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "quickfix",
+    "name": "quickfix",
+    "language": "c++",
+    "stars": 743,
+    "forks": 385,
+    "default_branch": "master"
+  },
+  {
+    "owner": "QianMo",
+    "name": "OpenCV3-Intro-Book-Src",
+    "language": "c++",
+    "stars": 742,
+    "forks": 533,
+    "default_branch": "master"
+  },
+  {
+    "owner": "explosion",
+    "name": "sense2vec",
+    "language": "c++",
+    "stars": 742,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rwengine",
+    "name": "openrw",
+    "language": "c++",
+    "stars": 742,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "matzman666",
+    "name": "OpenVR-AdvancedSettings",
+    "language": "c++",
+    "stars": 739,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeremyong",
+    "name": "Selene",
+    "language": "c++",
+    "stars": 739,
+    "forks": 115,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hzeller",
+    "name": "timg",
+    "language": "c++",
+    "stars": 739,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudera",
+    "name": "kudu",
+    "language": "c++",
+    "stars": 739,
+    "forks": 252,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KDAB",
+    "name": "hotspot",
+    "language": "c++",
+    "stars": 738,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "agnusmaximus",
+    "name": "Word2Bits",
+    "language": "c++",
+    "stars": 735,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wdas",
+    "name": "brdf",
+    "language": "c++",
+    "stars": 735,
+    "forks": 163,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vczh-libraries",
+    "name": "Release",
+    "language": "c++",
+    "stars": 734,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "decaf-emu",
+    "name": "decaf-emu",
+    "language": "c++",
+    "stars": 734,
+    "forks": 93,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zerovm",
+    "name": "zerovm",
+    "language": "c++",
+    "stars": 733,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pioneerspacesim",
+    "name": "pioneer",
+    "language": "c++",
+    "stars": 731,
+    "forks": 288,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Smoothieware",
+    "name": "Smoothieware",
+    "language": "c++",
+    "stars": 730,
+    "forks": 682,
+    "default_branch": "edge"
+  },
+  {
+    "owner": "comaeio",
+    "name": "porosity",
+    "language": "c++",
+    "stars": 730,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sfzhang15",
+    "name": "RefineDet",
+    "language": "c++",
+    "stars": 729,
+    "forks": 242,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Links2004",
+    "name": "arduinoWebSockets",
+    "language": "c++",
+    "stars": 728,
+    "forks": 236,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bittorrent",
+    "name": "libutp",
+    "language": "c++",
+    "stars": 728,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "baumgarr",
+    "name": "nixnote2",
+    "language": "c++",
+    "stars": 728,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mp3guy",
+    "name": "ElasticFusion",
+    "language": "c++",
+    "stars": 727,
+    "forks": 336,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hughperkins",
+    "name": "DeepCL",
+    "language": "c++",
+    "stars": 725,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Fluorohydride",
+    "name": "ygopro",
+    "language": "c++",
+    "stars": 725,
+    "forks": 400,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ucbrise",
+    "name": "clipper",
+    "language": "c++",
+    "stars": 725,
+    "forks": 164,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "google",
+    "name": "security-research-pocs",
+    "language": "c++",
+    "stars": 725,
+    "forks": 131,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HKUST-Aerial-Robotics",
+    "name": "VINS-Mobile",
+    "language": "c++",
+    "stars": 725,
+    "forks": 420,
+    "default_branch": "master"
+  },
+  {
+    "owner": "taocpp",
+    "name": "PEGTL",
+    "language": "c++",
+    "stars": 725,
+    "forks": 89,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tessel",
+    "name": "node-usb",
+    "language": "c++",
+    "stars": 724,
+    "forks": 166,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Bitcoin-ABC",
+    "name": "bitcoin-abc",
+    "language": "c++",
+    "stars": 724,
+    "forks": 398,
+    "default_branch": "master"
+  },
+  {
+    "owner": "herumi",
+    "name": "xbyak",
+    "language": "c++",
+    "stars": 723,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "strukturag",
+    "name": "libde265",
+    "language": "c++",
+    "stars": 723,
+    "forks": 236,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vslavik",
+    "name": "poedit",
+    "language": "c++",
+    "stars": 721,
+    "forks": 179,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheAlgorithms",
+    "name": "C-Plus-Plus",
+    "language": "c++",
+    "stars": 721,
+    "forks": 318,
+    "default_branch": "master"
+  },
+  {
+    "owner": "denandz",
+    "name": "KeeFarce",
+    "language": "c++",
+    "stars": 720,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chjj",
+    "name": "pty.js",
+    "language": "c++",
+    "stars": 719,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "turanszkij",
+    "name": "WickedEngine",
+    "language": "c++",
+    "stars": 719,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "illera88",
+    "name": "Ponce",
+    "language": "c++",
+    "stars": 719,
+    "forks": 133,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rakshasa",
+    "name": "libtorrent",
+    "language": "c++",
+    "stars": 718,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "google",
+    "name": "rowhammer-test",
+    "language": "c++",
+    "stars": 718,
+    "forks": 151,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cockatrice",
+    "name": "Cockatrice",
+    "language": "c++",
+    "stars": 713,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "valhalla",
+    "name": "valhalla",
+    "language": "c++",
+    "stars": 713,
+    "forks": 144,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tapir-dream",
+    "name": "berserkJS",
+    "language": "c++",
+    "stars": 712,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeaye",
+    "name": "color_coded",
+    "language": "c++",
+    "stars": 712,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Cylix",
+    "name": "cpp_redis",
+    "language": "c++",
+    "stars": 712,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "miao1007",
+    "name": "Openwrt-NetKeeper",
+    "language": "c++",
+    "stars": 712,
+    "forks": 234,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hugoam",
+    "name": "kiui",
+    "language": "c++",
+    "stars": 711,
+    "forks": 72,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rttrorg",
+    "name": "rttr",
+    "language": "c++",
+    "stars": 711,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "miek",
+    "name": "inspectrum",
+    "language": "c++",
+    "stars": 710,
+    "forks": 113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Ewenwan",
+    "name": "MVision",
+    "language": "c++",
+    "stars": 710,
+    "forks": 341,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adafruit",
+    "name": "Adafruit_SSD1306",
+    "language": "c++",
+    "stars": 708,
+    "forks": 457,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ConfettiFX",
+    "name": "The-Forge",
+    "language": "c++",
+    "stars": 708,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googlevr",
+    "name": "seurat",
+    "language": "c++",
+    "stars": 707,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "disks86",
+    "name": "VK9",
+    "language": "c++",
+    "stars": 707,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomasen",
+    "name": "splayer",
+    "language": "c++",
+    "stars": 707,
+    "forks": 212,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ppwwyyxx",
+    "name": "OpenPano",
+    "language": "c++",
+    "stars": 706,
+    "forks": 310,
+    "default_branch": "master"
+  },
+  {
+    "owner": "project64",
+    "name": "project64",
+    "language": "c++",
+    "stars": 706,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "inspector-repl",
+    "name": "inspector",
+    "language": "c++",
+    "stars": 705,
+    "forks": 19,
+    "default_branch": "master"
+  }
+]

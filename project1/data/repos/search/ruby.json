@@ -1,0 +1,8002 @@
+[
+  {
+    "owner": "rails",
+    "name": "rails",
+    "language": "ruby",
+    "stars": 41375,
+    "forks": 16693,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jekyll",
+    "name": "jekyll",
+    "language": "ruby",
+    "stars": 35937,
+    "forks": 7887,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Homebrew",
+    "name": "legacy-homebrew",
+    "language": "ruby",
+    "stars": 28294,
+    "forks": 12811,
+    "default_branch": "master"
+  },
+  {
+    "owner": "discourse",
+    "name": "discourse",
+    "language": "ruby",
+    "stars": 26582,
+    "forks": 6254,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fastlane",
+    "name": "fastlane",
+    "language": "ruby",
+    "stars": 23686,
+    "forks": 3605,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bayandin",
+    "name": "awesome-awesomeness",
+    "language": "ruby",
+    "stars": 22649,
+    "forks": 2897,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gitlabhq",
+    "name": "gitlabhq",
+    "language": "ruby",
+    "stars": 21331,
+    "forks": 5517,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huginn",
+    "name": "huginn",
+    "language": "ruby",
+    "stars": 19944,
+    "forks": 2193,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plataformatec",
+    "name": "devise",
+    "language": "ruby",
+    "stars": 19288,
+    "forks": 4533,
+    "default_branch": "master"
+  },
+  {
+    "owner": "freeCodeCamp",
+    "name": "devdocs",
+    "language": "ruby",
+    "stars": 19171,
+    "forks": 1244,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hashicorp",
+    "name": "vagrant",
+    "language": "ruby",
+    "stars": 17532,
+    "forks": 3583,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tootsuite",
+    "name": "mastodon",
+    "language": "ruby",
+    "stars": 15809,
+    "forks": 2804,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby",
+    "name": "ruby",
+    "language": "ruby",
+    "stars": 15000,
+    "forks": 4047,
+    "default_branch": "trunk"
+  },
+  {
+    "owner": "Homebrew",
+    "name": "brew",
+    "language": "ruby",
+    "stars": 14935,
+    "forks": 3345,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kilimchoi",
+    "name": "engineering-blogs",
+    "language": "ruby",
+    "stars": 14286,
+    "forks": 1648,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Homebrew",
+    "name": "homebrew-cask",
+    "language": "ruby",
+    "stars": 14121,
+    "forks": 6657,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rapid7",
+    "name": "metasploit-framework",
+    "language": "ruby",
+    "stars": 14079,
+    "forks": 7359,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twbs",
+    "name": "bootstrap-sass",
+    "language": "ruby",
+    "stars": 12687,
+    "forks": 3451,
+    "default_branch": "master"
+  },
+  {
+    "owner": "diaspora",
+    "name": "diaspora",
+    "language": "ruby",
+    "stars": 12038,
+    "forks": 2909,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "sass",
+    "name": "sass",
+    "language": "ruby",
+    "stars": 11582,
+    "forks": 1943,
+    "default_branch": "stable"
+  },
+  {
+    "owner": "CocoaPods",
+    "name": "CocoaPods",
+    "language": "ruby",
+    "stars": 11041,
+    "forks": 1983,
+    "default_branch": "master"
+  },
+  {
+    "owner": "capistrano",
+    "name": "capistrano",
+    "language": "ruby",
+    "stars": 10709,
+    "forks": 1686,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sinatra",
+    "name": "sinatra",
+    "language": "ruby",
+    "stars": 10270,
+    "forks": 1835,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Hacker0x01",
+    "name": "hacker101",
+    "language": "ruby",
+    "stars": 10038,
+    "forks": 877,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gollum",
+    "name": "gollum",
+    "language": "ruby",
+    "stars": 9580,
+    "forks": 1432,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elastic",
+    "name": "logstash",
+    "language": "ruby",
+    "stars": 9553,
+    "forks": 2584,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imathis",
+    "name": "octopress",
+    "language": "ruby",
+    "stars": 9536,
+    "forks": 2897,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubocop-hq",
+    "name": "rubocop",
+    "language": "ruby",
+    "stars": 9506,
+    "forks": 1944,
+    "default_branch": "master"
+  },
+  {
+    "owner": "spree",
+    "name": "spree",
+    "language": "ruby",
+    "stars": 9495,
+    "forks": 4207,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mperham",
+    "name": "sidekiq",
+    "language": "ruby",
+    "stars": 9130,
+    "forks": 1565,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "paperclip",
+    "language": "ruby",
+    "stars": 9019,
+    "forks": 2039,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jordansissel",
+    "name": "fpm",
+    "language": "ruby",
+    "stars": 8791,
+    "forks": 882,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "bourbon",
+    "language": "ruby",
+    "stars": 8743,
+    "forks": 917,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby-grape",
+    "name": "grape",
+    "language": "ruby",
+    "stars": 8652,
+    "forks": 1058,
+    "default_branch": "master"
+  },
+  {
+    "owner": "teamcapybara",
+    "name": "capybara",
+    "language": "ruby",
+    "stars": 8584,
+    "forks": 1250,
+    "default_branch": "master"
+  },
+  {
+    "owner": "atech",
+    "name": "postal",
+    "language": "ruby",
+    "stars": 8445,
+    "forks": 471,
+    "default_branch": "master"
+  },
+  {
+    "owner": "resque",
+    "name": "resque",
+    "language": "ruby",
+    "stars": 8364,
+    "forks": 1553,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tmuxinator",
+    "name": "tmuxinator",
+    "language": "ruby",
+    "stars": 8319,
+    "forks": 510,
+    "default_branch": "master"
+  },
+  {
+    "owner": "activeadmin",
+    "name": "activeadmin",
+    "language": "ruby",
+    "stars": 8215,
+    "forks": 2910,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carrierwaveuploader",
+    "name": "carrierwave",
+    "language": "ruby",
+    "stars": 8183,
+    "forks": 1458,
+    "default_branch": "master"
+  },
+  {
+    "owner": "javan",
+    "name": "whenever",
+    "language": "ruby",
+    "stars": 7763,
+    "forks": 672,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "guides",
+    "language": "ruby",
+    "stars": 7602,
+    "forks": 1172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mame",
+    "name": "quine-relay",
+    "language": "ruby",
+    "stars": 7493,
+    "forks": 374,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thepracticaldev",
+    "name": "dev.to",
+    "language": "ruby",
+    "stars": 7411,
+    "forks": 702,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kaminari",
+    "name": "kaminari",
+    "language": "ruby",
+    "stars": 7264,
+    "forks": 944,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plataformatec",
+    "name": "simple_form",
+    "language": "ruby",
+    "stars": 7215,
+    "forks": 1198,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stympy",
+    "name": "faker",
+    "language": "ruby",
+    "stars": 7127,
+    "forks": 1833,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fluent",
+    "name": "fluentd",
+    "language": "ruby",
+    "stars": 6942,
+    "forks": 822,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sferik",
+    "name": "rails_admin",
+    "language": "ruby",
+    "stars": 6934,
+    "forks": 2056,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Shopify",
+    "name": "liquid",
+    "language": "ruby",
+    "stars": 6734,
+    "forks": 876,
+    "default_branch": "master"
+  },
+  {
+    "owner": "omniauth",
+    "name": "omniauth",
+    "language": "ruby",
+    "stars": 6729,
+    "forks": 854,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BetterErrors",
+    "name": "better_errors",
+    "language": "ruby",
+    "stars": 6416,
+    "forks": 425,
+    "default_branch": "master"
+  },
+  {
+    "owner": "middleman",
+    "name": "middleman",
+    "language": "ruby",
+    "stars": 6343,
+    "forks": 679,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanb",
+    "name": "cancan",
+    "language": "ruby",
+    "stars": 6291,
+    "forks": 837,
+    "default_branch": "master"
+  },
+  {
+    "owner": "varvet",
+    "name": "pundit",
+    "language": "ruby",
+    "stars": 6235,
+    "forks": 475,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "factory_bot",
+    "language": "ruby",
+    "stars": 6199,
+    "forks": 1663,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "linguist",
+    "language": "ruby",
+    "stars": 6191,
+    "forks": 2313,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skwp",
+    "name": "dotfiles",
+    "language": "ruby",
+    "stars": 6096,
+    "forks": 1412,
+    "default_branch": "master"
+  },
+  {
+    "owner": "progit",
+    "name": "progit",
+    "language": "ruby",
+    "stars": 5848,
+    "forks": 2512,
+    "default_branch": "master"
+  },
+  {
+    "owner": "venmo",
+    "name": "synx",
+    "language": "ruby",
+    "stars": 5847,
+    "forks": 281,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guard",
+    "name": "guard",
+    "language": "ruby",
+    "stars": 5637,
+    "forks": 486,
+    "default_branch": "master"
+  },
+  {
+    "owner": "realm",
+    "name": "jazzy",
+    "language": "ruby",
+    "stars": 5572,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chef",
+    "name": "chef",
+    "language": "ruby",
+    "stars": 5556,
+    "forks": 2270,
+    "default_branch": "master"
+  },
+  {
+    "owner": "puma",
+    "name": "puma",
+    "language": "ruby",
+    "stars": 5482,
+    "forks": 906,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pry",
+    "name": "pry",
+    "language": "ruby",
+    "stars": 5361,
+    "forks": 488,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flyerhzm",
+    "name": "bullet",
+    "language": "ruby",
+    "stars": 5308,
+    "forks": 285,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mislav",
+    "name": "will_paginate",
+    "language": "ruby",
+    "stars": 5308,
+    "forks": 866,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexreisner",
+    "name": "geocoder",
+    "language": "ruby",
+    "stars": 5288,
+    "forks": 1021,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paper-trail-gem",
+    "name": "paper_trail",
+    "language": "ruby",
+    "stars": 5287,
+    "forks": 704,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails-api",
+    "name": "rails-api",
+    "language": "ruby",
+    "stars": 5263,
+    "forks": 293,
+    "default_branch": "master"
+  },
+  {
+    "owner": "puppetlabs",
+    "name": "puppet",
+    "language": "ruby",
+    "stars": 5136,
+    "forks": 2049,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "maximum-awesome",
+    "language": "ruby",
+    "stars": 5093,
+    "forks": 965,
+    "default_branch": "master"
+  },
+  {
+    "owner": "justinfrench",
+    "name": "formtastic",
+    "language": "ruby",
+    "stars": 5076,
+    "forks": 621,
+    "default_branch": "master"
+  },
+  {
+    "owner": "norman",
+    "name": "friendly_id",
+    "language": "ruby",
+    "stars": 5073,
+    "forks": 537,
+    "default_branch": "master"
+  },
+  {
+    "owner": "presidentbeef",
+    "name": "brakeman",
+    "language": "ruby",
+    "stars": 5062,
+    "forks": 514,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github-changelog-generator",
+    "name": "github-changelog-generator",
+    "language": "ruby",
+    "stars": 5055,
+    "forks": 522,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cucumber",
+    "name": "cucumber-ruby",
+    "language": "ruby",
+    "stars": 5002,
+    "forks": 1097,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "chartkick",
+    "language": "ruby",
+    "stars": 4969,
+    "forks": 485,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bkeepers",
+    "name": "dotenv",
+    "language": "ruby",
+    "stars": 4930,
+    "forks": 341,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ddollar",
+    "name": "foreman",
+    "language": "ruby",
+    "stars": 4872,
+    "forks": 552,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hanami",
+    "name": "hanami",
+    "language": "ruby",
+    "stars": 4721,
+    "forks": 458,
+    "default_branch": "master"
+  },
+  {
+    "owner": "slim-template",
+    "name": "slim",
+    "language": "ruby",
+    "stars": 4715,
+    "forks": 458,
+    "default_branch": "master"
+  },
+  {
+    "owner": "evil-icons",
+    "name": "evil-icons",
+    "language": "ruby",
+    "stars": 4703,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sferik",
+    "name": "t",
+    "language": "ruby",
+    "stars": 4699,
+    "forks": 374,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails-api",
+    "name": "active_model_serializers",
+    "language": "ruby",
+    "stars": 4695,
+    "forks": 1281,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jnunemaker",
+    "name": "httparty",
+    "language": "ruby",
+    "stars": 4690,
+    "forks": 813,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "scientist",
+    "language": "ruby",
+    "stars": 4670,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Homebrew",
+    "name": "homebrew-core",
+    "language": "ruby",
+    "stars": 4647,
+    "forks": 5264,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "searchkick",
+    "language": "ruby",
+    "stars": 4562,
+    "forks": 539,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dylanbeattie",
+    "name": "rockstar",
+    "language": "ruby",
+    "stars": 4556,
+    "forks": 108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "neat",
+    "language": "ruby",
+    "stars": 4541,
+    "forks": 422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nomad",
+    "name": "shenzhen",
+    "language": "ruby",
+    "stars": 4511,
+    "forks": 501,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rest-client",
+    "name": "rest-client",
+    "language": "ruby",
+    "stars": 4511,
+    "forks": 845,
+    "default_branch": "master"
+  },
+  {
+    "owner": "drapergem",
+    "name": "draper",
+    "language": "ruby",
+    "stars": 4498,
+    "forks": 481,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sj26",
+    "name": "mailcatcher",
+    "language": "ruby",
+    "stars": 4497,
+    "forks": 442,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thibmaek",
+    "name": "awesome-raspberry-pi",
+    "language": "ruby",
+    "stars": 4448,
+    "forks": 433,
+    "default_branch": "master"
+  },
+  {
+    "owner": "backup",
+    "name": "backup",
+    "language": "ruby",
+    "stars": 4447,
+    "forks": 603,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "markup",
+    "language": "ruby",
+    "stars": 4423,
+    "forks": 3283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "BBC-News",
+    "name": "wraith",
+    "language": "ruby",
+    "stars": 4406,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mbleigh",
+    "name": "acts-as-taggable-on",
+    "language": "ruby",
+    "stars": 4382,
+    "forks": 1020,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby-concurrency",
+    "name": "concurrent-ruby",
+    "language": "ruby",
+    "stars": 4353,
+    "forks": 262,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bundler",
+    "name": "bundler",
+    "language": "ruby",
+    "stars": 4338,
+    "forks": 1960,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DeathKing",
+    "name": "Learning-SICP",
+    "language": "ruby",
+    "stars": 4309,
+    "forks": 739,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JuanitoFatas",
+    "name": "fast-ruby",
+    "language": "ruby",
+    "stars": 4297,
+    "forks": 289,
+    "default_branch": "master"
+  },
+  {
+    "owner": "samaaron",
+    "name": "sonic-pi",
+    "language": "ruby",
+    "stars": 4261,
+    "forks": 523,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "pghero",
+    "language": "ruby",
+    "stars": 4239,
+    "forks": 209,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lostisland",
+    "name": "faraday",
+    "language": "ruby",
+    "stars": 4218,
+    "forks": 670,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vcr",
+    "name": "vcr",
+    "language": "ruby",
+    "stars": 4189,
+    "forks": 408,
+    "default_branch": "master"
+  },
+  {
+    "owner": "erikhuda",
+    "name": "thor",
+    "language": "ruby",
+    "stars": 4186,
+    "forks": 440,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fog",
+    "name": "fog",
+    "language": "ruby",
+    "stars": 4168,
+    "forks": 1545,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "administrate",
+    "language": "ruby",
+    "stars": 4156,
+    "forks": 713,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CanCanCommunity",
+    "name": "cancancan",
+    "language": "ruby",
+    "stars": 4156,
+    "forks": 403,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "doorkeeper-gem",
+    "name": "doorkeeper",
+    "language": "ruby",
+    "stars": 4150,
+    "forks": 824,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chyingp",
+    "name": "nodejs-learning-guide",
+    "language": "ruby",
+    "stars": 4129,
+    "forks": 710,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shakacode",
+    "name": "react_on_rails",
+    "language": "ruby",
+    "stars": 4123,
+    "forks": 497,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sferik",
+    "name": "twitter",
+    "language": "ruby",
+    "stars": 4115,
+    "forks": 1116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "binarylogic",
+    "name": "authlogic",
+    "language": "ruby",
+    "stars": 4098,
+    "forks": 586,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kneath",
+    "name": "kss",
+    "language": "ruby",
+    "stars": 4083,
+    "forks": 288,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mroth",
+    "name": "lolcommits",
+    "language": "ruby",
+    "stars": 4067,
+    "forks": 245,
+    "default_branch": "master"
+  },
+  {
+    "owner": "activerecord-hackery",
+    "name": "ransack",
+    "language": "ruby",
+    "stars": 4045,
+    "forks": 614,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kickstarter",
+    "name": "rack-attack",
+    "language": "ruby",
+    "stars": 3958,
+    "forks": 225,
+    "default_branch": "master"
+  },
+  {
+    "owner": "errbit",
+    "name": "errbit",
+    "language": "ruby",
+    "stars": 3924,
+    "forks": 982,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mina-deploy",
+    "name": "mina",
+    "language": "ruby",
+    "stars": 3904,
+    "forks": 444,
+    "default_branch": "master"
+  },
+  {
+    "owner": "activemerchant",
+    "name": "active_merchant",
+    "language": "ruby",
+    "stars": 3897,
+    "forks": 2205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opal",
+    "name": "opal",
+    "language": "ruby",
+    "stars": 3872,
+    "forks": 281,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rspec",
+    "name": "rspec-rails",
+    "language": "ruby",
+    "stars": 3834,
+    "forks": 761,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eventmachine",
+    "name": "eventmachine",
+    "language": "ruby",
+    "stars": 3789,
+    "forks": 590,
+    "default_branch": "master"
+  },
+  {
+    "owner": "celluloid",
+    "name": "celluloid",
+    "language": "ruby",
+    "stars": 3785,
+    "forks": 274,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sparklemotion",
+    "name": "mechanize",
+    "language": "ruby",
+    "stars": 3784,
+    "forks": 438,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeremyevans",
+    "name": "sequel",
+    "language": "ruby",
+    "stars": 3773,
+    "forks": 803,
+    "default_branch": "master"
+  },
+  {
+    "owner": "solnic",
+    "name": "virtus",
+    "language": "ruby",
+    "stars": 3767,
+    "forks": 232,
+    "default_branch": "master"
+  },
+  {
+    "owner": "willianjusten",
+    "name": "awesome-svg",
+    "language": "ruby",
+    "stars": 3717,
+    "forks": 325,
+    "default_branch": "master"
+  },
+  {
+    "owner": "prawnpdf",
+    "name": "prawn",
+    "language": "ruby",
+    "stars": 3700,
+    "forks": 604,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pluginaweek",
+    "name": "state_machine",
+    "language": "ruby",
+    "stars": 3696,
+    "forks": 472,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trogdoro",
+    "name": "xiki",
+    "language": "ruby",
+    "stars": 3680,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mongodb",
+    "name": "mongoid",
+    "language": "ruby",
+    "stars": 3663,
+    "forks": 1276,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "webpacker",
+    "language": "ruby",
+    "stars": 3659,
+    "forks": 675,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wpscanteam",
+    "name": "wpscan",
+    "language": "ruby",
+    "stars": 3648,
+    "forks": 703,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flyerhzm",
+    "name": "rails_best_practices",
+    "language": "ruby",
+    "stars": 3643,
+    "forks": 257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "refinery",
+    "name": "refinerycms",
+    "language": "ruby",
+    "stars": 3612,
+    "forks": 1277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cesarferreira",
+    "name": "dryrun",
+    "language": "ruby",
+    "stars": 3576,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nesquena",
+    "name": "rabl",
+    "language": "ruby",
+    "stars": 3564,
+    "forks": 344,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanb",
+    "name": "ruby-warrior",
+    "language": "ruby",
+    "stars": 3558,
+    "forks": 827,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix",
+    "name": "fast_jsonapi",
+    "language": "ruby",
+    "stars": 3533,
+    "forks": 250,
+    "default_branch": "master"
+  },
+  {
+    "owner": "colszowka",
+    "name": "simplecov",
+    "language": "ruby",
+    "stars": 3526,
+    "forks": 401,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rack",
+    "name": "rack",
+    "language": "ruby",
+    "stars": 3506,
+    "forks": 1303,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aasm",
+    "name": "aasm",
+    "language": "ruby",
+    "stars": 3503,
+    "forks": 489,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "jbuilder",
+    "language": "ruby",
+    "stars": 3450,
+    "forks": 332,
+    "default_branch": "master"
+  },
+  {
+    "owner": "laserlemon",
+    "name": "figaro",
+    "language": "ruby",
+    "stars": 3425,
+    "forks": 247,
+    "default_branch": "master"
+  },
+  {
+    "owner": "awesome-print",
+    "name": "awesome_print",
+    "language": "ruby",
+    "stars": 3425,
+    "forks": 287,
+    "default_branch": "master"
+  },
+  {
+    "owner": "typhoeus",
+    "name": "typhoeus",
+    "language": "ruby",
+    "stars": 3412,
+    "forks": 380,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arsduo",
+    "name": "koala",
+    "language": "ruby",
+    "stars": 3412,
+    "forks": 466,
+    "default_branch": "master"
+  },
+  {
+    "owner": "soffes",
+    "name": "sstoolkit",
+    "language": "ruby",
+    "stars": 3407,
+    "forks": 609,
+    "default_branch": "master"
+  },
+  {
+    "owner": "haml",
+    "name": "haml",
+    "language": "ruby",
+    "stars": 3371,
+    "forks": 544,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plusjade",
+    "name": "jekyll-bootstrap",
+    "language": "ruby",
+    "stars": 3346,
+    "forks": 1881,
+    "default_branch": "master"
+  },
+  {
+    "owner": "svenfuchs",
+    "name": "rails-i18n",
+    "language": "ruby",
+    "stars": 3333,
+    "forks": 2342,
+    "default_branch": "master"
+  },
+  {
+    "owner": "octobox",
+    "name": "octobox",
+    "language": "ruby",
+    "stars": 3323,
+    "forks": 249,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RailsApps",
+    "name": "rails-composer",
+    "language": "ruby",
+    "stars": 3310,
+    "forks": 486,
+    "default_branch": "master"
+  },
+  {
+    "owner": "voltrb",
+    "name": "volt",
+    "language": "ruby",
+    "stars": 3309,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dejan",
+    "name": "rails_panel",
+    "language": "ruby",
+    "stars": 3308,
+    "forks": 136,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brigade",
+    "name": "scss-lint",
+    "language": "ruby",
+    "stars": 3284,
+    "forks": 492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rmosolgo",
+    "name": "graphql-ruby",
+    "language": "ruby",
+    "stars": 3264,
+    "forks": 495,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "suspenders",
+    "language": "ruby",
+    "stars": 3261,
+    "forks": 492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redis",
+    "name": "redis-rb",
+    "language": "ruby",
+    "stars": 3256,
+    "forks": 770,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jruby",
+    "name": "jruby",
+    "language": "ruby",
+    "stars": 3213,
+    "forks": 807,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FontCustom",
+    "name": "fontcustom",
+    "language": "ruby",
+    "stars": 3205,
+    "forks": 399,
+    "default_branch": "master"
+  },
+  {
+    "owner": "defunkt",
+    "name": "dotjs",
+    "language": "ruby",
+    "stars": 3198,
+    "forks": 381,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "gemoji",
+    "language": "ruby",
+    "stars": 3175,
+    "forks": 509,
+    "default_branch": "master"
+  },
+  {
+    "owner": "busyloop",
+    "name": "lolcat",
+    "language": "ruby",
+    "stars": 3172,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "padrino",
+    "name": "padrino-framework",
+    "language": "ruby",
+    "stars": 3168,
+    "forks": 493,
+    "default_branch": "master"
+  },
+  {
+    "owner": "apigy",
+    "name": "selfstarter",
+    "language": "ruby",
+    "stars": 3128,
+    "forks": 1718,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lewagon",
+    "name": "setup",
+    "language": "ruby",
+    "stars": 3121,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sketchplugins",
+    "name": "plugin-directory",
+    "language": "ruby",
+    "stars": 3105,
+    "forks": 458,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oa414",
+    "name": "objc-zen-book-cn",
+    "language": "ruby",
+    "stars": 3103,
+    "forks": 753,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redmine",
+    "name": "redmine",
+    "language": "ruby",
+    "stars": 3083,
+    "forks": 1760,
+    "default_branch": "master"
+  },
+  {
+    "owner": "defunkt",
+    "name": "gist",
+    "language": "ruby",
+    "stars": 3079,
+    "forks": 297,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ctran",
+    "name": "annotate_models",
+    "language": "ruby",
+    "stars": 3074,
+    "forks": 380,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "fatfreecrm",
+    "name": "fat_free_crm",
+    "language": "ruby",
+    "stars": 3060,
+    "forks": 1187,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sagivo",
+    "name": "algorithms",
+    "language": "ruby",
+    "stars": 3041,
+    "forks": 320,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grosser",
+    "name": "parallel",
+    "language": "ruby",
+    "stars": 3039,
+    "forks": 200,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danger",
+    "name": "danger",
+    "language": "ruby",
+    "stars": 3028,
+    "forks": 268,
+    "default_branch": "master"
+  },
+  {
+    "owner": "layervault",
+    "name": "psd.rb",
+    "language": "ruby",
+    "stars": 2990,
+    "forks": 210,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mikel",
+    "name": "mail",
+    "language": "ruby",
+    "stars": 2988,
+    "forks": 757,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "clearance",
+    "language": "ruby",
+    "stars": 2984,
+    "forks": 411,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SteveLTN",
+    "name": "https-portal",
+    "language": "ruby",
+    "stars": 2980,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "octokit",
+    "name": "octokit.rb",
+    "language": "ruby",
+    "stars": 2964,
+    "forks": 888,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bblimke",
+    "name": "webmock",
+    "language": "ruby",
+    "stars": 2956,
+    "forks": 415,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zmoazeni",
+    "name": "csscss",
+    "language": "ruby",
+    "stars": 2936,
+    "forks": 146,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swanson",
+    "name": "stringer",
+    "language": "ruby",
+    "stars": 2922,
+    "forks": 332,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mojombo",
+    "name": "chronic",
+    "language": "ruby",
+    "stars": 2916,
+    "forks": 418,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sensu",
+    "name": "sensu",
+    "language": "ruby",
+    "stars": 2912,
+    "forks": 386,
+    "default_branch": "master"
+  },
+  {
+    "owner": "troessner",
+    "name": "reek",
+    "language": "ruby",
+    "stars": 2908,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "supermarin",
+    "name": "xcpretty",
+    "language": "ruby",
+    "stars": 2907,
+    "forks": 217,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trailblazer",
+    "name": "cells",
+    "language": "ruby",
+    "stars": 2901,
+    "forks": 232,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanb",
+    "name": "letter_opener",
+    "language": "ruby",
+    "stars": 2900,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "petergoldstein",
+    "name": "dalli",
+    "language": "ruby",
+    "stars": 2873,
+    "forks": 377,
+    "default_branch": "master"
+  },
+  {
+    "owner": "peek",
+    "name": "peek",
+    "language": "ruby",
+    "stars": 2849,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "peatio",
+    "name": "peatio",
+    "language": "ruby",
+    "stars": 2829,
+    "forks": 2029,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "high_voltage",
+    "language": "ruby",
+    "stars": 2825,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hendricius",
+    "name": "the-bread-code",
+    "language": "ruby",
+    "stars": 2823,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trailblazer",
+    "name": "trailblazer",
+    "language": "ruby",
+    "stars": 2784,
+    "forks": 126,
+    "default_branch": "master"
+  },
+  {
+    "owner": "voormedia",
+    "name": "rails-erd",
+    "language": "ruby",
+    "stars": 2782,
+    "forks": 283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aws",
+    "name": "aws-sdk-ruby",
+    "language": "ruby",
+    "stars": 2778,
+    "forks": 889,
+    "default_branch": "master"
+  },
+  {
+    "owner": "play",
+    "name": "play",
+    "language": "ruby",
+    "stars": 2747,
+    "forks": 387,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "janky",
+    "language": "ruby",
+    "stars": 2744,
+    "forks": 230,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nathanvda",
+    "name": "cocoon",
+    "language": "ruby",
+    "stars": 2743,
+    "forks": 330,
+    "default_branch": "master"
+  },
+  {
+    "owner": "X140Yu",
+    "name": "Developing_iOS_8_Apps_With_Swift",
+    "language": "ruby",
+    "stars": 2743,
+    "forks": 527,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stefankroes",
+    "name": "ancestry",
+    "language": "ruby",
+    "stars": 2737,
+    "forks": 387,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mileszs",
+    "name": "wicked_pdf",
+    "language": "ruby",
+    "stars": 2735,
+    "forks": 487,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nomad",
+    "name": "houston",
+    "language": "ruby",
+    "stars": 2733,
+    "forks": 227,
+    "default_branch": "master"
+  },
+  {
+    "owner": "travisjeffery",
+    "name": "timecop",
+    "language": "ruby",
+    "stars": 2725,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ptwobrussell",
+    "name": "Mining-the-Social-Web-2nd-Edition",
+    "language": "ruby",
+    "stars": 2715,
+    "forks": 1473,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gazay",
+    "name": "gon",
+    "language": "ruby",
+    "stars": 2708,
+    "forks": 169,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aanand",
+    "name": "git-up",
+    "language": "ruby",
+    "stars": 2698,
+    "forks": 161,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "groupdate",
+    "language": "ruby",
+    "stars": 2678,
+    "forks": 175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nomad",
+    "name": "cupertino",
+    "language": "ruby",
+    "stars": 2672,
+    "forks": 200,
+    "default_branch": "master"
+  },
+  {
+    "owner": "deivid-rodriguez",
+    "name": "byebug",
+    "language": "ruby",
+    "stars": 2638,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "activeadmin",
+    "name": "inherited_resources",
+    "language": "ruby",
+    "stars": 2622,
+    "forks": 367,
+    "default_branch": "master"
+  },
+  {
+    "owner": "boxen",
+    "name": "our-boxen",
+    "language": "ruby",
+    "stars": 2621,
+    "forks": 1012,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MiniProfiler",
+    "name": "rack-mini-profiler",
+    "language": "ruby",
+    "stars": 2619,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eddiezane",
+    "name": "lunchy",
+    "language": "ruby",
+    "stars": 2605,
+    "forks": 114,
+    "default_branch": "master"
+  },
+  {
+    "owner": "instructure",
+    "name": "canvas-lms",
+    "language": "ruby",
+    "stars": 2602,
+    "forks": 1127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chaps-io",
+    "name": "public_activity",
+    "language": "ruby",
+    "stars": 2601,
+    "forks": 277,
+    "default_branch": "1-6-stable"
+  },
+  {
+    "owner": "openblockchains",
+    "name": "awesome-blockchains",
+    "language": "ruby",
+    "stars": 2589,
+    "forks": 264,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lynndylanhurley",
+    "name": "devise_token_auth",
+    "language": "ruby",
+    "stars": 2580,
+    "forks": 797,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brigade",
+    "name": "overcommit",
+    "language": "ruby",
+    "stars": 2577,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pdfkit",
+    "name": "pdfkit",
+    "language": "ruby",
+    "stars": 2559,
+    "forks": 354,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "ruby",
+    "language": "ruby",
+    "stars": 2541,
+    "forks": 564,
+    "default_branch": "master"
+  },
+  {
+    "owner": "objc-zen",
+    "name": "objc-zen-book",
+    "language": "ruby",
+    "stars": 2538,
+    "forks": 358,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zdennis",
+    "name": "activerecord-import",
+    "language": "ruby",
+    "stars": 2535,
+    "forks": 497,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter",
+    "name": "secure_headers",
+    "language": "ruby",
+    "stars": 2529,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mustache",
+    "name": "mustache",
+    "language": "ruby",
+    "stars": 2526,
+    "forks": 237,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pickhardt",
+    "name": "betty",
+    "language": "ruby",
+    "stars": 2523,
+    "forks": 212,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hothero",
+    "name": "awesome-rails-gem",
+    "language": "ruby",
+    "stars": 2522,
+    "forks": 303,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pilu",
+    "name": "web-app-theme",
+    "language": "ruby",
+    "stars": 2511,
+    "forks": 415,
+    "default_branch": "master"
+  },
+  {
+    "owner": "teampoltergeist",
+    "name": "poltergeist",
+    "language": "ruby",
+    "stars": 2509,
+    "forks": 441,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seattlerb",
+    "name": "minitest",
+    "language": "ruby",
+    "stars": 2501,
+    "forks": 410,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dotless-de",
+    "name": "vagrant-vbguest",
+    "language": "ruby",
+    "stars": 2492,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "livoras",
+    "name": "blog",
+    "language": "ruby",
+    "stars": 2490,
+    "forks": 246,
+    "default_branch": "home"
+  },
+  {
+    "owner": "lg",
+    "name": "murder",
+    "language": "ruby",
+    "stars": 2487,
+    "forks": 245,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RolifyCommunity",
+    "name": "rolify",
+    "language": "ruby",
+    "stars": 2473,
+    "forks": 345,
+    "default_branch": "master"
+  },
+  {
+    "owner": "comfy",
+    "name": "comfortable-mexican-sofa",
+    "language": "ruby",
+    "stars": 2473,
+    "forks": 573,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mitchellh",
+    "name": "vagrant-aws",
+    "language": "ruby",
+    "stars": 2462,
+    "forks": 509,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Netflix-Skunkworks",
+    "name": "Scumblr",
+    "language": "ruby",
+    "stars": 2456,
+    "forks": 301,
+    "default_branch": "master"
+  },
+  {
+    "owner": "refile",
+    "name": "refile",
+    "language": "ruby",
+    "stars": 2454,
+    "forks": 258,
+    "default_branch": "master"
+  },
+  {
+    "owner": "postrank-labs",
+    "name": "goliath",
+    "language": "ruby",
+    "stars": 2452,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "opf",
+    "name": "openproject",
+    "language": "ruby",
+    "stars": 2451,
+    "forks": 774,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "shoulda-matchers",
+    "language": "ruby",
+    "stars": 2446,
+    "forks": 734,
+    "default_branch": "master"
+  },
+  {
+    "owner": "roidrage",
+    "name": "lograge",
+    "language": "ruby",
+    "stars": 2446,
+    "forks": 192,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "spring",
+    "language": "ruby",
+    "stars": 2441,
+    "forks": 264,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fetlife",
+    "name": "rollout",
+    "language": "ruby",
+    "stars": 2432,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grosser",
+    "name": "parallel_tests",
+    "language": "ruby",
+    "stars": 2430,
+    "forks": 418,
+    "default_branch": "master"
+  },
+  {
+    "owner": "krisleech",
+    "name": "wisper",
+    "language": "ruby",
+    "stars": 2430,
+    "forks": 100,
+    "default_branch": "master"
+  },
+  {
+    "owner": "intridea",
+    "name": "hashie",
+    "language": "ruby",
+    "stars": 2427,
+    "forks": 271,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DavyJonesLocker",
+    "name": "client_side_validations",
+    "language": "ruby",
+    "stars": 2421,
+    "forks": 417,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jubos",
+    "name": "fake-s3",
+    "language": "ruby",
+    "stars": 2420,
+    "forks": 341,
+    "default_branch": "master"
+  },
+  {
+    "owner": "edavis10",
+    "name": "redmine",
+    "language": "ruby",
+    "stars": 2415,
+    "forks": 717,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NoamB",
+    "name": "sorcery",
+    "language": "ruby",
+    "stars": 2413,
+    "forks": 432,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "ahoy",
+    "language": "ruby",
+    "stars": 2412,
+    "forks": 239,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elastic",
+    "name": "elasticsearch-rails",
+    "language": "ruby",
+    "stars": 2397,
+    "forks": 623,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DatabaseCleaner",
+    "name": "database_cleaner",
+    "language": "ruby",
+    "stars": 2388,
+    "forks": 436,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rspec",
+    "name": "rspec",
+    "language": "ruby",
+    "stars": 2387,
+    "forks": 192,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jneen",
+    "name": "rouge",
+    "language": "ruby",
+    "stars": 2385,
+    "forks": 486,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fixerAPI",
+    "name": "fixer",
+    "language": "ruby",
+    "stars": 2381,
+    "forks": 167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "activerecord-hackery",
+    "name": "squeel",
+    "language": "ruby",
+    "stars": 2367,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubysherpas",
+    "name": "paranoia",
+    "language": "ruby",
+    "stars": 2335,
+    "forks": 446,
+    "default_branch": "core"
+  },
+  {
+    "owner": "minimagick",
+    "name": "minimagick",
+    "language": "ruby",
+    "stars": 2332,
+    "forks": 300,
+    "default_branch": "master"
+  },
+  {
+    "owner": "randym",
+    "name": "axlsx",
+    "language": "ruby",
+    "stars": 2330,
+    "forks": 610,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Linuxbrew",
+    "name": "legacy-linuxbrew",
+    "language": "ruby",
+    "stars": 2320,
+    "forks": 322,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nslocum",
+    "name": "design-patterns-in-ruby",
+    "language": "ruby",
+    "stars": 2311,
+    "forks": 467,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jwt",
+    "name": "ruby-jwt",
+    "language": "ruby",
+    "stars": 2310,
+    "forks": 225,
+    "default_branch": "master"
+  },
+  {
+    "owner": "httprb",
+    "name": "http",
+    "language": "ruby",
+    "stars": 2310,
+    "forks": 195,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dtan4",
+    "name": "terraforming",
+    "language": "ruby",
+    "stars": 2304,
+    "forks": 339,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kanwei",
+    "name": "algorithms",
+    "language": "ruby",
+    "stars": 2294,
+    "forks": 327,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thiagopradi",
+    "name": "octopus",
+    "language": "ruby",
+    "stars": 2291,
+    "forks": 395,
+    "default_branch": "master"
+  },
+  {
+    "owner": "solidusio",
+    "name": "solidus",
+    "language": "ruby",
+    "stars": 2287,
+    "forks": 681,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brandonhilkert",
+    "name": "sucker_punch",
+    "language": "ruby",
+    "stars": 2284,
+    "forks": 106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "collectiveidea",
+    "name": "audited",
+    "language": "ruby",
+    "stars": 2283,
+    "forks": 488,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Casecommons",
+    "name": "pg_search",
+    "language": "ruby",
+    "stars": 2276,
+    "forks": 254,
+    "default_branch": "master"
+  },
+  {
+    "owner": "franzejr",
+    "name": "best-ruby",
+    "language": "ruby",
+    "stars": 2264,
+    "forks": 195,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "factory_bot_rails",
+    "language": "ruby",
+    "stars": 2248,
+    "forks": 299,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jamesrwhite",
+    "name": "minicron",
+    "language": "ruby",
+    "stars": 2237,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trailblazer",
+    "name": "reform",
+    "language": "ruby",
+    "stars": 2229,
+    "forks": 182,
+    "default_branch": "master"
+  },
+  {
+    "owner": "splitrb",
+    "name": "split",
+    "language": "ruby",
+    "stars": 2194,
+    "forks": 312,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wvanbergen",
+    "name": "request-log-analyzer",
+    "language": "ruby",
+    "stars": 2194,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "asciidoctor",
+    "name": "asciidoctor",
+    "language": "ruby",
+    "stars": 2192,
+    "forks": 403,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wincent",
+    "name": "command-t",
+    "language": "ruby",
+    "stars": 2189,
+    "forks": 296,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mizzy",
+    "name": "serverspec",
+    "language": "ruby",
+    "stars": 2181,
+    "forks": 361,
+    "default_branch": "master"
+  },
+  {
+    "owner": "EugenMayer",
+    "name": "docker-sync",
+    "language": "ruby",
+    "stars": 2173,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plamoni",
+    "name": "SiriProxy",
+    "language": "ruby",
+    "stars": 2165,
+    "forks": 379,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Arachni",
+    "name": "arachni",
+    "language": "ruby",
+    "stars": 2160,
+    "forks": 500,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trulia",
+    "name": "hologram",
+    "language": "ruby",
+    "stars": 2159,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "collectiveidea",
+    "name": "interactor",
+    "language": "ruby",
+    "stars": 2155,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fastlane",
+    "name": "ci",
+    "language": "ruby",
+    "stars": 2146,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Homebrew",
+    "name": "homebrew-bundle",
+    "language": "ruby",
+    "stars": 2144,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "feedbin",
+    "name": "feedbin",
+    "language": "ruby",
+    "stars": 2143,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scambra",
+    "name": "devise_invitable",
+    "language": "ruby",
+    "stars": 2134,
+    "forks": 460,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SUSE",
+    "name": "Portus",
+    "language": "ruby",
+    "stars": 2119,
+    "forks": 394,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tobi",
+    "name": "delayed_job",
+    "language": "ruby",
+    "stars": 2116,
+    "forks": 1184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mojombo",
+    "name": "god",
+    "language": "ruby",
+    "stars": 2115,
+    "forks": 491,
+    "default_branch": "master"
+  },
+  {
+    "owner": "schneems",
+    "name": "wicked",
+    "language": "ruby",
+    "stars": 2115,
+    "forks": 152,
+    "default_branch": "master"
+  },
+  {
+    "owner": "collectiveidea",
+    "name": "awesome_nested_set",
+    "language": "ruby",
+    "stars": 2096,
+    "forks": 432,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wardencommunity",
+    "name": "warden",
+    "language": "ruby",
+    "stars": 2093,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mislav",
+    "name": "git-deploy",
+    "language": "ruby",
+    "stars": 2090,
+    "forks": 144,
+    "default_branch": "master"
+  },
+  {
+    "owner": "markevans",
+    "name": "dragonfly",
+    "language": "ruby",
+    "stars": 2085,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kpumuk",
+    "name": "meta-tags",
+    "language": "ruby",
+    "stars": 2083,
+    "forks": 248,
+    "default_branch": "master"
+  },
+  {
+    "owner": "schneems",
+    "name": "derailed_benchmarks",
+    "language": "ruby",
+    "stars": 2076,
+    "forks": 108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "technicalpickles",
+    "name": "homesick",
+    "language": "ruby",
+    "stars": 2068,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "roo-rb",
+    "name": "roo",
+    "language": "ruby",
+    "stars": 2067,
+    "forks": 402,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RubyMoney",
+    "name": "money",
+    "language": "ruby",
+    "stars": 2053,
+    "forks": 492,
+    "default_branch": "master"
+  },
+  {
+    "owner": "influitive",
+    "name": "apartment",
+    "language": "ruby",
+    "stars": 2051,
+    "forks": 340,
+    "default_branch": "development"
+  },
+  {
+    "owner": "rubygems",
+    "name": "rubygems",
+    "language": "ruby",
+    "stars": 2050,
+    "forks": 1009,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "shoulda",
+    "language": "ruby",
+    "stars": 2036,
+    "forks": 203,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Linuxbrew",
+    "name": "brew",
+    "language": "ruby",
+    "stars": 2035,
+    "forks": 192,
+    "default_branch": "master"
+  },
+  {
+    "owner": "macournoyer",
+    "name": "thin",
+    "language": "ruby",
+    "stars": 2029,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stephencelis",
+    "name": "ghi",
+    "language": "ruby",
+    "stars": 2028,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanb",
+    "name": "nifty-generators",
+    "language": "ruby",
+    "stars": 2028,
+    "forks": 298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cerebris",
+    "name": "jsonapi-resources",
+    "language": "ruby",
+    "stars": 2026,
+    "forks": 422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruboto",
+    "name": "ruboto",
+    "language": "ruby",
+    "stars": 2025,
+    "forks": 169,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lobsters",
+    "name": "lobsters",
+    "language": "ruby",
+    "stars": 1996,
+    "forks": 470,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "capybara-webkit",
+    "language": "ruby",
+    "stars": 1980,
+    "forks": 451,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Shopify",
+    "name": "bootsnap",
+    "language": "ruby",
+    "stars": 1977,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shrinerb",
+    "name": "shrine",
+    "language": "ruby",
+    "stars": 1974,
+    "forks": 117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "galetahub",
+    "name": "ckeditor",
+    "language": "ruby",
+    "stars": 1973,
+    "forks": 830,
+    "default_branch": "master"
+  },
+  {
+    "owner": "premailer",
+    "name": "premailer",
+    "language": "ruby",
+    "stars": 1950,
+    "forks": 326,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googleapis",
+    "name": "google-api-ruby-client",
+    "language": "ruby",
+    "stars": 1948,
+    "forks": 590,
+    "default_branch": "master"
+  },
+  {
+    "owner": "prontolabs",
+    "name": "pronto",
+    "language": "ruby",
+    "stars": 1945,
+    "forks": 169,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "github-services",
+    "language": "ruby",
+    "stars": 1936,
+    "forks": 1422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "feedjira",
+    "name": "feedjira",
+    "language": "ruby",
+    "stars": 1935,
+    "forks": 390,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jch",
+    "name": "html-pipeline",
+    "language": "ruby",
+    "stars": 1935,
+    "forks": 318,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jmettraux",
+    "name": "rufus-scheduler",
+    "language": "ruby",
+    "stars": 1929,
+    "forks": 175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "interagent",
+    "name": "prmd",
+    "language": "ruby",
+    "stars": 1927,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "piotrmurach",
+    "name": "tty",
+    "language": "ruby",
+    "stars": 1914,
+    "forks": 48,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JXA-Cookbook",
+    "name": "JXA-Cookbook",
+    "language": "ruby",
+    "stars": 1912,
+    "forks": 90,
+    "default_branch": "master"
+  },
+  {
+    "owner": "karmi",
+    "name": "retire",
+    "language": "ruby",
+    "stars": 1904,
+    "forks": 553,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redbooth",
+    "name": "teambox",
+    "language": "ruby",
+    "stars": 1903,
+    "forks": 451,
+    "default_branch": "dev"
+  },
+  {
+    "owner": "codekitchen",
+    "name": "dinghy",
+    "language": "ruby",
+    "stars": 1894,
+    "forks": 106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eliotsykes",
+    "name": "rspec-rails-examples",
+    "language": "ruby",
+    "stars": 1890,
+    "forks": 274,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Apipie",
+    "name": "apipie-rails",
+    "language": "ruby",
+    "stars": 1890,
+    "forks": 346,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mojombo",
+    "name": "grit",
+    "language": "ruby",
+    "stars": 1877,
+    "forks": 474,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "synapse",
+    "language": "ruby",
+    "stars": 1869,
+    "forks": 246,
+    "default_branch": "master"
+  },
+  {
+    "owner": "etsy",
+    "name": "deployinator",
+    "language": "ruby",
+    "stars": 1864,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pact-foundation",
+    "name": "pact-ruby",
+    "language": "ruby",
+    "stars": 1864,
+    "forks": 170,
+    "default_branch": "master"
+  },
+  {
+    "owner": "remiprev",
+    "name": "teamocil",
+    "language": "ruby",
+    "stars": 1859,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubysec",
+    "name": "bundler-audit",
+    "language": "ruby",
+    "stars": 1853,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fnando",
+    "name": "browser",
+    "language": "ruby",
+    "stars": 1843,
+    "forks": 299,
+    "default_branch": "master"
+  },
+  {
+    "owner": "MacRuby",
+    "name": "MacRuby",
+    "language": "ruby",
+    "stars": 1833,
+    "forks": 203,
+    "default_branch": "master"
+  },
+  {
+    "owner": "savonrb",
+    "name": "savon",
+    "language": "ruby",
+    "stars": 1828,
+    "forks": 544,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brianmario",
+    "name": "mysql2",
+    "language": "ruby",
+    "stars": 1824,
+    "forks": 407,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oauth-xx",
+    "name": "oauth2",
+    "language": "ruby",
+    "stars": 1823,
+    "forks": 566,
+    "default_branch": "master"
+  },
+  {
+    "owner": "globalize",
+    "name": "globalize",
+    "language": "ruby",
+    "stars": 1820,
+    "forks": 434,
+    "default_branch": "master"
+  },
+  {
+    "owner": "athityakumar",
+    "name": "colorls",
+    "language": "ruby",
+    "stars": 1819,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "raganwald-deprecated",
+    "name": "homoiconic",
+    "language": "ruby",
+    "stars": 1819,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "scenic",
+    "language": "ruby",
+    "stars": 1817,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nateware",
+    "name": "redis-objects",
+    "language": "ruby",
+    "stars": 1806,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seejohnrun",
+    "name": "ice_cube",
+    "language": "ruby",
+    "stars": 1805,
+    "forks": 278,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanb",
+    "name": "nested_form",
+    "language": "ruby",
+    "stars": 1793,
+    "forks": 501,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dchelimsky",
+    "name": "rspec",
+    "language": "ruby",
+    "stars": 1785,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "gitsh",
+    "language": "ruby",
+    "stars": 1783,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "remiprev",
+    "name": "her",
+    "language": "ruby",
+    "stars": 1768,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jondot",
+    "name": "sneakers",
+    "language": "ruby",
+    "stars": 1766,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "trailblazer",
+    "name": "roar",
+    "language": "ruby",
+    "stars": 1760,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hamstergem",
+    "name": "hamster",
+    "language": "ruby",
+    "stars": 1758,
+    "forks": 79,
+    "default_branch": "core"
+  },
+  {
+    "owner": "htty",
+    "name": "htty",
+    "language": "ruby",
+    "stars": 1748,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igrigorik",
+    "name": "gharchive.org",
+    "language": "ruby",
+    "stars": 1747,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "websocket-rails",
+    "name": "websocket-rails",
+    "language": "ruby",
+    "stars": 1742,
+    "forks": 289,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rtomayko",
+    "name": "tilt",
+    "language": "ruby",
+    "stars": 1739,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pluralsight",
+    "name": "git-internals-pdf",
+    "language": "ruby",
+    "stars": 1736,
+    "forks": 130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "publify",
+    "name": "publify",
+    "language": "ruby",
+    "stars": 1735,
+    "forks": 3830,
+    "default_branch": "master"
+  },
+  {
+    "owner": "calabash",
+    "name": "calabash-ios",
+    "language": "ruby",
+    "stars": 1733,
+    "forks": 369,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "AssetSync",
+    "name": "asset_sync",
+    "language": "ruby",
+    "stars": 1721,
+    "forks": 340,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jnunemaker",
+    "name": "flipper",
+    "language": "ruby",
+    "stars": 1715,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "newrelic",
+    "name": "centurion",
+    "language": "ruby",
+    "stars": 1706,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plataformatec",
+    "name": "responders",
+    "language": "ruby",
+    "stars": 1702,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "devopsgroup-io",
+    "name": "vagrant-digitalocean",
+    "language": "ruby",
+    "stars": 1701,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "blazer",
+    "language": "ruby",
+    "stars": 1700,
+    "forks": 238,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubygems",
+    "name": "rubygems.org",
+    "language": "ruby",
+    "stars": 1695,
+    "forks": 701,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dennisreimann",
+    "name": "ioctocat",
+    "language": "ruby",
+    "stars": 1692,
+    "forks": 275,
+    "default_branch": "master"
+  },
+  {
+    "owner": "radiant",
+    "name": "radiant",
+    "language": "ruby",
+    "stars": 1691,
+    "forks": 337,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codeclimate",
+    "name": "codeclimate",
+    "language": "ruby",
+    "stars": 1690,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nanoc",
+    "name": "nanoc",
+    "language": "ruby",
+    "stars": 1687,
+    "forks": 234,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sinclairtarget",
+    "name": "um",
+    "language": "ruby",
+    "stars": 1685,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "junegunn",
+    "name": "redis-stat",
+    "language": "ruby",
+    "stars": 1682,
+    "forks": 270,
+    "default_branch": "master"
+  },
+  {
+    "owner": "octopress",
+    "name": "octopress",
+    "language": "ruby",
+    "stars": 1679,
+    "forks": 173,
+    "default_branch": "master"
+  },
+  {
+    "owner": "loomio",
+    "name": "loomio",
+    "language": "ruby",
+    "stars": 1677,
+    "forks": 564,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codebrew",
+    "name": "backbone-rails",
+    "language": "ruby",
+    "stars": 1669,
+    "forks": 281,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tenex",
+    "name": "rails-assets",
+    "language": "ruby",
+    "stars": 1667,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nsarno",
+    "name": "knock",
+    "language": "ruby",
+    "stars": 1656,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igrigorik",
+    "name": "em-websocket",
+    "language": "ruby",
+    "stars": 1651,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudfoundry",
+    "name": "bosh",
+    "language": "ruby",
+    "stars": 1650,
+    "forks": 628,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rom-rb",
+    "name": "rom",
+    "language": "ruby",
+    "stars": 1642,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yuki24",
+    "name": "did_you_mean",
+    "language": "ruby",
+    "stars": 1639,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stevegraham",
+    "name": "slanger",
+    "language": "ruby",
+    "stars": 1637,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "asmuth",
+    "name": "recommendify",
+    "language": "ruby",
+    "stars": 1634,
+    "forks": 145,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oracle",
+    "name": "truffleruby",
+    "language": "ruby",
+    "stars": 1633,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mongomapper",
+    "name": "mongomapper",
+    "language": "ruby",
+    "stars": 1631,
+    "forks": 389,
+    "default_branch": "master"
+  },
+  {
+    "owner": "resque",
+    "name": "resque-scheduler",
+    "language": "ruby",
+    "stars": 1626,
+    "forks": 433,
+    "default_branch": "master"
+  },
+  {
+    "owner": "boxen",
+    "name": "boxen",
+    "language": "ruby",
+    "stars": 1621,
+    "forks": 152,
+    "default_branch": "master"
+  },
+  {
+    "owner": "houndci",
+    "name": "hound",
+    "language": "ruby",
+    "stars": 1621,
+    "forks": 369,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hashrocket",
+    "name": "decent_exposure",
+    "language": "ruby",
+    "stars": 1620,
+    "forks": 95,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chriskite",
+    "name": "anemone",
+    "language": "ruby",
+    "stars": 1615,
+    "forks": 351,
+    "default_branch": "next"
+  },
+  {
+    "owner": "ruby-prof",
+    "name": "ruby-prof",
+    "language": "ruby",
+    "stars": 1614,
+    "forks": 193,
+    "default_branch": "master"
+  },
+  {
+    "owner": "liftoffcli",
+    "name": "liftoff",
+    "language": "ruby",
+    "stars": 1613,
+    "forks": 113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sharetribe",
+    "name": "sharetribe",
+    "language": "ruby",
+    "stars": 1595,
+    "forks": 977,
+    "default_branch": "master"
+  },
+  {
+    "owner": "technoweenie",
+    "name": "restful-authentication",
+    "language": "ruby",
+    "stars": 1591,
+    "forks": 278,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubysherpas",
+    "name": "forem",
+    "language": "ruby",
+    "stars": 1584,
+    "forks": 463,
+    "default_branch": "rails4"
+  },
+  {
+    "owner": "insoshi",
+    "name": "insoshi",
+    "language": "ruby",
+    "stars": 1583,
+    "forks": 578,
+    "default_branch": "master"
+  },
+  {
+    "owner": "calabash",
+    "name": "calabash-android",
+    "language": "ruby",
+    "stars": 1569,
+    "forks": 634,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mailboxer",
+    "name": "mailboxer",
+    "language": "ruby",
+    "stars": 1569,
+    "forks": 443,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brynary",
+    "name": "webrat",
+    "language": "ruby",
+    "stars": 1563,
+    "forks": 298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Chris911",
+    "name": "iStats",
+    "language": "ruby",
+    "stars": 1555,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pat",
+    "name": "thinking-sphinx",
+    "language": "ruby",
+    "stars": 1554,
+    "forks": 482,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "donmelton",
+    "name": "video_transcoding",
+    "language": "ruby",
+    "stars": 1548,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "attr-encrypted",
+    "name": "attr_encrypted",
+    "language": "ruby",
+    "stars": 1547,
+    "forks": 240,
+    "default_branch": "master"
+  },
+  {
+    "owner": "soundcloud",
+    "name": "lhm",
+    "language": "ruby",
+    "stars": 1547,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "theforeman",
+    "name": "foreman",
+    "language": "ruby",
+    "stars": 1529,
+    "forks": 762,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "KrauseFx",
+    "name": "xcode-install",
+    "language": "ruby",
+    "stars": 1528,
+    "forks": 136,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steelThread",
+    "name": "redmon",
+    "language": "ruby",
+    "stars": 1519,
+    "forks": 136,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iridakos",
+    "name": "duckrails",
+    "language": "ruby",
+    "stars": 1512,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "litaio",
+    "name": "lita",
+    "language": "ruby",
+    "stars": 1510,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rharriso",
+    "name": "bower-rails",
+    "language": "ruby",
+    "stars": 1507,
+    "forks": 134,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gitlabhq",
+    "name": "gitlab-ci",
+    "language": "ruby",
+    "stars": 1497,
+    "forks": 340,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hybridgroup",
+    "name": "artoo",
+    "language": "ruby",
+    "stars": 1496,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubber",
+    "name": "rubber",
+    "language": "ruby",
+    "stars": 1495,
+    "forks": 252,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brunofacca",
+    "name": "zen-rails-security-checklist",
+    "language": "ruby",
+    "stars": 1492,
+    "forks": 126,
+    "default_branch": "master"
+  },
+  {
+    "owner": "test-kitchen",
+    "name": "test-kitchen",
+    "language": "ruby",
+    "stars": 1492,
+    "forks": 520,
+    "default_branch": "master"
+  },
+  {
+    "owner": "technicalpickles",
+    "name": "jeweler",
+    "language": "ruby",
+    "stars": 1490,
+    "forks": 173,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cldwalker",
+    "name": "hirb",
+    "language": "ruby",
+    "stars": 1490,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "benjaminoakes",
+    "name": "maid",
+    "language": "ruby",
+    "stars": 1490,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "inspec",
+    "name": "inspec",
+    "language": "ruby",
+    "stars": 1489,
+    "forks": 423,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geokit",
+    "name": "geokit",
+    "language": "ruby",
+    "stars": 1489,
+    "forks": 348,
+    "default_branch": "master"
+  },
+  {
+    "owner": "senchalabs",
+    "name": "jsduck",
+    "language": "ruby",
+    "stars": 1487,
+    "forks": 248,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stripe",
+    "name": "mosql",
+    "language": "ruby",
+    "stars": 1487,
+    "forks": 210,
+    "default_branch": "master"
+  },
+  {
+    "owner": "radar",
+    "name": "guides",
+    "language": "ruby",
+    "stars": 1485,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "petems",
+    "name": "tugboat",
+    "language": "ruby",
+    "stars": 1484,
+    "forks": 101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elastic",
+    "name": "elasticsearch-ruby",
+    "language": "ruby",
+    "stars": 1483,
+    "forks": 406,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maccman",
+    "name": "monocle",
+    "language": "ruby",
+    "stars": 1480,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ambethia",
+    "name": "recaptcha",
+    "language": "ruby",
+    "stars": 1479,
+    "forks": 332,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stripe",
+    "name": "einhorn",
+    "language": "ruby",
+    "stars": 1477,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "evrone",
+    "name": "quiet_assets",
+    "language": "ruby",
+    "stars": 1477,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rpush",
+    "name": "rpush",
+    "language": "ruby",
+    "stars": 1476,
+    "forks": 229,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bobthecow",
+    "name": "genghis",
+    "language": "ruby",
+    "stars": 1472,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "railsconfig",
+    "name": "config",
+    "language": "ruby",
+    "stars": 1470,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "welaika",
+    "name": "wordmove",
+    "language": "ruby",
+    "stars": 1470,
+    "forks": 137,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Shopify",
+    "name": "identity_cache",
+    "language": "ruby",
+    "stars": 1466,
+    "forks": 148,
+    "default_branch": "master"
+  },
+  {
+    "owner": "illacceptanything",
+    "name": "illacceptanything",
+    "language": "ruby",
+    "stars": 1464,
+    "forks": 536,
+    "default_branch": "master"
+  },
+  {
+    "owner": "noidontdig",
+    "name": "gitdown",
+    "language": "ruby",
+    "stars": 1464,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "urbanadventurer",
+    "name": "WhatWeb",
+    "language": "ruby",
+    "stars": 1461,
+    "forks": 407,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mbj",
+    "name": "mutant",
+    "language": "ruby",
+    "stars": 1458,
+    "forks": 113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ooyala",
+    "name": "barkeep",
+    "language": "ruby",
+    "stars": 1457,
+    "forks": 164,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adamcooke",
+    "name": "staytus",
+    "language": "ruby",
+    "stars": 1456,
+    "forks": 195,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lsegal",
+    "name": "yard",
+    "language": "ruby",
+    "stars": 1453,
+    "forks": 306,
+    "default_branch": "master"
+  },
+  {
+    "owner": "josevalim",
+    "name": "rails-footnotes",
+    "language": "ruby",
+    "stars": 1449,
+    "forks": 150,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jewel",
+    "name": "clearskies",
+    "language": "ruby",
+    "stars": 1448,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gottfrois",
+    "name": "dashing-rails",
+    "language": "ruby",
+    "stars": 1447,
+    "forks": 161,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ivaldi",
+    "name": "brimir",
+    "language": "ruby",
+    "stars": 1442,
+    "forks": 349,
+    "default_branch": "master"
+  },
+  {
+    "owner": "catarse",
+    "name": "catarse",
+    "language": "ruby",
+    "stars": 1440,
+    "forks": 858,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "natew",
+    "name": "obtvse",
+    "language": "ruby",
+    "stars": 1439,
+    "forks": 288,
+    "default_branch": "master"
+  },
+  {
+    "owner": "helpyio",
+    "name": "helpy",
+    "language": "ruby",
+    "stars": 1438,
+    "forks": 348,
+    "default_branch": "master"
+  },
+  {
+    "owner": "billie66",
+    "name": "TLCL",
+    "language": "ruby",
+    "stars": 1438,
+    "forks": 532,
+    "default_branch": "gh-pages"
+  },
+  {
+    "owner": "glebm",
+    "name": "i18n-tasks",
+    "language": "ruby",
+    "stars": 1435,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "reenhanced",
+    "name": "gitreflow",
+    "language": "ruby",
+    "stars": 1434,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RailsApps",
+    "name": "rails_apps_composer",
+    "language": "ruby",
+    "stars": 1430,
+    "forks": 317,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redis-store",
+    "name": "redis-store",
+    "language": "ruby",
+    "stars": 1419,
+    "forks": 325,
+    "default_branch": "master"
+  },
+  {
+    "owner": "facebookarchive",
+    "name": "instagram-ruby-gem",
+    "language": "ruby",
+    "stars": 1417,
+    "forks": 622,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brainspec",
+    "name": "enumerize",
+    "language": "ruby",
+    "stars": 1415,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudhead",
+    "name": "toto",
+    "language": "ruby",
+    "stars": 1415,
+    "forks": 244,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sporkrb",
+    "name": "spork",
+    "language": "ruby",
+    "stars": 1415,
+    "forks": 202,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tmm1",
+    "name": "rbtrace",
+    "language": "ruby",
+    "stars": 1415,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geerlingguy",
+    "name": "ansible-vagrant-examples",
+    "language": "ruby",
+    "stars": 1412,
+    "forks": 449,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gimite",
+    "name": "google-drive-ruby",
+    "language": "ruby",
+    "stars": 1406,
+    "forks": 359,
+    "default_branch": "master"
+  },
+  {
+    "owner": "binarylogic",
+    "name": "searchlogic",
+    "language": "ruby",
+    "stars": 1404,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "heroku",
+    "name": "legacy-cli",
+    "language": "ruby",
+    "stars": 1400,
+    "forks": 398,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swanandp",
+    "name": "acts_as_list",
+    "language": "ruby",
+    "stars": 1400,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "emberjs",
+    "name": "ember-rails",
+    "language": "ruby",
+    "stars": 1400,
+    "forks": 272,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "choosealicense.com",
+    "language": "ruby",
+    "stars": 1400,
+    "forks": 449,
+    "default_branch": "gh-pages"
+  },
+  {
+    "owner": "assaf",
+    "name": "vanity",
+    "language": "ruby",
+    "stars": 1399,
+    "forks": 274,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kontena",
+    "name": "kontena",
+    "language": "ruby",
+    "stars": 1398,
+    "forks": 116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tmm1",
+    "name": "stackprof",
+    "language": "ruby",
+    "stars": 1390,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "seven1m",
+    "name": "onebody",
+    "language": "ruby",
+    "stars": 1389,
+    "forks": 292,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby",
+    "name": "rake",
+    "language": "ruby",
+    "stars": 1386,
+    "forks": 473,
+    "default_branch": "master"
+  },
+  {
+    "owner": "deivid-rodriguez",
+    "name": "pry-byebug",
+    "language": "ruby",
+    "stars": 1379,
+    "forks": 88,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twbs",
+    "name": "bootstrap-rubygem",
+    "language": "ruby",
+    "stars": 1376,
+    "forks": 266,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrismccord",
+    "name": "render_sync",
+    "language": "ruby",
+    "stars": 1370,
+    "forks": 114,
+    "default_branch": "master"
+  },
+  {
+    "owner": "desktoppr",
+    "name": "wbench",
+    "language": "ruby",
+    "stars": 1370,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "basecamp",
+    "name": "mail_view",
+    "language": "ruby",
+    "stars": 1365,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cloudfoundry-attic",
+    "name": "vcap",
+    "language": "ruby",
+    "stars": 1363,
+    "forks": 380,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hartator",
+    "name": "wayback-machine-downloader",
+    "language": "ruby",
+    "stars": 1360,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geokit",
+    "name": "geokit-rails",
+    "language": "ruby",
+    "stars": 1359,
+    "forks": 220,
+    "default_branch": "master"
+  },
+  {
+    "owner": "railsware",
+    "name": "js-routes",
+    "language": "ruby",
+    "stars": 1358,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "binarylogic",
+    "name": "settingslogic",
+    "language": "ruby",
+    "stars": 1357,
+    "forks": 125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "matthuhiggins",
+    "name": "foreigner",
+    "language": "ruby",
+    "stars": 1355,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "streamio",
+    "name": "streamio-ffmpeg",
+    "language": "ruby",
+    "stars": 1355,
+    "forks": 364,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mongodb",
+    "name": "mongo-ruby-driver",
+    "language": "ruby",
+    "stars": 1354,
+    "forks": 486,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby-git",
+    "name": "ruby-git",
+    "language": "ruby",
+    "stars": 1352,
+    "forks": 418,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "cane",
+    "language": "ruby",
+    "stars": 1340,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter",
+    "name": "activerecord-reputation-system",
+    "language": "ruby",
+    "stars": 1339,
+    "forks": 128,
+    "default_branch": "master"
+  },
+  {
+    "owner": "toptal",
+    "name": "chewy",
+    "language": "ruby",
+    "stars": 1338,
+    "forks": 247,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hexorx",
+    "name": "countries",
+    "language": "ruby",
+    "stars": 1336,
+    "forks": 534,
+    "default_branch": "master"
+  },
+  {
+    "owner": "defunkt",
+    "name": "unicorn",
+    "language": "ruby",
+    "stars": 1328,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "louismullie",
+    "name": "treat",
+    "language": "ruby",
+    "stars": 1328,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chanks",
+    "name": "que",
+    "language": "ruby",
+    "stars": 1325,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shoes",
+    "name": "shoes4",
+    "language": "ruby",
+    "stars": 1323,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plataformatec",
+    "name": "has_scope",
+    "language": "ruby",
+    "stars": 1321,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bootstrap-ruby",
+    "name": "bootstrap_form",
+    "language": "ruby",
+    "stars": 1319,
+    "forks": 316,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "lamernews",
+    "language": "ruby",
+    "stars": 1318,
+    "forks": 209,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phstc",
+    "name": "shoryuken",
+    "language": "ruby",
+    "stars": 1318,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "pages-gem",
+    "language": "ruby",
+    "stars": 1314,
+    "forks": 231,
+    "default_branch": "master"
+  },
+  {
+    "owner": "soveran",
+    "name": "cuba",
+    "language": "ruby",
+    "stars": 1313,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vdaubry",
+    "name": "github-awards",
+    "language": "ruby",
+    "stars": 1312,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "griddler",
+    "language": "ruby",
+    "stars": 1309,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ddnexus",
+    "name": "pagy",
+    "language": "ruby",
+    "stars": 1308,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "soveran",
+    "name": "ohm",
+    "language": "ruby",
+    "stars": 1308,
+    "forks": 159,
+    "default_branch": "master"
+  },
+  {
+    "owner": "powder-rb",
+    "name": "powder",
+    "language": "ruby",
+    "stars": 1306,
+    "forks": 75,
+    "default_branch": "master"
+  },
+  {
+    "owner": "citation-style-language",
+    "name": "styles",
+    "language": "ruby",
+    "stars": 1300,
+    "forks": 2010,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grobie",
+    "name": "soundcloud2000",
+    "language": "ruby",
+    "stars": 1299,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "developer.github.com",
+    "language": "ruby",
+    "stars": 1297,
+    "forks": 1321,
+    "default_branch": "master"
+  },
+  {
+    "owner": "maccman",
+    "name": "abba",
+    "language": "ruby",
+    "stars": 1297,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dblock",
+    "name": "fui",
+    "language": "ruby",
+    "stars": 1295,
+    "forks": 96,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CocoaPods",
+    "name": "Xcodeproj",
+    "language": "ruby",
+    "stars": 1294,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mynyml",
+    "name": "watchr",
+    "language": "ruby",
+    "stars": 1293,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gonzalo-bulnes",
+    "name": "simple_token_authentication",
+    "language": "ruby",
+    "stars": 1289,
+    "forks": 189,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "strong_migrations",
+    "language": "ruby",
+    "stars": 1289,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "davidcelis",
+    "name": "recommendable",
+    "language": "ruby",
+    "stars": 1288,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guipdutra",
+    "name": "awesome-geek-podcasts",
+    "language": "ruby",
+    "stars": 1287,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "infinitered",
+    "name": "ProMotion",
+    "language": "ruby",
+    "stars": 1287,
+    "forks": 152,
+    "default_branch": "master"
+  },
+  {
+    "owner": "egonSchiele",
+    "name": "contracts.ruby",
+    "language": "ruby",
+    "stars": 1286,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "strong_parameters",
+    "language": "ruby",
+    "stars": 1283,
+    "forks": 171,
+    "default_branch": "master"
+  },
+  {
+    "owner": "devopsgroup-io",
+    "name": "vagrant-hostmanager",
+    "language": "ruby",
+    "stars": 1281,
+    "forks": 147,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ffaker",
+    "name": "ffaker",
+    "language": "ruby",
+    "stars": 1280,
+    "forks": 425,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antirez",
+    "name": "redis-doc",
+    "language": "ruby",
+    "stars": 1279,
+    "forks": 893,
+    "default_branch": "master"
+  },
+  {
+    "owner": "strongself",
+    "name": "Generamba",
+    "language": "ruby",
+    "stars": 1278,
+    "forks": 125,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "ClosureTree",
+    "name": "closure_tree",
+    "language": "ruby",
+    "stars": 1277,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vagrant-libvirt",
+    "name": "vagrant-libvirt",
+    "language": "ruby",
+    "stars": 1277,
+    "forks": 340,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ddollar",
+    "name": "heroku-accounts",
+    "language": "ruby",
+    "stars": 1276,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "prat0318",
+    "name": "json_resume",
+    "language": "ruby",
+    "stars": 1275,
+    "forks": 117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gettalong",
+    "name": "kramdown",
+    "language": "ruby",
+    "stars": 1262,
+    "forks": 200,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stffn",
+    "name": "declarative_authorization",
+    "language": "ruby",
+    "stars": 1258,
+    "forks": 219,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nathanl",
+    "name": "authority",
+    "language": "ruby",
+    "stars": 1258,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanto",
+    "name": "acts_as_votable",
+    "language": "ruby",
+    "stars": 1257,
+    "forks": 209,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geminabox",
+    "name": "geminabox",
+    "language": "ruby",
+    "stars": 1257,
+    "forks": 284,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guard",
+    "name": "listen",
+    "language": "ruby",
+    "stars": 1253,
+    "forks": 155,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thisredone",
+    "name": "rb",
+    "language": "ruby",
+    "stars": 1251,
+    "forks": 40,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jashkenas",
+    "name": "ruby-processing",
+    "language": "ruby",
+    "stars": 1248,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "toy",
+    "name": "image_optim",
+    "language": "ruby",
+    "stars": 1241,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aanand",
+    "name": "deadweight",
+    "language": "ruby",
+    "stars": 1239,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "asmallteapot",
+    "name": "cocoapods-playgrounds",
+    "language": "ruby",
+    "stars": 1233,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rroblak",
+    "name": "seed_dump",
+    "language": "ruby",
+    "stars": 1231,
+    "forks": 193,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jfelchner",
+    "name": "ruby-progressbar",
+    "language": "ruby",
+    "stars": 1229,
+    "forks": 120,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danmayer",
+    "name": "coverband",
+    "language": "ruby",
+    "stars": 1228,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "neo4jrb",
+    "name": "neo4j",
+    "language": "ruby",
+    "stars": 1226,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "supermarin",
+    "name": "YosemiteSanFranciscoFont",
+    "language": "ruby",
+    "stars": 1222,
+    "forks": 181,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stevenosloan",
+    "name": "slack-notifier",
+    "language": "ruby",
+    "stars": 1219,
+    "forks": 105,
+    "default_branch": "master"
+  },
+  {
+    "owner": "charliesome",
+    "name": "rustboot",
+    "language": "ruby",
+    "stars": 1219,
+    "forks": 205,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "the-ultimate-guide-to-ruby-timeouts",
+    "language": "ruby",
+    "stars": 1219,
+    "forks": 50,
+    "default_branch": "master"
+  },
+  {
+    "owner": "garybernhardt",
+    "name": "selecta",
+    "language": "ruby",
+    "stars": 1218,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mange",
+    "name": "roadie",
+    "language": "ruby",
+    "stars": 1217,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "browsermedia",
+    "name": "browsercms",
+    "language": "ruby",
+    "stars": 1208,
+    "forks": 1191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ricardochimal",
+    "name": "taps",
+    "language": "ruby",
+    "stars": 1204,
+    "forks": 144,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AndroidStudyGroup",
+    "name": "conferences",
+    "language": "ruby",
+    "stars": 1203,
+    "forks": 189,
+    "default_branch": "gh-pages"
+  },
+  {
+    "owner": "rubymotion",
+    "name": "BubbleWrap",
+    "language": "ruby",
+    "stars": 1203,
+    "forks": 221,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RubyMoney",
+    "name": "money-rails",
+    "language": "ruby",
+    "stars": 1201,
+    "forks": 313,
+    "default_branch": "master"
+  },
+  {
+    "owner": "HipByte",
+    "name": "RubyMotionSamples",
+    "language": "ruby",
+    "stars": 1200,
+    "forks": 351,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zendesk",
+    "name": "samson",
+    "language": "ruby",
+    "stars": 1200,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "charlotte-ruby",
+    "name": "impressionist",
+    "language": "ruby",
+    "stars": 1194,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oneclick",
+    "name": "rubyinstaller",
+    "language": "ruby",
+    "stars": 1193,
+    "forks": 326,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zammad",
+    "name": "zammad",
+    "language": "ruby",
+    "stars": 1192,
+    "forks": 245,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "yob",
+    "name": "pdf-reader",
+    "language": "ruby",
+    "stars": 1192,
+    "forks": 201,
+    "default_branch": "master"
+  },
+  {
+    "owner": "skycocker",
+    "name": "chromebrew",
+    "language": "ruby",
+    "stars": 1189,
+    "forks": 244,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NationalSecurityAgency",
+    "name": "SIMP",
+    "language": "ruby",
+    "stars": 1189,
+    "forks": 257,
+    "default_branch": "master"
+  },
+  {
+    "owner": "endofunky",
+    "name": "sidetiq",
+    "language": "ruby",
+    "stars": 1189,
+    "forks": 178,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cypriss",
+    "name": "mutations",
+    "language": "ruby",
+    "stars": 1188,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fphilipe",
+    "name": "premailer-rails",
+    "language": "ruby",
+    "stars": 1187,
+    "forks": 196,
+    "default_branch": "master"
+  },
+  {
+    "owner": "roberdam",
+    "name": "Xaddress",
+    "language": "ruby",
+    "stars": 1183,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tybenz",
+    "name": "vimdeck",
+    "language": "ruby",
+    "stars": 1181,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "documentcloud",
+    "name": "jammit",
+    "language": "ruby",
+    "stars": 1179,
+    "forks": 210,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NREL",
+    "name": "api-umbrella",
+    "language": "ruby",
+    "stars": 1176,
+    "forks": 226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "merit-gem",
+    "name": "merit",
+    "language": "ruby",
+    "stars": 1175,
+    "forks": 180,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sprinkle-tool",
+    "name": "sprinkle",
+    "language": "ruby",
+    "stars": 1175,
+    "forks": 158,
+    "default_branch": "master"
+  },
+  {
+    "owner": "travis-ci",
+    "name": "travis.rb",
+    "language": "ruby",
+    "stars": 1175,
+    "forks": 304,
+    "default_branch": "master"
+  },
+  {
+    "owner": "watir",
+    "name": "watir",
+    "language": "ruby",
+    "stars": 1174,
+    "forks": 200,
+    "default_branch": "master"
+  },
+  {
+    "owner": "drhenner",
+    "name": "ror_ecommerce",
+    "language": "ruby",
+    "stars": 1173,
+    "forks": 362,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cryptosphere",
+    "name": "cryptosphere",
+    "language": "ruby",
+    "stars": 1172,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "buo",
+    "name": "homebrew-cask-upgrade",
+    "language": "ruby",
+    "stars": 1171,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mkdynamic",
+    "name": "omniauth-facebook",
+    "language": "ruby",
+    "stars": 1169,
+    "forks": 339,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AaronLasseigne",
+    "name": "active_interaction",
+    "language": "ruby",
+    "stars": 1167,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igrigorik",
+    "name": "em-http-request",
+    "language": "ruby",
+    "stars": 1167,
+    "forks": 217,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fgrehm",
+    "name": "vagrant-lxc",
+    "language": "ruby",
+    "stars": 1163,
+    "forks": 167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "guard",
+    "name": "guard-rspec",
+    "language": "ruby",
+    "stars": 1163,
+    "forks": 223,
+    "default_branch": "master"
+  },
+  {
+    "owner": "eliotsykes",
+    "name": "rails-security-checklist",
+    "language": "ruby",
+    "stars": 1163,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bborn",
+    "name": "communityengine",
+    "language": "ruby",
+    "stars": 1159,
+    "forks": 346,
+    "default_branch": "master"
+  },
+  {
+    "owner": "inket",
+    "name": "update_xcode_plugins",
+    "language": "ruby",
+    "stars": 1158,
+    "forks": 86,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arbox",
+    "name": "machine-learning-with-ruby",
+    "language": "ruby",
+    "stars": 1152,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "YorickPeterse",
+    "name": "oga",
+    "language": "ruby",
+    "stars": 1151,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zipmark",
+    "name": "rspec_api_documentation",
+    "language": "ruby",
+    "stars": 1147,
+    "forks": 279,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RailsApps",
+    "name": "rails-stripe-membership-saas",
+    "language": "ruby",
+    "stars": 1144,
+    "forks": 238,
+    "default_branch": "master"
+  },
+  {
+    "owner": "logstash-plugins",
+    "name": "logstash-patterns-core",
+    "language": "ruby",
+    "stars": 1144,
+    "forks": 577,
+    "default_branch": "master"
+  },
+  {
+    "owner": "notahat",
+    "name": "machinist",
+    "language": "ruby",
+    "stars": 1143,
+    "forks": 148,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igorkasyanchuk",
+    "name": "rails_db",
+    "language": "ruby",
+    "stars": 1143,
+    "forks": 89,
+    "default_branch": "master"
+  },
+  {
+    "owner": "augustl",
+    "name": "net-http-cheat-sheet",
+    "language": "ruby",
+    "stars": 1140,
+    "forks": 168,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rack",
+    "name": "rack-contrib",
+    "language": "ruby",
+    "stars": 1139,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Eric-Guo",
+    "name": "wechat",
+    "language": "ruby",
+    "stars": 1138,
+    "forks": 339,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twitter",
+    "name": "twurl",
+    "language": "ruby",
+    "stars": 1136,
+    "forks": 198,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brentd",
+    "name": "xray-rails",
+    "language": "ruby",
+    "stars": 1136,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "typus",
+    "name": "typus",
+    "language": "ruby",
+    "stars": 1135,
+    "forks": 243,
+    "default_branch": "master"
+  },
+  {
+    "owner": "stripe",
+    "name": "stripe-ruby",
+    "language": "ruby",
+    "stars": 1134,
+    "forks": 324,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Homebrew",
+    "name": "homebrew-cask-fonts",
+    "language": "ruby",
+    "stars": 1132,
+    "forks": 246,
+    "default_branch": "master"
+  },
+  {
+    "owner": "evanphx",
+    "name": "benchmark-ips",
+    "language": "ruby",
+    "stars": 1131,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ai",
+    "name": "autoprefixer-rails",
+    "language": "ruby",
+    "stars": 1127,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Homebrew",
+    "name": "homebrew-services",
+    "language": "ruby",
+    "stars": 1126,
+    "forks": 85,
+    "default_branch": "master"
+  },
+  {
+    "owner": "noahd1",
+    "name": "oink",
+    "language": "ruby",
+    "stars": 1126,
+    "forks": 71,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tj",
+    "name": "commander",
+    "language": "ruby",
+    "stars": 1121,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ging",
+    "name": "social_stream",
+    "language": "ruby",
+    "stars": 1120,
+    "forks": 304,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sporkmonger",
+    "name": "addressable",
+    "language": "ruby",
+    "stars": 1119,
+    "forks": 172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rweng",
+    "name": "pry-rails",
+    "language": "ruby",
+    "stars": 1118,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "felipecsl",
+    "name": "wombat",
+    "language": "ruby",
+    "stars": 1117,
+    "forks": 113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "holman",
+    "name": "boom",
+    "language": "ruby",
+    "stars": 1116,
+    "forks": 116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thbar",
+    "name": "kiba",
+    "language": "ruby",
+    "stars": 1115,
+    "forks": 58,
+    "default_branch": "master"
+  },
+  {
+    "owner": "orta",
+    "name": "cocoapods-keys",
+    "language": "ruby",
+    "stars": 1115,
+    "forks": 72,
+    "default_branch": "master"
+  },
+  {
+    "owner": "24pullrequests",
+    "name": "24pullrequests",
+    "language": "ruby",
+    "stars": 1114,
+    "forks": 408,
+    "default_branch": "master"
+  },
+  {
+    "owner": "twilio",
+    "name": "twilio-ruby",
+    "language": "ruby",
+    "stars": 1113,
+    "forks": 345,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jquery-ui-rails",
+    "name": "jquery-ui-rails",
+    "language": "ruby",
+    "stars": 1113,
+    "forks": 199,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adzap",
+    "name": "validates_timeliness",
+    "language": "ruby",
+    "stars": 1113,
+    "forks": 136,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tweetstream",
+    "name": "tweetstream",
+    "language": "ruby",
+    "stars": 1112,
+    "forks": 165,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jordansissel",
+    "name": "pleaserun",
+    "language": "ruby",
+    "stars": 1111,
+    "forks": 72,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kostya",
+    "name": "eye",
+    "language": "ruby",
+    "stars": 1111,
+    "forks": 75,
+    "default_branch": "master"
+  },
+  {
+    "owner": "defunkt",
+    "name": "github-gem",
+    "language": "ruby",
+    "stars": 1109,
+    "forks": 189,
+    "default_branch": "master"
+  },
+  {
+    "owner": "email-spec",
+    "name": "email-spec",
+    "language": "ruby",
+    "stars": 1103,
+    "forks": 172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andrewculver",
+    "name": "koudoku",
+    "language": "ruby",
+    "stars": 1100,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igrigorik",
+    "name": "decisiontree",
+    "language": "ruby",
+    "stars": 1099,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "QueueClassic",
+    "name": "queue_classic",
+    "language": "ruby",
+    "stars": 1096,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brynary",
+    "name": "rack-bug",
+    "language": "ruby",
+    "stars": 1094,
+    "forks": 116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sdsykes",
+    "name": "fastimage",
+    "language": "ruby",
+    "stars": 1094,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "basecamp",
+    "name": "marginalia",
+    "language": "ruby",
+    "stars": 1094,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rtomayko",
+    "name": "ronn",
+    "language": "ruby",
+    "stars": 1089,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "davetron5000",
+    "name": "gli",
+    "language": "ruby",
+    "stars": 1089,
+    "forks": 94,
+    "default_branch": "gli-2"
+  },
+  {
+    "owner": "seatgeek",
+    "name": "soulmate",
+    "language": "ruby",
+    "stars": 1089,
+    "forks": 129,
+    "default_branch": "master"
+  },
+  {
+    "owner": "berkshelf",
+    "name": "berkshelf",
+    "language": "ruby",
+    "stars": 1078,
+    "forks": 309,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jfirebaugh",
+    "name": "konacha",
+    "language": "ruby",
+    "stars": 1077,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tumblr",
+    "name": "jetpants",
+    "language": "ruby",
+    "stars": 1076,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fgrehm",
+    "name": "vagrant-cachier",
+    "language": "ruby",
+    "stars": 1076,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brandonhilkert",
+    "name": "fucking_shell_scripts",
+    "language": "ruby",
+    "stars": 1075,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisk",
+    "name": "fakeweb",
+    "language": "ruby",
+    "stars": 1069,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mperham",
+    "name": "connection_pool",
+    "language": "ruby",
+    "stars": 1067,
+    "forks": 89,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nov",
+    "name": "fb_graph",
+    "language": "ruby",
+    "stars": 1067,
+    "forks": 193,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dergachev",
+    "name": "screengif",
+    "language": "ruby",
+    "stars": 1064,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JEG2",
+    "name": "highline",
+    "language": "ruby",
+    "stars": 1061,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mbleigh",
+    "name": "seed-fu",
+    "language": "ruby",
+    "stars": 1061,
+    "forks": 143,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tj",
+    "name": "terminal-table",
+    "language": "ruby",
+    "stars": 1061,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "defunkt",
+    "name": "cijoe",
+    "language": "ruby",
+    "stars": 1057,
+    "forks": 135,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Caged",
+    "name": "gitnub",
+    "language": "ruby",
+    "stars": 1053,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igrigorik",
+    "name": "em-synchrony",
+    "language": "ruby",
+    "stars": 1051,
+    "forks": 153,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cogitatio",
+    "name": "vagrant-hostsupdater",
+    "language": "ruby",
+    "stars": 1048,
+    "forks": 116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DamirSvrtan",
+    "name": "fasterer",
+    "language": "ruby",
+    "stars": 1040,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cgriego",
+    "name": "active_attr",
+    "language": "ruby",
+    "stars": 1039,
+    "forks": 70,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elcuervo",
+    "name": "airplay",
+    "language": "ruby",
+    "stars": 1035,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SamSaffron",
+    "name": "memory_profiler",
+    "language": "ruby",
+    "stars": 1034,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jasonlong",
+    "name": "geo_pattern",
+    "language": "ruby",
+    "stars": 1033,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brooklynDev",
+    "name": "airborne",
+    "language": "ruby",
+    "stars": 1033,
+    "forks": 124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gocardless",
+    "name": "statesman",
+    "language": "ruby",
+    "stars": 1031,
+    "forks": 106,
+    "default_branch": "master"
+  },
+  {
+    "owner": "phusion",
+    "name": "juvia",
+    "language": "ruby",
+    "stars": 1030,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby-json-schema",
+    "name": "json-schema",
+    "language": "ruby",
+    "stars": 1029,
+    "forks": 200,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby-amqp",
+    "name": "bunny",
+    "language": "ruby",
+    "stars": 1029,
+    "forks": 267,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aws",
+    "name": "opsworks-cookbooks",
+    "language": "ruby",
+    "stars": 1028,
+    "forks": 1271,
+    "default_branch": "release-chef-11.10"
+  },
+  {
+    "owner": "technoweenie",
+    "name": "attachment_fu",
+    "language": "ruby",
+    "stars": 1027,
+    "forks": 311,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zquestz",
+    "name": "omniauth-google-oauth2",
+    "language": "ruby",
+    "stars": 1026,
+    "forks": 273,
+    "default_branch": "master"
+  },
+  {
+    "owner": "michelson",
+    "name": "lazy_high_charts",
+    "language": "ruby",
+    "stars": 1024,
+    "forks": 244,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cinchrb",
+    "name": "cinch",
+    "language": "ruby",
+    "stars": 1020,
+    "forks": 167,
+    "default_branch": "master"
+  },
+  {
+    "owner": "topfunky",
+    "name": "gruff",
+    "language": "ruby",
+    "stars": 1019,
+    "forks": 206,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SlatherOrg",
+    "name": "slather",
+    "language": "ruby",
+    "stars": 1017,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "avdi",
+    "name": "naught",
+    "language": "ruby",
+    "stars": 1017,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danlucraft",
+    "name": "redcar",
+    "language": "ruby",
+    "stars": 1015,
+    "forks": 156,
+    "default_branch": "master"
+  },
+  {
+    "owner": "grocer",
+    "name": "grocer",
+    "language": "ruby",
+    "stars": 1014,
+    "forks": 125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fxn",
+    "name": "tkn",
+    "language": "ruby",
+    "stars": 1014,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chef",
+    "name": "omnibus",
+    "language": "ruby",
+    "stars": 1013,
+    "forks": 239,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fastlane",
+    "name": "examples",
+    "language": "ruby",
+    "stars": 1009,
+    "forks": 308,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mispy",
+    "name": "twitter_ebooks",
+    "language": "ruby",
+    "stars": 1006,
+    "forks": 150,
+    "default_branch": "master"
+  },
+  {
+    "owner": "newrelic",
+    "name": "rpm",
+    "language": "ruby",
+    "stars": 1003,
+    "forks": 481,
+    "default_branch": "master"
+  },
+  {
+    "owner": "natritmeyer",
+    "name": "site_prism",
+    "language": "ruby",
+    "stars": 1003,
+    "forks": 166,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ndbroadbent",
+    "name": "turbo-sprockets-rails3",
+    "language": "ruby",
+    "stars": 1002,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chef-cookbooks",
+    "name": "docker",
+    "language": "ruby",
+    "stars": 1001,
+    "forks": 635,
+    "default_branch": "master"
+  },
+  {
+    "owner": "petewarden",
+    "name": "dstk",
+    "language": "ruby",
+    "stars": 1001,
+    "forks": 175,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jalkoby",
+    "name": "squasher",
+    "language": "ruby",
+    "stars": 997,
+    "forks": 36,
+    "default_branch": "master"
+  },
+  {
+    "owner": "JoshCheek",
+    "name": "seeing_is_believing",
+    "language": "ruby",
+    "stars": 997,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rspec",
+    "name": "rspec-expectations",
+    "language": "ruby",
+    "stars": 996,
+    "forks": 345,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nathansobo",
+    "name": "treetop",
+    "language": "ruby",
+    "stars": 995,
+    "forks": 108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nkallen",
+    "name": "cache-money",
+    "language": "ruby",
+    "stars": 994,
+    "forks": 113,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ActsAsParanoid",
+    "name": "acts_as_paranoid",
+    "language": "ruby",
+    "stars": 992,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "piotrmurach",
+    "name": "github",
+    "language": "ruby",
+    "stars": 988,
+    "forks": 283,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thredded",
+    "name": "thredded",
+    "language": "ruby",
+    "stars": 986,
+    "forks": 158,
+    "default_branch": "master"
+  },
+  {
+    "owner": "magnusvk",
+    "name": "counter_culture",
+    "language": "ruby",
+    "stars": 983,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "steveklabnik",
+    "name": "request_store",
+    "language": "ruby",
+    "stars": 983,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gjtorikian",
+    "name": "html-proofer",
+    "language": "ruby",
+    "stars": 980,
+    "forks": 117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ytti",
+    "name": "oxidized",
+    "language": "ruby",
+    "stars": 980,
+    "forks": 399,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dev-sec",
+    "name": "ansible-os-hardening",
+    "language": "ruby",
+    "stars": 979,
+    "forks": 173,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chloerei",
+    "name": "writings",
+    "language": "ruby",
+    "stars": 976,
+    "forks": 339,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elevation",
+    "name": "event_calendar",
+    "language": "ruby",
+    "stars": 976,
+    "forks": 217,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tilo",
+    "name": "smarter_csv",
+    "language": "ruby",
+    "stars": 975,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rsl",
+    "name": "stringex",
+    "language": "ruby",
+    "stars": 975,
+    "forks": 142,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SquareSquash",
+    "name": "web",
+    "language": "ruby",
+    "stars": 973,
+    "forks": 128,
+    "default_branch": "master"
+  },
+  {
+    "owner": "benbalter",
+    "name": "word-to-markdown",
+    "language": "ruby",
+    "stars": 970,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mmangino",
+    "name": "facebooker",
+    "language": "ruby",
+    "stars": 970,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "activescaffold",
+    "name": "active_scaffold",
+    "language": "ruby",
+    "stars": 968,
+    "forks": 318,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Sutto",
+    "name": "rocket_pants",
+    "language": "ruby",
+    "stars": 966,
+    "forks": 131,
+    "default_branch": "master"
+  },
+  {
+    "owner": "james2m",
+    "name": "seedbank",
+    "language": "ruby",
+    "stars": 965,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "carmen-ruby",
+    "name": "carmen",
+    "language": "ruby",
+    "stars": 963,
+    "forks": 265,
+    "default_branch": "master"
+  },
+  {
+    "owner": "samg",
+    "name": "diffy",
+    "language": "ruby",
+    "stars": 962,
+    "forks": 85,
+    "default_branch": "master"
+  },
+  {
+    "owner": "whomwah",
+    "name": "rqrcode",
+    "language": "ruby",
+    "stars": 961,
+    "forks": 148,
+    "default_branch": "master"
+  },
+  {
+    "owner": "yujinakayama",
+    "name": "transpec",
+    "language": "ruby",
+    "stars": 960,
+    "forks": 38,
+    "default_branch": "master"
+  },
+  {
+    "owner": "freerange",
+    "name": "mocha",
+    "language": "ruby",
+    "stars": 960,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubyzip",
+    "name": "rubyzip",
+    "language": "ruby",
+    "stars": 959,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crowdint",
+    "name": "rails3-jquery-autocomplete",
+    "language": "ruby",
+    "stars": 952,
+    "forks": 386,
+    "default_branch": "master"
+  },
+  {
+    "owner": "samg",
+    "name": "timetrap",
+    "language": "ruby",
+    "stars": 952,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amro",
+    "name": "gibbon",
+    "language": "ruby",
+    "stars": 948,
+    "forks": 160,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeremyw",
+    "name": "stamp",
+    "language": "ruby",
+    "stars": 942,
+    "forks": 17,
+    "default_branch": "master"
+  },
+  {
+    "owner": "piscolomo",
+    "name": "ruby-patterns",
+    "language": "ruby",
+    "stars": 940,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "paulelliott",
+    "name": "fabrication",
+    "language": "ruby",
+    "stars": 939,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codetriage",
+    "name": "codetriage",
+    "language": "ruby",
+    "stars": 939,
+    "forks": 255,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TrestleAdmin",
+    "name": "trestle",
+    "language": "ruby",
+    "stars": 938,
+    "forks": 65,
+    "default_branch": "master"
+  },
+  {
+    "owner": "envygeeks",
+    "name": "jekyll-assets",
+    "language": "ruby",
+    "stars": 936,
+    "forks": 133,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cucumber",
+    "name": "cucumber-rails",
+    "language": "ruby",
+    "stars": 935,
+    "forks": 311,
+    "default_branch": "master"
+  },
+  {
+    "owner": "laserlemon",
+    "name": "vestal_versions",
+    "language": "ruby",
+    "stars": 935,
+    "forks": 227,
+    "default_branch": "master"
+  },
+  {
+    "owner": "plentz",
+    "name": "lol_dba",
+    "language": "ruby",
+    "stars": 931,
+    "forks": 49,
+    "default_branch": "master"
+  },
+  {
+    "owner": "excid3",
+    "name": "simple_calendar",
+    "language": "ruby",
+    "stars": 930,
+    "forks": 197,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mailman",
+    "name": "mailman",
+    "language": "ruby",
+    "stars": 926,
+    "forks": 143,
+    "default_branch": "master"
+  },
+  {
+    "owner": "swipely",
+    "name": "docker-api",
+    "language": "ruby",
+    "stars": 926,
+    "forks": 259,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pluosi",
+    "name": "app-host",
+    "language": "ruby",
+    "stars": 922,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fakefs",
+    "name": "fakefs",
+    "language": "ruby",
+    "stars": 922,
+    "forks": 183,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vccw-team",
+    "name": "vccw",
+    "language": "ruby",
+    "stars": 919,
+    "forks": 168,
+    "default_branch": "master"
+  },
+  {
+    "owner": "itamae-kitchen",
+    "name": "itamae",
+    "language": "ruby",
+    "stars": 918,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "drnic",
+    "name": "ruby-on-rails-tmbundle",
+    "language": "ruby",
+    "stars": 916,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "argerim",
+    "name": "select2-rails",
+    "language": "ruby",
+    "stars": 915,
+    "forks": 325,
+    "default_branch": "master"
+  },
+  {
+    "owner": "leejarvis",
+    "name": "slop",
+    "language": "ruby",
+    "stars": 914,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "celluloid",
+    "name": "celluloid-io",
+    "language": "ruby",
+    "stars": 913,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CocoaPods",
+    "name": "cocoapods-deintegrate",
+    "language": "ruby",
+    "stars": 912,
+    "forks": 42,
+    "default_branch": "master"
+  },
+  {
+    "owner": "activerecord-hackery",
+    "name": "meta_search",
+    "language": "ruby",
+    "stars": 912,
+    "forks": 143,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bploetz",
+    "name": "versionist",
+    "language": "ruby",
+    "stars": 911,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mattheworiordan",
+    "name": "capybara-screenshot",
+    "language": "ruby",
+    "stars": 910,
+    "forks": 157,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openshift",
+    "name": "origin-server",
+    "language": "ruby",
+    "stars": 910,
+    "forks": 561,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SciRuby",
+    "name": "sciruby",
+    "language": "ruby",
+    "stars": 908,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "will",
+    "name": "slacktyping",
+    "language": "ruby",
+    "stars": 908,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rspec",
+    "name": "rspec-mocks",
+    "language": "ruby",
+    "stars": 908,
+    "forks": 292,
+    "default_branch": "master"
+  },
+  {
+    "owner": "westonganger",
+    "name": "spreadsheet_architect",
+    "language": "ruby",
+    "stars": 908,
+    "forks": 30,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rspec",
+    "name": "rspec-core",
+    "language": "ruby",
+    "stars": 906,
+    "forks": 640,
+    "default_branch": "master"
+  },
+  {
+    "owner": "socketry",
+    "name": "falcon",
+    "language": "ruby",
+    "stars": 906,
+    "forks": 27,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ondrejbartas",
+    "name": "sidekiq-cron",
+    "language": "ruby",
+    "stars": 906,
+    "forks": 130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "excon",
+    "name": "excon",
+    "language": "ruby",
+    "stars": 906,
+    "forks": 226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gma",
+    "name": "nesta",
+    "language": "ruby",
+    "stars": 904,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "peritor",
+    "name": "webistrano",
+    "language": "ruby",
+    "stars": 900,
+    "forks": 279,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jnicklas",
+    "name": "turnip",
+    "language": "ruby",
+    "stars": 899,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elixir-editors",
+    "name": "vim-elixir",
+    "language": "ruby",
+    "stars": 899,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby-grape",
+    "name": "grape-swagger",
+    "language": "ruby",
+    "stars": 899,
+    "forks": 422,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DefactoSoftware",
+    "name": "Hours",
+    "language": "ruby",
+    "stars": 897,
+    "forks": 217,
+    "default_branch": "development"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "appraisal",
+    "language": "ruby",
+    "stars": 897,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "adrianmihalko",
+    "name": "ch340g-ch34g-ch34x-mac-os-x-driver",
+    "language": "ruby",
+    "stars": 896,
+    "forks": 123,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jfahrenkrug",
+    "name": "WWDC-Downloader",
+    "language": "ruby",
+    "stars": 895,
+    "forks": 80,
+    "default_branch": "master"
+  },
+  {
+    "owner": "education",
+    "name": "classroom",
+    "language": "ruby",
+    "stars": 894,
+    "forks": 286,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fazibear",
+    "name": "colorize",
+    "language": "ruby",
+    "stars": 894,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "indirect",
+    "name": "haml-rails",
+    "language": "ruby",
+    "stars": 894,
+    "forks": 139,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zdavatz",
+    "name": "spreadsheet",
+    "language": "ruby",
+    "stars": 892,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jeromegn",
+    "name": "DocumentUp",
+    "language": "ruby",
+    "stars": 889,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanb",
+    "name": "private_pub",
+    "language": "ruby",
+    "stars": 887,
+    "forks": 233,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TracksApp",
+    "name": "tracks",
+    "language": "ruby",
+    "stars": 884,
+    "forks": 520,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WhitewidowScanner",
+    "name": "whitewidow",
+    "language": "ruby",
+    "stars": 883,
+    "forks": 214,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Shopify",
+    "name": "shopify_app",
+    "language": "ruby",
+    "stars": 881,
+    "forks": 371,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fdietz",
+    "name": "team_dashboard",
+    "language": "ruby",
+    "stars": 880,
+    "forks": 151,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lassebunk",
+    "name": "gretel",
+    "language": "ruby",
+    "stars": 879,
+    "forks": 100,
+    "default_branch": "master"
+  },
+  {
+    "owner": "testdouble",
+    "name": "suture",
+    "language": "ruby",
+    "stars": 879,
+    "forks": 22,
+    "default_branch": "master"
+  },
+  {
+    "owner": "radar",
+    "name": "by_star",
+    "language": "ruby",
+    "stars": 879,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "collectiveidea",
+    "name": "json_spec",
+    "language": "ruby",
+    "stars": 878,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "leonid-shevtsov",
+    "name": "headless",
+    "language": "ruby",
+    "stars": 877,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "activeresource",
+    "language": "ruby",
+    "stars": 875,
+    "forks": 298,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iobridge",
+    "name": "thingspeak",
+    "language": "ruby",
+    "stars": 873,
+    "forks": 282,
+    "default_branch": "master"
+  },
+  {
+    "owner": "wvanbergen",
+    "name": "chunky_png",
+    "language": "ruby",
+    "stars": 872,
+    "forks": 79,
+    "default_branch": "master"
+  },
+  {
+    "owner": "weppos",
+    "name": "whois",
+    "language": "ruby",
+    "stars": 871,
+    "forks": 245,
+    "default_branch": "master"
+  },
+  {
+    "owner": "capistrano",
+    "name": "sshkit",
+    "language": "ruby",
+    "stars": 871,
+    "forks": 241,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "exception_notification",
+    "language": "ruby",
+    "stars": 869,
+    "forks": 555,
+    "default_branch": "master"
+  },
+  {
+    "owner": "livingstyleguide",
+    "name": "livingstyleguide",
+    "language": "ruby",
+    "stars": 869,
+    "forks": 85,
+    "default_branch": "master"
+  },
+  {
+    "owner": "documentcloud",
+    "name": "cloud-crowd",
+    "language": "ruby",
+    "stars": 867,
+    "forks": 92,
+    "default_branch": "master"
+  },
+  {
+    "owner": "freshshell",
+    "name": "fresh",
+    "language": "ruby",
+    "stars": 866,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mdp",
+    "name": "rotp",
+    "language": "ruby",
+    "stars": 863,
+    "forks": 240,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sotownsend",
+    "name": "BooJS",
+    "language": "ruby",
+    "stars": 863,
+    "forks": 24,
+    "default_branch": "master"
+  },
+  {
+    "owner": "travis-ci",
+    "name": "dpl",
+    "language": "ruby",
+    "stars": 858,
+    "forks": 321,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails-sqlserver",
+    "name": "activerecord-sqlserver-adapter",
+    "language": "ruby",
+    "stars": 856,
+    "forks": 448,
+    "default_branch": "master"
+  },
+  {
+    "owner": "coderwall",
+    "name": "coderwall-legacy",
+    "language": "ruby",
+    "stars": 856,
+    "forks": 333,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbnb",
+    "name": "nerve",
+    "language": "ruby",
+    "stars": 853,
+    "forks": 146,
+    "default_branch": "master"
+  },
+  {
+    "owner": "openstreetmap",
+    "name": "openstreetmap-website",
+    "language": "ruby",
+    "stars": 853,
+    "forks": 521,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bokmann",
+    "name": "business_time",
+    "language": "ruby",
+    "stars": 852,
+    "forks": 181,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "harrystech",
+    "name": "prelaunchr",
+    "language": "ruby",
+    "stars": 851,
+    "forks": 510,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codeplant",
+    "name": "simple-navigation",
+    "language": "ruby",
+    "stars": 851,
+    "forks": 138,
+    "default_branch": "master"
+  },
+  {
+    "owner": "faye",
+    "name": "faye-websocket-ruby",
+    "language": "ruby",
+    "stars": 851,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "diogob",
+    "name": "activerecord-postgres-hstore",
+    "language": "ruby",
+    "stars": 849,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jlong",
+    "name": "serve",
+    "language": "ruby",
+    "stars": 849,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tryshoppe",
+    "name": "shoppe",
+    "language": "ruby",
+    "stars": 848,
+    "forks": 334,
+    "default_branch": "master"
+  },
+  {
+    "owner": "meleyal",
+    "name": "backbone-on-rails",
+    "language": "ruby",
+    "stars": 847,
+    "forks": 84,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanb",
+    "name": "railscasts-episodes",
+    "language": "ruby",
+    "stars": 846,
+    "forks": 683,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jgorset",
+    "name": "facebook-messenger",
+    "language": "ruby",
+    "stars": 844,
+    "forks": 172,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bogdan",
+    "name": "datagrid",
+    "language": "ruby",
+    "stars": 844,
+    "forks": 97,
+    "default_branch": "master"
+  },
+  {
+    "owner": "airbrake",
+    "name": "airbrake",
+    "language": "ruby",
+    "stars": 841,
+    "forks": 376,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cantino",
+    "name": "ruby-readability",
+    "language": "ruby",
+    "stars": 841,
+    "forks": 161,
+    "default_branch": "master"
+  },
+  {
+    "owner": "karafka",
+    "name": "karafka",
+    "language": "ruby",
+    "stars": 839,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "snibox",
+    "name": "snibox",
+    "language": "ruby",
+    "stars": 838,
+    "forks": 39,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "jquery-rails",
+    "language": "ruby",
+    "stars": 838,
+    "forks": 373,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ReactiveX",
+    "name": "RxRuby",
+    "language": "ruby",
+    "stars": 837,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "payolapayments",
+    "name": "payola",
+    "language": "ruby",
+    "stars": 836,
+    "forks": 136,
+    "default_branch": "master"
+  },
+  {
+    "owner": "leereilly",
+    "name": "swot",
+    "language": "ruby",
+    "stars": 834,
+    "forks": 6124,
+    "default_branch": "master"
+  },
+  {
+    "owner": "imathis",
+    "name": "fancy-buttons",
+    "language": "ruby",
+    "stars": 833,
+    "forks": 66,
+    "default_branch": "master"
+  },
+  {
+    "owner": "be9",
+    "name": "acl9",
+    "language": "ruby",
+    "stars": 833,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "xaviershay",
+    "name": "enki",
+    "language": "ruby",
+    "stars": 832,
+    "forks": 302,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pivotal-legacy",
+    "name": "LicenseFinder",
+    "language": "ruby",
+    "stars": 831,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Fullscreen",
+    "name": "bh",
+    "language": "ruby",
+    "stars": 830,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kzk",
+    "name": "unicorn-worker-killer",
+    "language": "ruby",
+    "stars": 829,
+    "forks": 74,
+    "default_branch": "master"
+  },
+  {
+    "owner": "heroku",
+    "name": "rails_12factor",
+    "language": "ruby",
+    "stars": 829,
+    "forks": 45,
+    "default_branch": "master"
+  },
+  {
+    "owner": "webmachine",
+    "name": "webmachine-ruby",
+    "language": "ruby",
+    "stars": 828,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rtomayko",
+    "name": "shotgun",
+    "language": "ruby",
+    "stars": 828,
+    "forks": 55,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vertiginous",
+    "name": "pik",
+    "language": "ruby",
+    "stars": 825,
+    "forks": 125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mixonic",
+    "name": "ranked-model",
+    "language": "ruby",
+    "stars": 821,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "midori-rb",
+    "name": "midori.rb",
+    "language": "ruby",
+    "stars": 821,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moove-it",
+    "name": "sidekiq-scheduler",
+    "language": "ruby",
+    "stars": 821,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jaimeiniesta",
+    "name": "metainspector",
+    "language": "ruby",
+    "stars": 820,
+    "forks": 137,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lian",
+    "name": "bitcoin-ruby",
+    "language": "ruby",
+    "stars": 819,
+    "forks": 269,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elastic",
+    "name": "cookbook-elasticsearch",
+    "language": "ruby",
+    "stars": 819,
+    "forks": 604,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jackdempsey",
+    "name": "acts_as_commentable",
+    "language": "ruby",
+    "stars": 819,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cucumber",
+    "name": "aruba",
+    "language": "ruby",
+    "stars": 818,
+    "forks": 151,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jruby",
+    "name": "warbler",
+    "language": "ruby",
+    "stars": 818,
+    "forks": 176,
+    "default_branch": "master"
+  },
+  {
+    "owner": "matschaffer",
+    "name": "knife-solo",
+    "language": "ruby",
+    "stars": 817,
+    "forks": 219,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nats-io",
+    "name": "ruby-nats",
+    "language": "ruby",
+    "stars": 811,
+    "forks": 130,
+    "default_branch": "master"
+  },
+  {
+    "owner": "piotrmurach",
+    "name": "tty-prompt",
+    "language": "ruby",
+    "stars": 810,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "achiu",
+    "name": "consular",
+    "language": "ruby",
+    "stars": 808,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "cocaine",
+    "language": "ruby",
+    "stars": 807,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "slack-ruby",
+    "name": "slack-ruby-bot",
+    "language": "ruby",
+    "stars": 804,
+    "forks": 158,
+    "default_branch": "master"
+  },
+  {
+    "owner": "estiens",
+    "name": "world_cup_json",
+    "language": "ruby",
+    "stars": 803,
+    "forks": 98,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brianmario",
+    "name": "charlock_holmes",
+    "language": "ruby",
+    "stars": 801,
+    "forks": 103,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Docverter",
+    "name": "docverter",
+    "language": "ruby",
+    "stars": 799,
+    "forks": 94,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igrigorik",
+    "name": "http-2",
+    "language": "ruby",
+    "stars": 798,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dwilkie",
+    "name": "carrierwave_direct",
+    "language": "ruby",
+    "stars": 796,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pakyow",
+    "name": "pakyow",
+    "language": "ruby",
+    "stars": 796,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "usablica",
+    "name": "label.css",
+    "language": "ruby",
+    "stars": 796,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "goshakkk",
+    "name": "nsa_panel",
+    "language": "ruby",
+    "stars": 796,
+    "forks": 31,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tcocca",
+    "name": "acts_as_follower",
+    "language": "ruby",
+    "stars": 794,
+    "forks": 165,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hiravgandhi",
+    "name": "angularjs-rails",
+    "language": "ruby",
+    "stars": 794,
+    "forks": 125,
+    "default_branch": "master"
+  },
+  {
+    "owner": "upmin",
+    "name": "upmin-admin-ruby",
+    "language": "ruby",
+    "stars": 794,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arbox",
+    "name": "nlp-with-ruby",
+    "language": "ruby",
+    "stars": 792,
+    "forks": 46,
+    "default_branch": "master"
+  },
+  {
+    "owner": "marcel",
+    "name": "aws-s3",
+    "language": "ruby",
+    "stars": 791,
+    "forks": 476,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rack-test",
+    "name": "rack-test",
+    "language": "ruby",
+    "stars": 789,
+    "forks": 212,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fredwu",
+    "name": "angel_nest",
+    "language": "ruby",
+    "stars": 789,
+    "forks": 191,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chefspec",
+    "name": "chefspec",
+    "language": "ruby",
+    "stars": 789,
+    "forks": 337,
+    "default_branch": "master"
+  },
+  {
+    "owner": "anycable",
+    "name": "anycable",
+    "language": "ruby",
+    "stars": 789,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thuss",
+    "name": "standalone-migrations",
+    "language": "ruby",
+    "stars": 789,
+    "forks": 121,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexch",
+    "name": "rerun",
+    "language": "ruby",
+    "stars": 788,
+    "forks": 63,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "platform-samples",
+    "language": "ruby",
+    "stars": 787,
+    "forks": 1034,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Shopify",
+    "name": "active_shipping",
+    "language": "ruby",
+    "stars": 787,
+    "forks": 441,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dryruby",
+    "name": "rack-throttle",
+    "language": "ruby",
+    "stars": 787,
+    "forks": 117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kmuto",
+    "name": "review",
+    "language": "ruby",
+    "stars": 784,
+    "forks": 151,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Parallels",
+    "name": "vagrant-parallels",
+    "language": "ruby",
+    "stars": 783,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "redis-store",
+    "name": "redis-rails",
+    "language": "ruby",
+    "stars": 782,
+    "forks": 101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "benhoskings",
+    "name": "babushka",
+    "language": "ruby",
+    "stars": 782,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "the-teacher",
+    "name": "the_role",
+    "language": "ruby",
+    "stars": 782,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "datamapper",
+    "name": "dm-core",
+    "language": "ruby",
+    "stars": 782,
+    "forks": 162,
+    "default_branch": "master"
+  },
+  {
+    "owner": "crypto-rb",
+    "name": "rbnacl",
+    "language": "ruby",
+    "stars": 780,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kciter",
+    "name": "awesome-style-guide",
+    "language": "ruby",
+    "stars": 780,
+    "forks": 62,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dcparker",
+    "name": "ruby-gmail",
+    "language": "ruby",
+    "stars": 778,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cavalle",
+    "name": "steak",
+    "language": "ruby",
+    "stars": 777,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "square",
+    "name": "apropos",
+    "language": "ruby",
+    "stars": 775,
+    "forks": 33,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jtrupiano",
+    "name": "rack-rewrite",
+    "language": "ruby",
+    "stars": 775,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sevenwire",
+    "name": "forgery",
+    "language": "ruby",
+    "stars": 774,
+    "forks": 100,
+    "default_branch": "master"
+  },
+  {
+    "owner": "janlelis",
+    "name": "irbtools",
+    "language": "ruby",
+    "stars": 774,
+    "forks": 28,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ttscoff",
+    "name": "Slogger",
+    "language": "ruby",
+    "stars": 774,
+    "forks": 177,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Shopify",
+    "name": "shipit-engine",
+    "language": "ruby",
+    "stars": 774,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dchelimsky",
+    "name": "rspec-rails",
+    "language": "ruby",
+    "stars": 772,
+    "forks": 78,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "activejob",
+    "language": "ruby",
+    "stars": 772,
+    "forks": 50,
+    "default_branch": "moved_to_rails"
+  },
+  {
+    "owner": "plataformatec",
+    "name": "mail_form",
+    "language": "ruby",
+    "stars": 772,
+    "forks": 68,
+    "default_branch": "master"
+  },
+  {
+    "owner": "utgarda",
+    "name": "sidekiq-status",
+    "language": "ruby",
+    "stars": 772,
+    "forks": 109,
+    "default_branch": "master"
+  },
+  {
+    "owner": "molybdenum-99",
+    "name": "reality",
+    "language": "ruby",
+    "stars": 772,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "saberma",
+    "name": "shopqi",
+    "language": "ruby",
+    "stars": 772,
+    "forks": 297,
+    "default_branch": "master"
+  },
+  {
+    "owner": "github",
+    "name": "swordfish",
+    "language": "ruby",
+    "stars": 772,
+    "forks": 81,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FIRHQ",
+    "name": "fir-cli",
+    "language": "ruby",
+    "stars": 772,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "slashsbin",
+    "name": "styleguide-git-commit-message",
+    "language": "ruby",
+    "stars": 771,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "r8",
+    "name": "vagrant-lamp",
+    "language": "ruby",
+    "stars": 770,
+    "forks": 276,
+    "default_branch": "master"
+  },
+  {
+    "owner": "k1LoW",
+    "name": "awspec",
+    "language": "ruby",
+    "stars": 769,
+    "forks": 131,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nixme",
+    "name": "jazz_hands",
+    "language": "ruby",
+    "stars": 769,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "webpro",
+    "name": "programming-principles",
+    "language": "ruby",
+    "stars": 768,
+    "forks": 214,
+    "default_branch": "gh-pages"
+  },
+  {
+    "owner": "documentcloud",
+    "name": "docsplit",
+    "language": "ruby",
+    "stars": 767,
+    "forks": 198,
+    "default_branch": "master"
+  },
+  {
+    "owner": "everzet",
+    "name": "capifony",
+    "language": "ruby",
+    "stars": 766,
+    "forks": 240,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fastlane",
+    "name": "boarding",
+    "language": "ruby",
+    "stars": 765,
+    "forks": 185,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danielpclark",
+    "name": "faster_path",
+    "language": "ruby",
+    "stars": 764,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "sass-rails",
+    "language": "ruby",
+    "stars": 763,
+    "forks": 328,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ryanb",
+    "name": "railscasts",
+    "language": "ruby",
+    "stars": 762,
+    "forks": 182,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jekyll",
+    "name": "jekyll-seo-tag",
+    "language": "ruby",
+    "stars": 762,
+    "forks": 146,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lukes",
+    "name": "ISO-3166-Countries-with-Regional-Codes",
+    "language": "ruby",
+    "stars": 762,
+    "forks": 1102,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KKBOX",
+    "name": "CompassApp",
+    "language": "ruby",
+    "stars": 760,
+    "forks": 90,
+    "default_branch": "master"
+  },
+  {
+    "owner": "subwindow",
+    "name": "negative-captcha",
+    "language": "ruby",
+    "stars": 760,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "atipugin",
+    "name": "telegram-bot-ruby",
+    "language": "ruby",
+    "stars": 759,
+    "forks": 126,
+    "default_branch": "master"
+  },
+  {
+    "owner": "inversepath",
+    "name": "usbarmory",
+    "language": "ruby",
+    "stars": 756,
+    "forks": 154,
+    "default_branch": "master"
+  },
+  {
+    "owner": "k0kubun",
+    "name": "md2key",
+    "language": "ruby",
+    "stars": 756,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bjeanes",
+    "name": "ghost",
+    "language": "ruby",
+    "stars": 755,
+    "forks": 44,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dmayer",
+    "name": "idb",
+    "language": "ruby",
+    "stars": 754,
+    "forks": 141,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igrigorik",
+    "name": "bugspots",
+    "language": "ruby",
+    "stars": 754,
+    "forks": 111,
+    "default_branch": "master"
+  },
+  {
+    "owner": "k0kubun",
+    "name": "hamlit",
+    "language": "ruby",
+    "stars": 754,
+    "forks": 43,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ileitch",
+    "name": "hijack",
+    "language": "ruby",
+    "stars": 753,
+    "forks": 21,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rtomayko",
+    "name": "rack-cache",
+    "language": "ruby",
+    "stars": 752,
+    "forks": 117,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amatsuda",
+    "name": "active_decorator",
+    "language": "ruby",
+    "stars": 752,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scttnlsn",
+    "name": "dandelion",
+    "language": "ruby",
+    "stars": 750,
+    "forks": 59,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ezmobius",
+    "name": "nanite",
+    "language": "ruby",
+    "stars": 749,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "salsify",
+    "name": "goldiloader",
+    "language": "ruby",
+    "stars": 748,
+    "forks": 29,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rgeo",
+    "name": "rgeo",
+    "language": "ruby",
+    "stars": 748,
+    "forks": 112,
+    "default_branch": "master"
+  },
+  {
+    "owner": "weppos",
+    "name": "breadcrumbs_on_rails",
+    "language": "ruby",
+    "stars": 746,
+    "forks": 174,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thekompanee",
+    "name": "fuubar",
+    "language": "ruby",
+    "stars": 746,
+    "forks": 69,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CultivateLabs",
+    "name": "storytime",
+    "language": "ruby",
+    "stars": 745,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "igrigorik",
+    "name": "agent",
+    "language": "ruby",
+    "stars": 745,
+    "forks": 20,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NUBIC",
+    "name": "surveyor",
+    "language": "ruby",
+    "stars": 743,
+    "forks": 273,
+    "default_branch": "master"
+  },
+  {
+    "owner": "projectcalico",
+    "name": "calico",
+    "language": "ruby",
+    "stars": 743,
+    "forks": 266,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tobi",
+    "name": "clarity",
+    "language": "ruby",
+    "stars": 743,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dejan",
+    "name": "auto_html",
+    "language": "ruby",
+    "stars": 742,
+    "forks": 187,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hexgnu",
+    "name": "linkedin",
+    "language": "ruby",
+    "stars": 742,
+    "forks": 407,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ifmeorg",
+    "name": "ifme",
+    "language": "ruby",
+    "stars": 742,
+    "forks": 452,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ManageIQ",
+    "name": "manageiq",
+    "language": "ruby",
+    "stars": 740,
+    "forks": 665,
+    "default_branch": "master"
+  },
+  {
+    "owner": "moll",
+    "name": "vim-node",
+    "language": "ruby",
+    "stars": 739,
+    "forks": 56,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hotsh",
+    "name": "rstat.us",
+    "language": "ruby",
+    "stars": 739,
+    "forks": 218,
+    "default_branch": "master"
+  },
+  {
+    "owner": "FortAwesome",
+    "name": "font-awesome-sass",
+    "language": "ruby",
+    "stars": 739,
+    "forks": 215,
+    "default_branch": "master"
+  },
+  {
+    "owner": "svenfuchs",
+    "name": "i18n",
+    "language": "ruby",
+    "stars": 738,
+    "forks": 291,
+    "default_branch": "master"
+  },
+  {
+    "owner": "fredwu",
+    "name": "api_taster",
+    "language": "ruby",
+    "stars": 737,
+    "forks": 85,
+    "default_branch": "master"
+  },
+  {
+    "owner": "peterc",
+    "name": "pismo",
+    "language": "ruby",
+    "stars": 736,
+    "forks": 107,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ErwinM",
+    "name": "acts_as_tenant",
+    "language": "ruby",
+    "stars": 736,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "interagent",
+    "name": "pliny",
+    "language": "ruby",
+    "stars": 733,
+    "forks": 67,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elastic",
+    "name": "ansible-elasticsearch",
+    "language": "ruby",
+    "stars": 733,
+    "forks": 440,
+    "default_branch": "master"
+  },
+  {
+    "owner": "YorickPeterse",
+    "name": "ruby-lint",
+    "language": "ruby",
+    "stars": 733,
+    "forks": 41,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tomgi",
+    "name": "git_stats",
+    "language": "ruby",
+    "stars": 732,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dry-rb",
+    "name": "dry-validation",
+    "language": "ruby",
+    "stars": 731,
+    "forks": 88,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubychan",
+    "name": "coderay",
+    "language": "ruby",
+    "stars": 731,
+    "forks": 104,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chaps-io",
+    "name": "gush",
+    "language": "ruby",
+    "stars": 730,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "pelle",
+    "name": "oauth-plugin",
+    "language": "ruby",
+    "stars": 728,
+    "forks": 204,
+    "default_branch": "master"
+  },
+  {
+    "owner": "floere",
+    "name": "phony",
+    "language": "ruby",
+    "stars": 724,
+    "forks": 187,
+    "default_branch": "master"
+  },
+  {
+    "owner": "makaroni4",
+    "name": "sandi_meter",
+    "language": "ruby",
+    "stars": 722,
+    "forks": 37,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gitlabhq",
+    "name": "gitlab-recipes",
+    "language": "ruby",
+    "stars": 721,
+    "forks": 459,
+    "default_branch": "master"
+  },
+  {
+    "owner": "somaticio",
+    "name": "tensorflow.rb",
+    "language": "ruby",
+    "stars": 720,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rodjek",
+    "name": "librarian-puppet",
+    "language": "ruby",
+    "stars": 719,
+    "forks": 208,
+    "default_branch": "master"
+  },
+  {
+    "owner": "particle-iot",
+    "name": "thermostat",
+    "language": "ruby",
+    "stars": 719,
+    "forks": 108,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jedi4ever",
+    "name": "sahara",
+    "language": "ruby",
+    "stars": 719,
+    "forks": 53,
+    "default_branch": "master"
+  },
+  {
+    "owner": "aaronchi",
+    "name": "jrails",
+    "language": "ruby",
+    "stars": 716,
+    "forks": 83,
+    "default_branch": "master"
+  },
+  {
+    "owner": "andymeneely",
+    "name": "squib",
+    "language": "ruby",
+    "stars": 715,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "brendanlim",
+    "name": "mobile-fu",
+    "language": "ruby",
+    "stars": 715,
+    "forks": 211,
+    "default_branch": "master"
+  },
+  {
+    "owner": "net-ssh",
+    "name": "net-ssh",
+    "language": "ruby",
+    "stars": 714,
+    "forks": 331,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mkhairi",
+    "name": "materialize-sass",
+    "language": "ruby",
+    "stars": 712,
+    "forks": 224,
+    "default_branch": "master"
+  },
+  {
+    "owner": "huacnlee",
+    "name": "redis-search",
+    "language": "ruby",
+    "stars": 712,
+    "forks": 149,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thoughtbot",
+    "name": "ember-cli-rails",
+    "language": "ruby",
+    "stars": 711,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rodjek",
+    "name": "puppet-lint",
+    "language": "ruby",
+    "stars": 708,
+    "forks": 192,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shadabahmed",
+    "name": "logstasher",
+    "language": "ruby",
+    "stars": 708,
+    "forks": 122,
+    "default_branch": "master"
+  },
+  {
+    "owner": "browserify-rails",
+    "name": "browserify-rails",
+    "language": "ruby",
+    "stars": 707,
+    "forks": 90,
+    "default_branch": "master"
+  },
+  {
+    "owner": "danchoi",
+    "name": "vmail",
+    "language": "ruby",
+    "stars": 707,
+    "forks": 61,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mattetti",
+    "name": "googlecharts",
+    "language": "ruby",
+    "stars": 707,
+    "forks": 116,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RichardLitt",
+    "name": "awesome-conferences",
+    "language": "ruby",
+    "stars": 706,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zilkey",
+    "name": "active_hash",
+    "language": "ruby",
+    "stars": 706,
+    "forks": 110,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iberianpig",
+    "name": "fusuma",
+    "language": "ruby",
+    "stars": 705,
+    "forks": 32,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robbin",
+    "name": "robbin_site",
+    "language": "ruby",
+    "stars": 703,
+    "forks": 253,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SergioFierens",
+    "name": "ai4r",
+    "language": "ruby",
+    "stars": 702,
+    "forks": 132,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chaps-io",
+    "name": "access-granted",
+    "language": "ruby",
+    "stars": 702,
+    "forks": 35,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TheOdinProject",
+    "name": "theodinproject",
+    "language": "ruby",
+    "stars": 701,
+    "forks": 565,
+    "default_branch": "master"
+  },
+  {
+    "owner": "treasure-data",
+    "name": "serverengine",
+    "language": "ruby",
+    "stars": 701,
+    "forks": 73,
+    "default_branch": "master"
+  },
+  {
+    "owner": "winton",
+    "name": "stasis",
+    "language": "ruby",
+    "stars": 700,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jhund",
+    "name": "filterrific",
+    "language": "ruby",
+    "stars": 699,
+    "forks": 82,
+    "default_branch": "master"
+  },
+  {
+    "owner": "librariesio",
+    "name": "libraries.io",
+    "language": "ruby",
+    "stars": 698,
+    "forks": 127,
+    "default_branch": "master"
+  },
+  {
+    "owner": "composite-primary-keys",
+    "name": "composite_primary_keys",
+    "language": "ruby",
+    "stars": 698,
+    "forks": 288,
+    "default_branch": "master"
+  },
+  {
+    "owner": "googleapis",
+    "name": "google-cloud-ruby",
+    "language": "ruby",
+    "stars": 698,
+    "forks": 247,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sup-heliotrope",
+    "name": "sup",
+    "language": "ruby",
+    "stars": 696,
+    "forks": 89,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "rastating",
+    "name": "wordpress-exploit-framework",
+    "language": "ruby",
+    "stars": 696,
+    "forks": 190,
+    "default_branch": "master"
+  },
+  {
+    "owner": "tinfoil",
+    "name": "devise-two-factor",
+    "language": "ruby",
+    "stars": 696,
+    "forks": 91,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chloerei",
+    "name": "alipay",
+    "language": "ruby",
+    "stars": 696,
+    "forks": 226,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ledermann",
+    "name": "rails-settings",
+    "language": "ruby",
+    "stars": 696,
+    "forks": 254,
+    "default_branch": "master"
+  },
+  {
+    "owner": "copycopter",
+    "name": "copycopter-server",
+    "language": "ruby",
+    "stars": 694,
+    "forks": 180,
+    "default_branch": "master"
+  },
+  {
+    "owner": "flavorjones",
+    "name": "loofah",
+    "language": "ruby",
+    "stars": 694,
+    "forks": 101,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ruby",
+    "name": "www.ruby-lang.org",
+    "language": "ruby",
+    "stars": 694,
+    "forks": 469,
+    "default_branch": "master"
+  },
+  {
+    "owner": "puppetlabs",
+    "name": "r10k",
+    "language": "ruby",
+    "stars": 694,
+    "forks": 292,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jwhitehorn",
+    "name": "pi_piper",
+    "language": "ruby",
+    "stars": 693,
+    "forks": 76,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "comfy",
+    "name": "active_link_to",
+    "language": "ruby",
+    "stars": 693,
+    "forks": 64,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chrisfsampaio",
+    "name": "imsg",
+    "language": "ruby",
+    "stars": 691,
+    "forks": 52,
+    "default_branch": "master"
+  },
+  {
+    "owner": "lardawge",
+    "name": "carrierwave_backgrounder",
+    "language": "ruby",
+    "stars": 691,
+    "forks": 277,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankane",
+    "name": "dexter",
+    "language": "ruby",
+    "stars": 690,
+    "forks": 13,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rebelidealist",
+    "name": "stripe-ruby-mock",
+    "language": "ruby",
+    "stars": 690,
+    "forks": 415,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rafaelfranca",
+    "name": "simple_form-bootstrap",
+    "language": "ruby",
+    "stars": 688,
+    "forks": 253,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cassandra-rb",
+    "name": "cassandra",
+    "language": "ruby",
+    "stars": 688,
+    "forks": 152,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rubyworks",
+    "name": "facets",
+    "language": "ruby",
+    "stars": 688,
+    "forks": 88,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zendesk",
+    "name": "ruby-kafka",
+    "language": "ruby",
+    "stars": 687,
+    "forks": 189,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mattsears",
+    "name": "nyan-cat-formatter",
+    "language": "ruby",
+    "stars": 687,
+    "forks": 77,
+    "default_branch": "master"
+  },
+  {
+    "owner": "integrity",
+    "name": "integrity",
+    "language": "ruby",
+    "stars": 686,
+    "forks": 186,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scelis",
+    "name": "twine",
+    "language": "ruby",
+    "stars": 686,
+    "forks": 119,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rails",
+    "name": "pjax_rails",
+    "language": "ruby",
+    "stars": 686,
+    "forks": 118,
+    "default_branch": "master"
+  },
+  {
+    "owner": "evolution",
+    "name": "genesis-wordpress",
+    "language": "ruby",
+    "stars": 684,
+    "forks": 60,
+    "default_branch": "master"
+  },
+  {
+    "owner": "railsmachine",
+    "name": "moonshine",
+    "language": "ruby",
+    "stars": 684,
+    "forks": 72,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SchemaPlus",
+    "name": "schema_plus",
+    "language": "ruby",
+    "stars": 683,
+    "forks": 87,
+    "default_branch": "master"
+  },
+  {
+    "owner": "robotmay",
+    "name": "photographer-io",
+    "language": "ruby",
+    "stars": 682,
+    "forks": 184,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thirtysixthspan",
+    "name": "descriptive_statistics",
+    "language": "ruby",
+    "stars": 681,
+    "forks": 57,
+    "default_branch": "master"
+  },
+  {
+    "owner": "peterhellberg",
+    "name": "hashids.rb",
+    "language": "ruby",
+    "stars": 681,
+    "forks": 34,
+    "default_branch": "master"
+  },
+  {
+    "owner": "elight",
+    "name": "acts_as_commentable_with_threading",
+    "language": "ruby",
+    "stars": 680,
+    "forks": 170,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Fosome",
+    "name": "garb",
+    "language": "ruby",
+    "stars": 680,
+    "forks": 143,
+    "default_branch": "master"
+  },
+  {
+    "owner": "applicationsonline",
+    "name": "librarian",
+    "language": "ruby",
+    "stars": 680,
+    "forks": 76,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dennybritz",
+    "name": "rails_startup_template",
+    "language": "ruby",
+    "stars": 679,
+    "forks": 114,
+    "default_branch": "master"
+  },
+  {
+    "owner": "juuso",
+    "name": "BozoCrack",
+    "language": "ruby",
+    "stars": 678,
+    "forks": 54,
+    "default_branch": "master"
+  },
+  {
+    "owner": "CocoaPods",
+    "name": "cocoapods-packager",
+    "language": "ruby",
+    "stars": 677,
+    "forks": 99,
+    "default_branch": "master"
+  },
+  {
+    "owner": "vigetlabs",
+    "name": "gulp-rails-pipeline",
+    "language": "ruby",
+    "stars": 677,
+    "forks": 70,
+    "default_branch": "master"
+  }
+]
