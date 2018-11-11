@@ -19,7 +19,7 @@ BLACKLIST = [
   'deepfakes/faceswap' # Can only be downloaded when logged into GitHub.
 ]
 
-MIN_LOC = 1_000
+MIN_LOC = 1_000_000
 
 SEARCH_PATH = 'data/search/repos'
 REPOS_PATH = 'data/analysis/repos'
