@@ -32,26 +32,26 @@ LANGUAGES = {
     ],
   },
   'java': {
-    'nama': 'Java',
+    'name': 'Java',
     'extensions': [
       '.java',
     ]
   },
   'kotlin': {
-    'nama': 'Kotlin',
+    'name': 'Kotlin',
     'extensions': [
       '.kt',
     ]
   },
   'haskell': {
-    'nama': 'Haskell',
+    'name': 'Haskell',
     'extensions': [
       '.hs',
       '.lhs',
     ]
   },
   'ocaml': {
-    'nama': 'OCaml',
+    'name': 'OCaml',
     'extensions': [
       '.ml',
       '.mli',
