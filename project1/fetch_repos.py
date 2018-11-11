@@ -97,7 +97,7 @@ def search(language):
 if __name__ == '__main__':
   try:
     for language in LANGUAGES:
-      print(f'Searching {language}:')
+      print(f"Searching {LANGUAGES[language]['name']}:")
       repos = search(language)
       write_to_json(SEARCH_PATH, repos, language)
 
