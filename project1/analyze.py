@@ -1,13 +1,10 @@
 #!/usr/bin/env python3
 
-from common import write_to_json, SEARCH_PATH
-from languages import LANGUAGES
+from common import *
 from repo import Repo
 import numpy as np
 import json
 import pygount
-
-ANALYSIS_PATH = 'data/repos/analysis'
 
 MIN_LOC = 10_000
 
@@ -44,7 +41,7 @@ if __name__ == '__main__':
 
         for repo in repos:
           analysis = analyze(repo)
-          
+
           analyzed_repos.append(analysis)
           loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
 

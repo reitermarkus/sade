@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
-from common import check_rate_limit, write_to_json, SEARCH_PATH
+from common import *
 from datetime import datetime
 from github import Github, RateLimitExceededException
-from languages import LANGUAGES
 import os
 import time
 
@@ -51,7 +50,7 @@ def search(language):
         if len(repo_list) < total:
           print(f'=> there are some some missing repos: {len(repo_list)}/{total}')
         break
-        
+
       repo_list.extend([
         {
           'owner': r.owner.login,
