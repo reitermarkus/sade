@@ -68,6 +68,11 @@ def search(language):
 
   while len(repo_list) < total:
     try:
+      if i == 10:
+        if len(repo_list) < total:
+          print(f'=> there are some some missing repos: {len(repo_list)}/{total}')
+        break
+        
       repo_list.extend([
         {
           'owner': r.owner.login,
