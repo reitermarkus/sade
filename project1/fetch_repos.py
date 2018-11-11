@@ -1,14 +1,10 @@
 #!/usr/bin/env python3
 
-from github import Github, GithubException, RateLimitExceededException
+from common import check_rate_limit, write_to_json, SEARCH_PATH
 from datetime import datetime
+from github import Github, RateLimitExceededException
 from languages import LANGUAGES
-from repo import Repo
-from analyze import analyze
-import numpy as np
-import json
 import os
-import pygount
 import time
 
 access_token = os.environ['GITHUB_TOKEN']
@@ -18,11 +14,6 @@ user.per_page = 100
 BLACKLIST = [
   'deepfakes/faceswap' # Can only be downloaded when logged into GitHub.
 ]
-
-MIN_LOC = 1_000_000
-
-SEARCH_PATH = 'data/search/repos'
-REPOS_PATH = 'data/analysis/repos'
 
 def check_rate_limit():
   rate_limit = user.get_rate_limit()
@@ -40,18 +31,6 @@ def check_rate_limit():
     print(f'=> Waiting {ceil(sleep_time)} seconds for rate limit reset.')
     time.sleep(sleep_time)
 
-def write_to_json(path, repo_data, language):
-  if not os.path.isdir(path):
-    os.makedirs(path)
-
-  path = f'{path}/{language}.json'
-
-  if not os.path.exists(path):
-    with open(path, mode='w', encoding='utf-8') as f:
-      f.write('[]')
-
-  with open(path, mode='w+', encoding='utf-8') as f:
-    json.dump(repo_data, f, sort_keys = True, indent = 2)
 
 def search(language):
   while True:
@@ -100,34 +79,5 @@ if __name__ == '__main__':
       print(f"Searching {LANGUAGES[language]['name']}:")
       repos = search(language)
       write_to_json(SEARCH_PATH, repos, language)
-
-    for language in LANGUAGES:
-      try:
-        print(f'Analyzing {language}:')
-        with open(f'{SEARCH_PATH}/{language}.json', 'r', encoding='utf-8') as f:
-          repos = json.load(f)
-
-          analyzed_repos = []
-          loc = 0
-
-          i = 0
-
-          for repo in repos:
-            analysis = analyze(repo)
-            
-            analyzed_repos.append(analysis)
-            loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
-
-            i += 1
-
-            print(f'{loc} LOC ({i}/{len(repos)})')
-
-            if loc >= MIN_LOC:
-              break
-
-          write_to_json(REPOS_PATH, analyzed_repos, language)
-      except FileNotFoundError:
-        print(f'File not found: {language}.json')
-        continue
   except KeyboardInterrupt as e:
     print('Search cancelled.')
