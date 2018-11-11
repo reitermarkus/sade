@@ -35,7 +35,8 @@ def check_rate_limit():
 
   if now < reset_time:
     sleep_time = (reset_time - now).total_seconds()
-    print(f'Waiting {sleep_time} seconds for rate limit reset.')
+    from math import ceil
+    print(f'Waiting {ceil(sleep_time)} seconds for rate limit reset.')
     time.sleep(sleep_time)
 
 def write_to_json(repo_data, language):
