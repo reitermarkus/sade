@@ -12,7 +12,7 @@ def analyze(repo):
   extensions = LANGUAGES[repo['language']]['extensions']
 
   with Repo(repo['owner'], repo['name'], default_branch = repo['default_branch'], language = repo['language'], extensions = extensions) as r:
-    analysis = [pygount.source_analysis(file, repo['language']) for file in r.files]
+    analysis = [pygount.source_analysis(file, repo['language'], encoding = 'utf-8') for file in r.files]
     analysis = [a for a in analysis if a.state == 'analyzed']
 
     if analysis:
