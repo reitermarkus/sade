@@ -19,9 +19,10 @@ BLACKLIST = [
   'deepfakes/faceswap' # Can only be downloaded when logged into GitHub.
 ]
 
-MIN_LOC = 1_000_000
+MIN_LOC = 1_000
 
-REPOS_PATH = 'data/repos'
+SEARCH_PATH = 'data/search/repos'
+REPOS_PATH = 'data/analysis/repos'
 
 def check_rate_limit():
   rate_limit = user.get_rate_limit()
@@ -36,14 +37,14 @@ def check_rate_limit():
   if now < reset_time:
     sleep_time = (reset_time - now).total_seconds()
     from math import ceil
-    print(f'Waiting {ceil(sleep_time)} seconds for rate limit reset.')
+    print(f'=> Waiting {ceil(sleep_time)} seconds for rate limit reset.')
     time.sleep(sleep_time)
 
-def write_to_json(repo_data, language):
-  if not os.path.isdir(REPOS_PATH):
-    os.makedirs(REPOS_PATH)
+def write_to_json(path, repo_data, language):
+  if not os.path.isdir(path):
+    os.makedirs(path)
 
-  path = f'{REPOS_PATH}/{language}.json'
+  path = f'{path}/{language}.json'
 
   if not os.path.exists(path):
     with open(path, mode='w', encoding='utf-8') as f:
@@ -93,25 +94,35 @@ if __name__ == '__main__':
     for language in LANGUAGES:
       print(f'Searching {language}:')
       repos = search(language)
+      write_to_json(SEARCH_PATH, repos, language)
 
-      analyzed_repos = []
-      loc = 0
+    for language in LANGUAGES:
+      try:
+        print(f'Analyzing {language}:')
+        with open(f'{SEARCH_PATH}/{language}.json', 'r', encoding='utf-8') as f:
+          repos = json.load(f)
 
-      i = 0
+          analyzed_repos = []
+          loc = 0
 
-      for repo in repos:
-        analysis = analyze(repo)
+          i = 0
 
-        analyzed_repos.append(analysis)
-        loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
+          for repo in repos:
+            analysis = analyze(repo)
+            
+            analyzed_repos.append(analysis)
+            loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
 
-        i += 1
+            i += 1
 
-        print(f'{loc} LOC ({i}/{len(repos)})')
+            print(f'{loc} LOC ({i}/{len(repos)})')
 
-        if loc >= MIN_LOC:
-          break
+            if loc >= MIN_LOC:
+              break
 
-      write_to_json(analyzed_repos, language)
+          write_to_json(REPOS_PATH, analyzed_repos, language)
+      except FileNotFoundError:
+        print(f'File not found: {language}.json')
+        continue
   except KeyboardInterrupt as e:
     print('Search cancelled.')
