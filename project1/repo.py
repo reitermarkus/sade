@@ -19,14 +19,18 @@ class Repo:
     if not os.path.isdir(f'{CACHE_DIR}/{self.owner}'):
       os.makedirs(f'{CACHE_DIR}/{self.owner}')
 
-    file = f'{CACHE_DIR}/{self.owner}/{self.repo}.tgz'
+    tar_file = f'{CACHE_DIR}/{self.owner}/{self.repo}.tgz'
 
-    if os.path.isfile(file):
+    if os.path.isfile(tar_file):
       print(f'{self.owner}/{self.repo} already downloaded.')
       return self
 
-    print(f'Downloading {self.owner}/{self.repo} …')
-    urllib.request.urlretrieve(f'https://github.com/{self.owner}/{self.repo}/archive/{self.default_branch}.tar.gz', file)
+    try:
+      print(f'Downloading {self.owner}/{self.repo} …')
+      urllib.request.urlretrieve(f'https://github.com/{self.owner}/{self.repo}/archive/{self.default_branch}.tar.gz', tar_file)
+    except:
+      if os.path.isfile(tar_file):
+        os.remove(tar_file)
 
     return self
 

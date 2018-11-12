@@ -5,7 +5,7 @@ from repo import Repo
 import numpy as np
 import pygount
 
-MIN_LOC = 10_000
+MIN_LOC = 1_000_000
 
 def analyze(repo):
   extensions = LANGUAGES[repo['language']]['extensions']
@@ -33,38 +33,32 @@ def analyze(repo):
         repo['documentation'] += analysis.documentation
         repo['empty']         += analysis.empty
 
-    write_json(json_path, repo)
+  write_json(json_path, repo)
 
   return repo
 
 if __name__ == '__main__':
   for language in LANGUAGES:
-    try:
-      print(f'Analyzing {language}:')
+    print(f'Analyzing {language}:')
 
-      repos = read_json(f'{SEARCH_PATH}/{language}.json')
+    repos = read_json(f'{SEARCH_PATH}/{language}.json')
 
-      analyzed_repos = []
-      loc = 0
+    analyzed_repos = []
+    loc = 0
 
-      i = 0
+    i = 0
 
-      for repo in repos:
-        analysis = analyze(repo)
+    for repo in repos:
+      analysis = analyze(repo)
 
-        analyzed_repos.append(analysis)
-        loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
+      analyzed_repos.append(analysis)
+      loc += (analysis['code'] + analysis['documentation'] + analysis['empty'])
 
-        i += 1
+      i += 1
 
-        print(f'{loc} LOC ({i}/{len(repos)})')
+      print(f'{loc} LOC ({i}/{len(repos)})')
 
-        if loc >= MIN_LOC:
-          break
+      if loc >= MIN_LOC:
+        break
 
-      write_json(f'{ANALYSIS_PATH}/{language}.json', analyzed_repos)
-    except FileNotFoundError:
-      print(f'File not found: {language}.json')
-      continue
-    except EOFError:
-      continue
+    write_json(f'{ANALYSIS_PATH}/{language}.json', analyzed_repos)
