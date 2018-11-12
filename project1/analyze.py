@@ -22,6 +22,10 @@ def analyze(repo):
 
   with r:
     for f in r.files:
+      # Ignore symlinks.
+      if not os.path.isfile(f):
+        continue
+
       analysis = pygount.source_analysis(f, repo['language'], encoding = 'utf-8')
 
       if analysis.state == 'analyzed':
