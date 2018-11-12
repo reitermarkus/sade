@@ -36,6 +36,11 @@ LANGUAGES = {
   'c++': {
     'name': 'C++',
     'extensions': [
+      '.C',
+      '.cc',
+      '.cp',
+      '.cxx',
+      '.c++',
       '.cpp',
       '.hpp',
     ],
