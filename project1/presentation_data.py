@@ -11,31 +11,26 @@ from common import *
 paths = glob.glob('data/repos/analysis/*.json')
 analysis = []
 
+def create_layout(title, **options):
+  return go.Layout(
+    title = title,
+    font = {'family': 'Helvetica', 'size': 16},
+    bargap = 0.1,
+    barmode = 'group',
+    showlegend = False,
+    **options,
+  )
+
 for path in paths:
   analysis.extend(read_json(path))
 
 analysis_df = pd.DataFrame(data = analysis)
 
-
 # Sum of all comments
 code_comments_sum = analysis_df.groupby(['language']) \
   .agg({'documentation': 'sum', 'code': 'sum'}) \
   .reset_index() \
-  .sort_values(by='documentation', ascending=False)
-
-# DataFrame for each language type
-functional_df = code_comments_sum[(code_comments_sum['language'] == 'haskell') | \
-                         (code_comments_sum['language'] == 'ocaml')]
-
-interpreted_df = code_comments_sum[(code_comments_sum['language'] == 'ruby') | \
-                          (code_comments_sum['language'] == 'python')]
-
-jvm_df = code_comments_sum[(code_comments_sum['language'] == 'java') | \
-                  (code_comments_sum['language'] == 'kotlin')]
-
-system_level_df = code_comments_sum[(code_comments_sum['language'] == 'c') | \
-                                    (code_comments_sum['language'] == 'c++') | \
-                                    (code_comments_sum['language'] == 'rust')]
+  .sort_values(by='documentation', ascending = False)
 
 # Chart: sum of all comments
 trace = go.Bar(
@@ -43,133 +38,52 @@ trace = go.Bar(
   y = code_comments_sum['documentation'],
 )
 
-layout = go.Layout(
-  title  = 'Comments of all languages',
-  font   = dict(family = 'Helvetica', size = 16),
-  bargap = 0.1
-)
+layout = create_layout('Lines of Comments per Language<br>(Total for Top 1000 Repositories per Language)')
 
 fig_all_comments = go.Figure(data = [trace], layout = layout)
-
 
 # Chart: sum of all LOC
 trace = go.Bar(
   x = code_comments_sum['language'],
-  y = code_comments_sum.sort_values(by = ['code'], ascending=False)['code'],
+  y = code_comments_sum.sort_values(by = ['code'], ascending = False)['code'],
 )
 
-layout = go.Layout(
-  title  = 'Line of codes of all languages <br>(excl. comments and empty lines)',
-  font   = dict(family = 'Helvetica', size = 16),
-  bargap = 0.1
-)
+layout = create_layout('Lines of Code of per Language (excluding Empty Lines)<br>(Total for Top 1000 Repositories per Language)')
 
 fig_all_loc = go.Figure(data = [trace], layout = layout)
 
+def select_data(languages):
+  return code_comments_sum[code_comments_sum['language'].isin(list(languages))]
 
-# Chart: interpreted languages
-trace1 = go.Bar(
-  x = interpreted_df['language'],
-  y = interpreted_df['code'],
-  name = 'LOC',
-  text = 'Code',
-  textposition = 'auto'
-)
+def make_traces(data):
+  total = (data['code'] + data['documentation'])
 
-trace2 = go.Bar(
-  x = interpreted_df['language'],
-  y = interpreted_df['documentation'],
-  name = 'Comments',
-  text = 'Comments',
-  textposition = 'auto'
-)
+  trace1 = go.Bar(
+    x = data['language'],
+    y = data['code'] / total,
+    text = 'Code',
+    textposition = 'auto',
+  )
 
-layout = go.Layout(
-  title   = 'Python  vs.  Ruby',
-  barmode = 'group',
-  font    = dict(family = 'Helvetica', size = 16),
-  showlegend = False
-)
+  trace2 = go.Bar(
+    x = data['language'],
+    y = data['documentation'] / total,
+    text = 'Comments',
+    textposition = 'auto',
+  )
 
-fig_interpreted = go.Figure(data = [trace1, trace2], layout = layout)
+  return [trace1, trace2]
 
+def make_figure(title, languages):
+  return go.Figure(
+    data = make_traces(select_data(languages)),
+    layout = create_layout(title, yaxis = {
+      'tickformat': ',.0%',
+      'range': [0,1],
+    }),
+  )
 
-# Chart: system level languages
-trace1 = go.Bar(
-  x = system_level_df['language'],
-  y = system_level_df['code'],
-  name = 'LOC',
-  text = 'Code',
-  textposition = 'auto'
-)
-
-trace2 = go.Bar(
-  x = system_level_df['language'],
-  y = system_level_df['documentation'],
-  name = 'Comments',
-  text = 'Comments',
-  textposition = 'auto'
-)
-
-layout = go.Layout(
-  title   = 'C  vs.  C++  vs.  Rust',
-  barmode = 'group',
-  font    = dict(family = 'Helvetica', size = 16),
-  showlegend = False
-)
-
-fig_system_level = go.Figure(data = [trace1, trace2], layout = layout)
-
-
-# Chart: JVM languages
-trace1 = go.Bar(
-  x = jvm_df['language'],
-  y = jvm_df['code'],
-  name = 'LOC',
-  text = 'Code',
-  textposition = 'auto'
-)
-
-trace2 = go.Bar(
-  x = jvm_df['language'],
-  y = jvm_df['documentation'],
-  name = 'Comments',
-  text = 'Comments',
-  textposition = 'auto'
-)
-
-layout = go.Layout(
-  title   = 'Java  vs.  Kotlin',
-  barmode = 'group',
-  font    = dict(family = 'Helvetica', size = 16),
-  showlegend = False
-)
-
-fig_jvm = go.Figure(data = [trace1, trace2], layout = layout)
-
-
-# Chart: functional languages
-trace1 = go.Bar(
-  x = functional_df['language'],
-  y = functional_df['code'],
-  name = 'LOC',
-  text = 'Code',
-  textposition = 'auto'
-)
-
-trace2 = go.Bar(
-  x = functional_df['language'],
-  y = functional_df['documentation'],
-  name = 'Comments',
-  text = 'Comments',
-  textposition = 'auto'
-)
-
-layout = go.Layout(
-  title   = 'Ocaml  vs.  Haskell',
-  barmode = 'group',
-  font    = dict(family = 'Helvetica', size = 16),
-  showlegend = False
-)
-
-fig_functional = go.Figure(data = [trace1, trace2], layout = layout)
+fig_interpreted = make_figure('Python  vs.  Ruby', ['ruby', 'python'])
+fig_system = make_figure('C  vs.  C++  vs.  Rust', ['c', 'c++', 'rust'])
+fig_jvm = make_figure('Java  vs.  Kotlin', ['java', 'kotlin'])
+fig_functional = make_figure('Ocaml  vs.  Haskell', ['haskell', 'ocaml'])
