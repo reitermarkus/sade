@@ -2,17 +2,17 @@ import pandas as pd
 import numpy as np
 import json
 import os
+import glob
 
 from plotly import graph_objs as go
 
-JSON_DIR = 'data/repos/analysis/'
-filenames = os.listdir(JSON_DIR)
+from common import *
+
+paths = glob.glob('data/repos/analysis/*.json')
 analysis = []
 
-for filename in filenames:
-  with open(f'{JSON_DIR}/{filename}', 'r', encoding = 'utf-8') as f:
-    analysis.extend(json.load(f))
-
+for path in paths:
+  analysis.extend(read_json(path))
 
 analysis_df = pd.DataFrame(data = analysis)
 
@@ -85,7 +85,7 @@ trace2 = go.Bar(
 )
 
 layout = go.Layout(
-  title   = 'Python  vs.  Ruby',  
+  title   = 'Python  vs.  Ruby',
   barmode = 'group',
   font    = dict(family = 'Helvetica', size = 16),
   showlegend = False
@@ -112,7 +112,7 @@ trace2 = go.Bar(
 )
 
 layout = go.Layout(
-  title   = 'C  vs.  C++  vs.  Rust',  
+  title   = 'C  vs.  C++  vs.  Rust',
   barmode = 'group',
   font    = dict(family = 'Helvetica', size = 16),
   showlegend = False
@@ -139,7 +139,7 @@ trace2 = go.Bar(
 )
 
 layout = go.Layout(
-  title   = 'Java  vs.  Kotlin',  
+  title   = 'Java  vs.  Kotlin',
   barmode = 'group',
   font    = dict(family = 'Helvetica', size = 16),
   showlegend = False
@@ -166,7 +166,7 @@ trace2 = go.Bar(
 )
 
 layout = go.Layout(
-  title   = 'Ocaml  vs.  Haskell',  
+  title   = 'Ocaml  vs.  Haskell',
   barmode = 'group',
   font    = dict(family = 'Helvetica', size = 16),
   showlegend = False
