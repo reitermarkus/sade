@@ -61,6 +61,7 @@ def make_traces(data):
   trace1 = go.Bar(
     x = data['language'],
     y = data['code'] / total,
+    name = 'Code',
     text = 'Code',
     textposition = 'auto',
   )
@@ -68,6 +69,7 @@ def make_traces(data):
   trace2 = go.Bar(
     x = data['language'],
     y = data['documentation'] / total,
+    name = 'Comments',
     text = 'Comments',
     textposition = 'auto',
   )
