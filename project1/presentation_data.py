@@ -32,23 +32,34 @@ code_comments_sum = analysis_df.groupby(['language']) \
   .reset_index() \
   .sort_values(by='documentation', ascending = False)
 
+
+total = (code_comments_sum['code'] + code_comments_sum['documentation'])
+
 # Chart: sum of all comments
 trace = go.Bar(
   x = code_comments_sum['language'],
-  y = code_comments_sum['documentation'],
+  y = code_comments_sum['documentation'] / total,
 )
 
-layout = create_layout('Lines of Comments per Language<br>(Total for Top 1000 Repositories per Language)')
+layout = create_layout('Lines of Comments per Language<br>(Total for Top 1000 Repositories per Language)', 
+                        yaxis = {
+                          'tickformat': ',.2%',
+                          'range': [0,0.5],
+                        })
 
 fig_all_comments = go.Figure(data = [trace], layout = layout)
 
 # Chart: sum of all LOC
 trace = go.Bar(
   x = code_comments_sum['language'],
-  y = code_comments_sum.sort_values(by = ['code'], ascending = False)['code'],
+  y = code_comments_sum['code'] / total,
 )
 
-layout = create_layout('Lines of Code of per Language (excluding Empty Lines)<br>(Total for Top 1000 Repositories per Language)')
+layout = create_layout('Lines of Code of per Language (excluding Empty Lines)<br>(Total for Top 1000 Repositories per Language)', 
+                        yaxis = {
+                          'tickformat': ',.2%',
+                          'range': [0,1],
+                        })
 
 fig_all_loc = go.Figure(data = [trace], layout = layout)
 
@@ -61,7 +72,6 @@ def make_traces(data):
   trace1 = go.Bar(
     x = data['language'],
     y = data['code'] / total,
-    name = 'Code',
     text = 'Code',
     textposition = 'auto',
   )
@@ -69,7 +79,6 @@ def make_traces(data):
   trace2 = go.Bar(
     x = data['language'],
     y = data['documentation'] / total,
-    name = 'Comments',
     text = 'Comments',
     textposition = 'auto',
   )
