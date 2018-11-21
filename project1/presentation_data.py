@@ -80,3 +80,28 @@ fig_interpreted = make_figure('Python  vs.  Ruby', ['ruby', 'python'])
 fig_system = make_figure('C  vs.  C++  vs.  Rust', ['c', 'c++', 'rust'])
 fig_jvm = make_figure('Java  vs.  Kotlin', ['java', 'kotlin'])
 fig_functional = make_figure('Ocaml  vs.  Haskell', ['haskell', 'ocaml'])
+
+def create_pie(df, title):
+  labels = df['language']
+  values = df['documentation'] / df['documentation'].sum()
+  fig = {
+    "data": [
+      {
+        "values": values,
+        "labels": labels,
+        "hole": .4,
+        "type": "pie"
+      }],
+    "layout": {
+          "title": title,
+      }
+  }
+
+  return fig
+
+summary_pie = []
+summary_pie.append(create_pie(select_data(['ruby', 'python']),  'Interpreted'))
+summary_pie.append(create_pie(select_data(['c', 'c++', 'rust']),  'System Level'))
+summary_pie.append(create_pie(select_data(['java', 'kotlin']),  'JVM'))
+summary_pie.append(create_pie(select_data(['haskell', 'ocaml']),  'Functional'))
+
