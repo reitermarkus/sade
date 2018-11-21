@@ -90,14 +90,14 @@ def create_pie(df, title, marker, domain):
   labels = df['language']
   values = df['documentation'] / df['documentation'].sum()
   fig = {
-        "values": values,
-        "labels": labels,
-        "name" : title,
-        "hole": .25,
-        "type": "pie",
-        "marker": marker,
-        "domain": domain,
-        "hoverinfo": "label+percent+name"      
+        'values': values,
+        'labels': labels,
+        'name' : title,
+        'hole': .25,
+        'type': 'pie',
+        'marker': marker,
+        'domain': domain,
+        'hoverinfo': 'label+percent+name'    
       }
 
   return fig
@@ -105,20 +105,36 @@ def create_pie(df, title, marker, domain):
 summary_pie = {}
 summary_pie['data'] = []
 summary_pie['data'].append(create_pie(select_data(['ruby', 'python']),  'Interpreted', 
-                                  {'colors': ['rgb(106, 154, 232)',
-                                  'rgb(106, 232, 164)']},
-                                  {'x': [0, .48],'y': [0, .49]}))
-summary_pie['data'].append(create_pie(select_data(['c', 'c++', 'rust']),  'System Level', 
-                                  {'colors': ['rgb(242, 96, 196)',
-                                  'rgb(95, 241, 103)',
-                                  'rgb(239, 186, 79)']},
-                                  {'x': [0.52, 1],'y': [0, .49]}))
-summary_pie['data'].append(create_pie(select_data(['java', 'kotlin']),  'JVM', 
-                                  {'colors': ['rgb(247, 131, 123)',
-                                  'rgb(165, 247, 243)']},
+                                  {'colors': ['rgb(106, 154, 232)', 'rgb(106, 232, 164)']},
                                   {'x': [0, .48],'y': [.51, 1]}))
+summary_pie['data'].append(create_pie(select_data(['c', 'c++', 'rust']),  'System Level', 
+                                  {'colors': ['rgb(242, 96, 196)', 'rgb(95, 241, 103)', 'rgb(239, 186, 79)']},
+                                  {'x': [0.5, 1],'y': [0, .49]}))
+summary_pie['data'].append(create_pie(select_data(['java', 'kotlin']),  'JVM', 
+                                  {'colors': ['rgb(247, 131, 123)', 'rgb(165, 247, 243)']},
+                                  {'x': [0.5, 1],'y': [.51, 1]}))
 summary_pie['data'].append(create_pie(select_data(['haskell', 'ocaml']), 'Functional', 
-                                  {'colors': ['rgb(167, 31, 209)',
-                                  'rgb(129, 180, 179)']},
-                                  {'x': [0.52, 1],'y': [.51, 1]}))
-summary_pie["layout"] = {"title": 'Summary'}
+                                  {'colors': ['rgb(167, 31, 209)', 'rgb(129, 180, 179)']},
+                                  {'x': [0, .48],'y': [0, .49]}))
+summary_pie['layout'] = {'title': '<b>Summary<b>', 'font': {'family': 'Helvetica', 'size': 14}, 'annotations' : [
+            {
+                'showarrow': False,
+                'text': 'JVM',
+                'x': 0.82, 'y': 1.1
+            },
+            {
+                'showarrow': False,
+                'text': 'Functional',
+                'x': 0.18, 'y': -0.1
+            },
+            {
+                'showarrow': False,
+                'text': 'Interpreted',
+                'x': 0.2, 'y': 1.1
+            },
+            {
+                'showarrow': False,
+                'text': 'System Level',
+                'x': 0.84, 'y': -0.1
+            }
+        ]}
