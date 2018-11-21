@@ -18,6 +18,10 @@ def create_layout(title, **options):
     bargap = 0.1,
     barmode = 'group',
     showlegend = False,
+    yaxis = {
+      'tickformat': ',.2%',
+      'range': [0,0.5],
+    },
     **options,
   )
 
@@ -35,33 +39,14 @@ code_comments_sum = analysis_df.groupby(['language']) \
 
 total = (code_comments_sum['code'] + code_comments_sum['documentation'])
 
-# Chart: sum of all comments
 trace = go.Bar(
   x = code_comments_sum['language'],
   y = code_comments_sum['documentation'] / total,
 )
 
-layout = create_layout('Lines of Comments per Language<br>(Total for Top 1000 Repositories per Language)', 
-                        yaxis = {
-                          'tickformat': ',.2%',
-                          'range': [0,0.5],
-                        })
+layout = create_layout('Percent of Comments per Language')
 
 fig_all_comments = go.Figure(data = [trace], layout = layout)
-
-# Chart: sum of all LOC
-trace = go.Bar(
-  x = code_comments_sum['language'],
-  y = code_comments_sum['code'] / total,
-)
-
-layout = create_layout('Lines of Code of per Language (excluding Empty Lines)<br>(Total for Top 1000 Repositories per Language)', 
-                        yaxis = {
-                          'tickformat': ',.2%',
-                          'range': [0,1],
-                        })
-
-fig_all_loc = go.Figure(data = [trace], layout = layout)
 
 def select_data(languages):
   return code_comments_sum[code_comments_sum['language'].isin(list(languages))]
@@ -88,10 +73,7 @@ def make_traces(data):
 def make_figure(title, languages):
   return go.Figure(
     data = make_traces(select_data(languages)),
-    layout = create_layout(title, yaxis = {
-      'tickformat': ',.0%',
-      'range': [0,1],
-    }),
+    layout = create_layout(title),
   )
 
 fig_interpreted = make_figure('Python  vs.  Ruby', ['ruby', 'python'])
