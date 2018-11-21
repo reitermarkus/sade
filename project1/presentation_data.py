@@ -86,27 +86,39 @@ fig_system = make_figure('C  vs.  C++  vs.  Rust', ['c', 'c++', 'rust'])
 fig_jvm = make_figure('Java  vs.  Kotlin', ['java', 'kotlin'])
 fig_functional = make_figure('Ocaml  vs.  Haskell', ['haskell', 'ocaml'])
 
-def create_pie(df, title):
+def create_pie(df, title, marker, domain):
   labels = df['language']
   values = df['documentation'] / df['documentation'].sum()
   fig = {
-    "data": [
-      {
         "values": values,
         "labels": labels,
-        "hole": .4,
-        "type": "pie"
-      }],
-    "layout": {
-          "title": title,
+        "name" : title,
+        "hole": .25,
+        "type": "pie",
+        "marker": marker,
+        "domain": domain,
+        "hoverinfo": "label+percent+name"      
       }
-  }
 
   return fig
 
-summary_pie = []
-summary_pie.append(create_pie(select_data(['ruby', 'python']),  'Interpreted'))
-summary_pie.append(create_pie(select_data(['c', 'c++', 'rust']),  'System Level'))
-summary_pie.append(create_pie(select_data(['java', 'kotlin']),  'JVM'))
-summary_pie.append(create_pie(select_data(['haskell', 'ocaml']),  'Functional'))
-
+summary_pie = {}
+summary_pie['data'] = []
+summary_pie['data'].append(create_pie(select_data(['ruby', 'python']),  'Interpreted', 
+                                  {'colors': ['rgb(106, 154, 232)',
+                                  'rgb(106, 232, 164)']},
+                                  {'x': [0, .48],'y': [0, .49]}))
+summary_pie['data'].append(create_pie(select_data(['c', 'c++', 'rust']),  'System Level', 
+                                  {'colors': ['rgb(242, 96, 196)',
+                                  'rgb(95, 241, 103)',
+                                  'rgb(239, 186, 79)']},
+                                  {'x': [0.52, 1],'y': [0, .49]}))
+summary_pie['data'].append(create_pie(select_data(['java', 'kotlin']),  'JVM', 
+                                  {'colors': ['rgb(247, 131, 123)',
+                                  'rgb(165, 247, 243)']},
+                                  {'x': [0, .48],'y': [.51, 1]}))
+summary_pie['data'].append(create_pie(select_data(['haskell', 'ocaml']), 'Functional', 
+                                  {'colors': ['rgb(167, 31, 209)',
+                                  'rgb(129, 180, 179)']},
+                                  {'x': [0.52, 1],'y': [.51, 1]}))
+summary_pie["layout"] = {"title": 'Summary'}
