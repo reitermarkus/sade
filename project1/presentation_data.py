@@ -12,18 +12,20 @@ paths = glob.glob('data/repos/analysis/*.json')
 analysis = []
 
 def create_layout(title, **options):
-  return go.Layout(
-    title = title,
-    font = {'family': 'Helvetica', 'size': 16},
-    bargap = 0.1,
-    barmode = 'group',
-    showlegend = False,
-    yaxis = {
-      'tickformat': ',.2%',
-      'range': [0,0.5],
+  return {
+    **{
+      'title': title,
+      'font': {'family': 'Helvetica', 'size': 16},
+      'bargap': 0.1,
+      'barmode': 'group',
+      'showlegend': False,
+      'yaxis': {
+        'tickformat': ',.0%',
+        'range': [0, 1],
+      },
     },
     **options,
-  )
+  }
 
 for path in paths:
   analysis.extend(read_json(path))
@@ -44,7 +46,10 @@ trace = go.Bar(
   y = code_comments_sum['documentation'] / total,
 )
 
-layout = create_layout('Percent of Comments per Language')
+layout = create_layout('Percent of Comments per Language', yaxis = {
+      'tickformat': ',.0%',
+      'range': [0, 0.35],
+    })
 
 fig_all_comments = go.Figure(data = [trace], layout = layout)
 
