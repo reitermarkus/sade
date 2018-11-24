@@ -1,0 +1,40 @@
+{
+"questionnaire" : {
+	"title" : "Language understanding",
+	"description" : "<p>Take a look to the following code listing</p><p><span style=\"margin-left:0em\">define questionnaire movies{</span><br>	<span style=\"margin-left:2em\">questions {</span><br>		<span style=\"margin-left:4em\">amount {</span><br>			<span style=\"margin-left:6em\">type = SingleChoice;</span><br>			<span style=\"margin-left:6em\">question = \"How often do you watch television shows?\";</span><br>			<span style=\"margin-left:6em\">answers {</span><br>				<span style=\"margin-left:8em\">extremely = \"Extremely often\";</span><br>				<span style=\"margin-left:8em\">very = \"Very often\";</span><br>				<span style=\"margin-left:8em\">moderately = \"Moderately often\";</span><br>				<span style=\"margin-left:8em\">slightly = \"Slightly often\";</span><br>				<span style=\"margin-left:8em\">not = \"Not at all often\";</span><br>			<span style=\"margin-left:6em\">}</span><br>		<span style=\"margin-left:4em\">}</span><br>		<span style=\"margin-left:4em\">time {</span><br>			<span style=\"margin-left:6em\">type = SingleChoice;</span><br>			<span style=\"margin-left:6em\">question = \"On a typical day, how many hours do you spend watching TV?\";</span><br>			<span style=\"margin-left:6em\">answers {</span><br>				<span style=\"margin-left:8em\">zero = \"0-1\";</span><br>				<span style=\"margin-left:8em\">two = \"2-3\";</span><br>				<span style=\"margin-left:8em\">four = \"4-5\";</span><br>				<span style=\"margin-left:8em\">six = \"6-7\";</span><br>				<span style=\"margin-left:8em\">more = \"More than 7\";</span><br>			<span style=\"margin-left:6em\">}</span><br>		<span style=\"margin-left:4em\">}</span><br>		<span style=\"margin-left:4em\">genre {</span><br>			<span style=\"margin-left:6em\">type = MultipleChoice;</span><br>			<span style=\"margin-left:6em\">question = \"Please choose your preferred movie genres from the list below.\";</span><br>			<span style=\"margin-left:6em\">answers {</span><br>				<span style=\"margin-left:8em\">action = \"Action\";</span><br>				<span style=\"margin-left:8em\">adventures = \"Adventures\";</span><br>				<span style=\"margin-left:8em\">comedy = \"Comedy\";</span><br>				<span style=\"margin-left:8em\">crime = \"Crime\";</span><br>				<span style=\"margin-left:8em\">drama = \"Drama\";</span><br>				<span style=\"margin-left:8em\">historical = \"Historical\";</span><br>				<span style=\"margin-left:8em\">horror = \"Horror\";</span><br>				<span style=\"margin-left:8em\">musicals = \"Musicals\";</span><br>				<span style=\"margin-left:8em\">science_fiction = \"Science Fiction\";</span><br>				<span style=\"margin-left:8em\">war = \"War\";</span><br>				<span style=\"margin-left:8em\">wester = \"Western\";</span><br>			<span style=\"margin-left:6em\">}</span><br>		<span style=\"margin-left:4em\">}</span><br>		<span style=\"margin-left:4em\">favorite {</span><br>			<span style=\"margin-left:6em\">type = ShortString;</span><br>			<span style=\"margin-left:6em\">question = \"Out of all the movies you have ever seen, which is your most favorite?\";</span><br>			<span style=\"margin-left:6em\">answers{}</span><br>		<span style=\"margin-left:4em\">}</span><br>		<span style=\"margin-left:4em\">picture {</span><br>			<span style=\"margin-left:6em\">type = LongString;</span><br>			<span style=\"margin-left:6em\">question = \"Which film do you think should win Best Picture at this year's Academy Awards?\";</span><br>			<span style=\"margin-left:6em\">answers{}</span><br>		<span style=\"margin-left:4em\">}</span><br>		<span style=\"margin-left:4em\">celebrity {</span><br>			<span style=\"margin-left:6em\">type = ShortString;<br/>			<span style=\"margin-left:6em\">question = \"Who is your most favorite movie celebrity living today?\";</span><br>			<span style=\"margin-left:6em\">answers{}</span><br>		<span style=\"margin-left:4em\">}</span><br>		<span style=\"margin-left:4em\">bad {</span><br>			<span style=\"margin-left:6em\">type = ShortString;</span><br>			<span style=\"margin-left:6em\">question = \"Who do you think is the most badly behaved movie celebrity living today?\";</span><br>			<span style=\"margin-left:4em\">answers{}</span><br>		<span style=\"margin-left:4em\">}</span><br>	<span style=\"margin-left:2em\">}</span><br><span style=\"margin-left:0em\">}</span><br><p>Try to understand the code and answer the following questions.<p>",
+	"questions" : [{
+		"id" : "ITR1",
+		"type" : "LongString",
+		"isAnswerRequired" : "true",
+		"question" : "What do you think a user can do with this language?"
+		},
+		{
+		
+		"id" : "ITR2",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "What web form do you think is represented by the first question?",
+		"answers" : {
+			"itr2dropdown" : "Drop Down List",
+			"itr2text" : "Text field",
+			"itr2table" : "Table",
+			"itr2checkbox" : "Checkbox"
+			}
+		},
+		{
+		
+		"id" : "ITR3",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "What do you think is the difference between the second and third question?",
+		"answers" : {
+			"itr3representation" : "Representation",
+			"itr3answers" : "Number of possible answers",
+			"itr3none" : "No difference"
+			},
+			"expectedAnswer" : "itr3answers"
+		
+			}
+		]
+	}
+}

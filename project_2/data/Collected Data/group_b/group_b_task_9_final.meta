@@ -1,0 +1,26 @@
+{
+"questionnaire" : {
+	"title" : "Final Feedback",
+	"description" : "Please respond to the following questions.",
+	"questions" : [{
+		"id" : "FQ1",
+		"type" : "LongString",
+		"isAnswerRequired" : "true",
+		"question" : "How could the overall experiment be improved?"
+		},
+		{
+		
+		"id" : "FQ2",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "Which domain (questionnaire, student course planning) was easier to understand?",
+		"answers" : {
+			"fq2quest" : "Questionnaire",
+			"fq2cal" : "Student Calendar",
+			"fq2none" : "No difference"
+			}
+		
+			}
+		]
+	}
+}

@@ -1,0 +1,60 @@
+{
+"questionnaire" : {
+	"title" : "Intermediate Feedback Questionnaire",
+	"description" : "Please respond to the following questions.",
+	"questions" : [{
+		"id" : "IQF1",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "How do you rate the understandability of the DSL?",
+		"answers" : {
+			"iqf1veryeasy" : "Very easy to understand",
+			"iqf1easy" : "Easy",
+			"iqf1moderate" : "Moderate",
+			"iqf1difficult" : "Difficult",
+			"iqf1verydifficult" : "Very Difficult"
+			}
+		},
+		{
+		
+		"id" : "IQF2",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "How do you rate the usability of the DSL?",
+		"answers" : {
+			"iqf2veryeasy" : "Very easy to use",
+			"iqf2easy" : "Easy",
+			"iqf2moderate" : "Moderate",
+			"iqf2difficult" : "Difficult",
+			"iqf2verydifficult" : "Very Difficult"
+			}
+		},
+		{
+		
+		"id" : "IQF3",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "Would you use the given DSL to create a questionnaire?",
+		"answers" : {
+			"iqf3yes" : "Yes",
+			"iqf3no" : "No"
+			}
+		},
+		{
+		
+		"id" : "IQF4",
+		"type" : "LongString",
+		"isAnswerRequired" : "true",
+		"question" : "What difficulties did you encounter during your work on the tasks?"
+		},
+		{
+		
+		"id" : "IQF5",
+		"type" : "LongString",
+		"isAnswerRequired" : "true",
+		"question" : "How can the DSL be extended?"
+		
+			}
+		]
+	}
+}

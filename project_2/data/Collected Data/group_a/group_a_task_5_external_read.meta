@@ -1,0 +1,37 @@
+{
+"questionnaire" : {
+	"title" : "Language understanding",
+	"description" : "<p>Take a look to the following code listing:<p><p>LECTURE: 703000<br />NAME: \"VO Quick Introduction to Programming\"<br />ECTS: 2<br />DATES: <br />&nbsp;&nbsp; &nbsp;- 2018-10-04, 13:15 - 16:00, HS_A<br />&nbsp;&nbsp; &nbsp;- 2018-10-10, 13:15 - 16:00, HS_A<br />&nbsp;&nbsp; &nbsp;- 2018-10-16, 13:15 - 16:00, HS_A<br /><br />SEMINAR: 703001&nbsp;&nbsp; &nbsp;<br />NAME: \"PS Quick Introduction to Programming\"<br />RELATED: 703000<br />ECTS: 1.5<br />REMARKS: \"Continuous assessment of course work!\"<br />DATES: <br />&nbsp;&nbsp; &nbsp;- 2018-10-05, 13:15 - 16:00, RR22<br />&nbsp;&nbsp; &nbsp;- 2018-10-11, 13:15 - 16:00, RR22<br />&nbsp;&nbsp; &nbsp;- 2018-10-17, 13:15 - 16:00, RR22<br /><br />LECTURE: 702000<br />NAME: \"VO Linear Algebra\"<br />ECTS: 3<br />REMARKS: \"Written exam after the end of the course!\"<br />EXAM: 2018-10-09, 11:15 - 13:00, HS_B<br />DATES: <br />&nbsp;&nbsp; &nbsp;- 2018-10-02, 13:15 - 16:00, HS_B<br />&nbsp;&nbsp; &nbsp;- 2018-10-04, 13:15 - 16:00, HS_B<br />&nbsp;&nbsp; &nbsp;- 2018-10-05, 13:15 - 16:00, HS_B<br /><br />SEMINAR: 702001<br />NAME: \"PS Linear Algebra\"<br />ECTS: 1.5<br />REMARKS: \"Continuous assessment of course work!\"<br />DATES: <br />&nbsp;&nbsp; &nbsp;- 2018-10-05, 13:15 - 16:00, SR12<br />&nbsp;&nbsp; &nbsp;- 2018-10-11, 13:15 - 16:00, SR12<br />&nbsp;&nbsp; &nbsp;- 2018-10-17, 13:15 - 16:00, SR12</p>",
+	"questions" : [{
+		"id" : "ETR1",
+		"type" : "LongString",
+		"isAnswerRequired" : "true",
+		"question" : "What do you think a user can do with this language?"
+		},
+		{
+		
+		"id" : "ETR2",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "In which room is the exam of VO Linear Algebra?",
+		"answers" : {
+			"etr2hsa" : "HS A",
+			"etr2hsb" : "HS B",
+			"etr2sr12" : "SR 12",
+			"etr2sr13" : "SR 13",
+			"etr2sr22" : "SR 22",
+			"etr2rr22" : "RR 22",
+			"etr2rr23" : "RR 23"
+			}
+		},
+		{
+		
+		"id" : "ETR3",
+		"type" : "ShortString",
+		"isAnswerRequired" : "true",
+		"question" : "What do you think is missing for the seminar PS Linear Algebra?"
+		
+			}
+		]
+	}
+}

@@ -1,0 +1,37 @@
+{
+"questionnaire" : {
+	"title" : "Language understanding",
+	"description" : "<p>Take a look to the following code listing:</p><p>StudentCalendar c = new StudentCalendar()<br />.insert(new Lecture(703000)<br />&nbsp;&nbsp; &nbsp;.withName(\"VO Introduction to Programming\")<br />&nbsp;&nbsp; &nbsp;.withCredits(2)<br />&nbsp;&nbsp; &nbsp;.withDates(<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-04\").From(\"13:15\").To(\"16:00\").At(Room.HS_A), <br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-10\").From(\"13:15\").To(\"16:00\").At(Room.HS_A), <br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-16\").From(\"13:15\").To(\"16:00\").At(Room.HS_B), <br />&nbsp;&nbsp; &nbsp;)<br />)<br />.insert(new Seminar(703001)<br />&nbsp;&nbsp; &nbsp;.relatedTo(703000)<br />&nbsp;&nbsp; &nbsp;.withName(\"PS Introduction to Programming\")<br />&nbsp;&nbsp; &nbsp;.withCredits(1.5)<br />&nbsp;&nbsp; &nbsp;.withDates(<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-05\").From(\"13:15\").To(\"16:00\").At(Room.RR22), <br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-11\").From(\"13:15\").To(\"16:00\").At(Room.RR23), <br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-17\").From(\"13:15\").To(\"16:00\").At(Room.RR22), &nbsp;<br />&nbsp;&nbsp; &nbsp;)<br />&nbsp;&nbsp; &nbsp;.withRemarks(\"Continuous assessment of course work!\")<br />)<br />.insert(new Lecture(702000)<br />&nbsp;&nbsp; &nbsp;.withName(\"VO Linear Algebra\")<br />&nbsp;&nbsp; &nbsp;.withCredits(3)<br />&nbsp;&nbsp; &nbsp;.withDates(<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-02\").From(\"08:15\").To(\"11:00\").At(Room.HS_B), <br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-04\").From(\"08:15\").To(\"11:00\").At(Room.HS_A), <br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-05\").From(\"08:15\").To(\"11:00\").At(Room.HS_B), <br />&nbsp;&nbsp; &nbsp;)<br />&nbsp;&nbsp; &nbsp;.withRemarks(\"Written exam after the end of the course!\")<br />&nbsp;&nbsp; &nbsp;.withExam(new StudentCalendarDate(\"2018-10-09\").From(\"11:15\").To(\"13:00\").At(Room.HS_B))<br />)<br />.insert(new Seminar(702001)<br />&nbsp;&nbsp; &nbsp;.withName(\"PS Linear Algebra\")<br />&nbsp;&nbsp; &nbsp;.withCredits(1.5)<br />&nbsp;&nbsp; &nbsp;.withDates(<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-05\").From(\"13:15\").To(\"16:00\").At(Room.SR12), <br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-11\").From(\"13:15\").To(\"16:00\").At(Room.SR13), <br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;new StudentCalendarDate(\"2018-10-17\").From(\"13:15\").To(\"16:00\").At(Room.SR14), &nbsp;<br />&nbsp;&nbsp; &nbsp;)<br />&nbsp;&nbsp; &nbsp;.withRemarks(\"Continuous assessment of course work!\")<br />);</p>",
+	"questions" : [{
+		"id" : "ETR1",
+		"type" : "LongString",
+		"isAnswerRequired" : "true",
+		"question" : "What do you think a user can do with this language?"
+		},
+		{
+		
+		"id" : "ETR2",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "In which room is the exam of VO Linear Algebra?",
+		"answers" : {
+			"etr2hsa" : "HS A",
+			"etr2hsb" : "HS B",
+			"etr2sr12" : "SR 12",
+			"etr2sr13" : "SR 13",
+			"etr2sr22" : "SR 22",
+			"etr2rr22" : "RR 22",
+			"etr2rr23" : "RR 23"
+			}
+		},
+		{
+		
+		"id" : "ETR3",
+		"type" : "ShortString",
+		"isAnswerRequired" : "true",
+		"question" : "What do you think is missing for the seminar PS Linear Algebra?"
+		
+			}
+		]
+	}
+}

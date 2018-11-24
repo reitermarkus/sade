@@ -1,0 +1,40 @@
+{
+"questionnaire" : {
+	"title" : "Language understanding",
+	"description" : "<p>Take a look to the following code listing:</p><p><span style=\"margin-left:0em\">Questionnaire q = new Questionnaire()</span><br>					<span style=\"margin-left:8em\">.ask(singleChoice(\"How often do you watch television shows?\",</span><br>						<span style=\"margin-left:10em\">answerWith(oneOf(</span><br>									<span style=\"margin-left:14em\">answer(\"Extremely often\").value(\"extremely\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Very often\").value(\"very\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Moderately often\").value(\"moderately\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Slightly often\").value(\"slightly\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Not at all often\").value(\"not\")</span><br>						<span style=\"margin-left:10em\">))</span><br>					<span style=\"margin-left:8em\">))</span><br>					<span style=\"margin-left:8em\">.ask(singleChoice(\"On a typical day, how many hours do you spend watching TV?\",</span><br>						<span style=\"margin-left:10em\">answerWith(oneOf(</span><br>									<span style=\"margin-left:14em\">answer(\"0-1\").value(\"zero\"),</span><br>									<span style=\"margin-left:14em\">answer(\"2-3\").value(\"two\"),</span><br>									<span style=\"margin-left:14em\">answer(\"4-5\").value(\"four\"),</span><br>									<span style=\"margin-left:14em\">answer(\"6-7\").value(\"six\"),</span><br>									<span style=\"margin-left:14em\">answer(\"More than 7\").value(\"more\")</span><br>						<span style=\"margin-left:10em\">))</span><br>					<span style=\"margin-left:8em\">))</span><br>					<span style=\"margin-left:8em\">.ask(multipleChoice(\"Please choose your preferred movie genres from the list below.\",</span><br>						<span style=\"margin-left:10em\">answerWith(oneOf(</span><br>									<span style=\"margin-left:14em\">answer(\"Action\").value(\"action\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Adventures\").value(\"adventures\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Comedy\").value(\"comedy\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Crime\").value(\"crime\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Drama\").value(\"drama\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Historical\").value(\"historical\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Horror\").value(\"horror\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Musicals\").value(\"musicals\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Science Fiction\").value(\"science_fiction\"),</span><br>									<span style=\"margin-left:14em\">answer(\"War\").value(\"war\"),</span><br>									<span style=\"margin-left:14em\">answer(\"Western\").value(\"western\")</span><br>						<span style=\"margin-left:10em\">))</span><br>					<span style=\"margin-left:8em\">))</span><br>					<span style=\"margin-left:8em\">.ask(shortString(\"Out of all the movies you have ever seen, which is your most favorite?\"</span><br>					<span style=\"margin-left:8em\">))</span><br>					<span style=\"margin-left:8em\">.ask(longString(\"Which film do you think should win Best Picture at this year's Academy Awards?\"</span><br>					<span style=\"margin-left:8em\">))</span><br>					<span style=\"margin-left:8em\">.ask(shortString(\"Who is your most favorite movie celebrity living today?\"</span><br>					<span style=\"margin-left:8em\">))</span><br>					<span style=\"margin-left:8em\">.ask(shortString(\"Who do you think is the most badly behaved movie celebrity living today?\"</span><br>					<span style=\"margin-left:8em\">));</span><br><p>Try to understand the code and answer the following questions.<p>",
+	"questions" : [{
+		"id" : "ITR1",
+		"type" : "LongString",
+		"isAnswerRequired" : "true",
+		"question" : "What do you think a user can do with this language?"
+		},
+		{
+		
+		"id" : "ITR2",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "What web form do you think is represented by the first question?",
+		"answers" : {
+			"itr2dropdown" : "Drop Down List",
+			"itr2text" : "Text field",
+			"itr2table" : "Table",
+			"itr2checkbox" : "Checkbox"
+			}
+		},
+		{
+		
+		"id" : "ITR3",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "What do you think is the difference between the second and third question?",
+		"answers" : {
+			"itr3representation" : "Representation",
+			"itr3answers" : "Number of possible answers",
+			"itr3none" : "No difference"
+			},
+			"expectedAnswer" : "itr3answers"
+		
+			}
+		]
+	}
+}

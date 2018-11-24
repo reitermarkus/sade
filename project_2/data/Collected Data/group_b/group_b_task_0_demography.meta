@@ -1,0 +1,108 @@
+{
+"questionnaire" : {
+	"title" : "Demography Questionnaire",
+	"description" : "Please respond to the following questions.",
+	"questions" : [{
+		"id" : "DQ1",
+		"type" : "ShortString",
+		"isAnswerRequired" : "true",
+		"question" : "What is your current study subject?"
+		},
+		{
+		
+		"id" : "DQ2",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "How many semesters have you been studying Computer Science?",
+		"answers" : {
+			"dq2y1" : "1",
+			"dq2y2" : "2",
+			"dq2y3" : "3",
+			"dq2y4" : "4",
+			"dq2y5" : "5",
+			"dq2y6" : "6",
+			"dq2y6more" : "More than 6"
+			}
+		},
+		{
+		
+		"id" : "DQ3",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "Do you have experience in programming Java?",
+		"answers" : {
+			"dq3yes" : "Yes",
+			"dq3no" : "No"
+			}
+		},
+		{
+		
+		"id" : "DQ4",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "How many years of professional programming experience do you have?",
+		"answers" : {
+			"dq4y0" : "0",
+			"dq4y1" : "1",
+			"dq4y2" : "2",
+			"dq4y3" : "3",
+			"dq4y4" : "4",
+			"dq4y5" : "5",
+			"dq4y6" : "6",
+			"dq4y6more" : "More than 6"
+			}
+		},
+		{
+		
+		"id" : "DQ5",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "Do you have experience in creating own DSLs?",
+		"answers" : {
+			"dq5yes" : "Yes",
+			"dq5no" : "No"
+			}
+		},
+		{
+		
+		"id" : "DQ6",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "What is your experience in creating questionnaires?",
+		"answers" : {
+			"dq6no" : "No",
+			"dq6little" : "Little experience",
+			"dq6moderate" : "Moderate experience",
+			"dq6expert" : "Expert"
+			}
+		},
+		{
+		
+		"id" : "DQ7",
+		"type" : "SingleChoice",
+		"isAnswerRequired" : "true",
+		"question" : "What is your experience in creating web forms?",
+		"answers" : {
+			"dq7no" : "No",
+			"dq7little" : "Little experience",
+			"dq7moderate" : "Moderate experience",
+			"dq7expert" : "Expert"
+			}
+		},
+		{
+		
+		"id" : "DQ8",
+		"type" : "MultipleChoice",
+		"isAnswerRequired" : "false",
+		"question" : "If you already created questionnaires, how have you created them?",
+		"answers" : {
+			"dq8tool" : "Using some questionnaire tool",
+			"dq8manual" : "Manual (Text editor)",
+			"dq8dsl" : "With some DSL",
+			"dq8other" : "Other"
+			}
+		
+			}
+		]
+	}
+}

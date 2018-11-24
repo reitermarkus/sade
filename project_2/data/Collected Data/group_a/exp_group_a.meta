@@ -1,0 +1,96 @@
+{
+	"serverIp": "138.232.18.151",
+	"serverPort" : "3020",
+	"assignment": "dynamic",
+	"serverStandalone": "false",
+
+	"tasks": {
+		"group_a_task_2_1_internal_modify" : "group_a_task_2_1_internal_modify",
+		"group_a_task_2_2_internal_modify" : "group_a_task_2_2_internal_modify",
+		"group_a_task_2_3_internal_modify" : "group_a_task_2_3_internal_modify",
+		"group_a_task_3_1_internal_create" : "group_a_task_3_1_internal_create",
+		"group_a_task_3_2_internal_create" : "group_a_task_3_2_internal_create",
+		"group_a_task_3_3_internal_create" : "group_a_task_3_3_internal_create",
+		"group_a_task_6_1_external_modify" : "group_a_task_6_1_external_modify",
+		"group_a_task_6_2_external_modify" : "group_a_task_6_2_external_modify",
+		"group_a_task_6_3_external_modify" : "group_a_task_6_3_external_modify",
+		"group_a_task_7_1_external_create" : "group_a_task_7_1_external_create",
+		"group_a_task_7_2_external_create" : "group_a_task_7_2_external_create",
+		"group_a_task_7_3_external_create" : "group_a_task_7_3_external_create"
+	},
+
+	"questionnaires": {
+		"group_a_task_0_demography" : "group_a_task_0_demography",
+		"group_a_task_1_internal_read" : "group_a_task_1_internal_read",
+		"group_a_task_4_feedback" : "group_a_task_4_feedback",
+		"group_a_task_5_external_read" : "group_a_task_5_external_read",
+		"group_a_task_8_feedback" : "group_a_task_8_feedback",
+		"group_a_task_9_final" : "group_a_task_9_final"
+	},
+
+	"sequences": [
+		{
+			"id" : "sequenceA",
+			"transitions": [
+				{
+					"from": "group_a_task_0_demography",
+					"to": "group_a_task_1_internal_read"},
+				{
+					"from": "group_a_task_1_internal_read",
+					"to": "group_a_task_2_1_internal_modify"},
+				{
+					"from": "group_a_task_2_1_internal_modify",
+					"to": "group_a_task_2_2_internal_modify"},
+				{
+					"from": "group_a_task_2_2_internal_modify",
+					"to": "group_a_task_2_3_internal_modify"},
+				{
+					"from": "group_a_task_2_3_internal_modify",
+					"to": "group_a_task_3_1_internal_create"},
+				{
+					"from": "group_a_task_3_1_internal_create",
+					"to": "group_a_task_3_2_internal_create"},
+				{
+					"from": "group_a_task_3_2_internal_create",
+					"to": "group_a_task_3_3_internal_create"},
+				{
+					"from": "group_a_task_3_3_internal_create",
+					"to": "group_a_task_4_feedback"},
+				{
+					"from": "group_a_task_4_feedback",
+					"to": "group_a_task_5_external_read"},
+				{
+					"from": "group_a_task_5_external_read",
+					"to": "group_a_task_6_1_external_modify"},
+				{
+					"from": "group_a_task_6_1_external_modify",
+					"to": "group_a_task_6_2_external_modify"},
+				{
+					"from": "group_a_task_6_2_external_modify",
+					"to": "group_a_task_6_3_external_modify"},
+				{
+					"from": "group_a_task_6_3_external_modify",
+					"to": "group_a_task_7_1_external_create"},
+				{
+					"from": "group_a_task_7_1_external_create",
+					"to": "group_a_task_7_2_external_create"},
+				{
+					"from": "group_a_task_7_2_external_create",
+					"to": "group_a_task_7_3_external_create"},
+				{
+					"from": "group_a_task_7_3_external_create",
+					"to": "group_a_task_8_feedback"},
+				{
+					"from": "group_a_task_8_feedback",
+					"to": "group_a_task_9_final"
+				}
+			],
+			"start": "group_a_task_0_demography",
+			"end": "group_a_task_9_final"
+		}
+	],
+			
+	"distribution": {
+		"sequenceA": 100.0
+	}
+}
