@@ -9,10 +9,7 @@ extern crate serde_json;
 fn is_json(path: &Path) -> bool {
     let extension = path.extension().and_then(OsStr::to_str).unwrap();
 
-    match extension {
-        "json" => true,
-        _ => false,
-    }
+    extension == "json" 
 }
 
 fn read<P: AsRef<Path>>(path: P) -> Result<serde_json::Value, Box<Error>> {
