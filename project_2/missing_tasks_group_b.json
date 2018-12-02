@@ -1,0 +1,86 @@
+[
+  {
+    "user": "user_14",
+    "missing": [
+      "group_b_task_0_demography",
+      "group_b_task_1_external_read"
+    ]
+  },
+  {
+    "user": "user_13",
+    "missing": [
+      "group_b_task_0_demography",
+      "group_b_task_1_external_read"
+    ]
+  },
+  {
+    "user": "user_16",
+    "missing": [
+      "group_b_task_0_demography"
+    ]
+  },
+  {
+    "user": "user_09",
+    "missing": [
+      "group_b_task_0_demography",
+      "group_b_task_1_external_read"
+    ]
+  },
+  {
+    "user": "user_15",
+    "missing": [
+      "group_b_task_0_demography",
+      "group_b_task_1_external_read"
+    ]
+  },
+  {
+    "user": "user_07",
+    "missing": [
+      "group_b_task_0_demography"
+    ]
+  },
+  {
+    "user": "user_01",
+    "missing": [
+      "group_b_task_0_demography"
+    ]
+  },
+  {
+    "user": "user_04",
+    "missing": [
+      "group_b_task_0_demography"
+    ]
+  },
+  {
+    "user": "user_03",
+    "missing": [
+      "group_b_task_0_demography"
+    ]
+  },
+  {
+    "user": "user_08",
+    "missing": [
+      "group_b_task_0_demography",
+      "group_b_task_1_external_read"
+    ]
+  },
+  {
+    "user": "user_12",
+    "missing": [
+      "group_b_task_0_demography"
+    ]
+  },
+  {
+    "user": "user_02",
+    "missing": [
+      "group_b_task_0_demography",
+      "group_b_task_1_external_read"
+    ]
+  },
+  {
+    "user": "user_06",
+    "missing": [
+      "group_b_task_0_demography"
+    ]
+  }
+]
