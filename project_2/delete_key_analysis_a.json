@@ -1,0 +1,512 @@
+[
+  {
+    "user": "user_4",
+    "total_pressed": 604,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 24
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 88
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 12
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 18
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 64
+      }
+    ]
+  },
+  {
+    "user": "user_14",
+    "total_pressed": 746,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 47
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 505
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 70
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 14
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 1
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 109
+      }
+    ]
+  },
+  {
+    "user": "user_13",
+    "total_pressed": 477,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 31
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 30
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 12
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 0
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 6
+      }
+    ]
+  },
+  {
+    "user": "user_16",
+    "total_pressed": 970,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 437
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 397
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 69
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 8
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 3
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 56
+      }
+    ]
+  },
+  {
+    "user": "user_7",
+    "total_pressed": 473,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 13
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 19
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 12
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 5
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 26
+      }
+    ]
+  },
+  {
+    "user": "user_15",
+    "total_pressed": 1210,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 124
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 817
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 71
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 10
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 0
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 188
+      }
+    ]
+  },
+  {
+    "user": "user_5",
+    "total_pressed": 475,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 37
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 20
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 10
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 6
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 4
+      }
+    ]
+  },
+  {
+    "user": "user_10",
+    "total_pressed": 551,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 95
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 28
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 11
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 0
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 19
+      }
+    ]
+  },
+  {
+    "user": "user_9",
+    "total_pressed": 790,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 137
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 590
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 27
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 12
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 0
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 24
+      }
+    ]
+  },
+  {
+    "user": "user_17",
+    "total_pressed": 509,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 46
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 31
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 10
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 2
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 22
+      }
+    ]
+  },
+  {
+    "user": "user_1",
+    "total_pressed": 471,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 19
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 21
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 12
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 0
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 21
+      }
+    ]
+  },
+  {
+    "user": "user_8",
+    "total_pressed": 487,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 22
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 415
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 20
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 13
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 4
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 13
+      }
+    ]
+  },
+  {
+    "user": "user_6",
+    "total_pressed": 472,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 27
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 395
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 23
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 12
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 1
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 14
+      }
+    ]
+  },
+  {
+    "user": "user_12",
+    "total_pressed": 494,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 25
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 48
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 9
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 2
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 12
+      }
+    ]
+  },
+  {
+    "user": "user_2",
+    "total_pressed": 559,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 35
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 408
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 43
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 12
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 0
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 61
+      }
+    ]
+  },
+  {
+    "user": "user_11",
+    "total_pressed": 907,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 13
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 805
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 47
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 9
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 2
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 31
+      }
+    ]
+  },
+  {
+    "user": "user_3",
+    "total_pressed": 453,
+    "task_infos": [
+      {
+        "name": "group_a_task_2_1_internal_modify",
+        "del_key_pressed": 17
+      },
+      {
+        "name": "group_a_task_2_2_internal_modify",
+        "del_key_pressed": 398
+      },
+      {
+        "name": "group_a_task_2_3_internal_modify",
+        "del_key_pressed": 11
+      },
+      {
+        "name": "group_a_task_6_1_external_modify",
+        "del_key_pressed": 9
+      },
+      {
+        "name": "group_a_task_6_2_external_modify",
+        "del_key_pressed": 0
+      },
+      {
+        "name": "group_a_task_6_3_external_modify",
+        "del_key_pressed": 18
+      }
+    ]
+  }
+]
