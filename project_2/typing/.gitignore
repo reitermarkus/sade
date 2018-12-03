@@ -1,2 +1,6 @@
 # TARGET
 /target/
+
+# dotfiles
+/data/**/.meta
+/data/**/.directory
