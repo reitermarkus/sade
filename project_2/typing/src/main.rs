@@ -31,13 +31,7 @@ struct DeleteKeyInfo {
 
 // General Purpose
 fn is_json(path: &Path) -> bool {
-  if extract_file_stem(path).contains(".") {
-    return false;
-  }
-
-  let extension = path.extension().and_then(OsStr::to_str).unwrap();
-
-  extension == "json"
+  path.extension() == Some(OsStr::new("json"))
 }
 fn read(path: &Path) -> Result<Value, Box<Error>> {
   let file = fs::File::open(path)?;
