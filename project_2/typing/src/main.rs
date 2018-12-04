@@ -1,7 +1,6 @@
 use std::error::Error;
-use std::fs::File;
-use std::fs::OpenOptions;
-use std::io::Write;
+use std::fs::{File, OpenOptions};
+use std::io::{BufReader, Write};
 use std::path::{Path, PathBuf};
 use std::result::Result;
 use std::collections::HashMap;
@@ -15,6 +14,9 @@ use serde::ser::Serialize;
 
 extern crate glob;
 use glob::glob;
+
+extern crate rayon;
+use rayon::prelude::*;
 
 #[derive(Serialize, Deserialize, Debug)]
 struct TaskInfo {
@@ -81,7 +83,7 @@ fn count_del_keys(steps: &Vec<ModifyStep>) -> usize {
   presses
 }
 
-fn user_info_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<PathBuf>, Box<Error>> {
+fn user_info_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<PathBuf>, Box<Error + Send + Sync>> {
   let paths = glob(&format!("{}/group_{}/user_*.json", data_path.as_ref().to_str().unwrap(), group))?
                 .filter_map(|path| path.ok())
                 .map(|path| PathBuf::from(path))
@@ -90,12 +92,11 @@ fn user_info_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<P
   Ok(paths)
 }
 
-fn tasks_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<String>, Box<Error>> {
+fn tasks_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<String>, Box<Error + Send + Sync>> {
   let meta_path = data_path.as_ref().join(format!("group_{}", group)).join(format!("exp_group_{}.meta", group));
 
   let file = File::open(meta_path)?;
-
-  let meta: HashMap<String, Value> = serde_json::from_reader(&file)?;
+  let meta: HashMap<String, Value> = serde_json::from_reader(BufReader::new(file))?;
 
   Ok(meta.get("tasks")
       .and_then(|tasks| tasks.as_object())
@@ -103,18 +104,15 @@ fn tasks_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<Strin
       .unwrap_or(Vec::new()))
 }
 
-fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<String, usize>, Box<Error>> {
+fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<String, usize>, Box<Error + Send + Sync>> {
   let tasks = tasks_for_group(&data_path, group)?;
 
-  let mut user_infos: Vec<HashMap<String, Task>> = Vec::new();
-
-  for user_info in user_info_for_group(&data_path, group)? {
+  let user_infos = user_info_for_group(&data_path, group)?.par_iter().map(|user_info| {
     let file = File::open(user_info)?;
+    Ok(serde_json::from_reader(BufReader::new(file))?)
+  }).collect::<Result<Vec<HashMap<String, Task>>, Box<Error + Send + Sync>>>().unwrap();
 
-    user_infos.push(serde_json::from_reader(&file)?);
-  }
-
-  Ok(tasks.iter().map(|task| {
+  Ok(tasks.par_iter().map(|task| {
     let delete_key_presses = user_infos.iter().map(|user_info| {
       if let Some(Task::Task(steps)) = user_info.get(task) {
         count_del_keys(&steps)
@@ -127,24 +125,24 @@ fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<Str
   }).collect())
 }
 
-fn main() -> Result<(), Box<Error>> {
+fn main() -> Result<(), Box<Error + Send + Sync>> {
   let data_path = "../data/Collected Data";
 
-  let group_a = analyze_group(data_path, "a")?;
-  let group_b = analyze_group(data_path, "b")?;
-
-  write_json("../analysis_group_a.json", &group_a)?;
-  write_json("../analysis_group_b.json", &group_b)?;
+  vec!["a", "b"].par_iter().map(|group| {
+    let analysis = analyze_group(data_path, group)?;
+    write_json(format!("../analysis_group_{}.json", group), &analysis)?;
+    Ok(())
+  }).collect::<Result<Vec<_>, Box<Error + Send + Sync>>>()?;
 
   Ok(())
 }
 
-fn write_json<T: ?Sized>(path: impl AsRef<Path>, data: &T) -> Result<(), Box<Error>>
+fn write_json<T: ?Sized>(path: impl AsRef<Path>, data: &T) -> Result<(), Box<Error + Send + Sync>>
 where T: Serialize
 {
   let mut file = OpenOptions::new()
                    .write(true)
-                   .create_new(true)
+                   .create_new(!path.as_ref().exists())
                    .open(path)?;
 
   let data = serde_json::to_string_pretty(data)?
