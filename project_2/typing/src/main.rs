@@ -19,42 +19,8 @@ extern crate rayon;
 use rayon::prelude::*;
 
 #[derive(Serialize, Deserialize, Debug)]
-struct TaskInfo {
-  name: String,
-  del_key_pressed: usize,
-}
-
-#[derive(Serialize, Deserialize, Debug)]
-struct DeleteKeyInfo {
-  user: String,
-  total_pressed: usize,
-  task_infos: Vec<TaskInfo>,
-}
-
-#[derive(Serialize, Deserialize, Debug)]
-pub struct ModifyErrorRangeInner {
-  line: u64,
-  character: u64,
-}
-
-#[derive(Serialize, Deserialize, Debug)]
-pub struct ModifyErrorRange {
-  start: ModifyErrorRangeInner,
-  end: ModifyErrorRangeInner,
-}
-
-#[derive(Serialize, Deserialize, Debug)]
-pub struct ModifyError {
-  severity: u64,
-  range: ModifyErrorRange,
-  message: String,
-}
-
-#[derive(Serialize, Deserialize, Debug)]
 pub struct ModifyStep {
   file: String,
-  errors: Vec<ModifyError>,
-  timestamp: u64,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -64,7 +30,7 @@ pub enum Task {
   Task(Vec<ModifyStep>)
 }
 
-fn count_del_keys(steps: &Vec<ModifyStep>) -> usize {
+fn count_del_keys(steps: &[ModifyStep]) -> usize {
   let mut presses = 0;
   let mut prev_len = None;
 
@@ -86,7 +52,6 @@ fn count_del_keys(steps: &Vec<ModifyStep>) -> usize {
 fn user_info_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<PathBuf>, Box<Error + Send + Sync>> {
   let paths = glob(&format!("{}/group_{}/user_*.json", data_path.as_ref().to_str().unwrap(), group))?
                 .filter_map(|path| path.ok())
-                .map(|path| PathBuf::from(path))
                 .collect();
 
   Ok(paths)
@@ -101,7 +66,7 @@ fn tasks_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<Strin
   Ok(meta.get("tasks")
       .and_then(|tasks| tasks.as_object())
       .map(|tasks| tasks.keys().map(|s| s.to_owned()).collect())
-      .unwrap_or(Vec::new()))
+      .unwrap_or_default())
 }
 
 fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<String, usize>, Box<Error + Send + Sync>> {
@@ -110,7 +75,7 @@ fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<Str
   let user_infos = user_info_for_group(&data_path, group)?.par_iter().map(|user_info| {
     let file = File::open(user_info)?;
     Ok(serde_json::from_reader(BufReader::new(file))?)
-  }).collect::<Result<Vec<HashMap<String, Task>>, Box<Error + Send + Sync>>>().unwrap();
+  }).collect::<Result<Vec<HashMap<String, Task>>, Box<Error + Send + Sync>>>()?;
 
   Ok(tasks.par_iter().map(|task| {
     let delete_key_presses = user_infos.iter().map(|user_info| {
