@@ -20,6 +20,14 @@ type Error = Box<std::error::Error + Send + Sync>;
 type Result<T> = std::result::Result<T, Error>;
 
 #[derive(Serialize, Deserialize, Debug)]
+struct TaskInfo {
+  name: String,
+  delete_key_presses: usize,
+  tab_key_presses: usize,
+  space_key_presses: usize,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
 pub struct ModifyStep {
   file: String,
 }
@@ -75,7 +83,7 @@ fn tasks_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<Strin
       .unwrap_or_default())
 }
 
-fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<String, (usize, usize, usize)>> {
+fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<TaskInfo>> {
   let tasks = tasks_for_group(&data_path, group)?;
 
   let user_infos = user_info_for_group(&data_path, group)?.par_iter().map(|user_info| {
@@ -84,7 +92,7 @@ fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<Str
   }).collect::<Result<Vec<HashMap<String, Task>>>>()?;
 
   Ok(tasks.par_iter().map(|task| {
-    let (delete_key_presses, tabs_key_presses, space_presses) = user_infos.iter().map(|user_info| {
+    let (delete_key_presses, tab_key_presses, space_key_presses) = user_infos.iter().map(|user_info| {
       if let Some(Task::Task(steps)) = user_info.get(task) {
         (count_del_keys(&steps), count_char(&steps, '\t'), count_char(&steps, ' '))
       } else {
@@ -92,7 +100,7 @@ fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<Str
       }
     }).fold((0, 0, 0), |(acc_a, acc_b, acc_c), (a, b, c)| (acc_a + a, acc_b + b, acc_c + c));
 
-    (task.to_owned(), (delete_key_presses, tabs_key_presses, space_presses))
+    TaskInfo { name: task.to_owned(), delete_key_presses, tab_key_presses, space_key_presses }
   }).collect())
 }
 
