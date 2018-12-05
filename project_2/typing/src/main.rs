@@ -96,18 +96,6 @@ fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<Str
   }).collect())
 }
 
-fn main() -> Result<()> {
-  let data_path = "../data/Collected Data";
-
-  vec!["a", "b"].par_iter().map(|group| {
-    let analysis = analyze_group(data_path, group)?;
-    write_json(format!("../analysis_group_{}.json", group), &analysis)?;
-    Ok(())
-  }).collect::<Result<Vec<_>>>()?;
-
-  Ok(())
-}
-
 fn write_json<T: ?Sized>(path: impl AsRef<Path>, data: &T) -> Result<()>
 where T: Serialize
 {
@@ -121,6 +109,18 @@ where T: Serialize
                .to_owned();
 
   file.write_all(&data)?;
+
+  Ok(())
+}
+
+fn main() -> Result<()> {
+  let data_path = "../data/Collected Data";
+
+  vec!["a", "b"].par_iter().map(|group| {
+    let analysis = analyze_group(data_path, group)?;
+    write_json(format!("../analysis_group_{}.json", group), &analysis)?;
+    Ok(())
+  }).collect::<Result<Vec<_>>>()?;
 
   Ok(())
 }
