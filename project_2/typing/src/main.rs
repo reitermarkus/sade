@@ -31,61 +31,28 @@ pub enum Task {
   Task(Vec<ModifyStep>)
 }
 
-fn count_tabs(steps: &[ModifyStep]) -> usize {
-  let mut presses = 0;
-  let mut prev_len = None;
+fn count_char(steps: &[ModifyStep], character: char) -> usize {
+  steps.windows(2).map(|steps| {
+    let (prev, curr) = (&steps[0].file, &steps[1].file);
 
-  for step in steps {
-    let curr_len = step.file.len();
-
-    if let Some(prev_len) = prev_len {
-      if curr_len > prev_len {
-        presses += step.file.chars().skip(prev_len).filter(|c| *c == '\t').count();
-      }
+    if curr.len() > prev.len() {
+      curr.chars().skip(prev.len()).filter(|c| *c == character).count()
+    } else {
+      0
     }
-
-    prev_len = Some(curr_len);
-  }
-
-  presses
-}
-
-fn count_spaces(steps: &[ModifyStep]) -> usize {
-  let mut presses = 0;
-  let mut prev_len = None;
-
-  for step in steps {
-    let curr_len = step.file.len();
-
-    if let Some(prev_len) = prev_len {
-      if curr_len > prev_len {
-        presses += step.file.chars().skip(prev_len).filter(|c| *c == ' ').count();
-      }
-    }
-
-    prev_len = Some(curr_len);
-  }
-
-  presses
+  }).sum()
 }
 
 fn count_del_keys(steps: &[ModifyStep]) -> usize {
-  let mut presses = 0;
-  let mut prev_len = None;
+  steps.windows(2).map(|steps| {
+    let (prev, curr) = (&steps[0].file, &steps[1].file);
 
-  for step in steps {
-    let curr_len = step.file.len();
-
-    if let Some(prev_len) = prev_len {
-      if curr_len < prev_len {
-        presses += prev_len - curr_len;
-      }
+    if curr.len() < prev.len() {
+      prev.len() - curr.len()
+    } else {
+      0
     }
-
-    prev_len = Some(curr_len);
-  }
-
-  presses
+  }).sum()
 }
 
 fn user_info_for_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<PathBuf>> {
@@ -119,7 +86,7 @@ fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<HashMap<Str
   Ok(tasks.par_iter().map(|task| {
     let (delete_key_presses, tabs_key_presses, space_presses) = user_infos.iter().map(|user_info| {
       if let Some(Task::Task(steps)) = user_info.get(task) {
-        (count_del_keys(&steps), count_tabs(&steps), count_spaces(&steps))
+        (count_del_keys(&steps), count_char(&steps, '\t'), count_char(&steps, ' '))
       } else {
         (0, 0, 0)
       }
