@@ -104,13 +104,9 @@ where T: Serialize
                    .create_new(!path.as_ref().exists())
                    .open(path)?;
 
-  let data = serde_json::to_string_pretty(data)?
-               .as_bytes()
-               .to_owned();
+  let data = serde_json::to_string_pretty(data)?;
 
-  file.write_all(&data)?;
-
-  Ok(())
+  Ok(file.write_all(&data.as_bytes())?)
 }
 
 fn main() -> Result<()> {
