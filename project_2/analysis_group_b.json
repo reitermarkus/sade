@@ -1,0 +1,88 @@
+[
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 342,
+    "tab_key_presses": 60,
+    "space_key_presses": 26,
+    "typing_speed": null
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 3271,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "typing_speed": null
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 642,
+    "tab_key_presses": 100,
+    "space_key_presses": 53,
+    "typing_speed": 0.030565258521532458
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 910,
+    "tab_key_presses": 0,
+    "space_key_presses": 740,
+    "typing_speed": 0.0332844711182963
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 407,
+    "tab_key_presses": 0,
+    "space_key_presses": 1291,
+    "typing_speed": 0.049339918079928644
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 585,
+    "tab_key_presses": 0,
+    "space_key_presses": 1709,
+    "typing_speed": 0.05931849695102375
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 258,
+    "tab_key_presses": 0,
+    "space_key_presses": 14,
+    "typing_speed": 0.0494718623301792
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 222,
+    "tab_key_presses": 0,
+    "space_key_presses": 4,
+    "typing_speed": 0.017123134229135507
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 2001,
+    "tab_key_presses": 0,
+    "space_key_presses": 988,
+    "typing_speed": 0.05698360715607483
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 602,
+    "tab_key_presses": 0,
+    "space_key_presses": 659,
+    "typing_speed": 0.03336810746128601
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 494,
+    "tab_key_presses": 0,
+    "space_key_presses": 612,
+    "typing_speed": 0.06655972805727946
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 2216,
+    "tab_key_presses": 0,
+    "space_key_presses": 1328,
+    "typing_speed": 0.06546257832942827
+  }
+] 0.0000719535713260226
+  }
+]

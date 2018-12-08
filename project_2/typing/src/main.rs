@@ -16,6 +16,9 @@ use glob::glob;
 extern crate rayon;
 use rayon::prelude::*;
 
+extern crate stats;
+use stats::mean;
+
 type Error = Box<std::error::Error + Send + Sync>;
 type Result<T> = std::result::Result<T, Error>;
 
@@ -25,11 +28,13 @@ struct TaskInfo {
   delete_key_presses: usize,
   tab_key_presses: usize,
   space_key_presses: usize,
+  typing_speed: f64
 }
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct ModifyStep {
   file: String,
+  timestamp: usize
 }
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -37,6 +42,29 @@ pub struct ModifyStep {
 pub enum Task {
   Questionnaire(HashMap<String, Value>),
   Task(Vec<ModifyStep>)
+}
+
+fn compute_typing_speed(steps: &[ModifyStep]) -> f64 {
+  let mut timestamps: Vec<f64> = vec![];
+  let mut file_lengths: Vec<f64> = vec![];
+  let mut iter = steps.iter().peekable();
+  
+  while let Some(curr) = iter.next() {
+    if let Some(&next) = iter.peek() {
+      let (file_len_curr, file_len_next) = (&curr.file.len(), &next.file.len());
+      let (ts_1, ts_2) = (&curr.timestamp, &next.timestamp);
+
+      if file_len_next > file_len_curr {
+        timestamps.push((ts_2 - ts_1) as f64);
+        file_lengths.push((file_len_next - file_len_curr) as f64);
+      }
+    }
+  }
+
+  let mean_file_len: f64  = mean(file_lengths.into_iter());
+  let mean_timestamps: f64 = mean(timestamps.into_iter());
+
+  mean_file_len / mean_timestamps
 }
 
 fn count_char(steps: &[ModifyStep], character: char) -> usize {
@@ -92,15 +120,16 @@ fn analyze_group(data_path: impl AsRef<Path>, group: &str) -> Result<Vec<TaskInf
   }).collect::<Result<Vec<HashMap<String, Task>>>>()?;
 
   Ok(tasks.par_iter().map(|task| {
-    let (delete_key_presses, tab_key_presses, space_key_presses) = user_infos.iter().map(|user_info| {
+    let (delete_key_presses, tab_key_presses, space_key_presses, typing_speed) = user_infos.iter().map(|user_info| {
       if let Some(Task::Task(steps)) = user_info.get(task) {
-        (count_del_keys(&steps), count_char(&steps, '\t'), count_char(&steps, ' '))
+        (count_del_keys(&steps), count_char(&steps, '\t'), count_char(&steps, ' '), compute_typing_speed(&steps))
+        // (count_del_keys(&steps), count_char(&steps, '\t'), count_char(&steps, ' '))
       } else {
-        (0, 0, 0)
+        (0, 0, 0, 0.0)
       }
-    }).fold((0, 0, 0), |(acc_a, acc_b, acc_c), (a, b, c)| (acc_a + a, acc_b + b, acc_c + c));
+    }).fold((0, 0, 0, 0.0), |(acc_a, acc_b, acc_c, acc_d), (a, b, c, d)| (acc_a + a, acc_b + b, acc_c + c, acc_d + d));
 
-    TaskInfo { name: task.to_owned(), delete_key_presses, tab_key_presses, space_key_presses }
+    (TaskInfo { name: task.to_owned(), delete_key_presses, tab_key_presses, space_key_presses, typing_speed })
   }).collect())
 }
 
