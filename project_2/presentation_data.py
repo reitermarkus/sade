@@ -52,7 +52,7 @@ def get_tasks(df, group_name, dsl):
 
 def get_group_data(df, group):
   return {
-    'data_frame':     df.loc[analysis['group'] == 'a'],
+    'data_frame':     df.loc[analysis['group'] == group],
     'int_del_keys':   get_tasks(df, group, 'internal')['delete_key_presses'],
     'int_tab_keys':   get_tasks(df, group, 'internal')['tab_key_presses'],
     'int_space_keys': get_tasks(df, group, 'internal')['space_key_presses'],
