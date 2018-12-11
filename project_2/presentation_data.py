@@ -10,32 +10,38 @@ from plotly.offline import init_notebook_mode, iplot
 init_notebook_mode(connected=True)
 
 
-def create_trace(y, name):
+def create_trace(y, name, x=[''], showtext=False):
   return go.Bar(
+    x = x,
     y = [y],
     name = name,
-    text = str(y),
+    text = name if showtext else str(y),
     textposition = 'auto',
     opacity = 0.6,
   )
 
-def create_layout(title, **options):
+def create_layout(title, barmode, **options):
   return {
     **{
       'title': title,
       'font': {'family': 'Helvetica', 'size': 16},
       'bargap': 0.1,
-      'barmode': 'group',
+      'barmode': barmode,
       'showlegend': True,
     },
     **options,
   }
 
-def create_fig(title, group_a_data, group_b_data, trace_name):
+def create_vs_fig(title, traces, showlegend=False):
+  layout = create_layout(title, 'stack', xaxis = dict(showticklabels=True), showlegend=showlegend)
+  
+  return go.Figure(data = traces, layout = layout)
+
+def create_fig(title, group_a_data, group_b_data, trace_name, showticklabels=False):
   trace_keys_a = create_trace(group_a_data, trace_name[0])
   trace_keys_b = create_trace(group_b_data, trace_name[1])
   data = [trace_keys_a, trace_keys_b]
-  layout = create_layout(title, xaxis = dict(showticklabels=False), showlegend=True)
+  layout = create_layout(title, 'group', xaxis = dict(showticklabels=showticklabels), showlegend=True)
   
   return go.Figure(data = data, layout = layout)
 
@@ -75,6 +81,40 @@ group_b = get_group_data(analysis, 'b')
 
 
 '''
+  Group A internal vs Group B internal 
+'''
+traces = [
+  create_trace(group_a['int_del_keys'].sum(), 'Group A', ['Delete Keys'], True),
+  create_trace(group_b['int_del_keys'].sum(), 'Group B', ['Delete Keys'], True),
+
+  create_trace(group_a['int_tab_keys'].sum(), 'Group A', ['Tab Keys'], True),
+  create_trace(group_b['int_tab_keys'].sum(), 'Group B', ['Tab Keys'], True),
+
+  create_trace(group_a['int_space_keys'].sum(), 'Group A', ['Space Keys'], True),
+  create_trace(group_b['int_space_keys'].sum(), 'Group B', ['Space Keys'], True),
+]
+
+fig_a_vs_b_int = create_vs_fig('Group A vs Group B: Internal', traces)
+
+
+'''
+  Group B external vs Group B external 
+'''
+traces = [
+  create_trace(group_a['ext_del_keys'].sum(), 'Group A', ['Delete Keys'], True),
+  create_trace(group_b['ext_del_keys'].sum(), 'Group B', ['Delete Keys'], True),
+
+  create_trace(group_a['ext_tab_keys'].sum(), 'Group A', ['Tab Keys'], True),
+  create_trace(group_b['ext_tab_keys'].sum(), 'Group B', ['Tab Keys'], True),
+
+  create_trace(group_a['ext_space_keys'].sum(), 'Group A', ['Space Keys'], True),
+  create_trace(group_b['ext_space_keys'].sum(), 'Group B', ['Space Keys'], True),
+]
+
+fig_a_vs_b_ext = create_vs_fig('Group A vs Group B: External', traces)
+
+
+'''
   Group A internal vs external figures
 '''
 fig_int_vs_ext_del_keys_a = create_fig('Group A: Delete Keys', 
@@ -91,6 +131,7 @@ fig_int_vs_ext_space_keys_a = create_fig('Group A: Space Keys',
                               group_a['int_space_keys'].sum(), 
                               group_a['ext_space_keys'].sum(),
                               ['internal', 'external'])
+
 
 '''
   Group B internal vs external figures
