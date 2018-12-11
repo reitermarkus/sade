@@ -12,7 +12,7 @@ init_notebook_mode(connected=True)
 
 def create_trace(y, name):
   return go.Bar(
-    y = y,
+    y = [y],
     name = name,
     text = str(y),
     textposition = 'auto',
@@ -31,11 +31,11 @@ def create_layout(title, **options):
     **options,
   }
 
-def create_fig(title, group_a_data, group_b_data):
-  trace_keys_a = create_trace([group_a_data], 'Group A')
-  trace_keys_b = create_trace([group_b_data], 'Group B')
+def create_fig(title, group_a_data, group_b_data, trace_name):
+  trace_keys_a = create_trace(group_a_data, trace_name[0])
+  trace_keys_b = create_trace(group_b_data, trace_name[1])
   data = [trace_keys_a, trace_keys_b]
-  layout = create_layout(title, xaxis = dict(showticklabels=False,),showlegend=True)
+  layout = create_layout(title, xaxis = dict(showticklabels=False), showlegend=True)
   
   return go.Figure(data = data, layout = layout)
 
@@ -73,14 +73,39 @@ analysis.dropna(inplace=True)
 group_a = get_group_data(analysis, 'a')
 group_b = get_group_data(analysis, 'b')
 
-fig_int_del_keys = create_fig('Delete Keys', 
-                              group_a['int_del_keys'].sum(), 
-                              group_b['int_del_keys'].sum())
 
-fig_int_tab_keys = create_fig('Tab Keys', 
+'''
+  Group A internal vs external figures
+'''
+fig_int_vs_ext_del_keys_a = create_fig('Group A: Delete Keys', 
+                              group_a['int_del_keys'].sum(), 
+                              group_a['ext_del_keys'].sum(),
+                              ['internal', 'external'])
+
+fig_int_vs_ext_tab_keys_a = create_fig('Group A: Tab Keys', 
                               group_a['int_tab_keys'].sum(), 
-                              group_b['int_tab_keys'].sum())
+                              group_a['ext_tab_keys'].sum(),
+                              ['internal', 'external'])
                               
-fig_int_space_keys = create_fig('Space Keys', 
+fig_int_vs_ext_space_keys_a = create_fig('Group A: Space Keys', 
                               group_a['int_space_keys'].sum(), 
-                              group_b['int_space_keys'].sum())
+                              group_a['ext_space_keys'].sum(),
+                              ['internal', 'external'])
+
+'''
+  Group B internal vs external figures
+'''
+fig_int_vs_ext_del_keys_b = create_fig('Group B: Delete Keys', 
+                              group_b['int_del_keys'].sum(), 
+                              group_b['ext_del_keys'].sum(),
+                              ['internal', 'external'])
+
+fig_int_vs_ext_tab_keys_b = create_fig('Group B: Tab Keys', 
+                              group_b['int_tab_keys'].sum(), 
+                              group_b['ext_tab_keys'].sum(),
+                              ['internal', 'external'])
+                              
+fig_int_vs_ext_space_keys_b = create_fig('Group B: Space Keys', 
+                              group_b['int_space_keys'].sum(), 
+                              group_b['ext_space_keys'].sum(),
+                              ['internal', 'external'])
