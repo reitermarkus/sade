@@ -72,7 +72,26 @@ fn count_char(steps: &[ModifyStep], character: char) -> usize {
     let (prev, curr) = (&steps[0].file, &steps[1].file);
 
     if curr.len() > prev.len() {
-      curr.chars().skip(prev.len()).filter(|c| *c == character).count()
+      let mut prev_char = prev.chars().last();
+      let mut count = 0;
+
+      for c in curr.chars().skip(prev.len()) {
+        if c != character {
+          continue
+        }
+
+        if c == ' ' {
+          if prev_char == Some('\n') || prev_char == Some(' ') || prev_char == Some('\t') || prev_char == Some('\r') || prev_char.is_none() {
+            count += 1;
+          }
+
+          prev_char = Some(c);
+        } else {
+          count += 1;
+        }
+      }
+
+      count
     } else {
       0
     }
