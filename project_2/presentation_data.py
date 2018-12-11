@@ -32,15 +32,15 @@ def create_layout(title, **options):
   }
 
 def create_fig(title, group_a_data, group_b_data):
-  trace_int_del_keys_a = create_trace([group_a_data], 'Group A')
-  trace_int_del_keys_b = create_trace([group_b_data], 'Group B')
-  data = [trace_int_del_keys_a, trace_int_del_keys_b]
+  trace_keys_a = create_trace([group_a_data], 'Group A')
+  trace_keys_b = create_trace([group_b_data], 'Group B')
+  data = [trace_keys_a, trace_keys_b]
   layout = create_layout(title, xaxis = dict(showticklabels=False,),showlegend=True)
   
   return go.Figure(data = data, layout = layout)
 
 def sum_of_keys(keys):
-  return np.array(keys.values).sum()
+  return keys.sum()
 
 def read_json(path):
   with open(path, 'r', encoding='utf-8') as f:
@@ -52,12 +52,12 @@ def get_tasks(df, group_name, dsl):
 
 def get_group_data(df, group):
   return {
-    'data_frame': df.loc[analysis['group'] == 'a'],
-    'int_del_keys': get_tasks(df, group, 'internal')['delete_key_presses'],
-    'int_tab_keys': get_tasks(df, group, 'internal')['tab_key_presses'],
+    'data_frame':     df.loc[analysis['group'] == 'a'],
+    'int_del_keys':   get_tasks(df, group, 'internal')['delete_key_presses'],
+    'int_tab_keys':   get_tasks(df, group, 'internal')['tab_key_presses'],
     'int_space_keys': get_tasks(df, group, 'internal')['space_key_presses'],
-    'ext_del_keys': get_tasks(df, group, 'external')['delete_key_presses'],
-    'ext_tab_keys': get_tasks(df, group, 'external')['tab_key_presses'],
+    'ext_del_keys':   get_tasks(df, group, 'external')['delete_key_presses'],
+    'ext_tab_keys':   get_tasks(df, group, 'external')['tab_key_presses'],
     'ext_space_keys': get_tasks(df, group, 'external')['space_key_presses']
   }
 
@@ -74,13 +74,13 @@ group_a = get_group_data(analysis, 'a')
 group_b = get_group_data(analysis, 'b')
 
 fig_int_del_keys = create_fig('Delete Keys', 
-                              sum_of_keys(group_a['int_del_keys']), 
-                              sum_of_keys(group_b['int_del_keys']))
+                              group_a['int_del_keys'].sum(), 
+                              group_b['int_del_keys'].sum())
 
 fig_int_tab_keys = create_fig('Tab Keys', 
-                              sum_of_keys(group_a['int_tab_keys']), 
-                              sum_of_keys(group_b['int_tab_keys']))
+                              group_a['int_tab_keys'].sum(), 
+                              group_b['int_tab_keys'].sum())
                               
 fig_int_space_keys = create_fig('Space Keys', 
-                              sum_of_keys(group_a['int_space_keys']), 
-                              sum_of_keys(group_b['int_space_keys']))
+                              group_a['int_space_keys'].sum(), 
+                              group_b['int_space_keys'].sum())
