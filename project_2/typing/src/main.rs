@@ -60,6 +60,10 @@ fn count_characters_per_minute(steps: &[ModifyStep]) -> f64 {
     }
   }
 
+  if time == 0 {
+    return 0.0
+  }
+
   characters as f64 / (time as f64 / 1000.0 / 60.0)
 }
 
