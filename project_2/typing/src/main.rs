@@ -173,7 +173,7 @@ fn main() -> Result<()> {
 
   vec!["a", "b"].par_iter().map(|group| {
     let analysis = analyze_group(data_path, group)?;
-    write_json(format!("../analysis_group_{}.json", group), &analysis)?;
+    write_json(format!("../data/analysis_group_{}.json", group), &analysis)?;
     Ok(())
   }).collect::<Result<Vec<_>>>()?;
 
