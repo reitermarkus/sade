@@ -15,9 +15,8 @@ def create_trace(y, name, x=[''], showtext=False):
     x = x,
     y = [y],
     name = name,
-    text = name if showtext else str(y),
+    text = name if showtext else '',
     textposition = 'auto',
-    opacity = 0.6,
   )
 
 def create_layout(title, barmode, **options):
@@ -34,7 +33,7 @@ def create_layout(title, barmode, **options):
 
 def create_vs_fig(title, traces, showlegend=False):
   layout = create_layout(title, 'stack', xaxis = dict(showticklabels=True), showlegend=showlegend)
-  
+
   return go.Figure(data = traces, layout = layout)
 
 def create_fig(title, group_a_data, group_b_data, trace_name, showticklabels=False):
@@ -42,7 +41,7 @@ def create_fig(title, group_a_data, group_b_data, trace_name, showticklabels=Fal
   trace_keys_b = create_trace(group_b_data, trace_name[1])
   data = [trace_keys_a, trace_keys_b]
   layout = create_layout(title, 'group', xaxis = dict(showticklabels=showticklabels), showlegend=True)
-  
+
   return go.Figure(data = data, layout = layout)
 
 def sum_of_keys(keys):
@@ -81,7 +80,7 @@ group_b = get_group_data(analysis, 'b')
 
 
 '''
-  Group A internal vs Group B internal 
+  Group A internal vs Group B internal
 '''
 traces = [
   create_trace(group_a['int_del_keys'].sum(), 'Group A', ['Delete Keys'], True),
@@ -98,7 +97,7 @@ fig_a_vs_b_int = create_vs_fig('Group A vs Group B: Internal', traces)
 
 
 '''
-  Group B external vs Group B external 
+  Group B external vs Group B external
 '''
 traces = [
   create_trace(group_a['ext_del_keys'].sum(), 'Group A', ['Delete Keys'], True),
@@ -117,18 +116,18 @@ fig_a_vs_b_ext = create_vs_fig('Group A vs Group B: External', traces)
 '''
   Group A internal vs external figures
 '''
-fig_int_vs_ext_del_keys_a = create_fig('Group A: Delete Keys', 
-                              group_a['int_del_keys'].sum(), 
+fig_int_vs_ext_del_keys_a = create_fig('Group A: Delete Keys',
+                              group_a['int_del_keys'].sum(),
                               group_a['ext_del_keys'].sum(),
                               ['internal', 'external'])
 
-fig_int_vs_ext_tab_keys_a = create_fig('Group A: Tab Keys', 
-                              group_a['int_tab_keys'].sum(), 
+fig_int_vs_ext_tab_keys_a = create_fig('Group A: Tab Keys',
+                              group_a['int_tab_keys'].sum(),
                               group_a['ext_tab_keys'].sum(),
                               ['internal', 'external'])
-                              
-fig_int_vs_ext_space_keys_a = create_fig('Group A: Space Keys', 
-                              group_a['int_space_keys'].sum(), 
+
+fig_int_vs_ext_space_keys_a = create_fig('Group A: Space Keys',
+                              group_a['int_space_keys'].sum(),
                               group_a['ext_space_keys'].sum(),
                               ['internal', 'external'])
 
@@ -136,17 +135,18 @@ fig_int_vs_ext_space_keys_a = create_fig('Group A: Space Keys',
 '''
   Group B internal vs external figures
 '''
-fig_int_vs_ext_del_keys_b = create_fig('Group B: Delete Keys', 
-                              group_b['int_del_keys'].sum(), 
+fig_int_vs_ext_del_keys_b = create_fig('Group B: Delete Keys',
+                              group_b['int_del_keys'].sum(),
                               group_b['ext_del_keys'].sum(),
                               ['internal', 'external'])
 
-fig_int_vs_ext_tab_keys_b = create_fig('Group B: Tab Keys', 
-                              group_b['int_tab_keys'].sum(), 
+fig_int_vs_ext_tab_keys_b = create_fig('Group B: Tab Keys',
+                              group_b['int_tab_keys'].sum(),
                               group_b['ext_tab_keys'].sum(),
                               ['internal', 'external'])
-                              
-fig_int_vs_ext_space_keys_b = create_fig('Group B: Space Keys', 
-                              group_b['int_space_keys'].sum(), 
+
+fig_int_vs_ext_space_keys_b = create_fig('Group B: Space Keys',
+                              group_b['int_space_keys'].sum(),
                               group_b['ext_space_keys'].sum(),
                               ['internal', 'external'])
+
