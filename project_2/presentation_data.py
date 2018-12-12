@@ -85,15 +85,16 @@ def get_group_data(df, group):
     'int_space_keys': get_tasks(df, group, 'internal')['space_key_presses'],
     'ext_del_keys':   get_tasks(df, group, 'external')['delete_key_presses'],
     'ext_tab_keys':   get_tasks(df, group, 'external')['tab_key_presses'],
-    'ext_space_keys': get_tasks(df, group, 'external')['space_key_presses']
-  }
-
+    'ext_space_keys': get_tasks(df, group, 'external')['space_key_presses'],
+    'int_typing_speed': get_tasks(df, group, 'internal')['characters_per_minute'],
+    'ext_typing_speed': get_tasks(df, group, 'external')['characters_per_minute']
+}
 
 '''
   MAIN
 '''
-analysis_group_a = pd.DataFrame(data=read_json('./analysis_group_a.json'))
-analysis_group_b = pd.DataFrame(data=read_json('./analysis_group_b.json'))
+analysis_group_a = pd.DataFrame(data=read_json('./data/analysis_group_a.json'))
+analysis_group_b = pd.DataFrame(data=read_json('./data/analysis_group_b.json'))
 
 analysis_group_a['group'] = 'a'
 analysis_group_b['group'] = 'b'
@@ -169,3 +170,30 @@ fig_median_tabs = create_percentage_fig('Median of total tabs per group', 'tab',
 total_a = group_a['int_space_keys'].median() + group_a['ext_space_keys'].median()
 total_b = group_b['int_space_keys'].median() + group_b['ext_space_keys'].median()
 fig_median_spaces = create_percentage_fig('Median of total spaces per group', 'space', group_a, group_b, total_a, total_b, np.median)
+
+
+def create_percentage_fig_typing_speed(title, group_a, group_b, agg_method):
+  return {
+    'data': [
+      create_trace(agg_method(group_a['int_typing_speed']), 'Internal', ['Group A'], True),
+      create_trace(agg_method(group_a['ext_typing_speed']), 'External', ['Group A'], True),
+      create_trace(agg_method(group_b['int_typing_speed']), 'Internal', ['Group B'], True),
+      create_trace(agg_method(group_b['ext_typing_speed']), 'External', ['Group B'], True),
+    ], 
+    'layout': create_layout(title, 'group', **{
+    }),
+  }
+
+
+'''
+  Typing Speed
+# '''
+total_a_int = group_a['int_typing_speed'].median()
+total_a_ext = group_a['ext_typing_speed'].median()
+
+total_b_int = group_b['int_typing_speed'].median()
+total_b_ext = group_b['ext_typing_speed'].median()
+
+fig_median_typing_speed_a = create_percentage_fig_typing_speed('Median of typing speed: Group A', group_a, group_a, np.median)
+fig_median_typing_speed_b = create_percentage_fig_typing_speed('Median of typing speed: Group B', group_b, group_b, np.median)
+
