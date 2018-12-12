@@ -188,12 +188,5 @@ def create_percentage_fig_typing_speed(title, group_a, group_b, agg_method):
 '''
   Typing Speed
 # '''
-total_a_int = group_a['int_typing_speed'].median()
-total_a_ext = group_a['ext_typing_speed'].median()
-
-total_b_int = group_b['int_typing_speed'].median()
-total_b_ext = group_b['ext_typing_speed'].median()
-
-fig_median_typing_speed_a = create_percentage_fig_typing_speed('Median of typing speed: Group A', group_a, group_a, np.median)
-fig_median_typing_speed_b = create_percentage_fig_typing_speed('Median of typing speed: Group B', group_b, group_b, np.median)
+fig_median_typing_speed = create_percentage_fig_typing_speed('Median of typing speeds (per minute)', group_a, group_b, np.median)
 
