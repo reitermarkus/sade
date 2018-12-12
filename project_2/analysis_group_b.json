@@ -1,88 +1,1346 @@
 [
   {
     "name": "group_b_task_2_1_external_modify",
-    "delete_key_presses": 342,
-    "tab_key_presses": 60,
+    "delete_key_presses": 11,
+    "tab_key_presses": 2,
+    "space_key_presses": 0,
+    "characters_per_minute": 79.74757407447429
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 2,
+    "space_key_presses": 0,
+    "characters_per_minute": 43.206221695924214
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 16,
+    "tab_key_presses": 2,
+    "space_key_presses": 0,
+    "characters_per_minute": 111.18785693829074
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 226,
+    "tab_key_presses": 36,
     "space_key_presses": 26,
-    "typing_speed": null
+    "characters_per_minute": 329.4761640798226
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 19,
+    "tab_key_presses": 2,
+    "space_key_presses": 0,
+    "characters_per_minute": 178.41802682878478
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 11,
+    "tab_key_presses": 2,
+    "space_key_presses": 0,
+    "characters_per_minute": 62.84064101521191
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 11,
+    "tab_key_presses": 2,
+    "space_key_presses": 0,
+    "characters_per_minute": 125.34606043106815
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 33,
+    "tab_key_presses": 10,
+    "space_key_presses": 0,
+    "characters_per_minute": 88.17789770400174
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 15,
+    "tab_key_presses": 2,
+    "space_key_presses": 0,
+    "characters_per_minute": 106.03509455491698
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_1_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
   },
   {
     "name": "group_b_task_2_2_external_modify",
-    "delete_key_presses": 3271,
+    "delete_key_presses": 201,
     "tab_key_presses": 0,
     "space_key_presses": 0,
-    "typing_speed": null
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 200,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
+  },
+  {
+    "name": "group_b_task_2_2_external_modify",
+    "delete_key_presses": 205,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 0.0
   },
   {
     "name": "group_b_task_2_3_external_modify",
-    "delete_key_presses": 642,
-    "tab_key_presses": 100,
-    "space_key_presses": 53,
-    "typing_speed": 0.030565258521532458
+    "delete_key_presses": 7,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 61.97727499916697
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 2,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 61.615927385960845
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 47,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 129.5018195507592
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 218,
+    "tab_key_presses": 38,
+    "space_key_presses": 29,
+    "characters_per_minute": 303.13637636516387
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 90.28245510955703
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 11,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 111.96815128141328
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 131,
+    "tab_key_presses": 9,
+    "space_key_presses": 11,
+    "characters_per_minute": 136.79488122379936
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 12,
+    "tab_key_presses": 4,
+    "space_key_presses": 0,
+    "characters_per_minute": 112.92157387580299
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 21,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 124.97194415765138
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 23,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 113.84663634938059
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 28,
+    "tab_key_presses": 4,
+    "space_key_presses": 0,
+    "characters_per_minute": 59.07119964808647
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 27,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 100.57187931374483
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 20,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 89.61568657488078
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 8,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 58.828858112680706
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 5,
+    "tab_key_presses": 3,
+    "space_key_presses": 0,
+    "characters_per_minute": 120.12870933142652
+  },
+  {
+    "name": "group_b_task_2_3_external_modify",
+    "delete_key_presses": 82,
+    "tab_key_presses": 12,
+    "space_key_presses": 13,
+    "characters_per_minute": 158.68213801247208
   },
   {
     "name": "group_b_task_3_1_external_create",
-    "delete_key_presses": 910,
+    "delete_key_presses": 13,
     "tab_key_presses": 0,
-    "space_key_presses": 740,
-    "typing_speed": 0.0332844711182963
+    "space_key_presses": 38,
+    "characters_per_minute": 74.54028021015762
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 13,
+    "tab_key_presses": 0,
+    "space_key_presses": 26,
+    "characters_per_minute": 112.93906928919698
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 47,
+    "tab_key_presses": 0,
+    "space_key_presses": 9,
+    "characters_per_minute": 136.35539437896645
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 26,
+    "tab_key_presses": 0,
+    "space_key_presses": 54,
+    "characters_per_minute": 94.95059643336836
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 4,
+    "tab_key_presses": 0,
+    "space_key_presses": 23,
+    "characters_per_minute": 125.51342057503105
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 26,
+    "tab_key_presses": 0,
+    "space_key_presses": 31,
+    "characters_per_minute": 119.16098942690401
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 16,
+    "tab_key_presses": 0,
+    "space_key_presses": 7,
+    "characters_per_minute": 81.04778963278567
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 6,
+    "tab_key_presses": 0,
+    "space_key_presses": 5,
+    "characters_per_minute": 162.03605514316013
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 26,
+    "tab_key_presses": 0,
+    "space_key_presses": 26,
+    "characters_per_minute": 179.33326718920526
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 39,
+    "tab_key_presses": 0,
+    "space_key_presses": 30,
+    "characters_per_minute": 122.51247812277177
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 31,
+    "tab_key_presses": 0,
+    "space_key_presses": 18,
+    "characters_per_minute": 86.68567997598319
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 26,
+    "tab_key_presses": 0,
+    "space_key_presses": 27,
+    "characters_per_minute": 134.92253074470977
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 315,
+    "tab_key_presses": 0,
+    "space_key_presses": 94,
+    "characters_per_minute": 170.09440774517932
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 242,
+    "tab_key_presses": 0,
+    "space_key_presses": 88,
+    "characters_per_minute": 128.22669752595226
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 45,
+    "tab_key_presses": 0,
+    "space_key_presses": 38,
+    "characters_per_minute": 156.24842896930332
+  },
+  {
+    "name": "group_b_task_3_1_external_create",
+    "delete_key_presses": 35,
+    "tab_key_presses": 0,
+    "space_key_presses": 38,
+    "characters_per_minute": 112.50118173510225
   },
   {
     "name": "group_b_task_3_2_external_create",
-    "delete_key_presses": 407,
+    "delete_key_presses": 25,
     "tab_key_presses": 0,
-    "space_key_presses": 1291,
-    "typing_speed": 0.049339918079928644
+    "space_key_presses": 104,
+    "characters_per_minute": 117.8237650200267
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 6,
+    "tab_key_presses": 0,
+    "space_key_presses": 35,
+    "characters_per_minute": 140.59219135145005
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 32,
+    "tab_key_presses": 0,
+    "space_key_presses": 17,
+    "characters_per_minute": 175.68933663331822
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 20,
+    "tab_key_presses": 0,
+    "space_key_presses": 83,
+    "characters_per_minute": 162.12649637100574
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 59,
+    "tab_key_presses": 0,
+    "space_key_presses": 59,
+    "characters_per_minute": 182.62678187936487
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 33,
+    "tab_key_presses": 0,
+    "space_key_presses": 64,
+    "characters_per_minute": 211.62585633860138
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 14,
+    "tab_key_presses": 0,
+    "space_key_presses": 63,
+    "characters_per_minute": 179.18957442476074
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 7,
+    "tab_key_presses": 0,
+    "space_key_presses": 16,
+    "characters_per_minute": 170.6529550492424
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 14,
+    "tab_key_presses": 0,
+    "space_key_presses": 61,
+    "characters_per_minute": 249.7108082281346
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 16,
+    "tab_key_presses": 0,
+    "space_key_presses": 75,
+    "characters_per_minute": 206.55806810996356
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 12,
+    "tab_key_presses": 0,
+    "space_key_presses": 60,
+    "characters_per_minute": 150.57212804002978
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 25,
+    "tab_key_presses": 0,
+    "space_key_presses": 69,
+    "characters_per_minute": 210.69197855702552
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 51,
+    "tab_key_presses": 0,
+    "space_key_presses": 147,
+    "characters_per_minute": 193.62298687263356
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 5,
+    "tab_key_presses": 0,
+    "space_key_presses": 53,
+    "characters_per_minute": 172.53847659074862
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 38,
+    "tab_key_presses": 0,
+    "space_key_presses": 62,
+    "characters_per_minute": 226.512329341736
+  },
+  {
+    "name": "group_b_task_3_2_external_create",
+    "delete_key_presses": 50,
+    "tab_key_presses": 0,
+    "space_key_presses": 64,
+    "characters_per_minute": 209.86135198767573
   },
   {
     "name": "group_b_task_3_3_external_create",
-    "delete_key_presses": 585,
+    "delete_key_presses": 25,
     "tab_key_presses": 0,
-    "space_key_presses": 1709,
-    "typing_speed": 0.05931849695102375
+    "space_key_presses": 162,
+    "characters_per_minute": 189.00281997373767
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 8,
+    "tab_key_presses": 0,
+    "space_key_presses": 76,
+    "characters_per_minute": 171.74716424924702
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 45,
+    "tab_key_presses": 0,
+    "space_key_presses": 75,
+    "characters_per_minute": 213.05336040313514
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 40,
+    "tab_key_presses": 0,
+    "space_key_presses": 51,
+    "characters_per_minute": 164.26156510266347
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 3,
+    "tab_key_presses": 0,
+    "space_key_presses": 81,
+    "characters_per_minute": 196.85105951193114
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 40,
+    "tab_key_presses": 0,
+    "space_key_presses": 96,
+    "characters_per_minute": 220.6368662862988
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 53,
+    "tab_key_presses": 0,
+    "space_key_presses": 89,
+    "characters_per_minute": 203.79268605802736
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 34,
+    "tab_key_presses": 0,
+    "space_key_presses": 20,
+    "characters_per_minute": 135.13696313831588
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 18,
+    "tab_key_presses": 0,
+    "space_key_presses": 74,
+    "characters_per_minute": 255.866351596417
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 25,
+    "tab_key_presses": 0,
+    "space_key_presses": 96,
+    "characters_per_minute": 270.450106248256
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 55,
+    "tab_key_presses": 0,
+    "space_key_presses": 78,
+    "characters_per_minute": 124.7216461345847
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 109,
+    "tab_key_presses": 0,
+    "space_key_presses": 158,
+    "characters_per_minute": 594.142259414226
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 74,
+    "tab_key_presses": 0,
+    "space_key_presses": 143,
+    "characters_per_minute": 189.05792981566853
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 28,
+    "tab_key_presses": 0,
+    "space_key_presses": 81,
+    "characters_per_minute": 178.90437084584622
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 12,
+    "tab_key_presses": 0,
+    "space_key_presses": 87,
+    "characters_per_minute": 270.56508293505766
+  },
+  {
+    "name": "group_b_task_3_3_external_create",
+    "delete_key_presses": 16,
+    "tab_key_presses": 0,
+    "space_key_presses": 34,
+    "characters_per_minute": 180.9195853480115
   },
   {
     "name": "group_b_task_6_1_internal_modify",
-    "delete_key_presses": 258,
+    "delete_key_presses": 13,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 121.40077821011673
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 9,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 190.0070372976777
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 11,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 161.40865737344095
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 4,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 201.11731843575419
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 10,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 111.33791055854518
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 14,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 141.67650531286893
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 12,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 205.42082738944364
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 9,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 225.1876563803169
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 3,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 143.42629482071715
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 12,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 190.32513877874703
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 12,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 138.27539850201651
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 112,
     "tab_key_presses": 0,
     "space_key_presses": 14,
-    "typing_speed": 0.0494718623301792
+    "characters_per_minute": 616.2876008804109
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 11,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 136.986301369863
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 14,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 177.9284049989409
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 9,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 154.63917525773195
+  },
+  {
+    "name": "group_b_task_6_1_internal_modify",
+    "delete_key_presses": 3,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 52.88673424416042
   },
   {
     "name": "group_b_task_6_2_internal_modify",
-    "delete_key_presses": 222,
+    "delete_key_presses": 1,
     "tab_key_presses": 0,
-    "space_key_presses": 4,
-    "typing_speed": 0.017123134229135507
+    "space_key_presses": 0,
+    "characters_per_minute": 54.0743522343222
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 1,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 122.03389830508473
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 47.307257207500605
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 2,
+    "tab_key_presses": 0,
+    "space_key_presses": 3,
+    "characters_per_minute": 97.87289573274174
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 61.200053217437585
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 17.214065637980717
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 174,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 90.79903147699758
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 1,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 72.10455159981974
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 60.787595806536864
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 4,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 65.7334144856969
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 2,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 43.07126859243094
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 26,
+    "tab_key_presses": 0,
+    "space_key_presses": 1,
+    "characters_per_minute": 69.28692209345486
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 29.295009234296387
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 0,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 80.1300661944025
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 3,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 81.60703075957314
+  },
+  {
+    "name": "group_b_task_6_2_internal_modify",
+    "delete_key_presses": 8,
+    "tab_key_presses": 0,
+    "space_key_presses": 0,
+    "characters_per_minute": 34.87064116985377
   },
   {
     "name": "group_b_task_6_3_internal_modify",
-    "delete_key_presses": 2001,
+    "delete_key_presses": 40,
     "tab_key_presses": 0,
-    "space_key_presses": 988,
-    "typing_speed": 0.05698360715607483
+    "space_key_presses": 44,
+    "characters_per_minute": 84.14054127462586
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 68,
+    "tab_key_presses": 0,
+    "space_key_presses": 57,
+    "characters_per_minute": 81.4021579688886
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 124,
+    "tab_key_presses": 0,
+    "space_key_presses": 62,
+    "characters_per_minute": 113.1353037945863
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 165,
+    "tab_key_presses": 0,
+    "space_key_presses": 78,
+    "characters_per_minute": 341.931459915756
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 3,
+    "tab_key_presses": 0,
+    "space_key_presses": 66,
+    "characters_per_minute": 65.1946989628671
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 38,
+    "tab_key_presses": 0,
+    "space_key_presses": 46,
+    "characters_per_minute": 68.08526214884958
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 437,
+    "tab_key_presses": 0,
+    "space_key_presses": 79,
+    "characters_per_minute": 120.57925917060618
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 9,
+    "tab_key_presses": 0,
+    "space_key_presses": 22,
+    "characters_per_minute": 97.2250354466275
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 198,
+    "tab_key_presses": 0,
+    "space_key_presses": 71,
+    "characters_per_minute": 193.46289752650176
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 31,
+    "tab_key_presses": 0,
+    "space_key_presses": 55,
+    "characters_per_minute": 150.6153931974583
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 28,
+    "tab_key_presses": 0,
+    "space_key_presses": 32,
+    "characters_per_minute": 81.78474179525152
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 124,
+    "tab_key_presses": 0,
+    "space_key_presses": 75,
+    "characters_per_minute": 406.2176165803109
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 98,
+    "tab_key_presses": 0,
+    "space_key_presses": 71,
+    "characters_per_minute": 526.7268580711675
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 28,
+    "tab_key_presses": 0,
+    "space_key_presses": 23,
+    "characters_per_minute": 103.21572931727755
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 508,
+    "tab_key_presses": 0,
+    "space_key_presses": 107,
+    "characters_per_minute": 364.1292011056068
+  },
+  {
+    "name": "group_b_task_6_3_internal_modify",
+    "delete_key_presses": 102,
+    "tab_key_presses": 0,
+    "space_key_presses": 70,
+    "characters_per_minute": 621.1702730881088
   },
   {
     "name": "group_b_task_7_1_internal_create",
-    "delete_key_presses": 602,
+    "delete_key_presses": 65,
     "tab_key_presses": 0,
-    "space_key_presses": 659,
-    "typing_speed": 0.03336810746128601
+    "space_key_presses": 47,
+    "characters_per_minute": 118.07792182857582
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 25,
+    "tab_key_presses": 0,
+    "space_key_presses": 38,
+    "characters_per_minute": 92.76659719137595
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 26,
+    "tab_key_presses": 0,
+    "space_key_presses": 35,
+    "characters_per_minute": 138.52591098051428
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 31,
+    "tab_key_presses": 0,
+    "space_key_presses": 32,
+    "characters_per_minute": 140.2615250914529
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 4,
+    "tab_key_presses": 0,
+    "space_key_presses": 14,
+    "characters_per_minute": 103.30733664460345
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 32,
+    "tab_key_presses": 0,
+    "space_key_presses": 27,
+    "characters_per_minute": 141.2739008646937
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 79,
+    "tab_key_presses": 0,
+    "space_key_presses": 6,
+    "characters_per_minute": 104.34868009149947
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 16,
+    "tab_key_presses": 0,
+    "space_key_presses": 29,
+    "characters_per_minute": 170.48799842994035
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 54,
+    "tab_key_presses": 0,
+    "space_key_presses": 32,
+    "characters_per_minute": 175.36861496507856
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 76,
+    "tab_key_presses": 0,
+    "space_key_presses": 17,
+    "characters_per_minute": 131.0559673434311
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 19,
+    "tab_key_presses": 0,
+    "space_key_presses": 22,
+    "characters_per_minute": 121.651065203357
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 9,
+    "tab_key_presses": 0,
+    "space_key_presses": 4,
+    "characters_per_minute": 132.80374783582852
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 28,
+    "tab_key_presses": 0,
+    "space_key_presses": 6,
+    "characters_per_minute": 95.05276893844005
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 20,
+    "tab_key_presses": 0,
+    "space_key_presses": 4,
+    "characters_per_minute": 117.68483114911999
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 67,
+    "tab_key_presses": 0,
+    "space_key_presses": 29,
+    "characters_per_minute": 131.16911370642953
+  },
+  {
+    "name": "group_b_task_7_1_internal_create",
+    "delete_key_presses": 51,
+    "tab_key_presses": 0,
+    "space_key_presses": 63,
+    "characters_per_minute": 88.25046741281975
   },
   {
     "name": "group_b_task_7_2_internal_create",
-    "delete_key_presses": 494,
+    "delete_key_presses": 22,
     "tab_key_presses": 0,
-    "space_key_presses": 612,
-    "typing_speed": 0.06655972805727946
+    "space_key_presses": 32,
+    "characters_per_minute": 131.08046673738446
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 16,
+    "tab_key_presses": 0,
+    "space_key_presses": 31,
+    "characters_per_minute": 124.10169133586338
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 43,
+    "tab_key_presses": 0,
+    "space_key_presses": 35,
+    "characters_per_minute": 174.7743886468081
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 39,
+    "tab_key_presses": 0,
+    "space_key_presses": 37,
+    "characters_per_minute": 155.79483417128802
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 4,
+    "tab_key_presses": 0,
+    "space_key_presses": 4,
+    "characters_per_minute": 116.96414713642713
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 52,
+    "tab_key_presses": 0,
+    "space_key_presses": 23,
+    "characters_per_minute": 138.689092988086
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 15,
+    "tab_key_presses": 0,
+    "space_key_presses": 17,
+    "characters_per_minute": 132.34815981231552
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 23,
+    "tab_key_presses": 0,
+    "space_key_presses": 28,
+    "characters_per_minute": 182.90439566215244
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 68,
+    "tab_key_presses": 0,
+    "space_key_presses": 19,
+    "characters_per_minute": 222.4472918854127
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 24,
+    "tab_key_presses": 0,
+    "space_key_presses": 25,
+    "characters_per_minute": 185.73207614303504
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 14,
+    "tab_key_presses": 0,
+    "space_key_presses": 5,
+    "characters_per_minute": 114.64459642866647
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 31,
+    "tab_key_presses": 0,
+    "space_key_presses": 19,
+    "characters_per_minute": 1477.0312843431755
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 32,
+    "tab_key_presses": 0,
+    "space_key_presses": 53,
+    "characters_per_minute": 341.7769857433809
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 25,
+    "tab_key_presses": 0,
+    "space_key_presses": 5,
+    "characters_per_minute": 127.48288087028313
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 47,
+    "tab_key_presses": 0,
+    "space_key_presses": 40,
+    "characters_per_minute": 228.2491668802871
+  },
+  {
+    "name": "group_b_task_7_2_internal_create",
+    "delete_key_presses": 39,
+    "tab_key_presses": 0,
+    "space_key_presses": 47,
+    "characters_per_minute": 139.56222465220057
   },
   {
     "name": "group_b_task_7_3_internal_create",
-    "delete_key_presses": 2216,
+    "delete_key_presses": 67,
     "tab_key_presses": 0,
-    "space_key_presses": 1328,
-    "typing_speed": 0.06546257832942827
-  }
-] 0.0000719535713260226
+    "space_key_presses": 68,
+    "characters_per_minute": 118.5145729646953
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 33,
+    "tab_key_presses": 0,
+    "space_key_presses": 78,
+    "characters_per_minute": 109.77092526101278
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 57,
+    "tab_key_presses": 0,
+    "space_key_presses": 75,
+    "characters_per_minute": 158.0827060654349
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 156,
+    "tab_key_presses": 0,
+    "space_key_presses": 93,
+    "characters_per_minute": 239.20977467470647
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 27,
+    "tab_key_presses": 0,
+    "space_key_presses": 3,
+    "characters_per_minute": 140.72153153840284
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 114,
+    "tab_key_presses": 0,
+    "space_key_presses": 42,
+    "characters_per_minute": 125.68938847901262
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 259,
+    "tab_key_presses": 0,
+    "space_key_presses": 62,
+    "characters_per_minute": 182.47182277497086
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 30,
+    "tab_key_presses": 0,
+    "space_key_presses": 190,
+    "characters_per_minute": 141.5933291756173
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 111,
+    "tab_key_presses": 0,
+    "space_key_presses": 31,
+    "characters_per_minute": 172.53446894632543
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 48,
+    "tab_key_presses": 0,
+    "space_key_presses": 43,
+    "characters_per_minute": 175.0632172729041
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 83,
+    "tab_key_presses": 0,
+    "space_key_presses": 22,
+    "characters_per_minute": 116.02999393562392
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 315,
+    "tab_key_presses": 0,
+    "space_key_presses": 27,
+    "characters_per_minute": 333.71509118139375
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 258,
+    "tab_key_presses": 0,
+    "space_key_presses": 64,
+    "characters_per_minute": 242.12298564900183
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 44,
+    "tab_key_presses": 0,
+    "space_key_presses": 16,
+    "characters_per_minute": 125.96645776880342
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 267,
+    "tab_key_presses": 0,
+    "space_key_presses": 87,
+    "characters_per_minute": 1030.412789608443
+  },
+  {
+    "name": "group_b_task_7_3_internal_create",
+    "delete_key_presses": 347,
+    "tab_key_presses": 0,
+    "space_key_presses": 120,
+    "characters_per_minute": 515.8556444693481
   }
 ]
