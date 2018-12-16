@@ -1,0 +1,17 @@
+[
+  "Since how many semesters have you been studying?",
+  "How many hours per week do you spend on a homework?",
+  "Are you satisfied with the topics taught in the lecture?",
+  "Do you intend to use the topics you learned outside of the course? [Descriptive Statistics]",
+  "Do you intend to use the topics you learned outside of the course? [Data Mining]",
+  "Do you intend to use the topics you learned outside of the course? [Explorative Analysis]",
+  "Do you intend to use the topics you learned outside of the course? [Prediction model]",
+  "Do you intend to use the topics you learned outside of the course? [Natural Language Processing]",
+  "Do you intend to use the topics you learned outside of the course? [Python]",
+  "Do you intend to use the topics you learned outside of the course? [Jupyter Notebook]",
+  "Do you intend to use the topics you learned outside of the course? [Experimentation]",
+  "Do you intend to use the topics you learned outside of the course? [Surveys]",
+  "Rate the difficulty of the lecture",
+  "Would you attend this course again?",
+  "Would you recommend this course to others?"
+]
