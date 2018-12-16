@@ -2,7 +2,7 @@
 import requests
 import json
 
-papers_path = './data/papers.json'
+papers_path = '../data/papers.json'
 
 api_endpoint = 'http://ieeexploreapi.ieee.org/api/v1/search/articles'
 api_key = '2quujqxvyzwpzztgkud8w2x6'

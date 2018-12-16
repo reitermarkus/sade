@@ -3610,12 +3610,65 @@
       }
     },
     {
+      "doi": "10.1109/WSC.2017.8248207",
+      "title": "Practical expressiveness of internal and external domain-specific modeling languages",
+      "publisher": "IEEE",
+      "isbn": "978-1-5386-3428-8",
+      "issn": "1558-4305",
+      "rank": 56,
+      "authors": {
+        "authors": [
+          {
+            "affiliation": "University of Rostock, Albert-Einstein-Str. 22, D-18059 Rostock, Germany",
+            "full_name": "Tom Warnke",
+            "author_order": 1
+          },
+          {
+            "affiliation": "University of Rostock, Albert-Einstein-Str. 22, D-18059 Rostock, Germany",
+            "full_name": "Adelinde M. Uhrmacher",
+            "author_order": 2
+          }
+        ]
+      },
+      "access_type": "LOCKED",
+      "content_type": "Conferences",
+      "abstract": "During the long history of modeling and simulation, many answers have been given to the question of how to specify simulation models. Many of these approaches can be perceived as domain-specific modeling languages offering a syntax and a semantics. However, the individual languages are often vastly different. A central distinguishing aspect is the classification as external or internal domain-specific language. External and internal domain-specific languages are characterized by specific trade-offs regarding syntactical flexibility, computational efficiency, and amount of implementation work. We present a case study of alternative approaches to implement domain-specific languages for a small modeling problem in supply chain management. We illustrate the influence of using an external or internal language on different aspects of language performance, in particular the practical expressiveness, which we identify as one of the central properties of modeling languages.",
+      "article_number": "8248207",
+      "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8248207",
+      "html_url": "https://ieeexplore.ieee.org/document/8248207/",
+      "abstract_url": "https://ieeexplore.ieee.org/document/8248207/",
+      "publication_title": "2017 Winter Simulation Conference (WSC)",
+      "conference_location": "Las Vegas, NV",
+      "conference_dates": "3-6 Dec. 2017",
+      "publication_number": 8232982,
+      "is_number": 8247314,
+      "publication_year": 2017,
+      "publication_date": "3-6 Dec. 2017",
+      "start_page": "4566",
+      "end_page": "4567",
+      "citing_paper_count": 0,
+      "citing_patent_count": 0,
+      "index_terms": {
+        "ieee_terms": {
+          "terms": [
+            "Computational modeling",
+            "DSL",
+            "Supply chains",
+            "Syntactics",
+            "Semantics",
+            "Biological system modeling",
+            "Data models"
+          ]
+        }
+      }
+    },
+    {
       "doi": "10.1109/EDOCW.2013.28",
       "title": "Improving Process Robustness through Domain-Specific Model Transformations",
       "publisher": "IEEE",
       "isbn": "978-1-4799-3048-7",
       "issn": "2325-6583",
-      "rank": 56,
+      "rank": 57,
       "authors": {
         "authors": [
           {
@@ -3663,59 +3716,6 @@
             "BPM",
             "modeling",
             "tooling"
-          ]
-        }
-      }
-    },
-    {
-      "doi": "10.1109/WSC.2017.8248207",
-      "title": "Practical expressiveness of internal and external domain-specific modeling languages",
-      "publisher": "IEEE",
-      "isbn": "978-1-5386-3428-8",
-      "issn": "1558-4305",
-      "rank": 57,
-      "authors": {
-        "authors": [
-          {
-            "affiliation": "University of Rostock, Albert-Einstein-Str. 22, D-18059 Rostock, Germany",
-            "full_name": "Tom Warnke",
-            "author_order": 1
-          },
-          {
-            "affiliation": "University of Rostock, Albert-Einstein-Str. 22, D-18059 Rostock, Germany",
-            "full_name": "Adelinde M. Uhrmacher",
-            "author_order": 2
-          }
-        ]
-      },
-      "access_type": "LOCKED",
-      "content_type": "Conferences",
-      "abstract": "During the long history of modeling and simulation, many answers have been given to the question of how to specify simulation models. Many of these approaches can be perceived as domain-specific modeling languages offering a syntax and a semantics. However, the individual languages are often vastly different. A central distinguishing aspect is the classification as external or internal domain-specific language. External and internal domain-specific languages are characterized by specific trade-offs regarding syntactical flexibility, computational efficiency, and amount of implementation work. We present a case study of alternative approaches to implement domain-specific languages for a small modeling problem in supply chain management. We illustrate the influence of using an external or internal language on different aspects of language performance, in particular the practical expressiveness, which we identify as one of the central properties of modeling languages.",
-      "article_number": "8248207",
-      "pdf_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8248207",
-      "html_url": "https://ieeexplore.ieee.org/document/8248207/",
-      "abstract_url": "https://ieeexplore.ieee.org/document/8248207/",
-      "publication_title": "2017 Winter Simulation Conference (WSC)",
-      "conference_location": "Las Vegas, NV",
-      "conference_dates": "3-6 Dec. 2017",
-      "publication_number": 8232982,
-      "is_number": 8247314,
-      "publication_year": 2017,
-      "publication_date": "3-6 Dec. 2017",
-      "start_page": "4566",
-      "end_page": "4567",
-      "citing_paper_count": 0,
-      "citing_patent_count": 0,
-      "index_terms": {
-        "ieee_terms": {
-          "terms": [
-            "Computational modeling",
-            "DSL",
-            "Supply chains",
-            "Syntactics",
-            "Semantics",
-            "Biological system modeling",
-            "Data models"
           ]
         }
       }
