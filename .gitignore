@@ -2,3 +2,10 @@
 **/.ipynb_checkpoints/
 __pycache__
 project1/cache
+
+# gensim
+*.gensim
+*.id2word
+*.state
+*.npy
+*.pkl
