@@ -8,6 +8,9 @@ from common import clean, oe_questions, stemmer, survey_df
 from gensim import corpora
 from gensim.models.ldamodel import LdaModel
 
+from plotly.offline import init_notebook_mode, iplot
+init_notebook_mode(connected=True)
+
 
 def create_dir(path, name):
   import os
@@ -21,6 +24,20 @@ def create_dir(path, name):
       exit()
 
   return f'{path}/{name}'
+
+
+def plot_ce_question_stats(question):
+  labels = survey_df[question].value_counts().reset_index().values[:, 0]
+  values = survey_df[question].value_counts().reset_index().values[:, 1]
+
+  iplot({
+      "data": [{
+        "values": values,
+        "labels": labels,
+        "type": "pie"
+        }],
+      "layout": {"title": question}
+  })
 
 
 def compute_lda_model(question_id, answers, num_topics=3, passes=50):

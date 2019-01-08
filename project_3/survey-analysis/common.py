@@ -7,13 +7,9 @@ import pyLDAvis.gensim
 import nltk
 import string
 
-from plotly import graph_objs as go
-from plotly.offline import init_notebook_mode, iplot
-
 from nltk.corpus import opinion_lexicon, stopwords, sentiwordnet as swn
 from nltk.stem import PorterStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
-
 
 nltk.download('wordnet')
 nltk.download('opinion_lexicon')
@@ -21,7 +17,6 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 pyLDAvis.enable_notebook()
-init_notebook_mode(connected=True)
 
 
 survey_df = pd.read_csv('./data/MSD Survey.csv')
@@ -41,20 +36,6 @@ def clean(text):
   cleaned = ' '.join(lemma.lemmatize(word) for word in no_punc.split())
 
   return cleaned
-
-
-def plot_ce_question_stats(question):
-  labels = survey_df[question].value_counts().reset_index().values[:, 0]
-  values = survey_df[question].value_counts().reset_index().values[:, 1]
-
-  iplot({
-      "data": [{
-        "values": values,
-        "labels": labels,
-        "type": "pie"
-        }],
-      "layout": {"title": question}
-  })
 
 
 ce_questions = {
