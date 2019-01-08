@@ -15,9 +15,9 @@ positive_words = set(opinion_lexicon.positive()).union(positive_vocab)
 negative_words = set(opinion_lexicon.negative()).union(negative_vocab)
 
 sentiment_obj = lambda pos, neu, neg: {
-  'positive': pos,
-  'neutral': neu,
-  'negative': neg
+  'positive': round(pos, 4),
+  'neutral': round(neu, 4),
+  'negative': round(neg, 4)
 }
 
 def sentiment_of(text):
@@ -65,6 +65,7 @@ def sentiment_of_answers(answers):
 
 def store_sentiments():
   sentiments = dict()
+
   for q in oe_questions:
     question = oe_questions[q]
     sentiments[question] = sentiment_of_answers(survey_df[oe_questions[q]])
