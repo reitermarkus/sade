@@ -4,25 +4,17 @@ warnings.filterwarnings('ignore')
 import pandas as pd
 import pyLDAvis
 import pyLDAvis.gensim
-import nltk
 import string
 
 from nltk.corpus import opinion_lexicon, stopwords, sentiwordnet as swn
 from nltk.stem import PorterStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
 
-nltk.download('wordnet')
-nltk.download('opinion_lexicon')
-nltk.download('stopwords')
-nltk.download('punkt')
-
 pyLDAvis.enable_notebook()
-
 
 survey_df = pd.read_csv('./data/MSD Survey.csv')
 
 stemmer = PorterStemmer()
-
 
 def clean(text):
   # Remove stopwords and punctuation, lemmatize words

@@ -11,7 +11,6 @@ from gensim.models.ldamodel import LdaModel
 from plotly.offline import init_notebook_mode, iplot
 init_notebook_mode(connected=True)
 
-
 def create_dir(path, name):
   import os
 
