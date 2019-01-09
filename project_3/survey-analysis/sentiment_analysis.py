@@ -70,7 +70,7 @@ def store_sentiments():
     question = oe_questions[q]
     sentiments[question] = sentiment_of_answers(survey_df[oe_questions[q]])
 
-  with open(f'./data/sentiments.json', 'w+', encoding='utf-8') as f:
-    json.dump(sentiments, f, indent=2)
+  with open(f'./data/sentiments.json', 'w+', encoding = 'utf-8') as f:
+    json.dump(sentiments, f, indent = 2)
 
   return sentiments
