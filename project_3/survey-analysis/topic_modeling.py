@@ -9,18 +9,18 @@ from gensim import corpora
 from gensim.models.ldamodel import LdaModel
 
 
-def create_dir(path, name):
+def create_dir(path):
   import os
 
-  if not os.path.exists(f'{path}/{name}'):
+  if not os.path.exists(f'{path}'):
     try:
-      os.makedirs(f'{path}/{name}')
-      return f'{path}/{name}'
+      os.makedirs(f'{path}')
+      return f'{path}'
     except OSError as e:
       print(e)
       exit()
 
-  return f'{path}/{name}'
+  return f'{path}'
 
 
 def plot_ce_question_stats(question):
@@ -40,12 +40,11 @@ def plot_ce_question_stats(question):
   })
 
 
-def compute_lda_model(question_id, answers, num_topics=3, passes=50):
-  path = f'./data/open-ended'
-  path = create_dir(path, question_id)
+def compute_lda_model(path, data, num_topics=3, passes=50):
+  path = create_dir(path)
 
-  dictionary = corpora.Dictionary(answers)
-  doc_term_matrix = [dictionary.doc2bow(answ) for answ in answers]
+  dictionary = corpora.Dictionary(data)
+  doc_term_matrix = [dictionary.doc2bow(d) for d in data]
 
   pickle.dump(doc_term_matrix, open(f'{path}/corpus.pkl', 'wb'))
   dictionary.save(f'{path}/dictionary.gensim')
@@ -67,4 +66,4 @@ def display_lda_model(path, num_terms=10):
 for i in oe_questions:
   clean_text = []
   [clean_text.append(clean(answ).split()) for answ in survey_df[oe_questions[i]] if answ is not np.nan]
-  compute_lda_model(i, clean_text)
+  compute_lda_model(f'./data/open-ended/{i}', clean_text)
