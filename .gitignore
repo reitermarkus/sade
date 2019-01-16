@@ -11,3 +11,5 @@ project1/cache
 *.pkl
 
 sentiments.json
+
+*.model
