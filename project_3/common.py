@@ -12,7 +12,6 @@ from nltk.stem.wordnet import WordNetLemmatizer
 
 pyLDAvis.enable_notebook()
 
-survey_df = pd.read_csv('./data/MSD Survey.csv')
 
 stemmer = PorterStemmer()
 

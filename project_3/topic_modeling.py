@@ -4,9 +4,12 @@ import pickle
 import pyLDAvis
 import pyLDAvis.gensim
 
-from common import clean, oe_questions, stemmer, survey_df
+from common import clean, oe_questions, stemmer
 from gensim import corpora
 from gensim.models.ldamodel import LdaModel
+
+import pandas as pd
+survey_df = pd.read_csv("../survey_analysis/data/MSD Survey.csv")
 
 
 def create_dir(path):
@@ -40,7 +43,7 @@ def plot_ce_question_stats(question):
   })
 
 
-def compute_lda_model(path, data, num_topics=3, passes=50):
+def compute_lda_model(path, data, num_topics=3, passes=100):
   path = create_dir(path)
 
   dictionary = corpora.Dictionary(data)
@@ -63,7 +66,8 @@ def display_lda_model(path, num_terms=10):
   return lda_display
 
 
-for i in oe_questions:
-  clean_text = []
-  [clean_text.append(clean(answ).split()) for answ in survey_df[oe_questions[i]] if answ is not np.nan]
-  compute_lda_model(f'./data/open-ended/{i}', clean_text)
+def survey_topic_modeling():
+  for i in oe_questions:
+    clean_text = []
+    [clean_text.append(clean(answ).split()) for answ in survey_df[oe_questions[i]] if answ is not np.nan]
+    compute_lda_model(f'./data/open-ended/{i}', clean_text)

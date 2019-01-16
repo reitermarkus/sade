@@ -1,7 +1,9 @@
 import numpy as np
 import json
+import sys
+sys.path.append('../')
 
-from common import oe_questions, stemmer, opinion_lexicon, clean, survey_df
+from project_3.common import oe_questions, stemmer, opinion_lexicon, clean
 from nltk.tokenize import word_tokenize
 
 
@@ -64,6 +66,8 @@ def sentiment_of_answers(answers):
 
 
 def store_sentiments():
+  import pandas as pd
+  survey_df = pd.read_csv("./data/MSD Survey.csv")
   sentiments = dict()
 
   for q in oe_questions:
