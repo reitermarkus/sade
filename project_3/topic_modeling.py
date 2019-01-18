@@ -9,7 +9,8 @@ from gensim import corpora
 from gensim.models.ldamodel import LdaModel
 
 import pandas as pd
-survey_df = pd.read_csv("../survey_analysis/data/MSD Survey.csv")
+
+survey_df = pd.read_csv("../survey-analysis/data/MSD Survey.csv")
 
 
 def create_dir(path):

@@ -1,9 +1,7 @@
 import numpy as np
 import json
-import sys
-sys.path.append('../')
 
-from project_3.common import oe_questions, stemmer, opinion_lexicon, clean
+from common import oe_questions, stemmer, opinion_lexicon, clean
 from nltk.tokenize import word_tokenize
 
 
