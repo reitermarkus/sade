@@ -23,10 +23,18 @@ res = requests.get(url=url)
 data = json.loads(res.text)
 
 def clean_data(data):
-  return sorted(map(lambda a: {
-    'title': a['title'],
-    'abstract': a['abstract'],
-  }, data['articles']), key = lambda a: a['title'])
+  return sorted(map(lambda d: {
+    'id' : d['id'],
+    'title': d['title'],
+    'abstract': d['abstract'],
+  }, data), key = lambda d: d['id'])
+
+def add_ids(data):
+  for i,d in enumerate(data):
+    d['id'] = i
+    
+  return data
 
 with open(papers_path, 'w+', encoding = 'utf-8') as f:
+  data = add_ids(data)
   json.dump(clean_data(data), f, indent = 2)
