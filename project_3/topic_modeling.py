@@ -15,7 +15,7 @@ def create_dir(path):
   if not os.path.isdir(path):
     os.makedirs(path)
 
-def compute_lda_model(path, data, num_topics=3, passes=100):
+def compute_lda_model(path, data, num_topics = 3, passes = 100):
   create_dir(path)
 
   dictionary = corpora.Dictionary(data)
@@ -24,7 +24,7 @@ def compute_lda_model(path, data, num_topics=3, passes=100):
   pickle.dump(doc_term_matrix, open(f'{path}/corpus.pkl', 'wb'))
   dictionary.save(f'{path}/dictionary.gensim')
 
-  lda_model = LdaModel(doc_term_matrix, num_topics=num_topics, id2word=dictionary, passes=passes)
+  lda_model = LdaModel(doc_term_matrix, num_topics = num_topics, id2word = dictionary, passes = passes)
   lda_model.save(f'{path}/model.gensim')
 
 
@@ -33,6 +33,6 @@ def display_lda_model(path, num_terms=10):
   corpus = pickle.load(open(f'{path}/corpus.pkl', 'rb'))
 
   lda = LdaModel.load(f'{path}/model.gensim')
-  lda_display = pyLDAvis.gensim.prepare(lda, corpus, dictionary, R=num_terms)
+  lda_display = pyLDAvis.gensim.prepare(lda, corpus, dictionary, R = num_terms)
 
   return lda_display
