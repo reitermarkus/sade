@@ -9,6 +9,7 @@ from nltk.tokenize import word_tokenize
 import string
 
 stop = set(stopwords.words('english'))
+stop = stop.union(['using', 'based', 'domain', 'specific', 'language'])
 exclude = set(string.punctuation)
 lemma = WordNetLemmatizer()
 
