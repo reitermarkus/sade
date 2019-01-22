@@ -27,7 +27,6 @@ def compute_lda_model(path, data, num_topics = 3, passes = 100):
   lda_model = LdaModel(doc_term_matrix, num_topics = num_topics, id2word = dictionary, passes = passes)
   lda_model.save(f'{path}/model.gensim')
 
-
 def display_lda_model(path, num_terms=10):
   dictionary = gensim.corpora.Dictionary.load(f'{path}/dictionary.gensim')
   corpus = pickle.load(open(f'{path}/corpus.pkl', 'rb'))
