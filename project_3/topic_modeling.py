@@ -1,51 +1,22 @@
+import os
+
 import numpy as np
 import gensim
 import pickle
 import pyLDAvis
 import pyLDAvis.gensim
 
-from common import clean, oe_questions, stemmer
 from gensim import corpora
 from gensim.models.ldamodel import LdaModel
 
 import pandas as pd
 
-survey_df = pd.read_csv("../survey-analysis/data/MSD Survey.csv")
-
-
 def create_dir(path):
-  import os
-
-  if not os.path.exists(f'{path}'):
-    try:
-      os.makedirs(f'{path}')
-      return f'{path}'
-    except OSError as e:
-      print(e)
-      exit()
-
-  return f'{path}'
-
-
-def plot_ce_question_stats(question):
-  from plotly.offline import init_notebook_mode, iplot
-  init_notebook_mode(connected=True)
-
-  labels = survey_df[question].value_counts().reset_index().values[:, 0]
-  values = survey_df[question].value_counts().reset_index().values[:, 1]
-
-  iplot({
-      "data": [{
-        "values": values,
-        "labels": labels,
-        "type": "pie"
-        }],
-      "layout": {"title": question}
-  })
-
+  if not os.path.isdir(path):
+    os.makedirs(path)
 
 def compute_lda_model(path, data, num_topics=3, passes=100):
-  path = create_dir(path)
+  create_dir(path)
 
   dictionary = corpora.Dictionary(data)
   doc_term_matrix = [dictionary.doc2bow(d) for d in data]
@@ -65,10 +36,3 @@ def display_lda_model(path, num_terms=10):
   lda_display = pyLDAvis.gensim.prepare(lda, corpus, dictionary, R=num_terms)
 
   return lda_display
-
-
-def survey_topic_modeling():
-  for i in oe_questions:
-    clean_text = []
-    [clean_text.append(clean(answ).split()) for answ in survey_df[oe_questions[i]] if answ is not np.nan]
-    compute_lda_model(f'./data/open-ended/{i}', clean_text)

@@ -1,33 +1,15 @@
 import warnings
 warnings.filterwarnings('ignore')
 
+import numpy as np
+
 import pandas as pd
+
 import pyLDAvis
 import pyLDAvis.gensim
-import string
 
-from nltk.corpus import opinion_lexicon, stopwords, sentiwordnet as swn
-from nltk.stem import PorterStemmer
-from nltk.stem.wordnet import WordNetLemmatizer
-
-pyLDAvis.enable_notebook()
-
-
-stemmer = PorterStemmer()
-
-def clean(text):
-  # Remove stopwords and punctuation, lemmatize words
-  stop = set(stopwords.words('english'))
-  exclude = set(string.punctuation)
-  lemma = WordNetLemmatizer()
-
-  text = stemmer.stem(text)
-  no_stop = ' '.join([i for i in text.lower().split() if i not in stop])
-  no_punc = ''.join(ch for ch in no_stop if ch not in exclude)
-  cleaned = ' '.join(lemma.lemmatize(word) for word in no_punc.split())
-
-  return cleaned
-
+from normalize import clean
+from topic_modeling import compute_lda_model
 
 ce_questions = {
   0: "Since how many semesters have you been studying?",
@@ -60,3 +42,26 @@ oe_questions = {
   9: "How do you agree with the  following statement: The topics taught in the lecture can be applied in various application areas",
   10: "What would you suggest for the improvement of the lecture?"
 }
+
+survey_df = pd.read_csv('data/MSD Survey.csv')
+
+def plot_ce_question_stats(question):
+  from plotly.offline import init_notebook_mode, iplot
+  init_notebook_mode(connected=True)
+
+  labels = survey_df[question].value_counts().reset_index().values[:, 0]
+  values = survey_df[question].value_counts().reset_index().values[:, 1]
+
+  iplot({
+      "data": [{
+        "values": values,
+        "labels": labels,
+        "type": "pie"
+        }],
+      "layout": {"title": question}
+  })
+
+def survey_topic_modeling():
+  for i in oe_questions:
+    clean_text = [clean(answ) for answ in survey_df[oe_questions[i]] if answ is not np.nan]
+    compute_lda_model(f'./data/open-ended/{i}', clean_text)

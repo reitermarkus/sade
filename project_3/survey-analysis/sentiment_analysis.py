@@ -1,15 +1,16 @@
 import numpy as np
 import json
 
-from common import oe_questions, stemmer, opinion_lexicon, clean
-from nltk.tokenize import word_tokenize
+from normalize import lemma, clean
+from common import oe_questions
 
+from nltk.corpus import opinion_lexicon
 
 positive_vocab = ['interesting', 'informative', 'satisfied', 'learned', 'good', 'nice', 'great', 'awesome', 'well', 'fantastic', 'enjoy', 'agree']
 negative_vocab = ['difficult', 'bad', 'terrible', 'useless', 'hate', 'long', 'boring']
 
-positive_vocab = [stemmer.stem(i) for i in positive_vocab]
-negative_vocab = [stemmer.stem(i) for i in negative_vocab]
+positive_vocab = [lemma.lemmatize(i) for i in positive_vocab]
+negative_vocab = [lemma.lemmatize(i) for i in negative_vocab]
 
 positive_words = set(opinion_lexicon.positive()).union(positive_vocab)
 negative_words = set(opinion_lexicon.negative()).union(negative_vocab)
@@ -27,7 +28,7 @@ def sentiment_of(text):
   if not text.endswith('.'):
     text += '.'
 
-  tokenized = word_tokenize(clean(text))
+  tokenized = clean(text)
   total = len(tokenized)
 
   pos = 0

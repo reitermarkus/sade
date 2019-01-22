@@ -10,48 +10,48 @@
     "negative": 0.0
   },
   "Why did you choose the lecture MSD? ": {
-    "positive": 0.1791,
-    "neutral": 0.801,
-    "negative": 0.0199
+    "positive": 0.1345,
+    "neutral": 0.8458,
+    "negative": 0.0197
   },
   "What did you miss in the lecture? ": {
-    "positive": 0.0101,
-    "neutral": 0.3348,
+    "positive": 0.0088,
+    "neutral": 0.3361,
     "negative": 0.0
   },
   "Reflect on the repository mining project (topic selection, were your expectations fulfilled, learnings, etc.)": {
-    "positive": 0.1919,
-    "neutral": 0.7629,
-    "negative": 0.0452
+    "positive": 0.1646,
+    "neutral": 0.7963,
+    "negative": 0.0391
   },
   "Why do you think that the weekly exercise sheets were a good preparation for the projects or not?": {
-    "positive": 0.1246,
-    "neutral": 0.8594,
-    "negative": 0.016
+    "positive": 0.1232,
+    "neutral": 0.8617,
+    "negative": 0.0151
   },
   "What kind of extra material did you use to solve the weekly homeworks and the project?": {
-    "positive": 0.0127,
-    "neutral": 0.9857,
+    "positive": 0.0131,
+    "neutral": 0.9854,
     "negative": 0.0016
   },
   "What did you like in the course?": {
-    "positive": 0.1225,
-    "neutral": 0.8553,
-    "negative": 0.0221
+    "positive": 0.1242,
+    "neutral": 0.8549,
+    "negative": 0.0209
   },
   "What did you not like in the course?": {
-    "positive": 0.0293,
-    "neutral": 0.9407,
-    "negative": 0.0299
+    "positive": 0.0261,
+    "neutral": 0.947,
+    "negative": 0.0269
   },
   "How do you agree with the  following statement: The topics taught in the lecture can be applied in various application areas": {
-    "positive": 0.0698,
-    "neutral": 0.9302,
+    "positive": 0.2592,
+    "neutral": 0.7408,
     "negative": 0.0
   },
   "What would you suggest for the improvement of the lecture?": {
-    "positive": 0.0199,
-    "neutral": 0.5469,
-    "negative": 0.0194
+    "positive": 0.0207,
+    "neutral": 0.5463,
+    "negative": 0.0193
   }
 }
